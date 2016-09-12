@@ -57,3 +57,15 @@ social:
 markdown: kramdown
 #sass:
 #  style: compressed
+
+defaults:
+  - scope:
+      path: _posts
+      type: blog
+    values:
+      layout: page
+  - scope:
+      path: _pages
+      type: page
+    values:
+      layout: page
