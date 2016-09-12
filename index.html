@@ -3,70 +3,79 @@ layout: landing
 
 permalink: /
 ---
-				<!-- Banner -->
-					<section id="banner">
-						<div class="inner">
-							<h2>{{ site.title }}</h2>
-							<p>{{ site.description | markdownify }}</p>
-							<ul class="actions">
-								<li><a href="#" class="button special">Subscribe</a></li>
-							</ul>
-						</div>
-						<a href="#one" class="more scrolly">Learn More</a>
-					</section>
+<!-- Banner -->
+    <section id="banner">
+        <div class="inner">
+            <h2>{{ site.title }}</h2>
+            <p>{{ site.description | markdownify }}</p>
+            <ul class="actions">
+                <li><a href="#" class="button special">Subscribe</a></li>
+            </ul>
+        </div>
+        <a href="#one" class="more scrolly">Learn More</a>
+    </section>
 
-				<!-- One -->
-					<section id="one" class="wrapper style1 special">
-						<div class="inner">
-							<header class="major">
-								<h2>Arcu aliquet vel lobortis ata nisl<br />
-								eget augue amet aliquet nisl cep donec</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
-								fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
-							</header>
-							<ul class="icons major">
-								<li><span class="icon fa-diamond major style1"><span class="label">Lorem</span></span></li>
-								<li><span class="icon fa-heart-o major style2"><span class="label">Ipsum</span></span></li>
-								<li><span class="icon fa-code major style3"><span class="label">Dolor</span></span></li>
-							</ul>
-						</div>
-					</section>
+<!-- About Us Preview -->
+    {% include about-us-preview.html %}
 
-				<!-- Two -->
-					<section id="two" class="wrapper alt style2">
-						<section class="spotlight">
-							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
-								<h2>Magna primis lobortis<br />
-								sed ullamcorper</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
-							</div>
-						</section>
-						<section class="spotlight">
-							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
-								<h2>Tortor dolore feugiat<br />
-								elementum magna</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
-							</div>
-						</section>
-						<section class="spotlight">
-							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
-								<h2>Augue eleifend aliquet<br />
-								sed condimentum</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
-							</div>
-						</section>
-					</section>
+<!-- Latest Blog Postd Section -->
+    
+<section id="latest blog posts" class="wrapper alt style2">
+    {% assign blog = site.categories[page.feature-blog.category] | where:"blog", true %}
+    
+    {% for post in blog limit:9 %}
+        
+        <section class="spotlight">
+            <div class="image"><img src="{{ site.url }}/images/{{ post.image.teaser }}" alt="" /></div>
+            <div class="content">
+                <h2>Magna primis lobortis<br />
+                sed ullamcorper</h2>
+                <p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+            </div>
+        </section>
+        <section class="spotlight">
+            <div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
+                <h2>Tortor dolore feugiat<br />
+                elementum magna</h2>
+                <p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+            </div>
+        </section>
+        <section class="spotlight">
+            <div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
+                <h2>Augue eleifend aliquet<br />
+                sed condimentum</h2>
+                <p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+            </div>
+        </section>
+    
+<!---
+ <article class="tile__item">
+    <meta itemprop="text" content="{{ post.excerpt | strip_html }}">
 
-				<!-- CTA -->
-					<section id="cta" class="wrapper style4">
-						<div class="inner">
-							<header>
-								<h2>Arcue ut vel commodo</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.</p>
-							</header>
-							<ul class="actions vertical">
-								<li><a href="#" class="button fit special">Activate</a></li>
-								<li><a href="#" class="button fit">Learn More</a></li>
-							</ul>
-						</div>
-					</section>
+      <a href="{{ site.url }}{{ post.url }}">
+
+        <img src="{{ site.url }}/images/Teaser - 1080x700/{{ post.image.teaser }}" itemprop="image" alt="{{ post.title }}">
+
+        <h3 class="tile__header__gray">{{ post.subtitle }}</h3>
+
+        <h3 class="tile__title" itemprop="headline">{{ post.title }}</h3>
+
+              <div class="archive__item-meta">
+                <span class="date published" itemprop="datePublished">
+                    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">
+                    {{ post.date | date: "%B %d, %Y" }}
+                    </time>
+                </span>
+              </div>
+
+        <p class="excerpt__text">{{ post.excerpt }}</p>    
+
+      </a>
+
+  </article>
+-->
+
+    {% endfor %}
+</section>
+
+{% include subscribe.html %}
