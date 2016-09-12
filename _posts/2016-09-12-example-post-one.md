@@ -11,11 +11,12 @@ excerpt: "Text here. Text here. Text here. Text here. Text here. Text here. Text
 
 image:
   feature: 
-  teaser: 
+  teaser: filler-one.jpg
+  alt: 
 
 category: blog
 
-tags: [jekyll, ruby, sass, web development, html, notes]
+tags: [item1, item2]
 ---
 
 <h3>Lorem ipsum dolor</h3>
