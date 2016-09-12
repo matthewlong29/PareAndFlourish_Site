@@ -4,10 +4,10 @@
 # Site settings
 title: Pare and Flourish
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
+  Another short description for a website  
+  I absolutely hate writing these..
+  skylar, you're up.
+owner: Pare and Flourish # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -63,9 +63,9 @@ defaults:
       path: _posts
       type: blog
     values:
-      layout: page
+      layout: pages
   - scope:
       path: _pages
-      type: page
+      type: pages
     values:
-      layout: page
+      layout: pages
