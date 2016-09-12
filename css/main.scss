@@ -71,6 +71,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
+/* links */
 	a {
 		@include vendor('transition', ('color #{_duration(transitions)} ease', 'border-bottom-color #{_duration(transitions)} ease'));
 		border-bottom: dotted 1px;
@@ -82,6 +83,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
+/* text */
 	strong, b {
 		color: _palette(fg-bold);
 		font-weight: _font(weight-bold);
@@ -208,6 +210,8 @@ $baseurl: '{{ site.baseurl }}/images';
 	.align-right {
 		text-align: right;
 	}
+
+/* Paddings and Margins */
 
 /* Section/Article */
 

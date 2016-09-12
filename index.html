@@ -24,11 +24,13 @@ permalink: /
     {% for post in site.categories.blog limit:9 %}
     
         <section class="spotlight">
-            <div class="image"><img src="{{ site.url }}/images/teasers - 1080x600/{{ post.image.teaser }}" alt="{{ post.image.alt }}" /></div>
-            <div class="content">
-                <h2>{{ post.title }}</h2>
-                <p>{{ post.excerpt }}</p>
-            </div>
+                <div class="image">
+                    <img src="{{ site.url }}/images/teasers - 1080x600/{{ post.image.teaser }}" alt="{{ post.image.alt }}" />
+                </div>
+                <div class="content">
+                    <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+                    <p>{{ post.excerpt }}</p>
+                </div>
         </section>
         
     {% endfor %}
