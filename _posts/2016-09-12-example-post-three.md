@@ -1,7 +1,7 @@
 ---
 layout: pages
 
-title: "Blog Title"
+title: "Blog Post Title"
 
 subtitle: ""
 
