@@ -22,7 +22,6 @@ permalink: /
     
 <section id="latest blog posts" class="wrapper alt style2">
     {% for post in site.categories.blog limit:9 %}
-
             <section class="spotlight">
                 <div class="image">
                     <img src="{{ site.url }}/images/teasers - 1080x600/{{ post.image.teaser }}" alt="{{ post.image.alt }}" />
@@ -33,7 +32,6 @@ permalink: /
                     <p>{{ post.excerpt }}</p>
                 </div>
             </section>
-
     {% endfor %}
 </section>
 
