@@ -18,12 +18,12 @@ permalink: /
 <!-- About Us Preview -->
     {% include about-us-preview.html %}
 
-<!-- Latest Blog Postd Section -->
+<!-- Latest Blog Post Section -->
     
 <section id="latest blog posts" class="wrapper alt style2">
     {% for post in site.categories.blog limit:9 %}
-    
-        <section class="spotlight">
+
+            <section class="spotlight">
                 <div class="image">
                     <img src="{{ site.url }}/images/teasers - 1080x600/{{ post.image.teaser }}" alt="{{ post.image.alt }}" />
                 </div>
@@ -32,8 +32,8 @@ permalink: /
                     <h4 class="small-b">{{ post.modified }}</h4>
                     <p>{{ post.excerpt }}</p>
                 </div>
-        </section>
-        
+            </section>
+
     {% endfor %}
 </section>
 
