@@ -2,8 +2,7 @@
 
 #Site settings
 title: Pare and Flourish
-description: |
-  Another short description for a website I absolutely hate writing these.. skylar, you're up.
+description: Another short description for a website I absolutely hate writing these.. skylar, you're up.
 owner: Pare and Flourish #Company name.
 first_published: 2016 
 email: your-email@domain.com
@@ -14,46 +13,13 @@ social:
   github: https://github.com/<username>
   linkedin-square: https://linkedin.com/in/<username>
   facebook-official: https://facebook.com/<username>
-  #email: /contact/
-  #flickr:
-  #instagram:
-  #youtube-square:
-  #spotify:
-  #stack-overflow:
-  #vimeo:
-  #reddit:
-  #stubleupon:
-  #delicious:
-  #pied-piper:
-  #digg:
-  #soundcloud:
-  #deviantart:
-  #angellist:
-  #tumblr-square:
-  #stackexchange:
-  #weibo:
-  #trello:
-  #foursquare:
-  #linux:
-  #bitbucket-square:
-  #vk:
-  #slack:
-  #vine:
-  #weixin:
-  #yelp:
-  #skyatlas:
-  #leanpub:
-  #connectdevelop:
-  #ils:
-  #forumbee:
-  #tripadvisor:
-  #amazon:
 
 # Build settings
 markdown: kramdown
 #sass:
 #  style: compressed
 
+# Navigation
 defaults:
   - scope:
       path: _posts
