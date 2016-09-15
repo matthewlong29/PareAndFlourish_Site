@@ -1,23 +1,19 @@
-# Welcome to Jekyll!
-#
+#Welcome to Jekyll!
 
-# Site settings
+#Site settings
 title: Pare and Flourish
 description: |
-  Another short description for a website  
-  I absolutely hate writing these..
-  skylar, you're up.
-owner: Pare and Flourish # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
+  Another short description for a website I absolutely hate writing these.. skylar, you're up.
+owner: Pare and Flourish #Company name.
+first_published: 2016 
 email: your-email@domain.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: ""
+url: ""
 social:
   twitter: https://twitter.com/<username>
   github: https://github.com/<username>
   linkedin-square: https://linkedin.com/in/<username>
   facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
   #instagram:
