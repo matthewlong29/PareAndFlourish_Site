@@ -1,13 +1,13 @@
-<section id="three" class="wrapper style4 special">
-    <div class="inner">
-        <header class="major">
+<section id="blog-tiles-one" class="">
+    <div class="">
+        <header class="">
             <h2>Accumsan mus tortor nunc aliquet</h2>
             <p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
             fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
         </header>
         
         {% for post in site.categories.blog limit:9 %}
-            <ul class="features">
+            <ul class="">
                 <li>
                     <img src="{{ site.url }}/images/teasers - 1080x600/{{ post.image.teaser }}" alt="{{ post.image.alt }}" />
                     <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>

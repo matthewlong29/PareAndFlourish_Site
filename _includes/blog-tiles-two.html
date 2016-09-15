@@ -1,12 +1,12 @@
-<section id="latest blog posts" class="wrapper alt style4">
+<section id="blog-tiles-two" class="">
     {% for post in site.categories.blog limit:9 %}
-            <section class="spotlight">
-                <div class="image">
+            <section class="">
+                <div class="">
                     <img src="{{ site.url }}/images/teasers - 1080x600/{{ post.image.teaser }}" alt="{{ post.image.alt }}" />
                 </div>
-                <div class="content">
+                <div class="">
                     <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
-                    <h4 class="small-b">{{ post.modified }}</h4>
+                    <h4 class="">{{ post.modified }}</h4>
                     <p>{{ post.excerpt }}</p>
                 </div>
             </section>

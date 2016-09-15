@@ -1,6 +1,5 @@
-<!-- Footer -->
 <footer id="footer">
-  <ul class="icons">
+  <ul class="">
     {% for socloc in site.social %}
     {% if socloc[1] %}
     {% if socloc[0] == 'email' %}
@@ -13,7 +12,7 @@
     {% endif %}
     {% endfor %}
   </ul>
-  <ul class="copyright">
+  <ul class="">
     <li>&copy; {% assign thisyear = site.time | date: "%Y" %}
     {% if site.first_published %}
       {% capture diff %}{{ site.first_published | minus:thisyear }}{% endcapture %}
