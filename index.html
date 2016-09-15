@@ -3,36 +3,21 @@ layout: landing
 
 permalink: /
 ---
-<!-- Banner -->
-    <section id="banner">
-        <div class="inner">
-            <h2>{{ site.title }}</h2>
-            <p>{{ site.description | markdownify }}</p>
-            <ul class="actions">
-                <li><a href="#" class="button special">Subscribe</a></li>
-            </ul>
-        </div>
-        <a href="#one" class="more scrolly">Learn More</a>
-    </section>
 
-<!-- About Us Preview -->
-    {% include about-us-preview.html %}
+<!-- Banner Section -->
+
+{% include banner.html %}
+
+<!-- About Us Preview Section -->
+
+{% include about-us-preview.html %}
 
 <!-- Latest Blog Post Section -->
     
-<section id="latest blog posts" class="wrapper alt style4">
-    {% for post in site.categories.blog limit:9 %}
-            <section class="spotlight">
-                <div class="image">
-                    <img src="{{ site.url }}/images/teasers - 1080x600/{{ post.image.teaser }}" alt="{{ post.image.alt }}" />
-                </div>
-                <div class="content">
-                    <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
-                    <h4 class="small-b">{{ post.modified }}</h4>
-                    <p>{{ post.excerpt }}</p>
-                </div>
-            </section>
-    {% endfor %}
-</section>
+{% include blog-tiles-one.html %}
+
+{% include blog-tiles-two.html %}
+
+<!-- Latest Blog Post Section -->
 
 {% include subscribe.html %}
