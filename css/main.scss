@@ -3,18 +3,45 @@
 ---
 // Main -- Body
 
-// Headings
-
 // Text
 
-// Links
+
+
+/// Headings
+
+/// Links
 
 // Lists
+
+// Tables
 
 // Horizontal Rules
 
 // Colors
 
+.white {
+    color: white;
+}
+
+.red {
+    color: red;
+}
+
 // Images
+
+/// Background Images
+
+.bg-image-banner {
+    background-image: url('../images/feature.png');
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+// Sections
+
+/// Banner -- Front
+
 
 // Bootstrap Overrides
