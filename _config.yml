@@ -14,11 +14,13 @@ social:
   linkedin-square: https://linkedin.com/in/<username>
   facebook-official: https://facebook.com/<username>
 
-Authors:
+Team:
   Katie:
     Description:
   Skylar:
-    Description
+    Description:
+  Matthew:
+    Description:
 
 # Build settings
 markdown: kramdown
