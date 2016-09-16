@@ -14,6 +14,12 @@ social:
   linkedin-square: https://linkedin.com/in/<username>
   facebook-official: https://facebook.com/<username>
 
+Authors:
+  Katie:
+    Description:
+  Skylar:
+    Description
+
 # Build settings
 markdown: kramdown
 #sass:
