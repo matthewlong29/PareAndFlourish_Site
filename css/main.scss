@@ -1,15 +1,68 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-// Main -- Body
+// Main -- Variables
+
+$theme-red: #cc3333;
+
+$theme-blue1: #21b2a6;
+$theme-blue2: #0000ff;
+
+$theme-gray: #6F7176;
+
+$theme-white: #fdfdfd;
+
+$theme-black: #000000;
 
 // Text
 
-
+p {
+    font: sans-serif-font;
+    font-size: 12px;
+}
 
 /// Headings
 
+//// Heading Fonts, Colors, Etc. 
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font: sans-serif-font;
+    color: $theme-white;
+}
+
+//// Heading Sizes
+
+h1 {
+    font-size: 22px;
+}
+h2 {
+    font-size: 20px;
+}
+h3 {
+    font-size: 18px;
+}
+h4 {
+    font-size: 16px;
+}
+h5 {
+    font-size: 14px;
+}
+h6 {
+    font-size: 12px;
+}
+
 /// Links
+
+a {
+    font: sans-serif-font;
+    color: $theme-white;
+    font-size: 12px;
+}
 
 // Lists
 
@@ -17,31 +70,88 @@
 
 // Horizontal Rules
 
-// Colors
-
-.white {
-    color: white;
-}
-
-.red {
-    color: red;
-}
-
 // Images
-
-/// Background Images
-
-.bg-image-banner {
-    background-image: url('../images/feature.png');
-    background-repeat: repeat-y;
-    background-size: cover;
-    background-position: center;
-    height: 100vh;
-}
 
 // Sections
 
 /// Banner -- Front
 
+.banner-front {
+    background-image: url('../images/feature.png');
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    text-align: center;
+    text-transform: uppercase;
+    color: $theme-white;
+    line-height: 1.65em;
+    .transparent-layer {
+        background-color: rgba(0, 0, 0, 0.35);
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+    .banner-content {
+        h2 {
+            font-size: 3.25em;
+            padding: 2em 1em;
+            font-weight: 800;
+            letter-spacing: 0.225em;
+        }
+        p {
+            font-size: 1.5em;
+            margin: 2em;
+        }
+        a {
+            font-size: 1.5em;
+            &:hover,
+            &:focus {
+                color: $theme-blue1;
+                text-decoration: none;
+            }
+            
+        }
+    }
+}
+
+/// About Us Preview
+
+.about-preview {
+    min-height: 33.3vh;
+    background-color: $theme-blue1;
+    width: 100%;
+    text-align: center;
+    .about-content {
+        
+    }
+}
+
+/// Blog Section -- Vertical Tiles (option one)
+
+.blog-vtiles {
+    min-height: 33.3vh;
+    background-color: $theme-gray;
+    width: 100%;
+    text-align: center;
+    .blog-content {
+        
+    }
+}
+
+
+/// Blog Section -- Horizontal Tiles (option two)
+
+.blog-htiles {
+    min-height: 33.3vh;
+    background-color: $theme-gray;
+    width: 100%;
+    text-align: center;
+    .blog-content {
+        
+    }
+}
 
 // Bootstrap Overrides
