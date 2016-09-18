@@ -3,12 +3,15 @@
 ---
 // Main -- Variables
 
-$theme-red: #cc3333;
+$theme-red: #ed4933;
 
 $theme-blue1: #21b2a6;
-$theme-blue2: #0000ff;
+$theme-blue2: #c8ece9;
+$theme-blue3: #2e3842;
 
-$theme-gray: #6F7176;
+$theme-yellow: #a68627;
+
+$theme-gray: #2e3842;
 
 $theme-white: #fdfdfd;
 
@@ -18,7 +21,8 @@ $theme-black: #000000;
 
 p {
     font: sans-serif-font;
-    font-size: 12px;
+    font-size: 16px;
+    color: $theme-white;
 }
 
 /// Headings
@@ -64,13 +68,43 @@ a {
     font-size: 12px;
 }
 
+.sub-button {
+    display: block;
+    margin: 1.5em auto;
+    max-width: 200px;
+    padding: 15px 25px;
+    border: 2px solid #FFF;
+    background: transparent;
+    color: #FFF;
+    font-size: .9em;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all .4s
+}
+    .dev:hover,
+    .dev:focus {
+        background: rgba(0,0,0,.2);
+    }
+
+
 // Lists
 
 // Tables
 
 // Horizontal Rules
 
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 2.5px solid $theme-blue3;
+    margin: 1em 0;
+    padding: 0; 
+}
+
 // Images
+
+/// Rhombus Transformation
 
 // Sections
 
@@ -124,8 +158,19 @@ a {
     background-color: $theme-blue1;
     width: 100%;
     text-align: center;
+    padding: 5%;
     .about-content {
-        
+        h3 {
+            font-size: 2em;
+            font-weight: 500;
+            letter-spacing: 0.125em;
+        }
+        p {
+            color: $theme-blue2;
+        }
+        img {
+            max-height: 180px;
+        }
     }
 }
 
@@ -136,6 +181,7 @@ a {
     background-color: $theme-gray;
     width: 100%;
     text-align: center;
+    padding: 5%;
     .blog-content {
         
     }
