@@ -1,9 +1,13 @@
 <section id="blog-tiles-two" class="">
     <div class="blog-vtiles">
         <div class="container">
+            
+            <h1>Option Two</h1>
+            <hr>
+            
             {% for post in site.categories.blog limit:9 %}
 
-                <div class="col-md-4">
+                <div class="col-lg-3 col-md-4 col-sm-6">
                     <a href="{{ site.url }}{{ post.url }}">
                         <div class="">
                             <img src="{{ site.url }}/images/teasers - 1080x600/{{ post.image.teaser }}" class="img-responsive" alt="{{ post.image.alt }}" />
@@ -17,6 +21,7 @@
                 </div>
 
             {% endfor %}
+            
         </div>
     </div>
 </section>
