@@ -1,21 +1,24 @@
 <footer id="footer">
+    <div class="footer-section">
     <div class="container">
-
-        <div class="container">
-            <div class="col-lg-4">&copy; {% assign thisyear = site.time | date: "%Y" %}
-            {% if site.first_published %}
-              {% capture diff %}{{ site.first_published | minus:thisyear }}{% endcapture %}
-              {% if diff contains '-' %}{{ site.first_published }},{% endif %}
-            {% endif %}
-            {{ thisyear }}
-            {% if site.owner %}{{ site.owner }}{% else %}{{ site.title }}{% endif %}
-            </div>
-            <div class="col-lg-4">
-                <p>Design: <a href="#">HTML5 UP</a></p>
-            </div>
-            <div class="col-lg-4">
-                <p>Built with: <a href="http://jekyllrb.com" target="_blank">Jekyll</a></p>
-            </div>
-            </ul>
+        
+        <div class="col-lg-4">&copy; {% assign thisyear = site.time | date: "%Y" %}
+        {% if site.first_published %}
+          {% capture diff %}{{ site.first_published | minus:thisyear }}{% endcapture %}
+          {% if diff contains '-' %}{{ site.first_published }},{% endif %}
+        {% endif %}
+        {{ thisyear }}
+        {% if site.owner %}{{ site.owner }}{% else %}{{ site.title }}{% endif %}
         </div>
+
+        <div class="col-lg-4">
+            <p>Design: <a href="#">HTML5 UP</a></p>
+        </div>
+
+        <div class="col-lg-4">
+            <p>Built with: <a href="http://jekyllrb.com" target="_blank">Jekyll</a></p>
+        </div>
+        
+    </div>
+    </div>
 </footer>
