@@ -3,19 +3,16 @@
         <div class="container">
 
             <h1>Option One</h1>
+            <hr>
             
             {% for post in site.categories.blog limit:9 %}
 
-                <div class="col-lg-3 col-md-4 col-sm-6 blog-content">
+                <div class="col-lg-3 col-md-6 col-sm-6 blog-content">
                     <a href="{{ site.url }}{{ post.url }}">
-                        <div class="">
-                            <img src="{{ site.url }}/images/teasers - 1080x600/{{ post.image.teaser }}" class="img-responsive" alt="{{ post.image.alt }}" />
-                        </div>
-                        <div class="">
-                            <h2>{{ post.title }}</h2>
-                            <h4 class="">{{ post.modified }}</h4>
-                            <p>{{ post.excerpt }}</p>
-                        </div>
+                        <img src="{{ site.url }}/images/teasers - 1080x600/{{ post.image.teaser }}" class="img-responsive" alt="{{ post.image.alt }}" />
+                        <h2>{{ post.title }}</h2>
+                        <h4>{{ post.modified }}</h4>
+                        <p>{{ post.excerpt }}</p>
                     </a>
                 </div>
 
