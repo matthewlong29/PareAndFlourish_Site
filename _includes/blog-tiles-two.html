@@ -1,27 +1,20 @@
 <section id="blog-tiles-two" class="">
     <div class="blog-vtiles">
-        <div class="container">
-            
-            <h1>Option Two</h1>
-            <hr>
-            
-            {% for post in site.categories.blog limit:9 %}
-
-                <div class="col-lg-3 col-md-4 col-sm-6">
-                    <a href="{{ site.url }}{{ post.url }}">
-                        <div class="">
-                            <img src="{{ site.url }}/images/teasers - 1080x600/{{ post.image.teaser }}" class="img-responsive" alt="{{ post.image.alt }}" />
-                        </div>
-                        <div class="">
-                            <h2>{{ post.title }}</h2>
-                            <h4 class="">{{ post.modified }}</h4>
-                            <p>{{ post.excerpt }}</p>
-                        </div>
-                    </a>
-                </div>
-
-            {% endfor %}
-            
-        </div>
+        <header class="">
+            <h2>Accumsan mus tortor nunc aliquet</h2>
+            <p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
+            fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
+        </header>
+        
+        {% for post in site.categories.blog limit:9 %}
+            <ul class="">
+                <li>
+                    <img src="{{ site.url }}/images/teasers - 1080x600/{{ post.image.teaser }}" alt="{{ post.image.alt }}" />
+                    <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+                    <h4 class="small-b">{{ post.modified }}</h4>
+                    <p>{{ post.excerpt }}</p>
+                </li> 
+            </ul>
+        {% endfor %}
     </div>
 </section>
