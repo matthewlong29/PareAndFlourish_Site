@@ -199,8 +199,17 @@ hr {
     background-color: $theme-gray;
     width: 100%;
     text-align: center;
+    padding: 5em;
     .blog-content {
-        
+        border: dashed 1px darken($theme-white, 50%);
+        padding: .5em;
+        margin: .25em;
+        cursor: pointer;
+        &:hover,
+        &:focus {
+            border: 1px solid $theme-white;
+            transition: 1s;
+        }
     }
 }
 
