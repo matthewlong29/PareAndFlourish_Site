@@ -31,7 +31,7 @@ $theme-black: #000000;
 
 p {
     font: sans-serif-font;
-    font-size: 16px;
+    font-size: 12px;
     color: $theme-white;
 }
 
@@ -106,7 +106,7 @@ a {
     &:focus {
         border: 3px solid lighten($theme-red, 7.5%);
         background-color: lighten($theme-red, 5%);
-        transition: 1s;
+        transition: .5s;
     }
 }
 
@@ -204,26 +204,51 @@ hr {
     }
 }
 
-/// Subscription Section
+/// Footer Section
 
-.sub-preview {
+.footer-section {
     background-image: url('../images/feature.png');
     background-size: cover;
     background-attachment: fixed;
-    min-height: 33.3vh;
-    padding: 5em;
+    text-align: center;
     h2 {
         font-size: 2em;
         font-weight: 800;
         letter-spacing: 0.225em;
     }
+    p {
+        font-size: 1.25em;
+        line-height: 1em;
+    }
+    a {
+        font-size: 1.25em;    
+        line-height: 1em;
+    }
 }
 
-/// Footer Section
+//// Subscription Section
 
-.footer-section {
+.sub-preview{
     min-height: 33.3vh;
+    padding: 5em;
+}
+
+/// Social Media Section
+
+.social-section {
+    min-height: 10vh;
     background-color: $theme-gray;
+    opacity: 0.9;
+    .icons {
+        padding: 5em 0 1.5em 0; // top right bottom left.. clockwise
+        color: darken($theme-white, 100%);
+    }
+    .text {
+        padding: 1.5em 0 5em 0; // top right bottom left.. clockwise
+    }
+        p { 
+            color: darken($theme-white, 25%);
+    }
 }
 
 // Bootstrap Overrides
