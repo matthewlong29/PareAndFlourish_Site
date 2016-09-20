@@ -181,7 +181,7 @@ hr {
 
 /// Blog Section -- Vertical Tiles (option one)
 
-.blog-vtiles {
+.blog-htiles {
     min-height: 33.3vh;
     background-color: $theme-gray;
     width: 100%;
@@ -194,12 +194,11 @@ hr {
 
 /// Blog Section -- Horizontal Tiles (option two)
 
-.blog-htiles {
+.blog-vtiles {
     min-height: 33.3vh;
     background-color: $theme-gray;
-    width: 100%;
     text-align: center;
-    padding: 5em;
+    padding: 5em 0 5em 0; // top right bottom left.. clockwise
     .blog-content {
         border: dashed 1px darken($theme-white, 50%);
         padding: .5em;
@@ -210,7 +209,38 @@ hr {
             border: 1px solid $theme-white;
             transition: 1s;
         }
+        h2 {
+            letter-spacing: 0.125em;
+            text-transform: capitalize;
+            font-weight: 600;
+            margin: 0;
+            padding: 0;
+        }
+        h4 {
+            color: darken($theme-white, 15%);
+            padding: 0;
+            margin: 0;
+        }
+        p {
+            color: darken($theme-white, 35%);
+            padding: .5em;
+            margin: .5em;
+        }
+        a {
+            text-decoration: none;
+            padding: 0;
+            margin: 0;
+        }
+        hr {
+            display: block;
+            height: 1px;
+            border: 0;
+            border-top: 2.5px solid darken($theme-white, 15%);
+            margin: .5em 0 .5em 0;
+            padding: 0; 
+        }
     }
+    
 }
 
 /// Footer Section
@@ -256,7 +286,7 @@ hr {
         padding: 1.5em 0 5em 0; // top right bottom left.. clockwise
     }
         p { 
-            color: darken($theme-white, 25%);
+            color: darken($theme-white, 35%);
     }
 }
 
