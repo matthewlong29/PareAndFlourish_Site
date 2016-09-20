@@ -1,19 +1,39 @@
-<section id="blog-tiles-one" class="">
-    <div class="blog-htiles">
+<section id="blog-tiles-one">
+    <div class="blog-vtiles">
         <div class="container">
 
             <h1>Option One</h1>
+            <p>I love the way these look. If you dont want these on front page, maybe a different page?</p>
             <hr>
             
-            {% for post in site.categories.blog limit:9 %}
+            {% for post in site.categories.blog limit:12 %}
 
-                <div class="col-lg-3 col-md-6 col-sm-6 blog-content">
-                    <a href="{{ site.url }}{{ post.url }}">
-                        <img src="{{ site.url }}/images/teasers - 1080x600/{{ post.image.teaser }}" class="img-responsive" alt="{{ post.image.alt }}" />
-                        <h2>{{ post.title }}</h2>
-                        <h4>{{ post.modified }}</h4>
-                        <p>{{ post.excerpt }}</p>
-                    </a>
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="blog-content">
+                        <a href="{{ site.url }}{{ post.url }}">
+                            
+                            <img src="{{ site.url }}/images/teasers - 1080x600/{{ post.image.teaser }}" class="img-responsive" alt="{{ post.image.alt }}" />
+                            
+                            <hr>
+                            
+                            <h2>{{ post.title }}</h2>
+                            
+                            <hr>
+                            
+                            {% if post.subtitle %}
+                                <h4>{{ post.subtitle }}</h4>
+                            {% endif %}                    
+                            
+                            {% if post.author %}
+                                <h4>Written by: {{ post.author }}</h4>
+                            {% endif %}
+                            
+                            <h4>Date Published: {{ post.modified }}</h4>
+                            
+                            <p>{{ post.excerpt }}</p>
+                            
+                        </a>
+                    </div>
                 </div>
 
             {% endfor %}
