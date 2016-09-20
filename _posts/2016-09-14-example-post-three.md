@@ -1,11 +1,13 @@
 ---
 layout: pages
 
-title: "Blog Post Title"
+title: "Even Longer Blog Post Title"
 
-subtitle: ""
+subtitle: 
 
 modified: 2016-09-14
+
+author: Skylar Wooden
 
 excerpt: "Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. "
 

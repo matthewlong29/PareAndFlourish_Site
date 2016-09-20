@@ -1,9 +1,9 @@
 ---
 layout: pages
 
-title: "Blog Post Title"
+title: "Blog Title"
 
-subtitle: ""
+subtitle: "Subtitle"
 
 modified: 2016-09-12
 

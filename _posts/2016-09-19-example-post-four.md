@@ -1,9 +1,9 @@
 ---
 layout: pages
 
-title: "Blog Post Title"
+title: "Longer Blog Post Title"
 
-subtitle: ""
+subtitle: 
 
 modified: 2016-09-19
 

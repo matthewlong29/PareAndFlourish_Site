@@ -3,7 +3,7 @@ layout: pages
 
 title: "Blog Post Title"
 
-subtitle: ""
+subtitle: 
 
 modified: 2016-09-13
 
