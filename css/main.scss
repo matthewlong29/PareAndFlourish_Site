@@ -19,6 +19,12 @@ $theme-white: #fdfdfd;
 
 $theme-black: #000000;
 
+/// Highlight Color
+
+::selection {
+    background: $theme-gray;
+}
+
 // Alignment / Margins / Paddings
 
 .vcenter {
@@ -282,10 +288,13 @@ hr {
     p {
         font-size: 1.25em;
         line-height: 1em;
+        color: darken($theme-white, 35%);
     }
     a {
-        font-size: 1.25em;    
+        font-size: 1em;    
         line-height: 1em;
+        text-decoration: none;
+        color: darken($theme-white, 35%);
     }
 }
 
@@ -294,8 +303,16 @@ hr {
 .sub-preview{
     min-height: 33.3vh;
     padding: 5em;
+    .text {
+        padding: 1.5em 0 5em 0; // top right bottom left.. clockwise
+        p { 
+            color: $theme-white;
+        }
+        a {
+            color: $theme-white;
+        }
+    }
 }
-
 /// Social Media Section
 
 .social-section {
@@ -308,9 +325,14 @@ hr {
     }
     .text {
         padding: 1.5em 0 5em 0; // top right bottom left.. clockwise
-    }
-        p { 
-            color: darken($theme-white, 35%);
+        a {
+            border-bottom: 1px dotted;
+            &:hover {
+                border-bottom: 0px;
+                color: $theme-white;
+                transition: 1s;
+            }
+        }
     }
 }
 
