@@ -1,9 +1,11 @@
 ---
-layout: pages
+layout: blog-posts
 
 title: "Longer Blog Post Title"
 
 subtitle: 
+
+permalink: /blog/blog-four
 
 modified: 2016-09-19
 

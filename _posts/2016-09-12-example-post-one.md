@@ -1,9 +1,11 @@
 ---
-layout: pages
+layout: blog-posts
 
 title: "Blog Title"
 
 subtitle: "Subtitle"
+
+permalink: /blog/blog-one
 
 modified: 2016-09-12
 

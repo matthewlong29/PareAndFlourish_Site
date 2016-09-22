@@ -133,6 +133,12 @@ hr {
 
 // Images
 
+.feature {
+    min-width: 80%;
+    max-height: 200px;
+    background-repeat: no-repeat;
+}
+
 // Sections
 
 /// Navigation
@@ -312,6 +318,17 @@ hr {
             }
         }
     }
+}
+
+// Blog Header Images
+
+.blog-header {
+    background-image: url('../images/feature.png');
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    min-height: 33.3vh;
+    padding: 5em;
 }
 
 // Bootstrap Overrides
