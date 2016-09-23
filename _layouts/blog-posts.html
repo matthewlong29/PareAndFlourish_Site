@@ -4,9 +4,7 @@ layout: default
 
 <body>
 
-    <div class="blog-header">
-        <h2></h2>
-    </div>    
+{% include blog-page-header.html %}
     
 <!--
 
@@ -20,7 +18,9 @@ layout: default
     
     <div class="container">
         
-        {{ content }}
+        <div class="small-padding">
+            {{ content }}
+        </div>
         
     </div>
     
