@@ -33,12 +33,16 @@ $theme-black: #000000;
     float: none;
 }
 
+.small-padding {
+    padding: 50px 0 50px 0;
+}
+
 // Text
 
 p {
     font: sans-serif-font;
     font-size: 12px;
-    color: $theme-white;
+    color: $theme-gray;
 }
 
 /// Headings
@@ -52,7 +56,7 @@ h4,
 h5,
 h6 {
     font: sans-serif-font;
-    color: $theme-white;
+    color: $theme-gray;
 }
 
 //// Heading Sizes
@@ -141,6 +145,15 @@ hr {
 
 // Sections
 
+// "red blanks"
+
+.blank {
+    height: 1vh;
+    background-color: $theme-red;
+    box-shadow: -2.5vw 0 2.5vw -1.25vw $theme-white inset,
+        2.5vw 0 2.5vw -1.25vw $theme-white inset;
+}
+
 /// Navigation
 
 /// Banner -- Front
@@ -150,6 +163,8 @@ hr {
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
+    box-shadow: -2.5vw 0 2.5vw -1.25vw $theme-white inset,
+        2.5vw 0 2.5vw -1.25vw $theme-white inset;
     min-height: 100vh;
     text-align: center;
     text-transform: uppercase;
@@ -157,16 +172,17 @@ hr {
     line-height: 1.65em;
     .banner-content {
         h2 {
+            color: $theme-white;
             font-size: 3.25em;
             padding: 2em 1em;
             font-weight: 800;
             letter-spacing: 0.225em;
         }
         p {
+            color: $theme-white;
             font-size: 1.5em;
             margin: 2em;
         }
-
     }
 }
 
@@ -180,6 +196,7 @@ hr {
     padding: 5%;
     .about-content {
         h3 {
+            color: $theme-white;
             font-size: 2em;
             font-weight: 500;
             letter-spacing: 0.125em;
@@ -202,7 +219,6 @@ hr {
     text-align: center;
     padding: 5%;
     .blog-content {
-        
     }
 }
 
@@ -210,20 +226,21 @@ hr {
 
 .blog-vtiles {
     min-height: 33.3vh;
-    background-color: $theme-gray;
+    background-color: $theme-white;
     text-align: center;
     padding: 5em 0 5em 0; // top right bottom left.. clockwise
     .blog-content {
-        border: dashed 1px darken($theme-white, 50%);
+        box-shadow: .5vw .5vh .5vw 0 $theme-gray;
         padding: .5em;
         margin: .25em;
         cursor: pointer;
         &:hover,
         &:focus {
-            border: 1px solid $theme-white;
-            transition: 1s;
+            box-shadow: .25vw .25vh .5vw 0 $theme-gray;
+            transition: .1s;
         }
         h2 {
+            color: darken($theme-gray, 35%);
             letter-spacing: 0.125em;
             text-transform: capitalize;
             font-weight: 600;
@@ -231,25 +248,27 @@ hr {
             padding: 0;
         }
         h4 {
-            color: darken($theme-white, 15%);
+            color: darken($theme-gray, 15%);
             padding: 0;
             margin: 0;
         }
         p {
-            color: darken($theme-white, 35%);
+            color: darken($theme-gray, 35%);
             padding: .5em;
             margin: .5em;
         }
         a {
+            color: darken($theme-gray, 35%);
             text-decoration: none;
             padding: 0;
             margin: 0;
         }
         hr {
+            color: darken($theme-gray, 35%);
             display: block;
             height: 1px;
             border: 0;
-            border-top: 2.5px solid darken($theme-white, 15%);
+            border-top: 2.5px solid darken($theme-gray, 15%);
             margin: .5em 0 .5em 0;
             padding: 0; 
         }
@@ -263,8 +282,11 @@ hr {
     background-image: url('../images/feature.png');
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: -2.5vw 0 2.5vw -1.25vw $theme-white inset,
+        2.5vw 0 2.5vw -1.25vw $theme-white inset;
     text-align: center;
     h2 {
+        color: $theme-white;
         font-size: 2em;
         font-weight: 800;
         letter-spacing: 0.225em;
@@ -282,9 +304,18 @@ hr {
     }
 }
 
+//// Top Border
+
+.blank {
+    height: 1vh;
+    background-color: $theme-red;
+    box-shadow: -2.5vw 0 2.5vw -1.25vw $theme-white inset,
+        2.5vw 0 2.5vw -1.25vw $theme-white inset;
+}
+
 //// Subscription Section
 
-.sub-preview{
+.sub-preview {
     min-height: 33.3vh;
     padding: 5em;
     .text {
@@ -297,11 +328,16 @@ hr {
         }
     }
 }
-/// Social Media Section
+
+//// Social Media Section
+
+
 
 .social-section {
     min-height: 10vh;
     background-color: $theme-gray;
+    box-shadow: -2.5vw 0 2.5vw -1.25vw $theme-white inset,
+        2.5vw 0 2.5vw -1.25vw $theme-white inset;
     opacity: 0.9;
     .icons {
         padding: 5em 0 1.5em 0; // top right bottom left.. clockwise
@@ -322,13 +358,24 @@ hr {
 
 // Blog Header Images
 
-.blog-header {
+.blog-page-header {
     background-image: url('../images/feature.png');
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: -2.5vw 0 2.5vw -1.25vw $theme-white inset,
+        2.5vw 0 2.5vw -1.25vw $theme-white inset;
     text-align: center;
     min-height: 33.3vh;
     padding: 5em;
+    .text {
+        padding: 1.5em 0 5em 0; // top right bottom left.. clockwise
+        h2 { 
+            color: $theme-white;
+        }
+        a {
+            color: $theme-white;
+        }
+    }
 }
 
 // Bootstrap Overrides
