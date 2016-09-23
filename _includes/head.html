@@ -1,9 +1,12 @@
 <head>
+    
     <meta charset="utf-8">
     
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    
+    <meta name="author" content="">
     
     <!-- the following turns off zooming for mobile devices -->
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"> -->
@@ -13,18 +16,13 @@
     
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="../css/bootstrap/bootstrap.css" type="text/css">
-    
-    <script src="http://getbootstrap.com/dist/js/bootstrap.js"></script>
-    
+        
     <!-- Bootstrap Plugins -->
     
     <!-- Latest compiled and minified jquery (requirement) -->
-    <script src="https://code.jquery.com/jquery-3.1.0.min.js"   integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="   crossorigin="anonymous"></script>
-    
-    <script src="http://code.jquery.com/jquery.min.js"></script>
+
     
     <!-- Javascript Plugins -->
-    <script src="https://raw.githubusercontent.com/louisremi/jquery.transition.js/master/jquery.transition.js"></script>
         
     <!-- Custom Fonts -->
     <!-- If custom fonts are used; they go here. -->
@@ -34,7 +32,9 @@
     
     <!-- Plugin CSS -->
     <!-- If plugins are used such as animations inset them here -->
+    <link rel="stylesheet" href="../css/plugins/animate.min.css" type="text/css">
     
     <!-- Custom CSS that overrides bootstrap and any other plugins-->
     <link rel="stylesheet" href="../css/main.css" type="text/css">
+    
 </head>
