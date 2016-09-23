@@ -375,6 +375,10 @@ hr {
     .icons {
         padding: 5em 0 1.5em 0; // top right bottom left.. clockwise
         color: darken($theme-white, 100%);
+        &:hover {
+            color: $theme-white;
+            transition: 1s;
+        }
     }
     .text {
         padding: 1.5em 0 5em 0; // top right bottom left.. clockwise
