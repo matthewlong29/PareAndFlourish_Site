@@ -6,6 +6,9 @@
 /// Colors 
 
 $theme-red: #ed4933;
+.theme-red {
+    color: $theme-red;
+}
 
 $theme-blue1: #21b2a6;
 $theme-blue2: #c8ece9;
@@ -14,10 +17,35 @@ $theme-blue3: #2e3842;
 $theme-yellow: #a68627;
 
 $theme-gray: #2e3842;
+.theme-gray {
+    color: $theme-gray;
+}
 
 $theme-white: #fdfdfd;
+.theme-white {
+    color: theme-white;
+}
 
 $theme-black: #000000;
+.theme-black {
+    color: $theme-black;
+}
+
+.twitter-color {
+    color: #00aced;
+}
+
+.facebook-color {
+    color: #3b5998;
+}
+
+.github-color {
+    color: #171516;
+}
+
+.linkedin-color {
+    color: #4875B4;
+}
 
 /// Highlight Color
 
@@ -33,8 +61,13 @@ $theme-black: #000000;
     float: none;
 }
 
-.small-padding {
+.medium-tb {
     padding: 50px 0 50px 0;
+}
+
+.small-rl {
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 // Text
