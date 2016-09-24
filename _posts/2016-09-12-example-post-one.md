@@ -21,9 +21,24 @@ category: blog
 tags: [item1, item2]
 ---
 
-## Lorem ipsum dolor
+## Introducing Pare and Flourish
 
-Morbi mattis mi consectetur tortor elementum, varius pellentesque velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo. Maecenas sagittis felis ac sagittis semper. Curabitur purus leo, tempus sed finibus eget, fringilla quis risus. Maecenas et lorem quis sem varius sagittis et a est. Maecenas iaculis iaculis sem. Donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo. Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci fringilla tincidunt. Aliquam eleifend ligula non velit accumsan cursus. Etiam ut gravida sapien.
+This is the first of hopefully many blog entries to come—co-written by yours truly: Katie Butler and Skylar Wooden.
+We’ve discussed writing a blog for some time now. This came about after listening to some of our favorite podcasts: Millennial, The Lively Show, and Love Me. Inspired by their insight, we realized something: we, too, have valuable experiences to share.
+
+Thanks to the internet, it’s fairly easy to find people you can relate to. We want to be those people for you. It is a personal mission of ours not to romanticize our lives, as is so often done in the age of social media.
+
+You know the type. It's probably your ex, an old coworker, or that friend you lost touch with. You feel lost in their version of reality. According to Facebook, they’ve just finished law school, met the love of their life, planned a wedding, are involved in their community, and wrote a book. What you don’t know, is that they spilled coffee on their shirt this morning and haven’t cleaned the kitty litter in two days.
+
+So here we have a safe space. A space for the real, the authentic, and the genuine.
+
+In this blog, you can expect first-hand accounts of our daily life struggles, how we’ve learned (so far) to become happy with the choices that we’ve made, and pieces of advice that we would like to have learned earlier on. You’ll find that we’ve made mistakes. You will also find what we’ve made of those mistakes. We hope that you apply our retrospection to your life, and come out ahead.
+
+*If you write the blog that you always wanted to write, but no one reads it, does it matter?*
+
+We want you, the reader, to know **it matters**. You have done something you have never done before, and each step in a direction that matters to you, matters.
+
+This is a year of firsts for us. You'll learn about plenty of our firsts in this blog. In fact, this blog is one of our big firsts for the year. We ask that you join us in our adventure. Try something new with us. If you have felt inspired by something new you’ve tried recently, we want to share that feeling of inspiration. Leave a link or an idea in the comments! 
 
 >this is a blockquote
 
@@ -57,12 +72,6 @@ Morbi mattis mi consectetur tortor elementum, varius pellentesque velit convalli
 | **Chinese**  | Yi    | Er      | San     |
 | **Hebrew**   | Echad | Shnayim | Shlosha |
 
-Vestibulum ultrices risus velit, sit amet blandit massa auctor sit amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis id vel diam. Praesent sit amet posuere risus, eu faucibus lectus. Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam. Proin nec dui cursus, posuere dui eget interdum. Fusce lectus magna, sagittis at facilisis vitae, pellentesque at etiam. Quisque posuere leo quis sem commodo, vel scelerisque nisi scelerisque. Suspendisse id quam vel tortor tincidunt suscipit. Nullam auctor orci eu dolor consectetur, interdum ullamcorper ante tincidunt. Mauris felis nec felis elementum varius.
+
 
 ___
-
-### Feugiat aliquam 
-
-Nam sapien ante, varius in pulvinar vitae, rhoncus id massa. Donec varius ex in mauris ornare, eget euismod urna egestas. Etiam lacinia tempor ipsum, sodales porttitor justo. Aliquam dolor quam, semper in tortor eu, volutpat efficitur quam. Fusce nec fermentum nisl. Aenean erat diam, tempus aliquet erat.
-
-Etiam iaculis nulla ipsum, et pharetra libero rhoncus ut. Phasellus rutrum cursus velit, eget condimentum nunc blandit vel. In at pulvinar lectus. Morbi diam ante, vulputate et imperdiet eget, fermentum non dolor. Ut eleifend sagittis tincidunt. Sed viverra commodo mi, ac rhoncus justo. Duis neque ligula, elementum ut enim vel, posuere finibus justo. Vivamus facilisis maximus nibh quis pulvinar. Quisque hendrerit in ipsum id tellus facilisis fermentum. Proin mauris dui, at vestibulum sit amet, auctor bibendum neque.
