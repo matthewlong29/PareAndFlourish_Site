@@ -9,7 +9,7 @@ subtitle: "Subtitle -- Optional"
 
 modified: 2016-09-24
 
-excerpt: "*If you write the blog that you always wanted to write, but no one reads it, does it matter?* We want you, the reader, to know **it matters**. You have done something you have never done before, and each step in a direction that matters to you, matters."
+excerpt: "If you write the blog that you always wanted to write, but no one reads it, does it matter? We want you, the reader, to know it matters. You have done something you have never done before, and each step in a direction that matters to you, matters."
 
 image:
   feature: 
