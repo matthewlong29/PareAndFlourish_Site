@@ -23,7 +23,7 @@ tags: [item1, item2]
 
 ## Introducing Pare and Flourish
 
-This is the first of hopefully many blog entries to come—co-written by yours truly: Katie Butler and Skylar Wooden.
+This is the first of hopefully many blog entries to come - co-written by yours truly: Katie Butler and Skylar Wooden.
 We’ve discussed writing a blog for some time now. This came about after listening to some of our favorite podcasts: Millennial, The Lively Show, and Love Me. Inspired by their insight, we realized something: we, too, have valuable experiences to share.
 
 Thanks to the internet, it’s fairly easy to find people you can relate to. We want to be those people for you. It is a personal mission of ours not to romanticize our lives, as is so often done in the age of social media.
@@ -39,39 +39,5 @@ In this blog, you can expect first-hand accounts of our daily life struggles, ho
 We want you, the reader, to know **it matters**. You have done something you have never done before, and each step in a direction that matters to you, matters.
 
 This is a year of firsts for us. You'll learn about plenty of our firsts in this blog. In fact, this blog is one of our big firsts for the year. We ask that you join us in our adventure. Try something new with us. If you have felt inspired by something new you’ve tried recently, we want to share that feeling of inspiration. Leave a link or an idea in the comments! 
-
->this is a blockquote
-
-[Google](https://www.google.com/)
-
-* List Item One
-* List Item Two
-* List Item Three
-
-1. List Item One
-2. List Item Two
-3. List Item Three
-
-*This is italicised.*
-
-**This is bold.**
-
-## Heading Two
-
-### Heading Three
-
-#### Heading Four
-
-| Language     | 1     | 2       | 3       |
-| ---          | ---   | ---     | ---     |
-| **English**  | One   | Two     | Three   |
-| **Spanish**  | Uno   | Dos     | Tres    |
-| **Latin**    | Unus  | Duo     | Tres    |
-| **Greek**    | Enas  | Duo     | Treis   |
-| **Japanese** | Iti   | Ni      | San     |
-| **Chinese**  | Yi    | Er      | San     |
-| **Hebrew**   | Echad | Shnayim | Shlosha |
-
-
 
 ___
