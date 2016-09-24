@@ -21,16 +21,26 @@ category: blog
 tags: [item1, item2]
 ---
 
-<h3>Lorem ipsum dolor</h3>
+###Authenticity: How to Add it to Your Life
 
-<p>Morbi mattis mi consectetur tortor elementum, varius pellentesque velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo. Maecenas sagittis felis ac sagittis semper. Curabitur purus leo, tempus sed finibus eget, fringilla quis risus. Maecenas et lorem quis sem varius sagittis et a est. Maecenas iaculis iaculis sem. Donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo. Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci fringilla tincidunt. Aliquam eleifend ligula non velit accumsan cursus. Etiam ut gravida sapien.</p>
+What does it mean to live authentically? Authenticity, as it relates to everyday living, means something different to everyone. Our idea of living authentically brought you this blog. We know your time is limited by work, working out, significant others, your pets, and your social life. It’s easy to come home, throw on sweatpants, and curl up on the couch to binge watch Gilmore Girls. We love it, too. 
 
-<p>Vestibulum ultrices risus velit, sit amet blandit massa auctor sit amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis id vel diam. Praesent sit amet posuere risus, eu faucibus lectus. Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam. Proin nec dui cursus, posuere dui eget interdum. Fusce lectus magna, sagittis at facilisis vitae, pellentesque at etiam. Quisque posuere leo quis sem commodo, vel scelerisque nisi scelerisque. Suspendisse id quam vel tortor tincidunt suscipit. Nullam auctor orci eu dolor consectetur, interdum ullamcorper ante tincidunt. Mauris felis nec felis elementum varius.</p>
+At times, that type of life is just what you need. It’s important to realize, though, that your goals are something that are worked toward almost every day. If every day is your 9-to-5 and then relaxing/house cleaning/dog walking, where did you put all of your creativity? Was it stuffed into your job? If so, is your job the only place in your life where you want to make progress? 
 
-<hr />
+“Everything you want to accomplish in life requires an investment of your time, so when you want to improve your results, you must face the fact that your supply of time is completely inelastic and perishable.” - The 12 Week Year by Brian P. Moran
 
-<h4>Feugiat aliquam</h4>
+Above is a quote that we hope you consider. Realize that everything that you hope to accomplish requires an investment of your time. Time is such a valuable resource that too often goes overlooked. 
 
-<p>Nam sapien ante, varius in pulvinar vitae, rhoncus id massa. Donec varius ex in mauris ornare, eget euismod urna egestas. Etiam lacinia tempor ipsum, sodales porttitor justo. Aliquam dolor quam, semper in tortor eu, volutpat efficitur quam. Fusce nec fermentum nisl. Aenean erat diam, tempus aliquet erat.</p>
+We are not the best examples. We’ve been known to binge on our favorite television shows for an entire day, moving only to eat. But, we’re all about the learning experience, and here we are, learning to put ourselves out there and share our thoughts with you—pretty frightening stuff.
 
-<p>Etiam iaculis nulla ipsum, et pharetra libero rhoncus ut. Phasellus rutrum cursus velit, eget condimentum nunc blandit vel. In at pulvinar lectus. Morbi diam ante, vulputate et imperdiet eget, fermentum non dolor. Ut eleifend sagittis tincidunt. Sed viverra commodo mi, ac rhoncus justo. Duis neque ligula, elementum ut enim vel, posuere finibus justo. Vivamus facilisis maximus nibh quis pulvinar. Quisque hendrerit in ipsum id tellus facilisis fermentum. Proin mauris dui, at vestibulum sit amet, auctor bibendum neque.</p>
+Maybe today’s self-improvement task is reading this blog post and getting the inspiration to apply this to your life. Maybe you’ll resonate with the quote and start reading The 12-Week Year. Here are a few ways we devote time to self-improvement: 
+Volunteering
+Reading
+Writing
+Self-Care
+Exercise
+Networking
+
+Look for our next blog about using volunteer work as an outlet while still protecting your most important asset: time.  
+So tell us, what goal do you want to use your time to work toward? Is it opening your own business? Going back to school? Learning something new? We’d love to hear all of your aspirations, inspiration, and motivation.
+
