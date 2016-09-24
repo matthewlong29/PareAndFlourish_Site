@@ -5,7 +5,7 @@ title: "Authenticity: How to Add it to Your Life"
 
 subtitle: 
 
-permalink: /blog/blog-two
+permalink: /blog/authenticity-how-to-add-it-to-your-life/
 
 modified: 2016-09-24
 
