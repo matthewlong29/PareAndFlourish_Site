@@ -1,13 +1,13 @@
 ---
 layout: blog-posts
 
-permalink: /blog/blog-one
+permalink: /blog/introducing-pare-and-flourish
 
-title: "Blog Title -- Not Optional"
+title: "Introducing Pare and Flourish"
 
 subtitle: "Subtitle -- Optional"
 
-modified: 2016-09-12
+modified: 2016-09-24
 
 excerpt: "Small description here. -- Not Optional"
 
@@ -18,7 +18,7 @@ image:
 
 category: blog
 
-tags: [item1, item2]
+tags: [introduction]
 ---
 
 ## Introducing Pare and Flourish
