@@ -5,14 +5,15 @@ title: Pare and Flourish
 description: A blog focused on personal development and living a more authentic lifestyle. 
 owner: Pare and Flourish #Company name.
 first_published: 2016 
-email: your-email@domain.com
+email: contact@pareandflourish.com
 baseurl: ""
 url: ""
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
+  twitter: https://twitter.com/pareandflourish/
+  github: https://github.com/pareandflourish_site/
+  instagram: https://www.instagram.com/pareandflourish/
+  pinterest: https://www.pinterest.com/pareandflourish/
+  paypal: 
 
 Team:
   Katie:
