@@ -7,7 +7,7 @@ subtitle:
 
 permalink: /blog/blog-two
 
-modified: 2016-09-13
+modified: 2016-09-24
 
 excerpt: "What does it mean to live authentically? Authenticity, as it relates to everyday living, means something different to everyone. Our idea of living authentically brought you this blog."
 
@@ -21,7 +21,7 @@ category: blog
 tags: [item1, item2]
 ---
 
-###Authenticity: How to Add it to Your Life
+### Authenticity: How to Add it to Your Life
 
 What does it mean to live authentically? Authenticity, as it relates to everyday living, means something different to everyone. Our idea of living authentically brought you this blog. We know your time is limited by work, working out, significant others, your pets, and your social life. It’s easy to come home, throw on sweatpants, and curl up on the couch to binge watch Gilmore Girls. We love it, too. 
 
