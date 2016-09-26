@@ -112,7 +112,7 @@ a {
     max-width: 250px;
     min-width: 50px;
     max-height: 75px;
-    padding: 1em;
+    padding: .5em;
     border: 3px solid $theme-red;
     border-radius: 5px;
     background-color: $theme-red;
@@ -122,6 +122,7 @@ a {
         font-size: 1.25em;
         text-decoration: none;
         font-weight: 700;
+        padding: 0;
         &:hover,
         &:focus {
             color: $theme-white;
@@ -374,10 +375,13 @@ hr {
 //// Subscription Section
 
 .sub-preview {
-    min-height: 33.3vh;
-    padding: 5em;
+    min-height: 20vh;
+    padding: 0;
     .text {
-        padding: 1.5em 0 5em 0; // top right bottom left.. clockwise
+        padding: 1em 0 0 0; // top right bottom left.. clockwise
+        h2 {
+            padding: 0;
+        }
         p { 
             color: $theme-white;
         }
@@ -392,25 +396,39 @@ hr {
 .social-section {
     min-height: 10vh;
     background-color: transparentize($theme-gray, 0.15);
+    padding: 1em;
     .icons {
-        padding: 5em 0 1.5em 0; // top right bottom left.. clockwise
+        padding: 0; // top right bottom left.. clockwise
         color: darken($theme-white, 100%);
         &:hover {
             color: $theme-white;
             transition: 1s;
         }
     }
-    .text {
-        padding: 1.5em 0 5em 0; // top right bottom left.. clockwise
-        a {
-            border-bottom: 1px dotted;
-            &:hover {
-                border-bottom: 0px;
-                color: $theme-white;
-                transition: 1s;
-            }
+}
+.text-large {
+    padding: 0 0 5px 0; // top right bottom left.. clockwise
+    margin: 0 0 1em 0;
+    a {
+        border-bottom: 1px dotted;
+        &:hover {
+            border-bottom: 0px;
+            color: $theme-white;
+            transition: 1s;
         }
     }
+}
+
+.text-small {
+    padding: 0 0 5px 0; // top right bottom left.. clockwise
+    margin: 0 0 1em 0;
+    p {
+        font-size: 14px;
+    }
+}
+
+.text-pad {
+    padding: 2em;
 }
 
 // Blog Header Images
