@@ -228,11 +228,48 @@ hr {
 
 .blog-htiles {
     min-height: 33.3vh;
-    background-color: $theme-gray;
-    width: 100%;
+    background-color: $theme-white;
     text-align: center;
-    padding: 5%;
+    padding: 5em 0 5em 0;
     .blog-content {
+        border: 1px solid $theme-gray;
+        border-radius: 5px;
+        box-shadow: .5vw .5vh .5vw 0 $theme-gray;
+        padding: .5em;
+        cursor: pointer;
+        &:hover,
+        &:focus {
+            box-shadow: .25vw .25vh .5vw 0 $theme-gray;
+            transition: .1s;
+        }
+        h4 {
+            color: darken($theme-gray, 35%);
+            text-transform: capitalize;
+            font-weight: 600;
+        }
+        h5 {
+            color: darken($theme-gray, 15%);
+        }
+        p {
+            color: darken($theme-gray, 35%);
+            padding: .5em;
+            margin: .5em;
+        }
+        a {
+            color: darken($theme-gray, 35%);
+            text-decoration: none;
+            padding: 0;
+            margin: 0;
+        }
+        hr {
+            color: darken($theme-gray, 35%);
+            display: block;
+            height: 1px;
+            border: 0;
+            border-top: 2.5px solid darken($theme-gray, 15%);
+            margin: .5em 0 .5em 0;
+            padding: 0; 
+        }
     }
 }
 
@@ -288,6 +325,14 @@ hr {
 
 .post-box {
     margin: 15px 0 15px 0;
+}
+
+left-box {
+    margin-left: 15px;
+}
+
+right-box {
+    margin-right: 15px;
 }
 
 /// Blog Posts

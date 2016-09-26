@@ -3,30 +3,25 @@
         <div class="container">
 
             <h1>Option One</h1>
-            <p>I love the way these look. If you dont want these on front page, maybe a different page?</p>
+            <p>I love the way these look. If you dont want these on front page, maybe a different page? I'm working on making it so that they align better when stacked top bottom.</p>
             <hr>
             
             {% for post in site.categories.blog limit:12 %}
+            
+            <div class="post-box col-lg-3 col-md-4 col-sm-6">
+                <div class="blog-content">
+                    <a href="{{ site.url }}{{ post.url }}">
 
-                <div class="post-box col-lg-3 col-md-4 col-sm-6">
-                    <div class="blog-content">
-                        <a href="{{ site.url }}{{ post.url }}">
-                            
-                            <img src="{{ site.url }}/images/teasers-1080x600/{{ post.image.teaser }}" class="img-responsive" alt="{{ post.image.alt }}" />
-                            
-                            <hr>
-                            
-                            <h4>{{ post.title }}</h4>
-                            
-                            <hr>
-                            
-                            <h5>Written: {{ post.modified }}</h5> 
-                            
-                            <p>{{ post.excerpt }}</p>
-                            
-                        </a>
-                    </div>
+                        <img src="{{ site.url }}/images/teasers-1080x600/{{ post.image.teaser }}" class="img-responsive" alt="{{ post.image.alt }}" />
+                        <hr>
+                        <h4>{{ post.title }}</h4>
+                        <hr>
+                        <h5>Written: {{ post.modified }}</h5> 
+                        <p>{{ post.excerpt }}</p>
+
+                    </a>
                 </div>
+            </div>
 
             {% endfor %}
             

@@ -1,20 +1,37 @@
-<section id="blog-tiles-two" class="">
-    <div class="blog-vtiles">
-        <header class="">
-            <h2>Accumsan mus tortor nunc aliquet</h2>
-            <p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
-            fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
-        </header>
-        
-        {% for post in site.categories.blog limit:9 %}
-            <ul class="">
-                <li>
-                    <img src="{{ site.url }}/images/teasers - 1080x600/{{ post.image.teaser }}" alt="{{ post.image.alt }}" />
-                    <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
-                    <h4 class="small-b">{{ post.modified }}</h4>
-                    <p>{{ post.excerpt }}</p>
-                </li> 
-            </ul>
-        {% endfor %}
+<section id="blog-tiles-two">
+    <div class="blog-htiles">
+        <div class="container">
+
+            <h1>Option Two</h1>
+            <p>This is the second option. However, I picture these being what you'd see on a "latest blogs" section or blog sections that are broken up into categories and/or type.</p>
+            <hr>
+            
+            {% for post in site.categories.blog limit:12 %}
+            
+            <div class="post-box blog-content">
+                <div class="left-box">
+                <div class="row">
+                    <a href="{{ site.url }}{{ post.url }}">
+
+                        <div class="col-lg-6 col-md-6 col-sm-6">
+                            <img src="{{ site.url }}/images/teasers-1080x600/{{ post.image.teaser }}" class="img-responsive" alt="{{ post.image.alt }}" />
+                        </div>
+
+                        <div class="col-lg-6 col-md-6 col-sm-6">
+                            <hr>
+                            <h4>{{ post.title }}</h4>
+                            <hr>
+                            <h5>Written: {{ post.modified }}</h5> 
+                            <p>{{ post.excerpt }}</p>
+                        </div>
+
+                    </a>
+                </div>
+                </div>
+            </div>
+            
+            {% endfor %}
+            
+        </div>
     </div>
 </section>
