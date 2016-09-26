@@ -3,6 +3,10 @@
 ---
 // Main -- "Variables"
 
+body {
+    padding-top: 50px; // to compensate for "height" of navbar
+}
+
 /// Colors 
 
 $theme-red: #ed4933;
@@ -50,7 +54,7 @@ $theme-black: #000000;
 /// Highlight Color
 
 ::selection {
-    background: $theme-gray;
+    background: lighten($theme-gray, 35%);
 }
 
 // Alignment / Margins / Paddings
@@ -74,7 +78,6 @@ $theme-black: #000000;
 
 p {
     font: sans-serif-font;
-    font-size: 12px;
     color: $theme-gray;
 }
 
@@ -93,25 +96,6 @@ h6 {
 }
 
 //// Heading Sizes
-
-h1 {
-    font-size: 22px;
-}
-h2 {
-    font-size: 20px;
-}
-h3 {
-    font-size: 18px;
-}
-h4 {
-    font-size: 16px;
-}
-h5 {
-    font-size: 14px;
-}
-h6 {
-    font-size: 12px;
-}
 
 /// Links
 
@@ -136,7 +120,6 @@ a {
     text-align: center;
     a {
         font-size: 1.25em;
-        letter-spacing: 0.225em;
         text-decoration: none;
         font-weight: 700;
         &:hover,
@@ -183,8 +166,6 @@ hr {
 .blank {
     height: 1vh;
     background-color: $theme-red;
-    box-shadow: -2.5vw 0 2.5vw -1.25vw $theme-white inset,
-        2.5vw 0 2.5vw -1.25vw $theme-white inset;
 }
 
 /// Navigation
@@ -196,8 +177,6 @@ hr {
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
-    box-shadow: -2.5vw 0 2.5vw -1.25vw $theme-white inset,
-        2.5vw 0 2.5vw -1.25vw $theme-white inset;
     min-height: 100vh;
     text-align: center;
     text-transform: uppercase;
@@ -209,7 +188,6 @@ hr {
             font-size: 3.25em;
             padding: 2em 1em;
             font-weight: 800;
-            letter-spacing: 0.225em;
         }
         p {
             color: $theme-white;
@@ -232,7 +210,6 @@ hr {
             color: $theme-white;
             font-size: 2em;
             font-weight: 500;
-            letter-spacing: 0.125em;
         }
         p {
             color: $theme-blue2;
@@ -272,18 +249,13 @@ hr {
             box-shadow: .25vw .25vh .5vw 0 $theme-gray;
             transition: .1s;
         }
-        h2 {
+        h4 {
             color: darken($theme-gray, 35%);
-            letter-spacing: 0.125em;
             text-transform: capitalize;
             font-weight: 600;
-            margin: 0;
-            padding: 0;
         }
-        h4 {
+        h5 {
             color: darken($theme-gray, 15%);
-            padding: 0;
-            margin: 0;
         }
         p {
             color: darken($theme-gray, 35%);
@@ -309,20 +281,51 @@ hr {
     
 }
 
+/// Blog Posts
+
+.post-content {
+    font-size: 1.25em;
+    margin: auto;
+}
+
+.feature-image {
+    background-image: url('../images/features-1620x540/introducing.png');
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 30vh;
+    max-height: 50vh;
+    .feature-content {
+        h2 {
+            text-transform: uppercase;
+            text-align: center;
+            color: $theme-white;
+            font-size: 2em;
+            padding: 2em 1em;
+            font-weight: 800;
+        }
+    }
+    
+}
+
+.gray-block {
+        background-color: transparentize($theme-gray, .15);
+        min-height: 15vh;
+        max-height: 25vh;
+        display: block;
+        vertical-align: middle;
+    }
+
 /// Footer Section
 
 .footer-section {
     background-image: url('../images/feature.png');
     background-size: cover;
     background-attachment: fixed;
-    box-shadow: -2.5vw 0 2.5vw -1.25vw $theme-white inset,
-        2.5vw 0 2.5vw -1.25vw $theme-white inset;
     text-align: center;
     h2 {
         color: $theme-white;
         font-size: 2em;
         font-weight: 800;
-        letter-spacing: 0.225em;
     }
     p {
         font-size: 1.25em;
@@ -342,8 +345,6 @@ hr {
 .blank {
     height: 1vh;
     background-color: $theme-red;
-    box-shadow: -2.5vw 0 2.5vw -1.25vw $theme-white inset,
-        2.5vw 0 2.5vw -1.25vw $theme-white inset;
 }
 
 //// Subscription Section
@@ -364,14 +365,9 @@ hr {
 
 //// Social Media Section
 
-
-
 .social-section {
     min-height: 10vh;
-    background-color: $theme-gray;
-    box-shadow: -2.5vw 0 2.5vw -1.25vw $theme-white inset,
-        2.5vw 0 2.5vw -1.25vw $theme-white inset;
-    opacity: 0.9;
+    background-color: transparentize($theme-gray, 0.15);
     .icons {
         padding: 5em 0 1.5em 0; // top right bottom left.. clockwise
         color: darken($theme-white, 100%);
@@ -399,8 +395,6 @@ hr {
     background-image: url('../images/feature.png');
     background-size: cover;
     background-attachment: fixed;
-    box-shadow: -2.5vw 0 2.5vw -1.25vw $theme-white inset,
-        2.5vw 0 2.5vw -1.25vw $theme-white inset;
     text-align: center;
     min-height: 33.3vh;
     padding: 5em;
@@ -416,3 +410,6 @@ hr {
 }
 
 // Bootstrap Overrides
+.container-fluid {
+    padding: 0;
+}

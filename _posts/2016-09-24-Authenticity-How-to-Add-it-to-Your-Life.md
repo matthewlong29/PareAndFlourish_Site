@@ -12,7 +12,7 @@ modified: 2016-09-24
 excerpt: "What does it mean to live authentically? Authenticity, as it relates to everyday living, means something different to everyone. Our idea of living authentically brought you this blog."
 
 image:
-  feature: 
+  feature: introducing.png
   teaser: filler-two.jpg
   alt: 
 

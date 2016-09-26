@@ -2,26 +2,21 @@
 layout: default
 ---
 
+{% include feature-image.html %}
+
 <body>
-
-{% include blog-page-header.html %}
-    
-<!--
-
-{% if post.image.feature %}
-    <img src="{{ site.url }}/images/feature/{{ post.image.feature }}" class="feature img-responsive">
-{% else %}
-    <img src="{{ site.url }}/images/feature-alt.png" class="feature img-responsive">
-{% endif %}
-
--->
     
     <div class="container">
         
         <div class="medium-tb">
-            {{ content }}
+            <div class="post-content">
+                {{ content }}
+            </div>
         </div>
         
     </div>
     
 </body>
+
+<!-- Footer Section -->
+{% include footer.html %}

@@ -12,7 +12,7 @@ modified: 2016-09-19
 excerpt: "Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. "
 
 image:
-  feature: 
+  feature: introducing.png
   teaser: filler-three.jpg
   alt: 
 

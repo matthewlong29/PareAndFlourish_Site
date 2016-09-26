@@ -1,9 +1,9 @@
-#Welcome to Jekyll!
+# Welcome to Jekyll!
 
-#Site settings
+# Site settings
 title: Pare and Flourish
 description: A blog focused on personal development and living a more authentic lifestyle. 
-owner: Pare and Flourish #Company name.
+owner: Pare and Flourish # Company name.
 first_published: 2016 
 email: contact@pareandflourish.com
 baseurl: ""
@@ -14,6 +14,7 @@ social:
   instagram: https://www.instagram.com/pareandflourish/
   pinterest: https://www.pinterest.com/pareandflourish/
   paypal: 
+  facebook: 
 
 Team:
   Katie:
