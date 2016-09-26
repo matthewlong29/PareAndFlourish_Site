@@ -9,6 +9,7 @@
             {% for post in site.categories.blog limit:12 %}
 
                 <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="grid-item">
                     <div class="blog-content">
                         <a href="{{ site.url }}{{ post.url }}">
                             
@@ -25,6 +26,7 @@
                             <p>{{ post.excerpt }}</p>
                             
                         </a>
+                    </div>
                     </div>
                 </div>
 
