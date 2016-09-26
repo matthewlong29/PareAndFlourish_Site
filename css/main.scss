@@ -176,6 +176,9 @@ hr {
     background-image: url('../images/feature.png');
     background-size: cover;
     background-attachment: fixed;
+    @media (max-width: 767px) {
+        background-attachment: scroll;
+    }
     background-position: center;
     min-height: 100vh;
     text-align: center;
@@ -240,6 +243,8 @@ hr {
     text-align: center;
     padding: 5em 0 5em 0; // top right bottom left.. clockwise
     .blog-content {
+        border: 1px solid $theme-gray;
+        border-radius: 5px;
         box-shadow: .5vw .5vh .5vw 0 $theme-gray;
         padding: .5em;
         margin: .25em;
@@ -302,6 +307,9 @@ hr {
     background-image: url('../images/features-1620x540/introducing.png');
     background-size: cover;
     background-attachment: fixed;
+    @media (max-width: 767px) {
+        background-attachment: scroll;
+    }
     min-height: 30vh;
     max-height: 50vh;
     .feature-content {
@@ -331,6 +339,9 @@ hr {
     background-image: url('../images/feature.png');
     background-size: cover;
     background-attachment: fixed;
+    @media (max-width: 767px) {
+        background-attachment: scroll;
+    }
     text-align: center;
     h2 {
         color: $theme-white;
