@@ -77,8 +77,8 @@ $theme-black: #000000;
 // Text
 
 p {
-    font: sans-serif-font;
     color: $theme-gray;
+    font-family: 'Open Sans', serif;
 }
 
 /// Headings
@@ -91,8 +91,8 @@ h3,
 h4,
 h5,
 h6 {
-    font: sans-serif-font;
     color: $theme-gray;
+    font-family: 'Dancing Script', serif;
 }
 
 //// Heading Sizes
@@ -100,7 +100,6 @@ h6 {
 /// Links
 
 a {
-    font: sans-serif-font;
     color: $theme-white;
     text-decoration: dashed underline;
 }
@@ -121,7 +120,6 @@ a {
     a {
         font-size: 1.25em;
         text-decoration: none;
-        font-weight: 700;
         padding: 0;
         &:hover,
         &:focus {
@@ -201,81 +199,53 @@ hr {
     }
 }
 
-/// About Us Preview
-
-.about-preview {
-    min-height: 33.3vh;
-    background-color: $theme-blue1;
-    width: 100%;
-    text-align: center;
-    padding: 5%;
-    .about-content {
-        h3 {
-            color: $theme-white;
-            font-size: 2em;
-            font-weight: 500;
-        }
-        p {
-            color: $theme-blue2;
-        }
-        img {
-            max-height: 180px;
-        }
-    }
-}
-
 /// Blog Section -- Vertical Tiles (option one)
 
-.blog-htiles {
+.blog-tiles {
     min-height: 33.3vh;
     background-color: $theme-white;
     text-align: center;
-    padding: 5em 0 5em 0;
+    line-height: inherit;
+    vertical-align: middle;
+    padding-left: 10px;
     .blog-content {
         border: 1px solid $theme-gray;
         border-radius: 5px;
         box-shadow: .5vw .5vh .5vw 0 $theme-gray;
-        padding: .5em;
         cursor: pointer;
         &:hover,
         &:focus {
             box-shadow: .25vw .25vh .5vw 0 $theme-gray;
             transition: .1s;
         }
-        h4 {
+        img {
+            border: 1px solid $theme-gray;
+            line-height: inherit;
+            vertical-align: middle;
+        }
+        h3 {
             color: darken($theme-gray, 35%);
-            text-transform: capitalize;
             font-weight: 600;
         }
-        h5 {
-            color: darken($theme-gray, 15%);
+        h4 {
+            color: darken($theme-gray, 35%);
         }
         p {
             color: darken($theme-gray, 35%);
-            padding: .5em;
-            margin: .5em;
+            padding: inherit;
+            line-height: inherit;
+            vertical-align: middle;
         }
         a {
             color: darken($theme-gray, 35%);
             text-decoration: none;
-            padding: 0;
-            margin: 0;
-        }
-        hr {
-            color: darken($theme-gray, 35%);
-            display: block;
-            height: 1px;
-            border: 0;
-            border-top: 2.5px solid darken($theme-gray, 15%);
-            margin: .5em 0 .5em 0;
-            padding: 0; 
         }
     }
 }
 
 /// Blog Section -- Horizontal Tiles (option two)
 
-.blog-vtiles {
+.blog-tiles-alt {
     min-height: 33.3vh;
     background-color: $theme-white;
     text-align: center;
@@ -451,6 +421,7 @@ right-box {
         }
     }
 }
+
 .text-large {
     padding: 0 0 5px 0; // top right bottom left.. clockwise
     margin: 0 0 1em 0;
@@ -499,10 +470,6 @@ right-box {
 // Bootstrap Overrides
 
 .container-fluid {
-    padding: 0;
-}
-
-.container {
     padding: 0;
 }
 
