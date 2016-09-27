@@ -1,9 +1,9 @@
-<section id="blog-tiles-two">
-    <div class="blog-htiles">
+<section id="latest-blogs">
+    <div class="blog-tiles">
         <div class="container">
 
-            <h1>Option Two</h1>
-            <p>This is the second option. However, I picture these being what you'd see on a "latest blogs" section or blog sections that are broken up into categories and/or type.</p>
+            <h1>Latest Blogs</h1>
+            <p>Optional text here about our latest blogs?</p>
             <hr>
             
             {% for post in site.categories.blog limit:12 %}
@@ -18,10 +18,7 @@
                         </div>
 
                         <div class="col-lg-6 col-md-6 col-sm-6">
-                            <hr>
-                            <h4>{{ post.title }}</h4>
-                            <hr>
-                            <h5>Written: {{ post.modified }}</h5> 
+                            <h3>{{ post.title }}</h3>
                             <p>{{ post.excerpt }}</p>
                         </div>
 
