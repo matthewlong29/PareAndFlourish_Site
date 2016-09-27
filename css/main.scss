@@ -92,7 +92,6 @@ h4,
 h5,
 h6 {
     color: $theme-gray;
-    font-family: 'Dancing Script', serif;
 }
 
 //// Heading Sizes
@@ -220,6 +219,7 @@ hr {
             border-radius: 5px;
         }
         h3 {
+            font-family: 'Dancing Script', serif;
             color: darken($theme-gray, 35%);
             font-weight: 600;
         }
@@ -306,6 +306,9 @@ right-box {
 .post-content {
     font-size: 1.25em;
     margin: auto;
+    h2 {
+        font-family: 'Dancing Script', serif;
+    }
     a {
         text-decoration: none;
         color: $theme-gray;
