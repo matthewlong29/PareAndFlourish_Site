@@ -1,20 +1,16 @@
 <!DOCTYPE html>
 
 <html>
-    
-    <!-- Links to style sheets here. (needed for all pages) -->
+
     {% include head.html %}
-    
+
     <body>
         <div class="container-fluid">
 
-        <!-- Navigation section. (displayed on all pages) -->
-        {% include masthead.html %}
+        <!-- Navigation section -->
+        {% include nav.html %}
         
         {{ content }}
-        
-        <!-- Footer section. (displayed on all pages) -->    
-        {% include footer.html %}
         
         </div>
     </body>

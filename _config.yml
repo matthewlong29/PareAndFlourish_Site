@@ -29,45 +29,15 @@ markdown: kramdown
 #sass:
 #  style: compressed
 
-# Defaults
-
+# Navigation
 defaults:
-
-  # Blog
   - scope:
-      path: _posts/blog
-      type: posts
+      path: _posts
+      type: blog
     values:
-      layout: article
-      category: blog
-
-  # Portfolio
-  - scope:
-      path: _posts/portfolio
-      type: posts
-    values:
-      layout: article
-      category: portfolio
-    
-  # Ruby
-  - scope:
-      path: _posts/using-ruby/
-      type: posts
-    values:
-      layout: article
-      category: blog/using-ruby
-
-  # Formatting
-  - scope:
-      path: _posts/style-guide-formatting/
-      type: posts
-    values:
-      layout: article
-      category: blog/formatting
-      
-  # Pages
+      layout: pages
   - scope:
       path: _pages
       type: pages
     values:
-      layout: article
+      layout: pages
