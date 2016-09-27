@@ -205,9 +205,6 @@ hr {
     min-height: 33.3vh;
     background-color: $theme-white;
     text-align: center;
-    line-height: inherit;
-    vertical-align: middle;
-    padding-left: 10px;
     .blog-content {
         border: 1px solid $theme-gray;
         border-radius: 5px;
@@ -220,8 +217,7 @@ hr {
         }
         img {
             border: 1px solid $theme-gray;
-            line-height: inherit;
-            vertical-align: middle;
+            border-radius: 5px;
         }
         h3 {
             color: darken($theme-gray, 35%);
@@ -390,7 +386,7 @@ right-box {
 //// Subscription Section
 
 .sub-preview {
-    min-height: 20vh;
+    min-height: 10vh;
     padding: 0;
     .text {
         padding: 1em 0 0 0; // top right bottom left.. clockwise
@@ -422,9 +418,12 @@ right-box {
     }
 }
 
-.text-large {
+.text-small {
     padding: 0 0 5px 0; // top right bottom left.. clockwise
     margin: 0 0 1em 0;
+    p {
+        font-size: 14px;
+    }
     a {
         border-bottom: 1px dotted;
         &:hover {
@@ -432,14 +431,6 @@ right-box {
             color: $theme-white;
             transition: 1s;
         }
-    }
-}
-
-.text-small {
-    padding: 0 0 5px 0; // top right bottom left.. clockwise
-    margin: 0 0 1em 0;
-    p {
-        font-size: 14px;
     }
 }
 
