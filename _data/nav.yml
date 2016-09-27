@@ -1,0 +1,90 @@
+# Primary home navigation links
+
+home-primary:
+  - title: "About"
+    url: /about/
+  - title: "Resume"
+    url: /resume/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Blog"
+    url: /blog/
+
+
+# Secondary home navigation links
+
+home-secondary:
+  - title: "Ruby - Personal Notes"
+    url: /blog/using-ruby/
+
+home-secondary:
+  - title: "Style Guide - Formatting"
+    url: /blog/formatting/
+    
+# Masthead navigation links
+
+masthead:
+  - title: "About"
+    url: /about/
+  - title: "Resume"
+    url: /resume/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Blog"
+    url: /blog/
+
+
+# Primary site navigation links (overlay)
+
+primary:
+  - title: "About"
+    url: /about/
+  - title: "Resume"
+    url: /resume/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Blog"
+    url: /blog/
+
+
+# Secondary site navigation links (overlay)
+
+secondary:
+  - title: "Ruby - Personal Notes"
+    url: /blog/using-ruby/
+  - title: "Style Guide - Formatting"
+    url: /blog/style-guide-formatting/
+  - title: "Sitemap"
+    url: /sitemap/
+
+
+# Footer navigation links
+
+colophon-menu:
+  - title: "About"
+    url: /about/
+  - title: "Resume"
+    url: /resume/
+
+#colophon-social:
+  - title: "Twitter"
+    url: https://twitter.com/
+    icon: icon-twitter
+  - title: "Instagram"
+    url: https://instagram.com/
+    icon: icon-instagram
+  - title: "Tumblr"
+    url: http://.tumblr.com/
+    icon: icon-tumblr
+  - title: "Facebook"
+    url: https://facebook.com/
+    icon: icon-facebook
+  - title: "YouTube"
+    url: https://www.youtube.com/user/
+    icon: icon-youtube
+  - title: "GitHub"
+    url: https://github.com/
+    icon: icon-github
+  - title: "Google+"
+    url: https://plus.google.com/
+    icon: icon-google-plus

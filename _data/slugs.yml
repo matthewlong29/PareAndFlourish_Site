@@ -1,0 +1,22 @@
+# slugs
+
+blog:
+  name: "Blog"
+
+portfolio:
+  name: "Portfolio"
+
+about:
+  name: "About"
+
+resume:
+  name: "Resume"
+
+404:
+  name: "Not Found"
+
+sitemap:
+  name: "Sitemap"
+
+tag:
+  name: "Tags"
