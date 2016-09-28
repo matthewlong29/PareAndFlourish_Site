@@ -1,55 +1,27 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+
 ---
 // Main -- "Variables"
 
-body {
-    padding-top: 50px; // to compensate for "height" of navbar
-}
-
-/// Colors 
+/// Colors
 
 $theme-red: #ed4933;
-.theme-red {
-    color: $theme-red;
-}
-
-$theme-blue1: #21b2a6;
-$theme-blue2: #c8ece9;
-$theme-blue3: #2e3842;
 
 $theme-yellow: #a68627;
 
 $theme-gray: #2e3842;
-.theme-gray {
-    color: $theme-gray;
-}
 
 $theme-white: #fdfdfd;
-.theme-white {
-    color: theme-white;
-}
 
 $theme-black: #000000;
-.theme-black {
-    color: $theme-black;
-}
 
-.twitter-color {
-    color: #00aced;
-}
+$twitter-color: #00aced;
 
-.facebook-color {
-    color: #3b5998;
-}
+$facebook-color: #3b5998;
 
-.github-color {
-    color: #171516;
-}
+$github-color: #171516;
 
-.linkedin-color {
-    color: #4875B4;
-}
+$linkedin-color: #4875B4;
 
 /// Highlight Color
 
@@ -144,7 +116,7 @@ hr {
     display: block;
     height: 1px;
     border: 0;
-    border-top: 2.5px solid $theme-blue3;
+    border-top: 2.5px solid $theme-gray;
     margin: 1em 0;
     padding: 0; 
 }
@@ -165,8 +137,6 @@ hr {
     height: 1vh;
     background-color: $theme-red;
 }
-
-/// Navigation
 
 /// Banner -- Front
 

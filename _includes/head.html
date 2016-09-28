@@ -1,40 +1,25 @@
 <head>
     
     <meta charset="utf-8">
-    
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-    
     <meta name="author" content="">
-    
-    <!-- the following turns off zooming for mobile devices -->
-    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"> -->
-    
+
     <!-- Website Title -->
     <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-    
-    <!-- Bootstrap Core CSS -->
-    <link rel="stylesheet" href="../css/bootstrap/bootstrap.css" type="text/css">
-        
-    <!-- Bootstrap Plugins -->
-    
-    <!-- Latest compiled and minified jquery (requirement) -->
 
-    
-    <!-- Javascript Plugins -->
-        
+    <!-- Bootstrap Core CSS -->
+    <link href="../vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
+
     <!-- Custom Fonts -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Dancing+Script|Open+Sans">
     
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css" type="text/css">
-    
-    <!-- Plugin CSS -->
-    <!-- If plugins are used such as animations inset them here -->
-    <link rel="stylesheet" href="../css/plugins/animate.min.css" type="text/css">
-    
-    <!-- Custom CSS that overrides bootstrap and any other plugins-->
-    <link rel="stylesheet" href="../css/main.css" type="text/css">
+    <!-- Font Awesome (icons) -->
+    <link href="../vendor/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css">
+
+    <!-- Custom CSS -->
+    <link href="../css/navbar.css" rel="stylesheet">
+    <link href="../css/main.css" rel="stylesheet">
     
 </head>

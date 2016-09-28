@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 
-<html>
+<html lang="en">
 
     {% include head.html %}
 
-    <body>
+    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
         <div class="container-fluid">
 
         <!-- Navigation section -->
@@ -13,6 +13,9 @@
         {{ content }}
         
         </div>
+        
+        {% include scripts.html %}
+        
     </body>
 
 </html>
