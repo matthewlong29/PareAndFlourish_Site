@@ -9,7 +9,7 @@ $theme-white: #fdfdfd;
 .navbar-custom {
     margin-bottom: 0;
     border-bottom: 1px transparentize($theme-gray, 0.3);
-    text-transform: uppercase;
+    text-transform: lowercase;
     font-family: 'Open Sans', serif;
     background-color: $theme-gray;
 }
@@ -44,15 +44,16 @@ $theme-white: #fdfdfd;
 }
 
 .navbar-custom .nav li a:hover {
-    color: transparentize($theme-gray, 0.8);
     outline: none;
+    color: $theme-gray;
     background-color: $theme-white;
 }
 
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a:active {
     outline: none;
-    background-color: transparent;
+    color: $theme-white;
+    background-color: $theme-gray;
 }
 
 .navbar-custom .nav li.active {
