@@ -21,13 +21,14 @@ category: blog
 tags: [item1, item2]
 ---
 
-### Authenticity: How to Add it to Your Life
+## Authenticity: How to Add it to Your Life
 
 What does it mean to live authentically? Authenticity, as it relates to everyday living, means something different to everyone. Our idea of living authentically brought you this blog. We know your time is limited by work, working out, significant others, your pets, and your social life. It’s easy to come home, throw on sweatpants, and curl up on the couch to binge watch Gilmore Girls. We love it, too. 
 
 At times, that type of life is just what you need. It’s important to realize, though, that your goals are something that are worked toward almost every day. If every day is your 9-to-5 and then relaxing/house cleaning/dog walking, where did you put all of your creativity? Was it stuffed into your job? If so, is your job the only place in your life where you want to make progress? 
 
->“Everything you want to accomplish in life requires an investment of your time, so when you want to improve your results, you must face the fact that your supply of time is completely inelastic and perishable.” - The 12 Week Year by Brian P. Moran
+>Everything you want to accomplish in life requires an investment of your time, so when you want to improve your results, you must face the fact that your supply of time is completely inelastic and perishable. <br />
+><cite>The 12 Week Year by Brian P. Moran</cite>
 
 Above is a quote that we hope you consider. Realize that everything that you hope to accomplish requires an investment of your time. Time is such a valuable resource that too often goes overlooked. 
 
