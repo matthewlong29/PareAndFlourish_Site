@@ -1,11 +1,11 @@
 ---
 layout: blog-posts
 
-title: "Authenticity: How to Add it to Your Life"
+title: "Authenticity: What it Means to You"
 
 subtitle: 
 
-permalink: /blog/authenticity-how-to-add-it-to-your-life
+permalink: /blog/authenticity-what-it-means-to-you
 
 modified: 2016-09-24
 
@@ -21,7 +21,7 @@ category: blog
 tags: [item1, item2]
 ---
 
-## Authenticity: How to Add it to Your Life
+## Authenticity: What it Means to You
 
 What does it mean to live authentically? Authenticity, as it relates to everyday living, means something different to everyone. Our idea of living authentically brought you this blog. We know your time is limited by work, working out, significant others, your pets, and your social life. It’s easy to come home, throw on sweatpants, and curl up on the couch to binge watch Gilmore Girls. We love it, too. 
 
