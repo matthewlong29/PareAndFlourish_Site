@@ -312,14 +312,6 @@ hr {
     margin: 15px 0 15px 0;
 }
 
-left-box {
-    margin-left: 15px;
-}
-
-right-box {
-    margin-right: 15px;
-}
-
 /// Blog Posts
 
 .post-content {
@@ -430,25 +422,6 @@ right-box {
     }
 }
 
-// Blog Header Images
-
-.blog-page-header {
-    background-image: url('../images/feature.png');
-    background-size: cover;
-    background-attachment: fixed;
-    text-align: center;
-    min-height: 33.3vh;
-    padding: 5em;
-    .text {
-        padding: 1.5em 0 5em 0; // top right bottom left.. clockwise
-        h2 { 
-            color: $theme-white;
-        }
-        a {
-            color: $theme-white;
-        }
-    }
-}
 
 // Bootstrap Overrides
 
