@@ -420,6 +420,14 @@ hr {
         font-size: 1em;    
         text-decoration: none;
     }
+    a.alt {
+        border-bottom: 1px dotted;
+            &:hover {
+                border-bottom: 0px;
+                color: $theme-white;
+                transition: 1s;
+            }
+    }
 }
 
 
