@@ -59,40 +59,6 @@ p {
     margin: .5em;
 }
 
-/// Blockquote
-
-blockquote {
-    border-left: 0.3em solid $theme-red;
-    background-color: lighten($theme-gray, 75%);
-    position: relative;
-    cite {
-        font-size: 0.8em;
-        &:before {
-            content: "\2014";
-            padding-right: 5px;
-        }
-    }
-}
-
-blockquote:before, blockquote:after {
-    color: #EBB1B2;
-    content: '\f10d';
-    font-family: 'FontAwesome';
-    font-size: 30px;
-    position: absolute;
-    top: 5px;
-    left: 8px;
-    display: block;
-}
-
-blockquote:after {
-    content:'\f10e';
-    bottom:0;
-    right:8px;
-    top:auto;
-    left:auto;
-}
-
 /// Headings
 
 //// Heading Fonts, Colors, Etc. 
