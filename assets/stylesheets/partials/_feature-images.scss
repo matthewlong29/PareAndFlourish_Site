@@ -1,0 +1,27 @@
+.feature {
+    min-width: 80%;
+    max-height: 200px;
+    background-repeat: no-repeat;
+}
+
+.feature-image {
+    background-image: url('../../../images/features-1620x540/introducing.png');
+    background-size: cover;
+    background-attachment: fixed;
+    @media (max-width: 767px) {
+        background-attachment: scroll;
+    }
+    min-height: 30vh;
+    max-height: 50vh;
+    .feature-content {
+        h2 {
+            text-transform: uppercase;
+            text-align: center;
+            color: $theme-white;
+            font-size: 2em;
+            padding: 2em 1em;
+            font-weight: 800;
+        }
+    }
+    
+}

@@ -1,0 +1,79 @@
+// font weights
+$light: 100;
+$regular: 400;
+$bold: 600;
+
+// Base Font
+$base-font-family: "Open Sans", serif;
+
+// Base Font Alt
+$base-font-alt: "Dancing Script", serif;
+
+/// Highlight Color
+
+::selection {
+    background: lighten($theme-gray, 35%);
+}
+
+// Text
+
+p {
+    color: $theme-gray;
+    font-family: 'Open Sans', serif;
+    padding: .5em;
+    margin: .5em;
+}
+
+/// Headings
+
+//// Heading Fonts, Colors, Etc. 
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: $theme-gray;
+    padding: 0;
+    margin: .5em;
+}
+
+//// Heading Sizes
+
+/// Links
+
+a {
+    color: $theme-white;
+    text-decoration: dashed underline;
+    padding: 0;
+    margin: 0;
+}
+
+// "red blanks"
+
+.blank {
+    height: 1vh;
+    background-color: $theme-red;
+}
+
+/// Banner -- Front
+
+/// Blog Section -- Vertical Tiles (option one)
+
+.post-box {
+    margin: 15px 0 15px 0;
+}
+
+//// Top Border
+
+.blank {
+    min-height: 1vh;
+    background-color: $theme-red;
+}
+
+// Bootstrap Overrides
+
+.container-fluid {
+    padding: 0;
+}

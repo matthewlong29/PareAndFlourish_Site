@@ -1,0 +1,17 @@
+.post-content {
+    font-size: 1.25em;
+    margin: auto;
+    h2 {
+        font-family: 'Dancing Script', serif;
+    }
+    a {
+        text-decoration: none;
+        color: $theme-gray;
+        border-bottom: 1px dotted;
+            &:hover {
+                border-bottom: 0px;
+                color: darken($theme-gray, 0.5);
+                transition: 1s;
+            }
+    }
+}

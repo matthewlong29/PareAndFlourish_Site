@@ -41,3 +41,10 @@ defaults:
       type: pages
     values:
       layout: pages
+
+assets:
+  sources:
+    - _assets/javascripts
+    - _assets/stylesheets
+  autoprefixer:
+    browsers: ["last 2 versions","> 5%","IE 9"]
