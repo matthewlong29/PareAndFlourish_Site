@@ -2,10 +2,12 @@
 
 ---
 
-// Modules and Variables
-@import "colors";
-@import "base";
+// Variables
+@import "var-colors";
+@import "var-fonts";
 
+// Base
+@import "base";
 
 // Partials
 @import "banner-front";
@@ -13,7 +15,10 @@
 @import "blog-tiles";
 @import "feature-images";
 @import "footer";
+@import "highlighter";
 @import "horizontalrules";
 @import "navbar";
 @import "post-content";
+@import "spacing";
 @import "sub-button";
+@import "text";

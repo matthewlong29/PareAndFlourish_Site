@@ -7,7 +7,7 @@ subtitle:
 
 permalink: /blog/three-ways-to-get-involved-without-killing-your-time
 
-modified: 2016-09-25
+modified: September 25, 2016
 
 author: Skylar Wooden & Katie Butler
 

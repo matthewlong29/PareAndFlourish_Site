@@ -1,0 +1,36 @@
+p {
+    color: $theme-gray;
+    font-family: $base-font-sans;
+    padding: .5em 0 .5em 0;
+    margin: .5em 0 .5em 0;
+}
+
+p.script {
+    font-family: $base-font-script;
+    display: inline;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+p.script-inline {
+    font-family: $base-font-sans;
+    display: inline;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: $theme-gray;
+    padding: 0;
+    margin: .5em;
+}
+
+a {
+    color: $theme-white;
+    text-decoration: dashed underline;
+    padding: 0;
+    margin: 0;
+}

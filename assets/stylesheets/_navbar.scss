@@ -5,8 +5,7 @@ $theme-white: #fdfdfd;
 .navbar-custom {
     margin-bottom: 0;
     border-bottom: 1px transparentize($theme-gray, 0.3);
-    text-transform: lowercase;
-    font-family: 'Open Sans', serif;
+    font-family: $base-font-sans;
     background-color: $theme-gray;
 }
 

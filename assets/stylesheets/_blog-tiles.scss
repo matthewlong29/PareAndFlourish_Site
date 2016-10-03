@@ -1,34 +1,36 @@
 .blog-tiles {
     min-height: 33.3vh;
     background-color: $theme-white;
-    text-align: center;
+    text-align: left;
+    h1 {
+        text-align: center;
+    }
+    p {
+        text-align: center;
+    }
     .blog-content {
-        border: 1px solid $theme-gray;
-        border-radius: 5px;
-        box-shadow: .5vw .5vh .5vw 0 $theme-gray;
         cursor: pointer;
-        &:hover,
-        &:focus {
-            box-shadow: .25vw .25vh .5vw 0 $theme-gray;
-            transition: .1s;
-        }
         img {
-            border: 1px solid $theme-gray;
+            border: 1px dotted $theme-gray;
             border-radius: 5px;
+            &:hover,
+            &:focus {
+                border: 1px solid darken($theme-gray, 35%);
+            }
         }
         h3 {
             font-family: 'Dancing Script', serif;
             color: darken($theme-gray, 35%);
             font-weight: 600;
         }
-        h4 {
+        h5 {
             color: darken($theme-gray, 35%);
         }
         p {
             color: darken($theme-gray, 35%);
+            text-align: left;
             padding: inherit;
             line-height: inherit;
-            vertical-align: middle;
         }
         a {
             color: darken($theme-gray, 35%);
@@ -37,52 +39,6 @@
     }
 }
 
-/// Blog Section -- Horizontal Tiles (option two)
-
-.blog-tiles-alt {
-    min-height: 33.3vh;
-    background-color: $theme-white;
-    text-align: center;
-    padding: 5em 0 5em 0; // top right bottom left.. clockwise
-    .blog-content {
-        border: 1px solid $theme-gray;
-        border-radius: 5px;
-        box-shadow: .5vw .5vh .5vw 0 $theme-gray;
-        padding: .5em;
-        cursor: pointer;
-        &:hover,
-        &:focus {
-            box-shadow: .25vw .25vh .5vw 0 $theme-gray;
-            transition: .1s;
-        }
-        h4 {
-            color: darken($theme-gray, 35%);
-            text-transform: capitalize;
-            font-weight: 600;
-        }
-        h5 {
-            color: darken($theme-gray, 15%);
-        }
-        p {
-            color: darken($theme-gray, 35%);
-            padding: .5em;
-            margin: .5em;
-        }
-        a {
-            color: darken($theme-gray, 35%);
-            text-decoration: none;
-            padding: 0;
-            margin: 0;
-        }
-        hr {
-            color: darken($theme-gray, 35%);
-            display: block;
-            height: 1px;
-            border: 0;
-            border-top: 2.5px solid darken($theme-gray, 15%);
-            margin: .5em 0 .5em 0;
-            padding: 0; 
-        }
-    }
-    
+.post-box {
+    margin: 15px 0 15px 0;
 }
