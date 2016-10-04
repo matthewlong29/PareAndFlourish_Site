@@ -1,35 +1,19 @@
-<section id="latest-blogs">
-    <div class="blog-tiles">
-        <div class="container">
+<div class="post-box blog-content">
 
-            <h1>Latest Blogs</h1>
-            <p>Optional text here about our latest blogs?</p>
-            <hr class="primary">
-            
-            {% for post in site.categories.blog limit:12 %}
-            
-            <div class="post-box blog-content">
+    <div class="row">
+        <a href="{{ site.url }}{{ post.url }}">
 
-                <div class="row">
-                    <a href="{{ site.url }}{{ post.url }}">
-
-                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-6">
-                            <img src="{{ site.url }}/images/teasers-1080x600/{{ post.image.teaser }}" class="img-responsive" alt="{{ post.image.alt }}" />
-                        </div>
-
-                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-6">
-                            <h3>{{ post.title }}</h3>
-                            <p>{{ post.modified }}</p>
-                            <p>{{ post.excerpt }}</p>
-                        </div>
-                        
-                    </a>
-                </div>
-
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                <img src="{{ site.url }}/images/teasers-1080x600/{{ post.image.teaser }}" class="img-responsive" alt="{{ post.image.alt }}" />
             </div>
 
-            {% endfor %}
-            <hr class="primary">        
-        </div>
+            <div class="col-lg-8 col-md-8 col-sm-6 col-xs-12">
+                <h3>{{ post.title }}</h3>
+                <p>{{ post.modified }}</p>
+                <p>{{ post.excerpt }}</p>
+            </div>
+
+        </a>
     </div>
-</section>
+
+</div>

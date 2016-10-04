@@ -1,0 +1,18 @@
+<section id="latest-blogs">
+    <div class="blog-tiles">
+        <div class="container">
+
+            <h1>Latest Blogs</h1>
+            <p>Optional text here about our latest blogs?</p>
+            <hr class="primary">
+            
+            {% for post in site.posts limit:12 %}
+            
+                {% include blog-tiles.html %}
+
+            {% endfor %}
+            <hr class="primary">
+            
+        </div>
+    </div>
+</section>

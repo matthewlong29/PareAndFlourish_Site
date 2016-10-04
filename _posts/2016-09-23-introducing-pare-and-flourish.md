@@ -1,7 +1,7 @@
 ---
 layout: blog-posts
 
-permalink: /blog/introducing-pare-and-flourish
+permalink: /personal-development/introducing-pare-and-flourish
 
 title: "Introducing Pare and Flourish"
 
@@ -16,7 +16,7 @@ image:
   teaser: filler-one.jpg
   alt: 
 
-category: blog
+category: personal-development
 
 tags: [introduction]
 ---

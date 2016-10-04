@@ -5,7 +5,7 @@ title: "Authenticity: What it Means to You"
 
 subtitle: 
 
-permalink: /blog/authenticity-what-it-means-to-you
+permalink: /personal-development/authenticity-what-it-means-to-you
 
 modified: September 24, 2016
 
@@ -16,7 +16,7 @@ image:
   teaser: filler-two.jpg
   alt: 
 
-category: blog
+category: personal-development
 
 tags: [item1, item2]
 ---
