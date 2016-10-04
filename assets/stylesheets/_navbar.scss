@@ -1,34 +1,54 @@
-hr.primary {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 2.5px solid $theme-navy;
-    margin: 0;
-    padding: 0; 
+$theme-gray: #2e3842;
+
+$theme-white: #fdfdfd;
+
+.navbar-custom {
+    margin-bottom: 0;
+    border-bottom: 1px transparentize($theme-gray, 0.3);
+    font-family: $base-font-sans;
+    background-color: $theme-gray;
 }
 
-hr.banner {
-    display: block;
-    border-top: 5px solid $theme-white;
+.navbar-custom .navbar-toggle {
+    color: $theme-white;
+    background-color: transparentize($theme-gray, 0.2);
+    font-size: 12px;
 }
 
-.blank {
-    height: 1vh;
-    background-color: $theme-red;
+.navbar-custom .navbar-toggle:focus,
+.navbar-custom .navbar-toggle:active {
+    outline: none;
 }
 
-.trans-grow {
-  -webkit-transition: width 1s ease-out; /* For Safari 3.1 to 6.0 */
-  transition: width 1s  ease-out;
-  width : 0%;
-}   background-color: $theme-white;
+.navbar-custom .navbar-brand {
+    font-weight: 700;
+}
+
+.navbar-custom .navbar-brand:focus {
+    outline: none;
+}
+
+.navbar-custom a {
+    color: $theme-white;
+}
+
+.navbar-custom .nav li a {
+    -webkit-transition: background 0.3s ease-in-out;
+    -moz-transition: background 0.3s ease-in-out;
+    transition: background 0.3s ease-in-out;
+}
+
+.navbar-custom .nav li a:hover {
+    outline: none;
+    color: $theme-gray;
+    background-color: $theme-white;
 }
 
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a:active {
     outline: none;
     color: $theme-white;
-    background-color: $theme-navy;
+    background-color: $theme-gray;
 }
 
 .navbar-custom .nav li.active {
@@ -36,7 +56,7 @@ hr.banner {
 }
 
 .navbar-custom .nav li.active a {
-    background-color: transparentize($theme-navy, 0.3);
+    background-color: transparentize($theme-gray, 0.3);
 }
 
 .navbar-custom .nav li.active a:hover {
@@ -55,8 +75,8 @@ hr.banner {
     }
     .navbar-custom.top-nav-collapse {
         padding: 0;
-        background: $theme-navy;
-        border-bottom: 1px transparentize($theme-navy, 0.3);
+        background: $theme-gray;
+        border-bottom: 1px transparentize($theme-gray, 0.3);
     }
 }
 
