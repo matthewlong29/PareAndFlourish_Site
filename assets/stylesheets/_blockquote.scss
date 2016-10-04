@@ -12,20 +12,20 @@ blockquote {
 }
 
 blockquote:before, blockquote:after {
-    color: #EBB1B2;
+    color: $theme-red;
     content: '\f10d';
     font-family: 'FontAwesome';
     font-size: 30px;
+    top: 0;
+    left: 2px;
     position: absolute;
-    top: 5px;
-    left: 8px;
     display: block;
 }
 
 blockquote:after {
     content:'\f10e';
     bottom:0;
-    right:8px;
+    right:2px;
     top:auto;
     left:auto;
 }
