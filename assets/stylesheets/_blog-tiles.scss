@@ -11,29 +11,29 @@
     .blog-content {
         cursor: pointer;
         img {
-            border: 1px dotted $theme-navy;
+            border: 1px dotted $theme-gray;
             border-radius: 5px;
             &:hover,
             &:focus {
-                border: 1px solid darken($theme-navy, 35%);
+                border: 1px solid darken($theme-gray, 35%);
             }
         }
         h3 {
             font-family: 'Dancing Script', serif;
-            color: darken($theme-navy, 35%);
+            color: darken($theme-gray, 35%);
             font-weight: 600;
         }
         h5 {
-            color: darken($theme-navy, 35%);
+            color: darken($theme-gray, 35%);
         }
         p {
-            color: darken($theme-navy, 35%);
+            color: darken($theme-gray, 35%);
             text-align: left;
             padding: inherit;
             line-height: inherit;
         }
         a {
-            color: darken($theme-navy, 35%);
+            color: darken($theme-gray, 35%);
             text-decoration: none;
         }
     }

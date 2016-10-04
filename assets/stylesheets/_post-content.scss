@@ -6,11 +6,11 @@
     }
     a {
         text-decoration: none;
-        color: $theme-navy;
+        color: $theme-gray;
         border-bottom: 1px dotted;
             &:hover {
                 border-bottom: 0px;
-                color: darken($theme-navy, 0.5);
+                color: darken($theme-gray, 0.5);
                 transition: 1s;
             }
     }

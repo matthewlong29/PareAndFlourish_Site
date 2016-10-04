@@ -1,17 +1,17 @@
-$theme-navy: #2e3842;
+$theme-gray: #2e3842;
 
 $theme-white: #fdfdfd;
 
 .navbar-custom {
     margin-bottom: 0;
-    border-bottom: 1px transparentize($theme-navy, 0.3);
+    border-bottom: 1px transparentize($theme-gray, 0.3);
     font-family: $base-font-sans;
-    background-color: $theme-navy;
+    background-color: $theme-gray;
 }
 
 .navbar-custom .navbar-toggle {
     color: $theme-white;
-    background-color: transparentize($theme-navy, 0.2);
+    background-color: transparentize($theme-gray, 0.2);
     font-size: 12px;
 }
 
@@ -40,7 +40,7 @@ $theme-white: #fdfdfd;
 
 .navbar-custom .nav li a:hover {
     outline: none;
-    color: $theme-navy;
+    color: $theme-gray;
     background-color: $theme-white;
 }
 
@@ -48,7 +48,7 @@ $theme-white: #fdfdfd;
 .navbar-custom .nav li a:active {
     outline: none;
     color: $theme-white;
-    background-color: $theme-navy;
+    background-color: $theme-gray;
 }
 
 .navbar-custom .nav li.active {
@@ -56,7 +56,7 @@ $theme-white: #fdfdfd;
 }
 
 .navbar-custom .nav li.active a {
-    background-color: transparentize($theme-navy, 0.3);
+    background-color: transparentize($theme-gray, 0.3);
 }
 
 .navbar-custom .nav li.active a:hover {
@@ -75,8 +75,8 @@ $theme-white: #fdfdfd;
     }
     .navbar-custom.top-nav-collapse {
         padding: 0;
-        background: $theme-navy;
-        border-bottom: 1px transparentize($theme-navy, 0.3);
+        background: $theme-gray;
+        border-bottom: 1px transparentize($theme-gray, 0.3);
     }
 }
 
