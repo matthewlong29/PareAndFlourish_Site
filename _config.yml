@@ -26,28 +26,13 @@ Team:
 
 # Build settings
 markdown: kramdown
-#sass:
-#  style: compressed
-
-# Navigation
-defaults:
-  - scope:
-      path: _posts
-      type: blog
-    values:
-      layout: pages
-  - scope:
-      path: _pages
-      type: pages
-    values:
-      layout: pages
 
 # Plugin: jekyll-assets
 
 assets:
   sources:
-    - _assets/javascripts
-    - _assets/sass
+    - assets/javascripts
+    - assets/stylesheets
   autoprefixer:
     browsers: ["last 2 versions","> 5%","IE 9"]
 

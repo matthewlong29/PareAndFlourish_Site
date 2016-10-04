@@ -1,8 +1,15 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     addressable (2.4.0)
+    autoprefixer-rails (6.5.0.2)
+      execjs
+    bootstrap-sass (3.3.7)
+      autoprefixer-rails (>= 5.2.1)
+      sass (>= 3.3.4)
     colorator (1.1.0)
     concurrent-ruby (1.0.2)
+    execjs (2.7.0)
     extras (0.1.0)
       forwardable-extended (~> 2.5)
     fastimage (2.0.0)
@@ -48,14 +55,17 @@ GEM
     sprockets (3.6.0)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
+    wdm (0.1.1)
 
 PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  bootstrap-sass
   jekyll
   jekyll-assets
   sass
+  wdm (~> 0.1.0)
 
 BUNDLED WITH
    1.13.2
