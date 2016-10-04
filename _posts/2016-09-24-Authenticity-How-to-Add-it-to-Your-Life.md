@@ -3,11 +3,11 @@ layout: blog-posts
 
 title: "Authenticity: What it Means to You"
 
-subtitle: 
-
 permalink: /personal-development/authenticity-what-it-means-to-you
 
 modified: September 24, 2016
+
+author: "Skylar Wooden and Katie Butler"
 
 excerpt: "What does it mean to live authentically? Authenticity, as it relates to everyday living, means something different to everyone. Our idea of living authentically brought you this blog."
 

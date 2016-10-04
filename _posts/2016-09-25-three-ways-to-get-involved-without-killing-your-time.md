@@ -3,13 +3,11 @@ layout: blog-posts
 
 title: "Three Ways To Get Involved Without Killing Your Time"
 
-subtitle: 
-
 permalink: /professional-development/three-ways-to-get-involved-without-killing-your-time
 
 modified: September 25, 2016
 
-author: Skylar Wooden & Katie Butler
+author: "Skylar Wooden and Katie Butler"
 
 excerpt: "Do your best at your day job, but don’t give it all of yourself. Give back. Find out which fires generosity can ignite in your motivation."
 

@@ -5,9 +5,9 @@ permalink: /personal-development/introducing-pare-and-flourish
 
 title: "Introducing Pare and Flourish"
 
-subtitle: ""
-
 modified: September 23, 2016
+
+author: "Skylar Wooden and Katie Butler"
 
 excerpt: "If you write the blog that you always wanted to write, but no one reads it, does it matter? We want you, the reader, to know it matters. You have done something you have never done before, and each step in a direction that matters to you, matters."
 

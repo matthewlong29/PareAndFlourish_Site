@@ -1,20 +1,29 @@
-<div class="post-box blog-content">
+<div class="blog-content">
 
     <div class="row">
         
 
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                
                 <a href="{{ site.url }}{{ post.url }}">
                     <img src="{{ site.url }}/images/teasers-1080x600/{{ post.image.teaser }}" class="img-responsive" alt="{{ post.image.alt }}" />
                 </a>
                 
-                <h4>{{ post.category-title }}</h4>
+                {% if page.url == "/" %}
+                    <a href="{{ site.url }}{{ post.category }}">
+                        <h4>{{ post.category-title }}</h4>
+                    </a>
+                {% else %}
+                    <h4>{{ post.category-title }}</h4>
+                {% endif %}
+                
             </div>
 
-            <div class="col-lg-8 col-md-8 col-sm-6 col-xs-12">
+            <div class="blog-text col-lg-8 col-md-8 col-sm-6 col-xs-12">
                 <a href="{{ site.url }}{{ post.url }}">
                     <h3>{{ post.title }}</h3>
-                    <p>{{ post.modified }}</p>
+                    <h5>{{ post.modified }}</h5>
+                    <h5>Written by: {{ post.author }}</h5>
                     <p>{{ post.excerpt }}</p>
                 </a>
             </div>
