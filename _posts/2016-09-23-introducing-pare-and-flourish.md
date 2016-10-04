@@ -18,6 +18,8 @@ image:
 
 category: personal-development
 
+category-title: Personal Development
+
 tags: [introduction]
 ---
 
@@ -40,4 +42,4 @@ We want you, the reader, to know **it matters**. You have done something you hav
 
 This is a year of firsts for us. You'll learn about plenty of our firsts in this blog. In fact, this blog is one of our big firsts for the year. We ask that you join us in our adventure. Try something new with us. If you have felt inspired by something new you’ve tried recently, we want to share that feeling of inspiration. Leave a link or an idea in the comments! 
 
-___
+<hr class="primary">

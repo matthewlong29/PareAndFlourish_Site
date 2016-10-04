@@ -20,6 +20,8 @@ image:
 
 category: professional-development
 
+category-title: Professional Development
+
 tags: [item1, item2]
 ---
 
@@ -55,5 +57,4 @@ Look for our next post where we will provide some helpful tips on networking and
 
 In the meantime, what are your favorite organizations and what cause do they support? Leave a comment below and tell us how you incorporate giving back to your community into your hectic schedule. 
 
-
-___
+<hr class="primary">

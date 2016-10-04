@@ -18,6 +18,8 @@ image:
 
 category: personal-development
 
+category-title: Personal Development
+
 tags: [item1, item2]
 ---
 
@@ -46,5 +48,4 @@ Maybe today’s self-improvement task is reading this blog post and getting the 
 Look for our next blog about using volunteer work as an outlet while still protecting your most important asset: time.  
 So tell us, what goal do you want to use your time to work toward? Is it opening your own business? Going back to school? Learning something new? We’d love to hear all of your aspirations, inspiration, and motivation.
 
-
-___
+<hr class="primary">

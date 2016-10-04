@@ -1,19 +1,25 @@
 <div class="post-box blog-content">
 
     <div class="row">
-        <a href="{{ site.url }}{{ post.url }}">
+        
 
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                <img src="{{ site.url }}/images/teasers-1080x600/{{ post.image.teaser }}" class="img-responsive" alt="{{ post.image.alt }}" />
+                <a href="{{ site.url }}{{ post.url }}">
+                    <img src="{{ site.url }}/images/teasers-1080x600/{{ post.image.teaser }}" class="img-responsive" alt="{{ post.image.alt }}" />
+                </a>
+                
+                <h4>{{ post.category-title }}</h4>
             </div>
 
             <div class="col-lg-8 col-md-8 col-sm-6 col-xs-12">
-                <h3>{{ post.title }}</h3>
-                <p>{{ post.modified }}</p>
-                <p>{{ post.excerpt }}</p>
+                <a href="{{ site.url }}{{ post.url }}">
+                    <h3>{{ post.title }}</h3>
+                    <p>{{ post.modified }}</p>
+                    <p>{{ post.excerpt }}</p>
+                </a>
             </div>
 
-        </a>
+
     </div>
 
 </div>

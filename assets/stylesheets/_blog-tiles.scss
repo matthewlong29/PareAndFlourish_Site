@@ -1,6 +1,5 @@
 .blog-tiles {
     min-height: 33.3vh;
-    background-color: $theme-white;
     text-align: left;
     h1 {
         text-align: center;
@@ -9,7 +8,8 @@
         text-align: center;
     }
     .blog-content {
-        cursor: pointer;
+        padding: 0;
+        margin: 0;
         img {
             border: 1px dotted $theme-gray;
             border-radius: 5px;
@@ -22,9 +22,16 @@
             font-family: 'Dancing Script', serif;
             color: darken($theme-gray, 35%);
             font-weight: 600;
+            &:hover,
+            &:focus {
+                color: darken($theme-red, 35%);
+            }
         }
-        h5 {
+        h4 {
             color: darken($theme-gray, 35%);
+            text-align: center;
+            background-color: $theme-yellow;
+            padding: 0;
         }
         p {
             color: darken($theme-gray, 35%);
@@ -35,6 +42,7 @@
         a {
             color: darken($theme-gray, 35%);
             text-decoration: none;
+            text-align: left;
         }
     }
 }
