@@ -1,17 +1,13 @@
-$theme-gray: #2e3842;
-
-$theme-white: #fdfdfd;
-
 .navbar-custom {
     margin-bottom: 0;
-    border-bottom: 1px transparentize($theme-gray, 0.3);
+    border-bottom: 1px $theme-gray;
     font-family: $base-font-sans;
     background-color: $theme-gray;
 }
 
 .navbar-custom .navbar-toggle {
     color: $theme-white;
-    background-color: transparentize($theme-gray, 0.2);
+    background-color: $theme-gray;
     font-size: 12px;
 }
 
@@ -56,7 +52,7 @@ $theme-white: #fdfdfd;
 }
 
 .navbar-custom .nav li.active a {
-    background-color: transparentize($theme-gray, 0.3);
+    background-color: $theme-gray;
 }
 
 .navbar-custom .nav li.active a:hover {
@@ -76,7 +72,7 @@ $theme-white: #fdfdfd;
     .navbar-custom.top-nav-collapse {
         padding: 0;
         background: $theme-gray;
-        border-bottom: 1px transparentize($theme-gray, 0.3);
+        border-bottom: 1px $theme-gray;
     }
 }
 
