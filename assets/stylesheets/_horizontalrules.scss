@@ -7,6 +7,16 @@ hr.primary {
     padding: 0; 
 }
 
+hr.secondary {
+    display: block;
+    border: none;
+    color: white;
+    margin: 0;
+    padding: 0; 
+    height: 1px;
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 425, from($theme-gray), to($theme-white));
+}
+
 hr.banner {
     display: block;
     border-top: 5px solid $theme-white;

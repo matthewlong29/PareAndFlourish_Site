@@ -12,21 +12,22 @@
         padding: 0;
         margin: 0;
         img {
-            border: 2px dotted $theme-navy;
+            margin: 1em 0 0 0;
+            border: 1px dotted $theme-navy;
             border-radius: 5px;
             &:hover,
             &:focus {
-                border: 2px solid darken($theme-navy, 25%);
+                border: 1px solid darken($theme-navy, 25%);
             }
         }
         h3 {
             font-family: 'Dancing Script', serif;
             color: darken($theme-gray, 25%);
-            font-weight: bold;
+            font-weight: normal;
             margin: 0 0 1em 0;
             &:hover,
             &:focus {
-                font-weight: normal;
+                font-weight: bold;
             }
         }
         h4 {
@@ -35,6 +36,11 @@
             background-color: $theme-yellow;
             border-radius: 5px;
             margin: 0 0 1em 0;
+            &:hover,
+            &:focus {
+                background-color: lighten($theme-yellow, 5%);
+                transition: .5s;
+            }
         }
         h5 {
             color: lighten($theme-gray, 10%);
