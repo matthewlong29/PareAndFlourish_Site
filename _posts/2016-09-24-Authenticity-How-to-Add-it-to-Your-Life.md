@@ -13,7 +13,7 @@ excerpt: "What does it mean to live authentically? Authenticity, as it relates t
 
 image:
   feature: introducing.png
-  teaser: filler-two.jpg
+  teaser: authenticity-what-it-means.png
   alt: 
 
 category: personal-development

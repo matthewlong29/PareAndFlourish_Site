@@ -13,7 +13,7 @@ excerpt: "If you write the blog that you always wanted to write, but no one read
 
 image:
   feature: introducing.png
-  teaser: filler-one.jpg
+  teaser: introducing.png
   alt: 
 
 category: personal-development
