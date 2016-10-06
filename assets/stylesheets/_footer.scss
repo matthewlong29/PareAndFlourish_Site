@@ -2,6 +2,8 @@
     background-image: url('../../../images/feature.png');
     background-size: cover;
     background-attachment: fixed;
+    -webkit-transition: 1s all ease;
+    transition: 1s all ease;
     @media (max-width: 767px) {
         background-attachment: scroll;
     }
