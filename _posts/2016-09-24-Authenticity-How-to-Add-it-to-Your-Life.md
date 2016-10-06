@@ -19,8 +19,6 @@ image:
 category: personal-development
 
 category-title: Personal Development
-
-tags: [item1, item2]
 ---
 
 ## Authenticity: What it Means to You

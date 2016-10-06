@@ -19,8 +19,6 @@ image:
 category: professional-development
 
 category-title: Professional Development
-
-tags: [item1, item2]
 ---
 
 ## Three Ways To Get Involved Without Killing Your Time
