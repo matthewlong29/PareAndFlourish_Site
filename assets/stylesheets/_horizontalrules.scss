@@ -17,18 +17,7 @@ hr.secondary {
     background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 425, from($theme-gray), to($theme-white));
 }
 
-hr.banner {
-    display: block;
-    border-top: 5px solid $theme-white;
-}
-
 .blank {
     height: 1vh;
     background-color: $theme-red;
-}
-
-.trans-grow {
-  -webkit-transition: width 1s ease-out; /* For Safari 3.1 to 6.0 */
-  transition: width 1s  ease-out;
-  width : 0%;
 }

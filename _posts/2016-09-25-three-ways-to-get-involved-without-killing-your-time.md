@@ -32,19 +32,22 @@ Volunteering is an act of pure generosity. You’re donating your skill, your ti
 But while giving so much of your life to your responsibilities, who has time to do nonprofit work? You. We know you’re tired. So are we. Too much of the time. But, volunteer and nonprofit work doesn’t have to consume your life. 
 
 Here are three ways you can give back without killing all of your free time, and examples of how we’ve done it:
+<hr class="secondary">
+### 1. Take advantage of existing opportunities.
+Most companies are already involved in some type of charity work; odds are, they need more employees involved. Ask your employer if there is an opportunity for you.
 
->**One:** Take advantage of existing opportunities.<br /><br />
-Most companies are already involved in some type of charity work; odds are, they need more employees involved. Ask your employer if there is an opportunity for you.<br /><br />
 Less commonly, many companies allow their employees to volunteer a certain number of hours per month, without counting against work time. Understanding all of your options is a great start.  
+<hr class="secondary">
+### 2. Work in the nonprofit industry.
+Whatever it is that you do—Technical Writer, Accountant, Realtor, Engineer, etc.—a nonprofit is out there that needs your skills.
 
->**Two:** Work in the nonprofit industry.<br /><br />
-Whatever it is that you do—Technical Writer, Accountant, Realtor, Engineer, etc.—a nonprofit is out there that needs your skills.<br /><br />
 Nonprofit organizations need employees like you.  
+<hr class="secondary">
+### 3. Volunteer in the traditional sense.
+Finally, there is straightforward nonprofit work as we usually see it/think about it. Volunteering in the traditional sense gives you the freedom to choose how much or how little time you want to devote.
 
->**Three:** Volunteer in the traditional sense.<br /><br />
-Finally, there is straightforward nonprofit work as we usually see it/think about it. Volunteering in the traditional sense gives you the freedom to choose how much or how little time you want to devote.<br /><br />
 If you have only one hour to spare, there is no small amount of time when it comes to benefiting others. 
-
+<hr class="secondary">
 In the search for ways to fulfill your “potential” (whatever that may mean to you), we urge you to look at nonprofit work as a tool. Strive to find the person you want to be.
 
 Ways that we’ve added nonprofit work to our lives include volunteering to serve on a board of directors and fundraise, attending nonprofit conferences, maintaining GoFundMe pages for local charities, and networking with other professionals in the nonprofit world. 
