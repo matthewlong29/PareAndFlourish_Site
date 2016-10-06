@@ -1,8 +1,9 @@
 .banner-front {
-    background-image: url('../../images/banner.png');
+    background-image: url('../../images/banner-large.png');
     background-size: cover;
     background-attachment: fixed;
     @media (max-width: 767px) {
+        background-image: url('../../images/banner-small.png');
         background-attachment: scroll;
     }
     background-position: center;
