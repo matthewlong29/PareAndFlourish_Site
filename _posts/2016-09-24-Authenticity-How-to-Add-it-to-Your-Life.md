@@ -1,5 +1,5 @@
 ---
-layout: blog-posts
+layout: content-page
 
 title: "Authenticity: What it Means to You"
 

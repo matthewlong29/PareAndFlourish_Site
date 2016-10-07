@@ -1,5 +1,5 @@
 ---
-layout: blog-posts
+layout: content-page
 
 permalink: /personal-development/introducing-pare-and-flourish
 

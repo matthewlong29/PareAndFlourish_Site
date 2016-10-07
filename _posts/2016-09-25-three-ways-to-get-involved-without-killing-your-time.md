@@ -1,5 +1,5 @@
 ---
-layout: blog-posts
+layout: content-page
 
 title: "Three Ways To Get Involved Without Killing Your Time"
 
