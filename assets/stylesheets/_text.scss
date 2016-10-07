@@ -5,6 +5,11 @@ p {
     margin: .5em 0 .5em 0;
 }
 
+li {
+    color: $theme-gray;
+    font-family: $base-font-sans;
+}
+
 p.script {
     font-family: $base-font-script;
     display: inline;
@@ -34,3 +39,4 @@ a {
     padding: 0;
     margin: 0;
 }
+
