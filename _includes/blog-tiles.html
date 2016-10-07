@@ -10,11 +10,15 @@
                 </a>
                 
                 {% if page.url == "/" %}
+                
                     <a href="{{ site.url }}{{ post.category }}" title="Click here to see more posts related to {{ post.category-title }}.">
                         <h4>{{ post.category-title }}</h4>
                     </a>
+                
                 {% else %}
+                
                     <h4>{{ post.category-title }}</h4>
+                
                 {% endif %}
                 
             </div>

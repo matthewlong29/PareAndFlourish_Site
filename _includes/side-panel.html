@@ -1,15 +1,41 @@
 <section id="side-panel">
     <div class="side-panel">
-        <h3>A few tweets could go here.</h3>
-        <p>Such as latest tweets by us. Or any tweet we want really.</p>
-        <img src="http://placehold.it/350x150" class="img-responsive">
-        <img src="http://placehold.it/350x150" class="img-responsive">
-        <hr class="secondary">
-        <h4>Sponsored links here?</h4>
-        <img src="http://placehold.it/350x150" class="img-responsive">
-        <hr class="secondary">
-        <p>Stuff here?</p>
-        <img src="http://placehold.it/350x150" class="img-responsive">
-        <hr class="secondary">
+    <!-- Looking for a way to disable the sidebar at certain widths (mainly for mobile devices). Media queries will be a good place to start. Also, the scroll effect where the  sidebar "attaches" itself to the navbar and follows you is a feature I have planned for later. -->
+        
+        <!-- Teaser image that coincides with the post currently visiting. The point of having this is so pinterest will pin the image we want. -->
+        
+        {% if page.image.teaser %}
+        <section id="current-teaser">
+            <div class="current-teaser">
+                <img src="{{ site.url }}/images/teasers-1080x600/{{ page.image.teaser }}" class="img-responsive" alt="{{ page.image.alt }}" />
+            </div>
+        
+            <a href="../{{ page.category }}" title="Click here to see more posts related to {{ page.category-title }}.">
+                <h4>{{ page.category-title }}</h4>
+            </a>
+        </section>
+        {% endif %}
+        
+        
+        <!-- Twitter Section.  -->
+        <section id="twitter">
+            <img src="http://placehold.it/1000x1000" class="img-responsive">
+            <a href="{{ site.links.twitter }}" target="_blank">
+                <h3>See more here! <i class="fa fa-twitter"></i></h3>
+            </a>
+        </section>
+        
+        <!-- Ads? -->
+        <section id="ad">
+            <img src="http://placehold.it/1000x500" class="img-responsive">
+            <h4>Sponsored ad here?</h4>
+        </section>
+        
+        <!-- Subscribe section here? -->
+        <section id="subscribe">
+            <img src="http://placehold.it/1000x500" class="img-responsive">
+            <h4>Sponsored ad here?</h4>
+        </section>
+    <!-- -->
     </div>
 </section>

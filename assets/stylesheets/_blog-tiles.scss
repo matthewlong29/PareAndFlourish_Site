@@ -3,6 +3,8 @@
     text-align: left;
     margin: 0 0 1em 0;
     background-color: $theme-white;
+    -webkit-transition: 1s all ease;
+    transition: 1s all ease;
     h1 {
         text-align: center;
     }

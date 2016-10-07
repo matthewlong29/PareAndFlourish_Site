@@ -1,14 +1,13 @@
 <section id="professional-development">
     <div class="blog-tiles">
-        <div class="container">
-            <hr class="primary">
+        
+        <hr class="primary">
             
-            {% for post in site.categories.professional-development limit:12 %}
-            
-                {% include blog-tiles.html %}
+        {% for post in site.categories.professional-development limit:12 %}
 
-            {% endfor %}
+            {% include blog-tiles.html %}
+
+        {% endfor %}
             
-        </div>
     </div>
 </section>

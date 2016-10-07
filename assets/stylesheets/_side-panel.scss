@@ -1,6 +1,44 @@
 .side-panel {
-    border: 1px solid $theme-gray;
-    margin: 1em;
-    padding: 1em;
+    margin: 1em 0 1em 0;
+    padding: 0;
     background-color: $theme-white;
+    -webkit-transition: 1s all ease;
+    transition: 1s all ease;
+    h3 {
+        color: $theme-white;
+        text-align: center;
+        background-color: $theme-red;
+        border-radius: 5px;
+        margin: 0 0 1em 0;
+        &:hover,
+        &:focus {
+            background-color: lighten($theme-red, 5%);
+            transition: .5s;
+        }
+    }
+    h4 {
+        color: $theme-gray;
+        text-align: center;
+        background-color: $theme-yellow;
+        border-radius: 5px;
+        margin: 0 0 1em 0;
+        &:hover,
+        &:focus {
+            background-color: lighten($theme-yellow, 5%);
+            transition: .5s;
+        }
+    }
+    p {
+        color: lighten($theme-gray, 25%);
+        text-align: left;
+        margin: 0;
+    }
+    a {
+        text-decoration: none;
+        text-align: left;
+    }
+    img {
+        border: 2px solid $theme-gray;
+        border-radius: 5px;
+    }
 }

@@ -5,19 +5,27 @@ layout: default
 {% include feature-image.html %}
 
 <div class="container">
+    <div class="row">
+        
+    <div class="col-lg-8 col-md-8 col-sm-12">
+        <div class="medium-tb">
+            <div class="post-content">
 
-    <div class="medium-tb">
-        <div class="post-content">
-            
-            {{ content }}
-            
-            {% include bonus-material.html %}
-            
-            <p style="text-align:center">Blogs soon to come!</p>
-            
+                {{ content }}
+
+                {% include bonus-material.html %}
+
+                <p style="text-align:center">Blogs soon to come!</p>
+
+            </div>
         </div>
-    </div>
 
-    <hr class="primary">
+        <hr class="primary">
+    </div>
+        
+    <div class="col-lg-4 col-md-4 col-sm-12">
+        {% include side-panel.html %}
+    </div>
     
+    </div>
 </div>

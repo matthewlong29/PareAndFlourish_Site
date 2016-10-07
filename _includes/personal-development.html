@@ -1,14 +1,13 @@
 <section id="personal-development">
     <div class="blog-tiles">
-        <div class="container">
-            <hr class="primary">
-            
-            {% for post in site.categories.personal-development limit:12 %}
-            
-                {% include blog-tiles.html %}
+        
+        <hr class="primary">
 
-            {% endfor %}
-            
-        </div>
+        {% for post in site.categories.personal-development limit:12 %}
+
+            {% include blog-tiles.html %}
+
+        {% endfor %}
+
     </div>
 </section>
