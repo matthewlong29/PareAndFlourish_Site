@@ -1,43 +1,9 @@
-.footer-section {
-    background-image: url('../../../images/feature.png');
-    background-size: cover;
-    background-attachment: fixed;
-    -webkit-transition: 1s all ease;
-    transition: 1s all ease;
-    @media (max-width: 767px) {
-        background-attachment: scroll;
-    }
-    line-height: 1em;
-    text-align: center;
-    h2 {
-        color: $theme-white;
-        font-size: 2em;
-        font-weight: 800;
-    }
-    p {
-        color: $theme-white;
-        font-size: 1em;
-    }
-    a {
-        font-size: .85em;    
-        text-decoration: none;
-        &:hover,
-        &:focus {
-            color: $theme-white;
-            text-decoration: none;
-        }
-    }
-}
-
-.sub-preview {
-    min-height: 10vh;
-}
-
 //// Social Media Section
 
 .social-section {
     min-height: 7.5vh;
     background-color: transparentize($theme-gray, 0.15);
+    text-align: center;
     p {
         color: darken($theme-white, 35%);
         font-size: .9em;
@@ -46,15 +12,13 @@
         color: darken($theme-white, 35%);
         font-size: 1em;    
         text-decoration: none;
+        &:hover {
+            border-bottom: 0px;
+            color: $theme-white;
+            transition: .5s;
+        }
     }
     a.alt {
         border-bottom: 1px dotted;
-            &:hover {
-                border-bottom: 0px;
-                color: $theme-white;
-                transition: 1s;
-            }
     }
 }
-
-
