@@ -43,8 +43,8 @@ Whatever it is that you do—Technical Writer, Accountant, Realtor, Engineer, et
 
 Nonprofit organizations need employees like you.  
 <hr class="secondary">
-### 3. Volunteer in the traditional sense.
-Finally, there is straightforward nonprofit work as we usually see it/think about it. Volunteering in the traditional sense gives you the freedom to choose how much or how little time you want to devote.
+### 3. Sponsored charity events.
+Finally, sponsored charity events are a great way to contribute your time and/or money for a specific, short amount of time. These events are all over your town. Sponsored festivals, 5ks, meals, etc. allow you to contribute without overextending yourself.  
 
 If you have only one hour to spare, there is no small amount of time when it comes to benefiting others. 
 <hr class="secondary">
