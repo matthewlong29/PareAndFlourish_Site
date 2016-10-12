@@ -1,13 +1,13 @@
 .feature-image {
     background-image: url('../../images/flower-field.png');
     background-attachment: fixed;
-    background-size: 100%;
-    min-height: 22.5vh;
+    background-size: cover;
+    min-height: 25vh;
     max-height: 40vh;
+    background-position: right 0px bottom 500px; 
     @media (max-width: 767px) {
         background-attachment: scroll;
-        min-height: 12.5vh;
+        min-height: 25vh;
         max-height: 40vh;
     }
-
 }
