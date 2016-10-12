@@ -41,3 +41,5 @@ sass:
 # Jekyll configuration
 gems:
   - jekyll-assets
+
+future: false

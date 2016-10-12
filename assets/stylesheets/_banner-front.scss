@@ -1,9 +1,8 @@
 .banner-front {
-    background-image: url('../../images/bricks-and-flowers-alt.png');
-    background-size: auto;
+    background-image: url('../../images/flower-field.png');
+    background-size: cover;
     background-attachment: fixed;
     @media (max-width: 767px) {
-        background-image: url('../../images/bricks-and-flowers.png');
         background-attachment: scroll;
     }
     background-position: center;
@@ -15,9 +14,9 @@
             right: 0;
             -webkit-transition: 1s all ease;
             transition: 1s all ease;
-            border: 2px solid $theme-white;
+            border: 2px solid $theme-gray;
             margin: auto;
-            margin-top: 25vh;
+            margin-top: 10vh;
             margin-bottom: 2.5vh;
             width: 50%;
 
@@ -26,10 +25,10 @@
             left: 0;
             -webkit-transition: 1s all ease;
             transition: 1s all ease;
-            border: 2px solid $theme-white;
+            border: 2px solid $theme-gray;
             margin: auto;
             margin-top: 2.5vh;
-            margin-bottom: 15vh;
+            margin-bottom: 2.5vh;
             width: 50%;
         }
         h1 {
@@ -38,7 +37,7 @@
             display: block;
             margin-top: 0vh;
             margin-bottom: 0vh;
-            color: $theme-white;
+            color: $theme-gray;
             font-size: 3.25em;
             font-weight: 800;
             text-transform: uppercase;
@@ -52,7 +51,7 @@
             margin: auto;
             margin-left: 25%;
             margin-right: 25%;
-            color: $theme-white;
+            color: $theme-gray;
             font-size: 1.5em;
             @media (max-width: 767px) {
                 font-size: 1.25em;
@@ -65,7 +64,7 @@
         }
         img {
             margin: auto;
-            color: $theme-white;
+            color: $theme-gray;
         }
     }
 }

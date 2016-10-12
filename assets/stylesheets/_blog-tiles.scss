@@ -16,11 +16,11 @@
         margin: 0;
         img {
             margin: 1em 0 0 0;
-            border: 1px dotted $theme-navy;
+            border: 1px dotted $theme-gray;
             border-radius: 5px;
             &:hover,
             &:focus {
-                border: 1px solid darken($theme-navy, 25%);
+                border: 1px solid darken($theme-gray, 25%);
             }
         }
         h3 {
