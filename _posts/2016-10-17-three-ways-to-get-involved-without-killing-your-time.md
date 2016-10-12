@@ -5,7 +5,7 @@ title: "Three Ways To Get Involved Without Killing Your Time"
 
 permalink: /professional-development/three-ways-to-get-involved-without-killing-your-time
 
-modified: September 25, 2016
+modified: October 17, 2016
 
 author: "Skylar Wooden and Katie Butler"
 

@@ -5,7 +5,7 @@ title: "Authenticity: What it Means to You"
 
 permalink: /personal-development/authenticity-what-it-means-to-you
 
-modified: September 24, 2016
+modified: October 10, 2016
 
 author: "Skylar Wooden and Katie Butler"
 

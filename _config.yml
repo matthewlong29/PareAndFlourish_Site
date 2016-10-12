@@ -42,4 +42,4 @@ sass:
 gems:
   - jekyll-assets
 
-future: false
+future: true

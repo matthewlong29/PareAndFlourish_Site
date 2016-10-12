@@ -5,7 +5,7 @@ permalink: /personal-development/introducing-pare-and-flourish
 
 title: "Introducing Pare and Flourish"
 
-modified: September 23, 2016
+modified: October 3, 2016
 
 author: "Skylar Wooden and Katie Butler"
 
