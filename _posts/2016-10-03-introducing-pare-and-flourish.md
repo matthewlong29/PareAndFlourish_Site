@@ -19,6 +19,8 @@ image:
 category: personal-development
 
 category-title: Personal Development
+
+keywords:
 ---
 
 ## Introducing Pare and Flourish
