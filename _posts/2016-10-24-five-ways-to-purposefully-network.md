@@ -25,8 +25,8 @@ keywords: Networking, Volunteering, Conference, Informational Interview, Profess
 
 ## Five Ways to Purposefully Network
 
->I feel really grateful to the people who encouraged me and helped me develop. Nobody can succeed on their own.
-><cite>- Lean In, Sheryl Sandberg</cite>
+>I feel really grateful to the people who encouraged me and helped me develop. Nobody can succeed on their own.<br />
+><cite>Lean In, Sheryl Sandberg</cite>
 
 In early years of college, the word “networking” is thrown around as if you should know how to do it. The basic idea is meeting people, so you should be able to do that easily. Because, ya know, there are people everywhere, right? Yes and no. It’s never about how many people you meet, it’s about who you meet and how. This is a prime quality over quantity scenario. 
 
@@ -39,11 +39,11 @@ One key to networking is to be your **genuine** self, with a hint of professiona
 Here are five ways to purposefully network: 
 <hr class="secondary">
 ### 1. Informational Interview
-Otherwise known as the networking world’s best kept secret, the informational interview could be your golden ticket. An informational interview is when you set up an interview with someone without the intention of landing a job. Isn’t that the whole point, though? 
+Otherwise known as the networking world’s best-kept secret, the informational interview could be your golden ticket. An informational interview is when you set up an interview with someone without the intention of landing a job. Isn’t that the whole point, though? 
 
 Here’s the beauty of the informational interview: the stakes are low. 
 
-You’re getting a chance to talk to someone you respect about how they got to where they are. These “interviews” are generally over coffee and are a place to be your genuine self. Ask questions and listen intently. If a position comes up that you’d be perfect for, chances are, they’ll reach out. 
+You’re getting a chance to talk to someone you respect about how they got to where they are. These interviews are generally over coffee and are a place to be your genuine self. Ask questions and listen intently. If a position comes up that you’d be perfect for, chances are, they’ll reach out. 
 <hr class="secondary">
 ### 2. LinkedIn and Levo
 A good LinkedIn or Levo (or both) profile can be a low maintenance way to put your best foot forward. Think of this as your online resume, but more functional and interactive. Take full advantage of the platform. Add as much information as possible, attach work samples, and keep your profile up to date. The right person just might see it and consider you for an opportunity.
@@ -62,6 +62,6 @@ Having a good relationship with your professors will only benefit you.
 <hr class="secondary">
 ### 5. Volunteer Work
 As we’ve mentioned in our post [Three Ways to Get Involved Without Killing Your Time]({{site.url}}/professional-development/three-ways-to-get-involved-without-killing-your-time), volunteer work is a great resource. Pick something that you’re passionate about, show that you’re really there to make change happen, and form relationships with everyone around you. These people may become your most valuable resources. You might be working next to someone who is, or who knows, someone who can help you reach your goals. 
-<hr class="secondary">
+
 What are some ways that you’ve found to purposefully network? Please let us know in the comments! For next week, look for our next blog on the art of the informational interview.
 <hr class="primary">

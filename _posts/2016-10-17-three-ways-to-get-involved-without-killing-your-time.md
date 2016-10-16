@@ -1,7 +1,7 @@
 ---
 layout: content-page
 
-title: "Three Ways To Get Involved Without Killing Your Time"
+title: "Three Ways to Get Involved Without Killing Your Time"
 
 permalink: /professional-development/three-ways-to-get-involved-without-killing-your-time
 
@@ -50,7 +50,7 @@ Finally, sponsored charity events are a great way to contribute your time and/or
 
 If you have only one hour to spare, there is no small amount of time when it comes to benefiting others. 
 <hr class="secondary">
-In the search for ways to fulfill your “potential” (whatever that may mean to you), we urge you to look at nonprofit work as a tool. Strive to find the person you want to be.
+In the search for ways to fulfill your potential (whatever that may mean to you), we urge you to look at nonprofit work as a tool. Strive to find the person you want to be.
 
 Ways that we’ve added nonprofit work to our lives include volunteering to serve on a board of directors and fundraise, attending nonprofit conferences, maintaining GoFundMe pages for local charities, and networking with other professionals in the nonprofit world. 
 

@@ -31,12 +31,6 @@ An informational interview sounds like the most boring networking tactic out the
 
 In our previous post, [5 Ways to Purposefully Network]({{site.url}}//professional-development/five-ways-to-purposefully-network), this type of interview is referred to as the “networking world’s best-kept secret.” How many people have told you about their experience with an informational interview? Probably very few. For most, this is a newer concept. We’re going to talk a little about the ins and outs of the informational interview so you can boost your networking skills!
 
-### Who to Ask
-
-If you’re a college student, or have graduated from college recently, you’ll find that professors are a great resource. Not only do they have a lot to share with you, but they might know faculty and staff who you could benefit from meeting. Likewise, if you’ve done an internship in your field, you might ask your internship supervisor if they have contacts that would be willing to speak with you about your career. 
-
-Start your inquiries with people you know, but don’t ask just anyone. Ask someone who you feel will give you the most relevant contact. Finding someone who shares your interests and goals can lead to a more purposeful conversation.
-
 ### How to Set it Up 
 
 Ask. You will be surprised by how many successful people in your field are willing to sit and chat with you about what you aspire to do, how they got to where they are, and the advice that helped them along the way. To set up an interview, write a professional email to him or her, explaining the following: 
@@ -47,6 +41,12 @@ Ask. You will be surprised by how many successful people in your field are willi
 * What you would want to accomplish in an interview
 
 With luck, he or she will respond to accept your invitation. If not, don’t be discouraged. 
+
+### Who to Ask
+
+If you’re a college student, or have graduated from college recently, you’ll find that professors are a great resource. Not only do they have a lot to share with you, but they might know faculty and staff who you could benefit from meeting. Likewise, if you’ve done an internship in your field, you might ask your internship supervisor if they have contacts that would be willing to speak with you about your career. 
+
+Start your inquiries with people you know, but don’t ask just anyone. Ask someone who you feel will give you the most relevant contact. By choosing contacts with intention, you’ll have a better chance of finding someone who shares, or once shared, your interests and goals.
 
 ### What to Ask
 
