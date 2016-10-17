@@ -22,6 +22,7 @@
         background-color: $theme-yellow;
         border-radius: 5px;
         margin: 0 0 1em 0;
+        font-size: 1.25em;
         &:hover,
         &:focus {
             background-color: lighten($theme-yellow, 10%);
@@ -40,6 +41,7 @@
     img {
         border: 2px solid $theme-gray;
         border-radius: 5px;
+        margin: auto 0;
     }
     .twitter-section {
         @media only screen and (max-width: 992px) {
