@@ -9,16 +9,15 @@
         border-radius: 5px;
     }
     h4 {
-        font-family: $base-font-sans;
-        color: $theme-gray;
-        text-align: center;
-        background-color: $theme-yellow;
-        border-radius: 5px;
-        margin: 0 0 1em 0;
-        &:hover,
-        &:focus {
-            background-color: lighten($theme-yellow, 10%);
-            transition: .5s;
-        }
+    color: $theme-gray;
+    text-align: center;
+    background-color: $theme-yellow;
+    border-radius: 5px;
+    margin: 0 0 1em 0;
+    &:hover,
+    &:focus {
+        background-color: lighten($theme-yellow, 10%);
+        transition: .5s;
+    }
     }
 }

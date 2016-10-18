@@ -6,7 +6,6 @@
     -webkit-transition: 1s all ease;
     transition: 1s all ease;
     h1 {
-        font-family: $base-font-sans;
         text-align: center;
     }
     p {
@@ -25,7 +24,7 @@
             }
         }
         h3 {
-            font-family: $base-font-script;
+            font-family: 'Dancing Script', serif;
             color: darken($theme-gray, 25%);
             font-weight: normal;
             margin: 0 0 1em 0;
@@ -35,7 +34,6 @@
             }
         }
         h4 {
-            font-family: $base-font-sans;
             color: $theme-gray;
             text-align: center;
             background-color: $theme-yellow;
@@ -48,7 +46,6 @@
             }
         }
         h5 {
-            font-family: $base-font-sans;
             color: lighten($theme-gray, 10%);
             margin: 0;
         }
