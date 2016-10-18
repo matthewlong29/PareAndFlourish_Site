@@ -38,6 +38,8 @@ In this blog, you can expect first-hand accounts of our daily life struggles, ho
 
 *If you write the blog that you always wanted to write, but no one reads it, does it matter?*
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">If you write the blog that you always wanted to write, but no one reads it, does it matter?</p>&mdash; PareandFlourish (@pareandflourish) <a href="https://twitter.com/pareandflourish/status/788374828625657857">October 18, 2016</a></blockquote>
+
 We want you, the reader, to know **it matters**. You have done something you have never done before, and each step in a direction that matters to you, matters.
 
 This is a year of firsts for us. You'll learn about plenty of our firsts in this blog. In fact, this blog is one of our big firsts for the year. We ask that you join us in our adventure. Try something new with us. If you have felt inspired by something new you’ve tried recently, we want to share that feeling of inspiration. Leave a link or an idea in the comments! 
