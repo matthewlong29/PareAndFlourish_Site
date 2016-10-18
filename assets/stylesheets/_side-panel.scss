@@ -5,6 +5,7 @@
     -webkit-transition: 1s all ease;
     transition: 1s all ease;
     h3 {
+        font-family: $base-font-sans;
         color: $theme-white;
         text-align: center;
         background-color: $theme-red;
@@ -17,6 +18,7 @@
         }
     }
     h4 {
+        font-family: $base-font-sans;
         color: $theme-gray;
         text-align: center;
         background-color: $theme-yellow;
