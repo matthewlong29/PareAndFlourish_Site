@@ -6,6 +6,37 @@
         
         {% include subscribe.html %}
         
+        <!-- Social Media Buttons -->
+        
+        <section id="social-buttons">
+            <div class="social-buttons">
+                <a href="{{ site.links.twitter }}" target="_blank">
+                    <span class="fa-stack fa-2x" title="See our tweets here">
+                        <i class="fa fa-square-o fa-stack-2x"></i>
+                        <i class="fa fa-twitter fa-stack-1x twitter-color"></i>
+                    </span>
+                </a>                                        
+                <a href="{{ site.links.pinterest }}" target="_blank">
+                    <span class="fa-stack fa-2x" title="See our pins here">
+                        <i class="fa fa-square-o fa-stack-2x"></i>
+                        <i class="fa fa-pinterest fa-stack-1x pinterest-color"></i>
+                    </span>
+                </a>
+                <a href="{{ site.links.instagram }}" target="_blank">
+                    <span class="fa-stack fa-2x" title="See our instagram here">
+                        <i class="fa fa-square-o fa-stack-2x"></i>
+                        <i class="fa fa-instagram fa-stack-1x instagram-color"></i>
+                    </span>
+                </a>
+                <a href="{{ site.links.paypal }}" target="_blank">
+                    <span class="fa-stack fa-2x" title="Click here to donate">
+                        <i class="fa fa-square-o fa-stack-2x"></i>
+                        <i class="fa fa-paypal fa-stack-1x paypal-color"></i>
+                    </span>
+                </a>
+            </div>
+        </section>
+        
         <!-- Teaser image that coincides with the post currently visiting. The point of having this is so pinterest will pin the image we want. -->
         
         {% if page.image.teaser %}
