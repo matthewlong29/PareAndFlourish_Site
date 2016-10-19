@@ -20,7 +20,7 @@ category: personal-development
 
 category-title: Personal Development
 
-keywords:
+keywords: pare, flourish
 ---
 
 ## Introducing Pare and Flourish
