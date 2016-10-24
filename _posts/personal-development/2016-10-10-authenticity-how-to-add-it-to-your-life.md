@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Authenticity: What it Means to You"
 
-permalink: /personal-development/authenticity-what-it-means-to-you
+permalink: /personal-development/authenticity-what-it-means-to-you/
 
 modified: October 10, 2016
 
@@ -20,7 +20,9 @@ category: personal-development
 
 category-title: Personal Development
 
-keywords:
+keywords: authenticity
+
+comments: true
 ---
 
 ## Authenticity: What it Means to You

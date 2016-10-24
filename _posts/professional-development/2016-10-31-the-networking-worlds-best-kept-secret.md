@@ -3,7 +3,7 @@ layout: content-page
 
 title: "The Networking World's Best-Kept Secret"
 
-permalink: /professional-development/the-networking-worlds-best-kept-secret
+permalink: /professional-development/the-networking-worlds-best-kept-secret/
 
 modified: October 31, 2016
 
@@ -20,7 +20,9 @@ category: professional-development
 
 category-title: Professional Development
 
-keywords: Networking, Informational Interview
+keywords: networking, informational interview
+
+comments: true
 ---
 
 ## The Networking World’s Best-Kept Secret

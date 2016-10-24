@@ -1,7 +1,7 @@
 ---
 layout: content-page
 
-permalink: /personal-development/introducing-pare-and-flourish
+permalink: /personal-development/introducing-pare-and-flourish/
 
 title: "Introducing Pare and Flourish"
 
@@ -21,6 +21,8 @@ category: personal-development
 category-title: Personal Development
 
 keywords: pare, flourish
+
+comments: true
 ---
 
 ## Introducing Pare and Flourish
