@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     p {
-        margin: 0;
+        margin: 0 0 1em 0;
         padding: 0;
         color: $theme-gray;
     }
@@ -11,6 +11,7 @@
         padding: 0;
     }
     img {
+        margin: 0 auto;
         border: 2px solid $theme-gray;
         border-radius: 5px;
     }
