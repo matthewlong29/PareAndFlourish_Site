@@ -41,5 +41,31 @@ sass:
 # Jekyll configuration
 gems:
   - jekyll-assets
+  
+defaults:
 
-future: true
+  # Personal Development
+  - scope:
+      path: _posts/personal-development/
+      type: posts
+    values:
+      layout: content-page
+      category: posts
+      
+  # Professional Development
+  - scope:
+      path: _posts/professional-development/
+      type: posts
+    values:
+      layout: content-page
+      category: posts
+
+  # Personal Development
+  - scope:
+      path: _posts/bonus-material/
+      type: posts
+    values:
+      layout: content-page
+      category: posts
+      
+future: false
