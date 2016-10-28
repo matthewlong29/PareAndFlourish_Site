@@ -24,4 +24,11 @@
         color: $theme-white;
         background-color: $theme-red;
     }
+    .response {
+        display: none;
+    }
+    .input-text {
+        position: absolute;
+        left: -5000px;
+    }
 }
