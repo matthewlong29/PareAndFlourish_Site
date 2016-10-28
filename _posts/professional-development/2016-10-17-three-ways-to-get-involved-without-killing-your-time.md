@@ -14,7 +14,7 @@ excerpt: "Do your best at your day job, but don’t give it all of yourself. Giv
 image:
   feature: introducing.png
   teaser: three-ways-involved.png
-  alt: 
+  alt: "Three Ways to Get Involved Without Killing Your Time"
 
 category: professional-development
 

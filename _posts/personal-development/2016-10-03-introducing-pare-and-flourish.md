@@ -14,7 +14,7 @@ excerpt: "If you write the blog that you always wanted to write, but no one read
 image:
   feature: introducing.png
   teaser: introducing.png
-  alt: 
+  alt: "Introducing Pare and Flourish"
 
 category: personal-development
 

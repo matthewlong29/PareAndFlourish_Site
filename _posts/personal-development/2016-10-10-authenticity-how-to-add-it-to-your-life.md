@@ -14,7 +14,7 @@ excerpt: "What does it mean to live authentically? Authenticity, as it relates t
 image:
   feature: introducing.png
   teaser: authenticity-what-it-means.png
-  alt: 
+  alt: "Authenticity: What it Means to You"
 
 category: personal-development
 

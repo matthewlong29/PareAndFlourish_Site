@@ -14,7 +14,7 @@ excerpt: "It’s never about how many people you meet, it’s about who you meet
 image:
   feature: introducing.png
   teaser: five-ways-to-network.png
-  alt: 
+  alt: "Five Ways to Purposefully Network"
 
 category: professional-development
 

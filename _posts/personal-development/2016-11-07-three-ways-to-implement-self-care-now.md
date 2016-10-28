@@ -14,7 +14,7 @@ excerpt: "When was the last time that you did nothing? Really think about that. 
 image:
   feature: introducing.png
   teaser: self-care.png
-  alt: 
+  alt: "Three Ways to Implement Self-Care. Now."
 
 category: personal-development
 

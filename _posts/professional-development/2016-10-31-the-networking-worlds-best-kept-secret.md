@@ -14,7 +14,7 @@ excerpt: "An informational interview sounds like the most boring networking tact
 image:
   feature: introducing.png
   teaser: networking-best-kept-secret.png
-  alt: 
+  alt: "The Networking World's Best-Kept Secret"
 
 category: professional-development
 
