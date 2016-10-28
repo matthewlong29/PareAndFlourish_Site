@@ -8,3 +8,4 @@ gem "bootstrap-sass"
 # Jekyll
 gem "jekyll"
 gem "jekyll-assets"
+gem "jekyll-sitemap"
