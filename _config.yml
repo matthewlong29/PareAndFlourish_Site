@@ -41,6 +41,7 @@ sass:
 # Jekyll configuration
 gems:
   - jekyll-assets
+  - jekyll-sitemap
   
 defaults:
 
