@@ -29,6 +29,9 @@ comments: true
 
 Networking should not be a superficial way to meet as many people as possible. You’re looking for a genuine connection. When an opportunity arises, you want the person you network with to think “Oh, he/she would be perfect for this.” Without that genuine connection, they might look back and wonder whatever happened to that “girl with brown hair that was in...marketing…?” The informational interview is a great way to achieve the former. 
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr"><a href="https://t.co/dyYOPktG8H">https://t.co/dyYOPktG8H</a> Networking should not be a superficial way to meet people. You’re looking for a genuine connection. <a href="https://twitter.com/hashtag/networking?src=hash">#networking</a></p>&mdash; PareandFlourish (@pareandflourish) <a href="https://twitter.com/pareandflourish/status/793112909979222017">October 31, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 An informational interview sounds like the most boring networking tactic out there. It should really be more aptly named. Let’s go with “professional coffee date.”  
 
 In our previous post, [5 Ways to Purposefully Network]({{site.url}}//professional-development/five-ways-to-purposefully-network), this type of interview is referred to as the “networking world’s best-kept secret.” How many people have told you about their experience with an informational interview? Probably very few. For most, this is a newer concept. We’re going to talk a little about the ins and outs of the informational interview so you can boost your networking skills!
