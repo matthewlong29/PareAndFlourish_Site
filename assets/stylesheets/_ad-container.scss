@@ -1,23 +1,5 @@
-.ad-container {
+.ad-container-top {
     margin: 1em 0 1em 0;
     padding: 0;
     background-color: $theme-white;
-    -webkit-transition: 1s all ease;
-    transition: 1s all ease;
-    img {
-        border: 2px solid $theme-gray;
-        border-radius: 5px;
-    }
-    h4 {
-    color: $theme-gray;
-    text-align: center;
-    background-color: $theme-yellow;
-    border-radius: 5px;
-    margin: 0 0 1em 0;
-    &:hover,
-    &:focus {
-        background-color: lighten($theme-yellow, 10%);
-        transition: .5s;
-    }
-    }
 }
