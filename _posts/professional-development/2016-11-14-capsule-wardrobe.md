@@ -1,0 +1,97 @@
+---
+layout: content-page
+
+title: "Capsule Wardrobe for the Young Professional: A Beginner’s Guide"
+
+permalink: /professional-development/capsule-wardrobe/
+
+modified: November 14, 2016
+
+author: "Skylar Wooden and Katie Butler"
+
+excerpt: "What’s a capsule wardrobe and why do you care? A capsule wardrobe is a set of staple pieces that you can add seasonal pieces to, as necessary. You care because when you open your closet, you realize that you have “nothing to wear.”"
+
+image:
+  feature: introducing.png
+  teaser: capsule-wardrobe.png
+  alt: "Capsule Wardrobe for the Young Professional: A Beginner’s Guide"
+
+category: professional-development
+
+category-title: Professional Development
+
+keywords: capsule wardrobe, wardrobe, business casual
+
+comments: true
+---
+
+## Capsule Wardrobe for the Young Professional: A Beginner’s Guide
+
+What’s a capsule wardrobe and why do you care? A capsule wardrobe is a set of staple pieces that you can add seasonal pieces to, as necessary. You care because when you open your closet, you realize that you have “nothing to wear.” 
+
+
+Transitioning from your college wardrobe into a professional one is tricky. The real world won’t like your yoga pants/jeans rotation. We don’t know why. It’s an unreasonable, cruel world. 
+
+
+Your instinct is probably something like this: “I have to go to the mall and find ten pieces of clothing (all under $20) as fast as I can before that interview/job fair/networking event next week.” We’ve had our fair share of Aeropostale camis and thin cardigans. 
+
+
+Please don’t. Quality versus quantity comes into play here, as it will with almost anything. I think we can all agree that you’d rather have one $60 pair of well-fitting, nicely made jeans, rather than two $30 pairs that stretch out and fall down every time you sit or stand. 
+
+
+Pulling up your pants all day is hell. 
+
+
+Get ready to love every piece in your closet. Here’s a guide to help you start a capsule wardrobe full of quality, versatile staples.
+
+### Simple Staples
+
+There is nothing like the feeling of knowing that you have a pair of black pants in your closet that go with every shirt you own. We haven’t yet mastered the morning routine and need to get from t-shirt to business casual in zero to sixty. So, having that one piece to build your outfit is key.
+
+
+You’re on a budget. Us too. Don’t necessarily buy the most expensive piece you can find, but the highest quality piece that you can afford. If it’s well taken care of, and great quality, you’ll have it for years. Keep that in mind and look for timeless pieces. A black blazer, for example. We’ve put together some must have staples. We’re not going to be too specific. You’ll find a lot of guides showing you “exactly what you need” to start a capsule. Eh, they don’t know your life. You do. Put a wardrobe together that works for you. 
+
+<div class="row">
+
+    <div class="col-sm-6">
+        <h3>For Women</h3>
+        <ul>
+            <li>Blazer, of course</li>
+            <li>Solid tops</li>
+            <li>Skirt</li>
+            <li>Dress pants</li>
+            <li>Jeans: to take advantage of those casual fridays</li>
+            <li>Comfortable dress: because some days coordinating an outfit is not on the priority list</li>
+        </ul>
+    </div>
+
+    <div class="col-sm-6">
+        <h3>For Men</h3>
+        <ul>
+            <li>Blazer: I swear we're not obsessed with blazers, in spite of what it looks like</li>
+            <li>Solid Oxford shirts</li>
+            <li>Tie clip</li>
+            <li>Dress pants</li>
+            <li>Jeans</li>
+            <li>Quality dress shoes</li>
+        </ul>
+    </div>
+    
+</div>
+
+All of this talk about solid clothing may sound like your wardrobe will lack personality. On the contrary, you’ll have plenty of chances to pair these staples with your favorite pieces to showcase your personal style. 
+
+### Need Help? 
+
+You’re not alone. We’re not big shoppers. So, we’ve worked up a wardrobe using online styling services. These are an easy way to find quality clothes that match your style and budget without requiring you to step foot in a store. Our favorites are [Stitch Fix](https://www.stitchfix.com/?p=g&variant=3) (for both men and women) and [Trunk Club](https://www.trunkclub.com/?c=search_AW_BrandSearch_BrandPhrase_trunk%20club&utm_source=AW&utm_medium=search&utm_campaign=BrandSearch&utm_content=BrandPhrase&gclid=CjwKEAjwnebABRCjpvr13dHL8DsSJABB-ILJ22MWoqsQLN8p-N9NXJYemryvNFndAYJRwpn5u20vBhoCIaPw_wcB) (for men only). 
+
+If you need inspiration, Pinterest is the easiest way to search for your favorite clothing styles. Chances are, you’ll find boards put together by people with similar fashion. Follow those boards to customize your Pinterest feed.
+
+Here are a few we recommend: 
+* [ThredUp Neutrals](https://www.pinterest.com/thredup/colorup-neutrals/)
+* [Stitchfix Workwear](https://www.pinterest.com/stitchfix/workwear/)
+* [Men's Fashion](https://www.pinterest.com/prockhold/mens-fashion/)
+
+Do you follow any pinterest boards or bloggers that you’d like to recommend? Let us know! Any services that you use? Tell us all about them. We love getting boxes in the mail! Look for our next post on listening to your intuition.
+
+<hr class="primary">
