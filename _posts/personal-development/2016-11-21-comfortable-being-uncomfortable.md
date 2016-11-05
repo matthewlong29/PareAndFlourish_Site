@@ -1,0 +1,65 @@
+---
+layout: content-page
+
+permalink: /personal-development/comfortable-being-uncomfortable/
+
+title: "Being Comfortable with Being Uncomfortable"
+
+modified: November 21, 2016
+
+author: "Skylar Wooden and Katie Butler"
+
+excerpt: "Humans love comfort. While it’s not always a conscious decision, we’re always looking to make an uncomfortable feeling go away. The feeling comes out of nowhere—suddenly something feels “off.”"
+
+image:
+  feature: introducing.png
+  teaser: comfortable-uncomfortable.png
+  alt: "Being Comfortable with Being Uncomfortable"
+
+category: personal-development
+
+category-title: Personal Development
+
+keywords: intuition, mindfulness
+
+comments: true
+---
+
+## Being Comfortable with Being Uncomfortable
+
+>“The number-one thing that you will have to sacrifice to be great, to achieve what you are capable of, and to execute your plans, is your comfort.<br />
+><cite>The Twelve Week Year by Brian P. Moran</cite>
+
+Humans love comfort. While it’s not always a conscious decision, we’re always looking to make an uncomfortable feeling go away. The feeling comes out of nowhere—suddenly something feels “off.” Often, you’re not able to pinpoint the cause. It could be anything: your job or social life or relationship or physical health. Anything.  
+
+When you’re feeling discomfort, you have two options: 
+
+<hr class="secondary">
+
+### 1. Settle into it until you’ve adapted and the feeling has passed:
+
+The first is often the easier choice because it requires less decisiveness. But, you run the risk of continually ignoring the feeling until you’re not only comfortable, but complacent and stuck. 
+
+Of course, we understand that life isn’t all about what you do and don’t want to do. Sometimes you have to work that job you hate because you need the money or you need the experience. If this is your case, we’re not suggesting you quit your job; however, if your intuition tells you that you should be doing something else, do something about it at whatever pace you can: apply to new jobs that pay as much/more than you make now, sign up for night classes, or volunteer in a field you’d like to be in. This same idea can be applied to anything in your life. You aren’t always in a position to make a change. Just make sure you’re working toward your change. 
+
+<hr class="secondary">
+
+### 2. Understand what the feeling is telling you about your path:
+
+The second, though, will give you time to talk to your inner self and find a solution. If you have the vague internal monologue that says “I just don’t feel right,” but don’t have a question or reason, it’s something to explore. 
+
+Bury yourself into your feeling. Try asking yourself these questions: 
+Am I being challenged at my job? 
+Do my friends help me create a positive atmosphere? 
+Do I feel loved and appreciated in my relationship? 
+If I could do one thing, what would it be? 
+
+If exploring this feeling within yourself isn’t enough, ask for help. Talk to your mentors, your friends, your therapist (if you have one), or anyone who might have some insight on this stage of your life. Most of all, don’t stress. You won’t find the answer immediately. Your intuition is more complex than that. Keep a lookout, though. You’ll get there.  
+
+<hr class="secondary">
+
+We, personally, feel this discomfort often. It brought you this blog. It sent us on traveling adventures. It pushed us to volunteer, to be more vulnerable, to say “yes” more often.
+
+What has your discomfort inspired you to do? We’d love to see photos, if you have them! Be sure to look for our next post about being thankful during the holidays. 
+
+<hr class="primary">
