@@ -33,6 +33,8 @@ If you are not first taking care of yourself, you will undoubtedly lose steam an
 
 It's important to perform well and show that you’re an asset to your company, but not at the expense of your mental and physical health. If you burn your candle at both ends, you may realize that you’re underperforming. In the words of the great Ron Swanson, “Give 100%. 110% is impossible. Only idiots recommend that.”
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">“Give 100%. 110% is impossible. Only idiots recommend that.”- Ron Swanson</p>&mdash; PareandFlourish (@pareandflourish) <a href="https://twitter.com/pareandflourish/status/795662157702643712">November 7, 2016</a></blockquote>
+
 Here are ways we’ve used to take a more mindful, peaceful approach to well-being:
 
 <hr class="secondary">
