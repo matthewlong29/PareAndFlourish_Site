@@ -53,6 +53,9 @@ You’re on a budget. Us too. Don’t necessarily buy the most expensive piece y
 
 We’ve put together some must-have staples. We’re not going to be too specific. You’ll find a lot of guides showing you “exactly what you need” to start a capsule. Eh, they don’t know your life. You do. Put a wardrobe together that works for you. 
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">Don&#39;t buy the most expensive piece you can find, but the highest quality piece that you can afford. <a href="https://twitter.com/hashtag/capsulewardrobe?src=hash">#capsulewardrobe</a> <a href="https://twitter.com/hashtag/budget?src=hash">#budget</a></p>&mdash; PareandFlourish (@pareandflourish) <a href="https://twitter.com/pareandflourish/status/798187411071238144">November 14, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="row">
 
     <div class="col-sm-6">
