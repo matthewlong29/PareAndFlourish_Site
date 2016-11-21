@@ -9,4 +9,3 @@ gem "bootstrap-sass"
 gem "jekyll"
 gem "jekyll-assets"
 gem "jekyll-sitemap"
-\ No newline at end of file
