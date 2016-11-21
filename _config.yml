@@ -40,6 +40,7 @@ sass:
     
 # Jekyll configuration
 gems:
+  - jekyll
   - jekyll-assets
   - jekyll-sitemap
   
