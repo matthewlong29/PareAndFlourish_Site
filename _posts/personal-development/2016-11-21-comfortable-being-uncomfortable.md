@@ -54,7 +54,10 @@ Do my friends help me create a positive atmosphere?
 Do I feel loved and appreciated in my relationship? 
 If I could do one thing, what would it be? 
 
-If exploring this feeling within yourself isn’t enough, ask for help. Talk to your mentors, your friends, your therapist (if you have one), or anyone who might have some insight on this stage of your life. Most of all, don’t stress. You won’t find the answer immediately. Your intuition is more complex than that. Keep a lookout, though. You’ll get there.  
+If exploring this feeling within yourself isn’t enough, ask for help. Talk to your mentors, your friends, your therapist (if you have one), or anyone who might have some insight on this stage of your life. Most of all, don’t stress. You won’t find the answer immediately. Your intuition is more complex than that. Keep a lookout, though. You’ll get there. 
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">You won&#39;t find the answer immediately. Your intuition is more complex than that. <a href="https://twitter.com/hashtag/mindfulness?src=hash">#mindfulness</a> <a href="https://twitter.com/hashtag/intuition?src=hash">#intuition</a></p>&mdash; PareandFlourish (@pareandflourish) <a href="https://twitter.com/pareandflourish/status/800752956823965696">November 21, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <hr class="secondary">
 
