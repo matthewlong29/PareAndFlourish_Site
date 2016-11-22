@@ -8,6 +8,10 @@
     h2.alt {
         margin: .5em 0 0 0;
     }
+    h4 {
+        font-family: $base-font-sans;
+        font-weight: bold;
+    }
     a {
         text-decoration: none;
         color: $theme-gray;
@@ -17,5 +21,8 @@
                 color: darken($theme-gray, 0.5);
                 transition: 1s;
             }
+    }
+    hr.secondary {
+        margin: 1em 0 1em 0;
     }
 }
