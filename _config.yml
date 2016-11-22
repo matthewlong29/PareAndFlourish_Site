@@ -6,8 +6,6 @@ description: A blog focused on personal development and living a more authentic 
 owner: Pare and Flourish # Company name.
 first_published: 2016 
 email: contact@pareandflourish.com
-baseurl: ""
-url: ""
 links:
   twitter: https://twitter.com/pareandflourish/
   github: https://github.com/mtlong29/PareAndFlourish_Site/
