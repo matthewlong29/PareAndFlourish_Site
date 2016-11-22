@@ -28,7 +28,7 @@ comments: true
 ## Five Ways to Purposefully Network
 
 >I feel really grateful to the people who encouraged me and helped me develop. Nobody can succeed on their own.<br />
-><cite>Lean In, Sheryl Sandberg</cite>
+><cite><a href="{{site.url}}/resources/">Lean In, Sheryl Sandberg</a></cite>
 
 In early years of college, the word “networking” is thrown around as if you should know how to do it. The basic idea is meeting people, so you should be able to do that easily. Because, ya know, there are people everywhere, right? Yes and no. It’s never about how many people you meet, it’s about who you meet and how. This is a prime quality over quantity scenario. 
 
