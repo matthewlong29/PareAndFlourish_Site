@@ -30,7 +30,7 @@ comments: true
 It’s that time of year again! No, not Christmas. The time of year when you can unapologetically buy wine in bulk for “the holidays.” You have a short window in November and December when no one can look twice when you buy a case from the liquor store. Not that we don’t support this at any point during the year. Christmas in July’s a thing, right? 
 
 
-Wine is expensive. But, after finishing countless bottles of overpriced and underwhelming wine, you start to develop a knack for choosing the best ones on a budget. 
+Wine is expensive. But, after finishing countless bottles that are overpriced and underwhelming, you start to develop a knack for choosing the best ones on a budget. 
 
 
 Just in time for the holidays, we’ve put together a list of our favorites (starting at the sweetest and ending at the driest), all of which are under $20. 
