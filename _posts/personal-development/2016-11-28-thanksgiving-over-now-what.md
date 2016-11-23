@@ -1,7 +1,7 @@
 ---
 layout: content-page
 
-permalink: /personal-development/thanksfiving-over-now-what/
+permalink: /personal-development/thanksgiving-over-now-what/
 
 title: "Thanksgiving is Over. Now What?"
 
