@@ -39,6 +39,9 @@ So many people helped to make your Thanksgiving great. Whether it was a large ga
 
 Reflect on your weekend and thank someone. No matter how small the gesture, let them know their thoughtfulness didn’t go unnoticed. 
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">No matter how small the gesture, let them know their thoughtfulness didn&#39;t go unnoticed. <a href="https://twitter.com/hashtag/thankful?src=hash">#thankful</a> <a href="https://twitter.com/hashtag/mindful?src=hash">#mindful</a> <a href="https://twitter.com/hashtag/holidays?src=hash">#holidays</a></p>&mdash; PareandFlourish (@pareandflourish) <a href="https://twitter.com/pareandflourish/status/803264326836568065">November 28, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <hr class="secondary">
 
 ### 2. Reflect
