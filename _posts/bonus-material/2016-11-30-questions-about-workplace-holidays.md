@@ -24,7 +24,7 @@ keywords: happy holidays, professionalism, new job, tips for work, professional,
 
 comments: true
 ---
-We've teamed up with Sarah of [Space, Place and Southern Grace](http://www.spaceplaceandsoutherngrace.com) to bring you a post about professionalism during the holidays!
+We've teamed up with Sarah of [Space, Place & Southern Grace](http://www.spaceplaceandsoutherngrace.com) to bring you a post about professionalism during the holidays!
 
 
 Holidays are possibly the best time of the year—maybe theoretically is a better way to describe it. They’re magical and lively, but can be a bit awkward too. We experience a wide range of emotions during the holidays, and these circumstances can be especially dicey in the workplace. Is there an etiquette? If so, what is it? 
