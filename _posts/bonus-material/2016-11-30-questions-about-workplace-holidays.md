@@ -24,6 +24,9 @@ keywords: happy holidays, professionalism, new job, tips for work, professional,
 
 comments: true
 ---
+
+## Your Questions About Workplace Holidays, Answered
+
 We've teamed up with Sarah of [Space, Place & Southern Grace](http://www.spaceplaceandsoutherngrace.com) to bring you a post about professionalism during the holidays!
 
 
@@ -101,5 +104,15 @@ We put together a few questions we’ve encountered in the past to try to provid
 <hr class="secondary">
 
 <b>What lessons have you learned in your own workplace holiday experiences?</b>
+
+<hr class="primary">
+
+<div class="row paginate"> <!-- "pagination" -->
+	<div class="col-xs-6">
+		<a href="{{site.url}}/bonus-material/top-10-wines-budget/"><h4>Previous article!</h4></a>
+	</div>
+	<div class="col-xs-6">
+	</div>
+</div> <!-- close "pagination" -->
 
 <hr class="primary">

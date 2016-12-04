@@ -68,3 +68,16 @@ Here are a few example questions that will prompt a thorough answer:
 Treat the follow-up just like any interview. Thank the person for their time. Be sure to make it personal and mention something specific that resonated with you. If they know that you were grateful for their time and that you listened to what they had to offer, you’ve done well.
 
 Have you had an informational interview experience that you’d like to share? If so, comment below and let us know what you learned! Look for our next blog on the importance of self-care.
+
+<hr class="primary">
+
+<div class="row paginate"> <!-- "pagination" -->
+	<div class="col-xs-6">
+		<a href="{{site.url}}/professional-development/five-ways-to-purposefully-network/"><h4>Previous article!</h4></a>
+	</div>
+	<div class="col-xs-6">
+		<a href="{{site.url}}/professional-development/capsule-wardrobe/"><h4>Next article!</h4></a>
+	</div>
+</div> <!-- close "pagination" -->
+
+<hr class="primary">

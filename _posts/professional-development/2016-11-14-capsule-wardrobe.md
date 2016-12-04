@@ -100,3 +100,13 @@ Here are a few we recommend:
 Do you follow any pinterest boards or bloggers that you’d like to recommend? Let us know! Any services that you use? Tell us all about them. We love getting boxes in the mail! Look for our next post on listening to your intuition.
 
 <hr class="primary">
+
+<div class="row paginate"> <!-- "pagination" -->
+	<div class="col-xs-6">
+		<a href="{{site.url}}/professional-development/the-networking-worlds-best-kept-secret/"><h4>Previous article!</h4></a>
+	</div>
+	<div class="col-xs-6">
+	</div>
+</div> <!-- close "pagination" -->
+
+<hr class="primary">

@@ -63,3 +63,13 @@ It will get here. Promise. Cherish the time you have in between. Don’t spend i
 In a holiday all about ‘giving thanks’ we so often forget to actually be thankful. Tweet @pareandflourish and tell us what you’ve done to be mindful this holiday season. Look for our next post on ideas for mindful gift giving! 
 
 <hr class="primary">
+
+<div class="row paginate"> <!-- "pagination" -->
+	<div class="col-xs-6">
+		<a href="{{site.url}}/personal-development/comfortable-being-uncomfortable/"><h4>Previous article!</h4></a>
+	</div>
+	<div class="col-xs-6">
+	</div>
+</div> <!-- close "pagination" -->
+
+<hr class="primary">

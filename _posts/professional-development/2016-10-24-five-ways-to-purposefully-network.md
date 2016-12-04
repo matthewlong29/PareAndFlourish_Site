@@ -67,3 +67,14 @@ As we’ve mentioned in our post [Three Ways to Get Involved Without Killing You
 
 What are some ways that you’ve found to purposefully network? Please let us know in the comments! For next week, look for our next blog on the art of the informational interview.
 <hr class="primary">
+
+<div class="row paginate"> <!-- "pagination" -->
+	<div class="col-xs-6">
+		<a href="{{site.url}}/professional-development/three-ways-to-get-involved-without-killing-your-time/"><h4>Previous article!</h4></a>
+	</div>
+	<div class="col-xs-6">
+		<a href="{{site.url}}/professional-development/the-networking-worlds-best-kept-secret/"><h4>Next article!</h4></a>
+	</div>
+</div> <!-- close "pagination" -->
+
+<hr class="primary">

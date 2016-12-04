@@ -61,3 +61,14 @@ You need time to be alone, to reflect and let your mind wander. Sit outside with
 Don’t let the stressors of the world blow out your candle. Spend this week trying to implement self-care at least once. What is your favorite self-care practice? Let us know in the comments! Look for our next post on building a capsule wardrobe.
 
 <hr class="primary">
+
+<div class="row paginate"> <!-- "pagination" -->
+	<div class="col-xs-6">
+		<a href="{{site.url}}/personal-development/authenticity-what-it-means-to-you/"><h4>Previous article!</h4></a>
+	</div>
+	<div class="col-xs-6">
+		<a href="{{site.url}}/personal-development/comfortable-being-uncomfortable/"><h4>Next article!</h4></a>
+	</div>
+</div> <!-- close "pagination" -->
+
+<hr class="primary">

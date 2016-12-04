@@ -52,3 +52,14 @@ Look for our next blog about using volunteer work as an outlet while still prote
 So tell us, what goal do you want to use your time to work toward? Is it opening your own business? Going back to school? Learning something new? We’d love to hear all of your aspirations, inspiration, and motivation.
 
 <hr class="primary">
+
+<div class="row paginate"> <!-- "pagination" -->
+	<div class="col-xs-6">
+		<a href="{{site.url}}/personal-development/introducing-pare-and-flourish/"><h4>Previous article!</h4></a>
+	</div>
+	<div class="col-xs-6">
+		<a href="{{site.url}}/personal-development/three-ways-to-implement-self-care-now/"><h4>Next article!</h4></a>
+	</div>
+</div> <!-- close "pagination" -->
+
+<hr class="primary">

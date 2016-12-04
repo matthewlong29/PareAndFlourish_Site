@@ -47,3 +47,13 @@ We want you, the reader, to know **it matters**. You have done something you hav
 This is a year of firsts for us. You'll learn about plenty of our firsts in this blog. In fact, this blog is one of our big firsts for the year. We ask that you join us in our adventure. Try something new with us. If you have felt inspired by something new you’ve tried recently, we want to share that feeling of inspiration. Leave a link or an idea in the comments! 
 
 <hr class="primary">
+
+<div class="row paginate"> <!-- "pagination" -->
+	<div class="col-xs-6">
+	</div>
+	<div class="col-xs-6">
+		<a href="{{site.url}}/personal-development/authenticity-what-it-means-to-you/"><h4>Next article!</h4></a>
+	</div>
+</div> <!-- close "pagination" -->
+
+<hr class="primary">

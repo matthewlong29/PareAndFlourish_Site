@@ -69,3 +69,13 @@ Look for our next post where we will provide some helpful tips on networking and
 In the meantime, what are your favorite organizations and what cause do they support? Leave a comment below and tell us how you incorporate giving back to your community into your hectic schedule. 
 
 <hr class="primary">
+
+<div class="row paginate"> <!-- "pagination" -->
+	<div class="col-xs-6">
+	</div>
+	<div class="col-xs-6">
+		<a href="{{site.url}}/professional-development/five-ways-to-purposefully-network/"><h4>Next article!</h4></a>
+	</div>
+</div> <!-- close "pagination" -->
+
+<hr class="primary">

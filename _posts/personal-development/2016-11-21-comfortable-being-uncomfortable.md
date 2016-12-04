@@ -66,3 +66,14 @@ We, personally, feel this discomfort often. It brought you this blog. It sent us
 What has your discomfort inspired you to do? We’d love to see photos, if you have them! Be sure to look for our next post about being thankful during the holidays. 
 
 <hr class="primary">
+
+<div class="row paginate"> <!-- "pagination" -->
+	<div class="col-xs-6">
+		<a href="{{site.url}}/personal-development/three-ways-to-implement-self-care-now/"><h4>Previous article!</h4></a>
+	</div>
+	<div class="col-xs-6">
+		<a href="{{site.url}}/personal-development/thanksgiving-over-now-what/"><h4>Next article!</h4></a>
+	</div>
+</div> <!-- close "pagination" -->
+
+<hr class="primary">

@@ -172,3 +172,13 @@ Just in time for the holidays, we’ve put together a list of our favorites (sta
 If you find yourself surrounded by people who don't appreciate wine this holiday season, you should reevaluate your surroundings. When someone offers you a beer, you keep right on drinkin’ your pinot.
 
 <hr class="primary">
+
+<div class="row paginate"> <!-- "pagination" -->
+	<div class="col-xs-6">
+	</div>
+	<div class="col-xs-6">
+		<a href="{{site.url}}/bonus-material/questions-about-workplace-holidays/"><h4>Next article!</h4></a>
+	</div>
+</div> <!-- close "pagination" -->
+
+<hr class="primary">
