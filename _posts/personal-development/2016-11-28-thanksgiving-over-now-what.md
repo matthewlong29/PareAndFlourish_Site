@@ -69,6 +69,7 @@ In a holiday all about ‘giving thanks’ we so often forget to actually be tha
 		<a href="{{site.url}}/personal-development/comfortable-being-uncomfortable/"><h4>Previous article!</h4></a>
 	</div>
 	<div class="col-xs-6">
+		<a href="{{site.url}}/personal-development/gift-giving-with-purpose//"><h4>Previous article!</h4></a>
 	</div>
 </div> <!-- close "pagination" -->
 
