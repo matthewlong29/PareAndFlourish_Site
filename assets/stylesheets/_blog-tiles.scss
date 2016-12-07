@@ -50,10 +50,23 @@
             margin: 0;
         }
         p {
+			font-size: 1em;
             color: lighten($theme-gray, 25%);
             text-align: left;
             margin: 0;
         }
+		p.date {
+			margin: 0;
+			padding: 0;
+			color: $theme-gray;
+			font-size: 1.05em;
+		}
+		p.author {
+			margin: 0;
+			padding: 0;
+			color: $theme-gray;
+			font-size: 1.05em;
+		}
         a {
             text-decoration: none;
             text-align: left;
