@@ -5960,9 +5960,20 @@ blockquote:after {
       color: #435260;
       margin: 0; }
     .blog-tiles .blog-content p {
+      font-size: 1em;
       color: #62788d;
       text-align: left;
       margin: 0; }
+    .blog-tiles .blog-content p.date {
+      margin: 0;
+      padding: 0;
+      color: #2E3842;
+      font-size: 1.05em; }
+    .blog-tiles .blog-content p.author {
+      margin: 0;
+      padding: 0;
+      color: #2E3842;
+      font-size: 1.05em; }
     .blog-tiles .blog-content a {
       text-decoration: none;
       text-align: left; }
@@ -6005,6 +6016,8 @@ blockquote:after {
     border-bottom: 1px dotted; }
   .social-section .twitter-color {
     color: #00aced; }
+  .social-section .facebook-color {
+    color: #3b5998; }
   .social-section .github-color {
     color: #171516; }
   .social-section .pinterest-color {
@@ -6093,7 +6106,11 @@ hr.secondary {
 .navbar-custom .nav li.active a:hover {
   color: #FDFDFD; }
 
-@media (min-width: 768px) {
+@media (max-width: 992px) {
+  .nav > li > a {
+    padding-left: 1em;
+    padding-right: 1em; } }
+@media (min-width: 992px) {
   .navbar-custom {
     padding: 20px 0;
     border-bottom: none;
@@ -6110,7 +6127,7 @@ hr.secondary {
 ul.banner-social-buttons {
   margin-top: 0; }
 
-@media (max-width: 1199px) {
+@media (max-width: 1200px) {
   ul.banner-social-buttons {
     margin-top: 15px; } }
 .navbar-custom .dropdown-menu {
@@ -6118,6 +6135,32 @@ ul.banner-social-buttons {
 
 .dropdown-menu > li > a {
   color: #FDFDFD; }
+
+.paginate a {
+  text-decoration: none; }
+.paginate .img {
+  border: 2px solid #2E3842;
+  border-radius: 5px;
+  margin: 1em 0 0 0;
+  padding: 0; }
+.paginate .arrow {
+  color: #FDFDFD;
+  text-align: center;
+  background-color: #981a00;
+  border-radius: 5px;
+  margin: 1em 0 0 0; }
+  .paginate .arrow:hover, .paginate .arrow:focus {
+    background-color: #b21e00;
+    transition: .5s; }
+.paginate .text {
+  text-align: center; }
+  .paginate .text h3 {
+    font-family: 'Dancing Script', serif;
+    color: black;
+    font-weight: normal;
+    margin: 0 0 0 0; }
+    .paginate .text h3:hover, .paginate .text h3:focus {
+      font-weight: bold; }
 
 .post-content {
   font-size: 1.25em;
@@ -6186,7 +6229,8 @@ ul.banner-social-buttons {
   .side-panel .social-buttons {
     border-radius: 5px;
     margin: 0 0 1em 0;
-    text-align: center; }
+    text-align: center;
+    font-size: 12px; }
     @media only screen and (max-width: 992px) {
       .side-panel .social-buttons {
         display: none; } }
@@ -6200,6 +6244,8 @@ ul.banner-social-buttons {
         transition: .5s; }
     .side-panel .social-buttons .twitter-color {
       color: #00aced; }
+    .side-panel .social-buttons .facebook-color {
+      color: #3b5998; }
     .side-panel .social-buttons .github-color {
       color: #171516; }
     .side-panel .social-buttons .pinterest-color {
@@ -6259,7 +6305,8 @@ ul.banner-social-buttons {
   #mc_embed_signup .button {
     margin: 0;
     color: #FDFDFD;
-    background-color: #981a00; }
+    background-color: #981a00;
+    width: 96%; }
   #mc_embed_signup .response {
     display: none; }
   #mc_embed_signup .input-text {
