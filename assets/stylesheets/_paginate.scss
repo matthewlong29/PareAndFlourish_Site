@@ -1,7 +1,36 @@
 .paginate {
-	h4, a {
-		background-color: $theme-yellow;
-		border-radius: 5px;
+	a {
+		text-decoration: none;
+	}
+	.img {
+        border: 2px solid $theme-gray;
+        border-radius: 5px;
+        margin: 1em 0 0 0;
+		padding: 0;
+	}
+	.arrow {
+		color: $theme-white;
 		text-align: center;
+		background-color: $theme-red;
+		border-radius: 5px;
+		margin: 1em 0 0 0;
+		&:hover,
+		&:focus {
+			background-color: lighten($theme-red, 5%);
+			transition: .5s;
+		}
+	}
+	.text {
+		text-align: center;
+		h3 {
+			font-family: 'Dancing Script', serif;
+            color: darken($theme-gray, 25%);
+            font-weight: normal;
+            margin: 0 0 0 0;
+            &:hover,
+            &:focus {
+                font-weight: bold;
+            }
+		}
 	}
 }
