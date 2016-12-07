@@ -53,12 +53,18 @@ So tell us, what goal do you want to use your time to work toward? Is it opening
 
 <hr class="primary">
 
-<div class="row paginate"> <!-- "pagination" -->
-	<div class="col-xs-6">
-		<a href="{{site.url}}/personal-development/introducing-pare-and-flourish/"><h4>Previous article!</h4></a>
+<div class="row"> <!-- "pagination" -->
+	<div class="col-xs-6 paginate">
+			<a href="{{site.url}}/personal-development/introducing-pare-and-flourish/">
+				<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
+				<div class="col-xs-12 text"><h3>Introducing Pare and Flourish</h3></div>		
+			</a>
 	</div>
-	<div class="col-xs-6">
-		<a href="{{site.url}}/personal-development/three-ways-to-implement-self-care-now/"><h4>Next article!</h4></a>
+	<div class="col-xs-6 paginate">
+			<a href="{{site.url}}/personal-development/three-ways-to-implement-self-care-now/">
+				<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
+				<div class="col-xs-12 text"><h3>Three Ways to Implement Self-Care. Now.</h3></div>
+			</a>
 	</div>
 </div> <!-- close "pagination" -->
 

@@ -64,12 +64,18 @@ In a holiday all about ‘giving thanks’ we so often forget to actually be tha
 
 <hr class="primary">
 
-<div class="row paginate"> <!-- "pagination" -->
-	<div class="col-xs-6">
-		<a href="{{site.url}}/personal-development/comfortable-being-uncomfortable/"><h4>Previous article!</h4></a>
+<div class="row"> <!-- "pagination" -->
+	<div class="col-xs-6 paginate">
+			<a href="{{site.url}}/personal-development/comfortable-being-uncomfortable/">
+				<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
+				<div class="col-xs-12 text"><h3>Being Comfortable with Being Uncomfortable</h3></div>		
+			</a>
 	</div>
-	<div class="col-xs-6">
-		<a href="{{site.url}}/personal-development/gift-giving-with-purpose//"><h4>Previous article!</h4></a>
+	<div class="col-xs-6 paginate">
+			<a href="{{site.url}}/personal-development/gift-giving-with-purpose/">
+				<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
+				<div class="col-xs-12 text"><h3>A Guide to Gift Giving with Purpose</h3></div>
+			</a>
 	</div>
 </div> <!-- close "pagination" -->
 

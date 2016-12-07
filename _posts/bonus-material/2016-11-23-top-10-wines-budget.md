@@ -173,11 +173,14 @@ If you find yourself surrounded by people who don't appreciate wine this holiday
 
 <hr class="primary">
 
-<div class="row paginate"> <!-- "pagination" -->
-	<div class="col-xs-6">
+<div class="row"> <!-- "pagination" -->
+	<div class="col-xs-6 paginate">
 	</div>
-	<div class="col-xs-6">
-		<a href="{{site.url}}/bonus-material/questions-about-workplace-holidays/"><h4>Next article!</h4></a>
+	<div class="col-xs-6 paginate">
+			<a href="{{site.url}}/bonus-material/questions-about-workplace-holidays/">
+				<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
+				<div class="col-xs-12 text"><h3>Your Questions About Workplace Holidays, Answered</h3></div>
+			</a>
 	</div>
 </div> <!-- close "pagination" -->
 

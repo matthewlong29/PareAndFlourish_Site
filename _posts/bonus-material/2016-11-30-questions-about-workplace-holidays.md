@@ -107,11 +107,14 @@ We put together a few questions we’ve encountered in the past to try to provid
 
 <hr class="primary">
 
-<div class="row paginate"> <!-- "pagination" -->
-	<div class="col-xs-6">
-		<a href="{{site.url}}/bonus-material/top-10-wines-budget/"><h4>Previous article!</h4></a>
+<div class="row"> <!-- "pagination" -->
+	<div class="col-xs-6 paginate">
+			<a href="{{site.url}}/bonus-material/top-10-wines-budget/">
+				<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
+				<div class="col-xs-12 text"><h3>Top 10 Wines on a Budget</h3></div>		
+			</a>
 	</div>
-	<div class="col-xs-6">
+	<div class="col-xs-6 paginate">
 	</div>
 </div> <!-- close "pagination" -->
 

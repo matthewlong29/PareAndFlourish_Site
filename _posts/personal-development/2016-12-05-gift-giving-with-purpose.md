@@ -30,6 +30,9 @@ Disclaimer: We’ve linked some of our suggested gifts to make it easy for you t
 
 Gift giving has become 70% obligation and 30% genuine thoughtfulness. The later into December we get, the more we think “I have to get them something.” Not a specific well-thought-out gift, but something. It’s easy to forget we’re buying gifts because we love the person we’re buying for.
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Gift?src=hash">#Gift</a> giving has become 70% obligation and 30% <a href="https://twitter.com/hashtag/genuine?src=hash">#genuine</a> <a href="https://twitter.com/hashtag/thoughtfulness?src=hash">#thoughtfulness</a>.</p>&mdash; PareandFlourish (@pareandflourish) <a href="https://twitter.com/pareandflourish/status/805814761330016256">December 5, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 If a last minute trip to the mall—arms full of socks—feels familiar, you might want to reevaluate your gift strategy. Finding a meaningful gift can be enjoyable. We’ve put together a few ideas for you to steal.
 
 <hr class="secondary">
@@ -70,11 +73,14 @@ We hope we helped you set your gift giving anxiety aside! Revel in the Christmas
 
 <hr class="primary">
 
-<div class="row paginate"> <!-- "pagination" -->
-	<div class="col-xs-6">
-		<a href="{{site.url}}/personal-development/thanksgiving-over-now-what/"><h4>Previous article!</h4></a>
+<div class="row"> <!-- "pagination" -->
+	<div class="col-xs-6 paginate">
+			<a href="{{site.url}}/personal-development/thanksgiving-over-now-what/">
+				<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
+				<div class="col-xs-12 text"><h3>Thanksgiving is Over. Now What?</h3></div>		
+			</a>
 	</div>
-	<div class="col-xs-6">
+	<div class="col-xs-6 paginate">
 	</div>
 </div> <!-- close "pagination" -->
 

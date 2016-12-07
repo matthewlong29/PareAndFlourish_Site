@@ -71,12 +71,18 @@ Have you had an informational interview experience that you’d like to share? I
 
 <hr class="primary">
 
-<div class="row paginate"> <!-- "pagination" -->
-	<div class="col-xs-6">
-		<a href="{{site.url}}/professional-development/five-ways-to-purposefully-network/"><h4>Previous article!</h4></a>
+<div class="row"> <!-- "pagination" -->
+	<div class="col-xs-6 paginate">
+			<a href="{{site.url}}/professional-development/five-ways-to-purposefully-network/">
+				<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
+				<div class="col-xs-12 text"><h3>Five Ways to Purposefully Network</h3></div>		
+			</a>
 	</div>
-	<div class="col-xs-6">
-		<a href="{{site.url}}/professional-development/capsule-wardrobe/"><h4>Next article!</h4></a>
+	<div class="col-xs-6 paginate">
+			<a href="{{site.url}}/professional-development/capsule-wardrobe/">
+				<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
+				<div class="col-xs-12 text"><h3>Capsule Wardrobe for the Young Professional: A Beginner’s Guide</h3></div>
+			</a>
 	</div>
 </div> <!-- close "pagination" -->
 

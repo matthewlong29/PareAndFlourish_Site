@@ -62,12 +62,18 @@ Don’t let the stressors of the world blow out your candle. Spend this week try
 
 <hr class="primary">
 
-<div class="row paginate"> <!-- "pagination" -->
-	<div class="col-xs-6">
-		<a href="{{site.url}}/personal-development/authenticity-what-it-means-to-you/"><h4>Previous article!</h4></a>
+<div class="row"> <!-- "pagination" -->
+	<div class="col-xs-6 paginate">
+			<a href="{{site.url}}/personal-development/authenticity-what-it-means-to-you/">
+				<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
+				<div class="col-xs-12 text"><h3>Authenticity: What it Means to You</h3></div>		
+			</a>
 	</div>
-	<div class="col-xs-6">
-		<a href="{{site.url}}/personal-development/comfortable-being-uncomfortable/"><h4>Next article!</h4></a>
+	<div class="col-xs-6 paginate">
+			<a href="{{site.url}}/personal-development/comfortable-being-uncomfortable/">
+				<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
+				<div class="col-xs-12 text"><h3>Being Comfortable with Being Uncomfortable</h3></div>
+			</a>
 	</div>
 </div> <!-- close "pagination" -->
 
