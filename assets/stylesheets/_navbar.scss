@@ -66,7 +66,14 @@
     color: $theme-white;
 }
 
-@media (min-width: 768px) {
+@media(max-width:992px){
+	.nav>li>a {
+		padding-left: 1em;
+		padding-right: 1em;
+	}
+}
+
+@media (min-width: 992px) {
     .navbar-custom {
         padding: 20px 0;
         border-bottom: none;
@@ -87,7 +94,7 @@ ul.banner-social-buttons {
     margin-top: 0;
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1200px) {
     ul.banner-social-buttons {
         margin-top: 15px;
     }
