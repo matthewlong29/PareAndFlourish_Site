@@ -103,12 +103,16 @@ Do you follow any pinterest boards or bloggers that you’d like to recommend? L
 
 <div class="row"> <!-- "pagination" -->
 	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/professional-development/the-networking-worlds-best-kept-secret/">
-				<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-				<div class="col-xs-12 text"><h3>The Networking World's Best-Kept Secret</h3></div>		
-			</a>
+		<a href="{{site.url}}/professional-development/the-networking-worlds-best-kept-secret/">
+			<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
+			<div class="col-xs-12 text"><h3>The Networking World's Best-Kept Secret</h3></div>		
+		</a>
 	</div>
 	<div class="col-xs-6 paginate">
+		<a href="{{site.url}}/professional-development/evolving-career-millennial/">
+			<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
+			<div class="col-xs-12 text"><h3>The Evolving Career of the Millennial</h3></div>		
+		</a>
 	</div>
 </div> <!-- close "pagination" -->
 
