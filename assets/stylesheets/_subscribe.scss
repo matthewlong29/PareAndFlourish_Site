@@ -1,38 +1,59 @@
-#mc_embed_signup {
-    background: $theme-white; 
-    clear: left; 
-    -webkit-transition: 1s all ease;
-    transition: 1s all ease;
-    margin: 0;
-    padding: 0;
-    border: 2px solid $theme-gray;
-    border-radius: 5px;
-    h2 {
-        padding: 0;
-        margin: 0;
-    }
-    p {
-        padding: 0;
-        margin: 0 0 1em 0;
-    }
-    .clear {
-        padding: 0;
-        margin: 0;
-    }
-    .button {
-        margin: 0;
-        color: $theme-white;
-        background-color: $theme-red;
-		width: 96%;
-    }
-    .response {
-        display: none;
-    }
-    .input-text {
-        position: absolute;
-        left: -5000px;
-    }
+#mc_side {
+	background: transparentize($theme-gray, .95);
+	color: $theme-red;
+	padding: 1em;
+	margin: 1em 0 1em 0;
+	text-align: center;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border: 2px solid $theme-gray;
+	p.title {
+		font-size: 1.25em;
+		font-family: $base-font-sans;
+		color: $theme-gray;
+		margin: 0;
+		padding: 0;
+		font-weight: bold;
+	}
+	p.text {
+		font-size: 1em;
+		font-family: $base-font-sans;
+		color: $theme-gray;
+		margin: 0 0 1em 0;
+		padding: 0;
+	}
 }
+
+#mc_side input {
+	border: 1px solid $theme-gray;
+	color: $theme-gray;
+	margin: auto;
+	margin-bottom: 10px;
+	padding: 8px 10px;
+	width: 100%;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+#mc_side input.email { background: $theme-white }
+#mc_side input.name { background: $theme-white }
+#mc_side input[type="submit"] {
+	margin: auto;
+	background: $theme-red;
+	&:hover,
+	&:focus {
+		background-color: lighten($theme-red, 15%);
+		transition: .5s;
+	}
+	color: $theme-white;
+	cursor: pointer;
+	width: 100%;
+	padding: 8px 0;
+}
+	
+#mc_side input[type="submit"]:hover { color: $theme-white }
 
 #mc_page {
 	background: transparentize($theme-gray, .95);
@@ -40,26 +61,37 @@
 	padding: 20px;
 	text-align: center;
 	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border: 2px solid $theme-gray;
 }
+
 #mc_page input {
 	border: 1px solid $theme-gray;
 	color: $theme-gray;
 	margin: auto;
 	margin-bottom: 10px;
 	padding: 8px 10px;
-	width: 300px;
-		border-radius: 5px;
-		-moz-border-radius: 5px;
-		-webkit-border-radius: 5px;
+	width: 100%;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
 }
-#mc_page input.email { background: #fff }
-#mc_page input.name { background: #fff }
+
+#mc_page input.email { background: $theme-white }
+#mc_page input.name { background: $theme-white }
 #mc_page input[type="submit"] {
 	margin: auto;
 	background: $theme-red;
-	color: #fff;
+	&:hover,
+	&:focus {
+		background-color: lighten($theme-red, 15%);
+		transition: .5s;
+	}
+	color: $theme-white;
 	cursor: pointer;
-	width: 35%;
+	width: 100%;
 	padding: 8px 0;
 }
+
 #mc_page input[type="submit"]:hover { color: $theme-white }
