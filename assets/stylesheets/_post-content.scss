@@ -6,7 +6,9 @@
         font-weight: bold;
     }
     h2.alt {
-        margin: .5em 0 0 0;
+        font-family: $base-font-script;
+        font-weight: bold;
+		font-size: 1.25em;
     }
     h4 {
         font-family: $base-font-sans;
