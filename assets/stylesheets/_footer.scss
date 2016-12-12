@@ -25,6 +25,18 @@
     a.alt {
         border-bottom: 1px dotted;
     }
+	.sub-button {
+		-webkit-transition: 1s all ease;
+		transition: 1s all ease;
+		border: 1px dotted $theme-gray;
+		background-color: $theme-red;
+		&:hover,
+		&:focus {
+			border: 1px solid darken($theme-gray, 25%);
+			background-color: lighten($theme-red, 15%);
+			transition: .5s;
+		}
+	}
     .twitter-color {
         color: $twitter-color;
     }
