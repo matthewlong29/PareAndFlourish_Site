@@ -6026,6 +6026,15 @@ blockquote:after {
       transition: .5s; }
   .social-section a.alt {
     border-bottom: 1px dotted; }
+  .social-section .sub-button {
+    -webkit-transition: 1s all ease;
+    transition: 1s all ease;
+    border: 1px dotted #2E3842;
+    background-color: #981a00; }
+    .social-section .sub-button:hover, .social-section .sub-button:focus {
+      border: 1px solid black;
+      background-color: #e52700;
+      transition: .5s; }
   .social-section .twitter-color {
     color: #00aced; }
   .social-section .facebook-color {
@@ -6181,7 +6190,9 @@ ul.banner-social-buttons {
     font-family: "Dancing Script", serif;
     font-weight: bold; }
   .post-content h2.alt {
-    margin: .5em 0 0 0; }
+    font-family: "Dancing Script", serif;
+    font-weight: bold;
+    font-size: 1.25em; }
   .post-content h4 {
     font-family: "Open Sans", serif;
     font-weight: bold; }
@@ -6285,7 +6296,7 @@ ul.banner-social-buttons {
   cursor: pointer;
   text-align: center; }
   .sub-button a {
-    font-size: 1.25em;
+    font-size: 1.5em;
     text-decoration: none;
     padding: 0; }
     .sub-button a:hover, .sub-button a:focus {
