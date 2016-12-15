@@ -41,7 +41,17 @@
         
         <!-- Teaser image that coincides with the post currently visiting. The point of having this is so pinterest will pin the image we want. -->
         
-        {% if page.image.teaser %}
+        {% if page.image.vteaser %}
+        <section id="current-vteaser">
+            <div class="current-teaser">
+                <img src="{{ site.url }}/images/teasers-1080x600/{{ page.image.vteaser }}" class="img-responsive" alt="{{ page.image.alt }}" />
+            </div>
+        
+            <a href="{{ site.url }}/{{ page.category }}" title="Click here to see more posts related to {{ page.category-title }}.">
+                <h4>{{ page.category-title }}</h4>
+            </a>
+        </section>
+        {% elsif page.image.teaser %}
         <section id="current-teaser">
             <div class="current-teaser">
                 <img src="{{ site.url }}/images/teasers-1080x600/{{ page.image.teaser }}" class="img-responsive" alt="{{ page.image.alt }}" />
