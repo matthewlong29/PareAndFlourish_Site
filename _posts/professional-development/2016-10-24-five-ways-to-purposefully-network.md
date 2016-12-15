@@ -5,6 +5,8 @@ title: "Five Ways to Purposefully Network"
 
 permalink: /professional-development/five-ways-to-purposefully-network/
 
+published: 2016-10-24
+
 modified: October 24, 2016
 
 author: "Skylar Wooden and Katie Butler"

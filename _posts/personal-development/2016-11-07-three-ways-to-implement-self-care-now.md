@@ -5,6 +5,8 @@ title: "Three Ways to Implement Self-Care. Now."
 
 permalink: /personal-development/three-ways-to-implement-self-care-now/
 
+published: 2016-11-7
+
 modified: November 7, 2016
 
 author: "Skylar Wooden and Katie Butler"

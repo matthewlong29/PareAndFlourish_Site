@@ -5,6 +5,8 @@ permalink: /personal-development/gift-giving-with-purpose/
 
 title: "A Guide to Gift Giving with Purpose"
 
+published: 2016-12-05
+
 modified: December 05, 2016
 
 author: "Skylar Wooden and Katie Butler"

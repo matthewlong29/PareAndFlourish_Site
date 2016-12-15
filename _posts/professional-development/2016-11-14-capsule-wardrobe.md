@@ -5,6 +5,8 @@ title: "Capsule Wardrobe for the Young Professional: A Beginner’s Guide"
 
 permalink: /professional-development/capsule-wardrobe/
 
+published: 2016-11-14
+
 modified: November 14, 2016
 
 author: "Skylar Wooden and Katie Butler"

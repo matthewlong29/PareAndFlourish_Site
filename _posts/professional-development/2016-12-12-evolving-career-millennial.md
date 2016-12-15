@@ -5,6 +5,8 @@ title: "The Evolving Career of the Millennial"
 
 permalink: /professional-development/evolving-career-millennial/
 
+published: 2016-12-12
+
 modified: Dacember 12, 2016
 
 author: "Skylar Wooden and Katie Butler"
@@ -77,6 +79,10 @@ It can be tough when you realize that you may not stay in your current job. You 
 		</a>
 	</div>
 	<div class="col-xs-6 paginate">
+		<a href="{{site.url}}/professional-development/six-tips-networking-pro/">
+			<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
+			<div class="col-xs-12 text"><h3>Six Tips to Networking Like a Pro</h3></div>		
+		</a>
 	</div>
 </div> <!-- close "pagination" -->
 

@@ -5,6 +5,8 @@ permalink: /personal-development/comfortable-being-uncomfortable/
 
 title: "Being Comfortable with Being Uncomfortable"
 
+published: 2016-11-21
+
 modified: November 21, 2016
 
 author: "Skylar Wooden and Katie Butler"

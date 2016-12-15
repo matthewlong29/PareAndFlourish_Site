@@ -5,6 +5,8 @@ title: "Review of Lean In"
 
 permalink: /bonus-material/review-lean-in/
 
+published: 2016-12-14
+
 modified: December 14, 2016
 
 author: "Skylar Wooden, Katie Butler"
@@ -28,7 +30,7 @@ comments: true
 <h2>Review of Lean In</h2>
 <h2 class="alt">What Would You Do If You Weren't Afraid?</h2>
 
-Sheryl Sandberg’s book, Lean In: Women, Work, and the Will to Lead, is a favorite of ours. Sandberg’s mission is to empower women in the workplace to identify and overcome gender inequality. 
+Sheryl Sandberg’s book, <a href="{{site.url}}/resources/">Lean In: Women, Work, and the Will to Lead</a>, is a favorite of ours. Sandberg’s mission is to empower women in the workplace to identify and overcome gender inequality. 
 
 It’s no secret that the playing field is uneven. Women are seen through a different set of eyes—as if estrogen will wilt the growth of business. The author discusses the obstacles women face in a positive light, rather than presenting them as a never-ending struggle. Sandberg believes that women and men who recognize workplace inequality can do the most to stop it. We agree. So, go ahead, lean in. It’s  a good feeling. 
 
@@ -84,7 +86,7 @@ Not being honest will get you nowhere. If an employer asks you in a performance 
 
 <hr class="secondary">
 
-These are the lessons that stuck with us the most. We guarantee that you’ll have your own favorite lessons. Tell us about them! Leave a comment below. We hope you buy the book here or at our resource page. This is a list of our favorites. Any purchase from that page supports Pare and Flourish so that we can bring you more content, just like this. Look out for our next article on how to navigate networking conversations! 
+These are the lessons that stuck with us the most. We guarantee that you’ll have your own favorite lessons. Tell us about them! Leave a comment below. We hope you buy the book! Find it on our <a href="{{site.url}}/resources/">resource page</a>. This is a list of our favorites. Any purchase from that page supports Pare and Flourish so that we can bring you more content, just like this. Look out for our next article on how to navigate networking conversations! 
 
 *We have <strong>not</strong> been paid to write this review. We feel strongly about its message and want to share it with you.
 

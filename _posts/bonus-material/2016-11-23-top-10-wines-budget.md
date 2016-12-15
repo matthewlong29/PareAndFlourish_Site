@@ -5,6 +5,8 @@ title: "Top 10 Wines on a Budget"
 
 permalink: /bonus-material/top-10-wines-budget/
 
+published: 2016-11-23
+
 modified: November 23, 2016
 
 author: "Skylar Wooden and Katie Butler"

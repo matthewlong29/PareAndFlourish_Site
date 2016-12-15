@@ -5,6 +5,8 @@ permalink: /personal-development/thanksgiving-over-now-what/
 
 title: "Thanksgiving is Over. Now What?"
 
+published: 2016-11-28
+
 modified: November 28, 2016
 
 author: "Skylar Wooden and Katie Butler"
