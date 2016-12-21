@@ -3,9 +3,9 @@
 		text-decoration: none;
 	}
 	.img {
-        border: 2px solid $theme-gray;
-        border-radius: 5px;
-        margin: 1em 0 0 0;
+		border: 2px solid $theme-gray;
+		border-radius: 5px;
+		margin: 1em 0 0 0;
 		padding: 0;
 	}
 	.arrow {
@@ -24,13 +24,13 @@
 		text-align: center;
 		h3 {
 			font-family: 'Dancing Script', serif;
-            color: darken($theme-gray, 25%);
-            font-weight: normal;
-            margin: 0 0 0 0;
-            &:hover,
-            &:focus {
-                font-weight: bold;
-            }
+			color: darken($theme-gray, 25%);
+			font-weight: normal;
+			margin: 0 0 0 0;
+			&:hover,
+			&:focus {
+					font-weight: bold;
+			}
 		}
 	}
 }

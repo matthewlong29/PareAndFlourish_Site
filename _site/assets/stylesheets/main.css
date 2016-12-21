@@ -6186,13 +6186,20 @@ ul.banner-social-buttons {
 .post-content {
   font-size: 1.25em;
   margin: auto; }
+  .post-content p {
+    line-height: 1.5em; }
   .post-content h2 {
     font-family: "Dancing Script", serif;
-    font-weight: bold; }
+    font-weight: bold;
+    line-height: 1em; }
   .post-content h2.alt {
     font-family: "Dancing Script", serif;
     font-weight: bold;
     font-size: 1.25em; }
+  .post-content h3 {
+    line-height: 1em;
+    margin: 0;
+    padding-top: 1em; }
   .post-content h4 {
     font-family: "Open Sans", serif;
     font-weight: bold; }

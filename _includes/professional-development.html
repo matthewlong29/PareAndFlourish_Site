@@ -1,13 +1,15 @@
+<!-- Latest professional development blogs. This is a for loop for all professional development blogs (not bonus material or personal development blogs) to appear on the professional development page. -->
+ 
 <section id="professional-development">
-    <div class="blog-tiles">
-        
-        <hr class="primary">
-            
-        {% for post in site.categories.professional-development %}
 
-            {% include blog-tiles.html %}
+	<div class="blog-tiles">
 
-        {% endfor %}
-            
-    </div>
+		<hr class="primary">
+
+		{% for post in site.categories.professional-development %}
+			{% include blog-tiles.html %}
+		{% endfor %}
+
+	</div>
+	
 </section>

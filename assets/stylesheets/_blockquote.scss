@@ -1,31 +1,31 @@
 blockquote {
-    border-left: 0.3em solid $theme-red;
-    background-color: lighten($theme-gray, 75%);
-    position: relative;
-    cite {
-        font-size: 0.8em;
-        &:before {
-            content: "\2014";
-            padding-right: 5px;
-        }
-    }
+	border-left: 0.3em solid $theme-red;
+	background-color: lighten($theme-gray, 75%);
+	position: relative;
+	cite {
+		font-size: 0.8em;
+		&:before {
+			content: "\2014";
+			padding-right: 5px;
+		}
+	}
 }
 
 blockquote:before, blockquote:after {
-    color: $theme-red;
-    content: '\f10d';
-    font-family: 'FontAwesome';
-    font-size: 30px;
-    top: 0;
-    left: 2px;
-    position: absolute;
-    display: block;
+	color: $theme-red;
+	content: '\f10d';
+	font-family: 'FontAwesome';
+	font-size: 30px;
+	top: 0;
+	left: 2px;
+	position: absolute;
+	display: block;
 }
 
 blockquote:after {
-    content:'\f10e';
-    bottom:0;
-    right:2px;
-    top:auto;
-    left:auto;
+	content:'\f10e';
+	bottom:0;
+	right:2px;
+	top:auto;
+	left:auto;
 }

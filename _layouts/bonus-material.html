@@ -2,49 +2,54 @@
 layout: default
 ---
 
-{% include feature-image.html %}
+<!-- This layout is the "homepage" for bonus material blog posts. This is basically the same as the homepage (www.pareandflourish.com) except it only contains the tiles catagorized as bonus material. -->
 
-<div class="container">
+{% include feature-image.html %} <!-- Feature image -->
 
-    <div class="row">
-        
-    <div class="col-lg-8 col-md-8 col-sm-12">
-        <div class="medium-tb">
-            
-			<section id="google-ad-top">
-				<div class="ad-container-top">
-					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-					<!-- Pare and Flourish - Top Ad -->
-					<ins class="adsbygoogle"
-					style="display:block"
-					data-ad-client="ca-pub-5907828496259396"
-					data-ad-slot="2278578863"
-					data-ad-format="auto"></ins>
-					<script>
-					(adsbygoogle = window.adsbygoogle || []).push({});
-					</script>
-				</div>
-			</section>
+<div class="container"> <!-- Page container (bootstrap). -->
 
-				<div class="post-content">
-					{{ content }}
-				</div>
+	<div class="row">
 
-			{% include bonus-material.html %}
+	<div class="col-lg-8 col-md-8 col-sm-12">
+	
+		<div class="medium-tb">
 
-			<p style="text-align:center">Blogs soon to come!</p>
-            
-        </div>
+		<section id="google-ad-top"> <!-- Google adsense -->
+			<div class="ad-container-top">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- Pare and Flourish - Top Ad -->
+				<ins class="adsbygoogle"
+				style="display:block"
+				data-ad-client="ca-pub-5907828496259396"
+				data-ad-slot="2278578863"
+				data-ad-format="auto"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+			</div>
+		</section>
 
-        <hr class="primary">
-    </div>
-        
-    <div class="col-lg-4 col-md-4 col-sm-12">
-       	<div class="side-panel">
-       		{% include subscribe.html %}
+		<div class="post-content"> <!-- Bonus material content (title, description, etc..). -->
+			{{ content }}
 		</div>
-        {% include side-panel.html %}
-    </div>
+
+		{% include bonus-material.html %} <!-- Blog tiles relating to bonus material (/bonus-material/). -->
+
+		<p style="text-align:center">Blogs soon to come!</p> <!-- Text that appears below the blog tiles. -->
+
+		</div>
+
+		<hr class="primary">
+		
+	</div>
+
+	<div class="col-lg-4 col-md-4 col-sm-12"> <!-- Side Panel with subscribe form. -->
+		<div class="side-panel">
+			{% include subscribe.html %}
+		</div>
+			{% include side-panel.html %}
+	</div>
+
+	</div>
     
-    </div>
 </div>

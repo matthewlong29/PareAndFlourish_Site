@@ -1,30 +1,28 @@
-//// Social Media Section
-
 .social-section {
-    min-height: 7.5vh;
-    background-color: transparentize($theme-gray, 0.15);
-    text-align: center;
-    p {
-        color: darken($theme-white, 35%);
-        font-size: .9em;
-    }
-    p.alt {
-        margin-top: 0;
-        padding-top: 0;
-    }
-    a {
-        color: darken($theme-white, 35%);
-        font-size: 1em;    
-        text-decoration: none;
-        &:hover {
-            border-bottom: 0px;
-            color: $theme-white;
-            transition: .5s;
-        }
-    }
-    a.alt {
-        border-bottom: 1px dotted;
-    }
+	min-height: 7.5vh;
+	background-color: transparentize($theme-gray, 0.15);
+	text-align: center;
+	p {
+		color: darken($theme-white, 35%);
+		font-size: .9em;
+	}
+	p.alt {
+		margin-top: 0;
+		padding-top: 0;
+	}
+	a {
+		color: darken($theme-white, 35%);
+		font-size: 1em;    
+		text-decoration: none;
+		&:hover {
+			border-bottom: 0px;
+			color: $theme-white;
+			transition: .5s;
+		}
+	}
+	a.alt {
+		border-bottom: 1px dotted;
+	}
 	.sub-button {
 		-webkit-transition: 1s all ease;
 		transition: 1s all ease;
@@ -37,22 +35,22 @@
 			transition: .5s;
 		}
 	}
-    .twitter-color {
-        color: $twitter-color;
-    }
+	.twitter-color {
+	  color: $twitter-color;
+	}
 	.facebook-color {
 		color: $facebook-color;
 	}
-    .github-color {
-        color: $github-color;
-    }
-    .pinterest-color {
-        color: $pinterest-color;
-    }
-    .paypal-color {
-        color: $paypal-color;
-    }
-    .instagram-color {
-        color: $instagram-color;
-    }
+	.github-color {
+		color: $github-color;
+	}
+	.pinterest-color {
+		color: $pinterest-color;
+	}
+	.paypal-color {
+		color: $paypal-color;
+	}
+	.instagram-color {
+		color: $instagram-color;
+	}
 }

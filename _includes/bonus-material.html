@@ -1,13 +1,13 @@
-<section id="bonus-material">
-    <div class="blog-tiles">
-        
-        <hr class="primary">
-        
-        {% for post in site.categories.bonus-material %}
+<!-- Latest bonus material blogs. This is a for loop for all bonus material blogs (not personal or professional development blogs) to appear on the bonus material page. -->
+   
+<section id="bonus-material"> <!-- Bonus material blog home -->
+	<div class="blog-tiles">
 
-            {% include blog-tiles.html %}
+		<hr class="primary">
 
-        {% endfor %}
+		{% for post in site.categories.bonus-material %} <!-- For loop. -->
+			{% include blog-tiles.html %}
+		{% endfor %}
 
-    </div>
+	</div>
 </section>

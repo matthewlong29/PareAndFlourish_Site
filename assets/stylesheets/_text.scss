@@ -1,25 +1,25 @@
 p {
-    color: $theme-gray;
-    font-family: $base-font-sans;
-    padding: .5em 0 .5em 0;
-    margin: .5em 0 .5em 0;
+	color: $theme-gray;
+	font-family: $base-font-sans;
+	padding: .5em 0 .5em 0;
+	margin: .5em 0 .5em 0;
 }
 
 li {
-    color: $theme-gray;
-    font-family: $base-font-sans;
+	color: $theme-gray;
+	font-family: $base-font-sans;
 }
 
 p.script {
-    font-family: $base-font-script;
-    display: inline;
-    font-weight: bold;
-    font-size: 1.5em;
+	font-family: $base-font-script;
+	display: inline;
+	font-weight: bold;
+	font-size: 1.5em;
 }
 
 p.script-inline {
-    font-family: $base-font-sans;
-    display: inline;
+	font-family: $base-font-sans;
+	display: inline;
 }
 
 h1,
@@ -28,16 +28,16 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: $base-font-sans;
-    color: $theme-gray;
-    padding: 0;
-    margin: .5em 0 .5em 0;
+	font-family: $base-font-sans;
+	color: $theme-gray;
+	padding: 0;
+	margin: .5em 0 .5em 0;
 }
 
 a {
-    color: $theme-white;
-    text-decoration: dashed underline;
-    padding: 0;
-    margin: 0;
+	color: $theme-white;
+	text-decoration: dashed underline;
+	padding: 0;
+	margin: 0;
 }
 

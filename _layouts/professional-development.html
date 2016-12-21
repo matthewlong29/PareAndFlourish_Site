@@ -2,52 +2,54 @@
 layout: default
 ---
 
-{% include feature-image.html %}
+<!-- This layout is the "homepage" for professional development blog posts. This is basically the same as the homepage (www.pareandflourish.com) except it only contains the tiles catagorized as professional development. -->
 
-<div class="container">
+{% include feature-image.html %} <!-- Include feature image. -->
+
+<div class="container"> <!-- Page container (bootstrap). -->
     
-    <div class="row">
-        
-    <div class="col-lg-8 col-md-8 col-sm-12">
-        <div class="medium-tb">
-                
-			<section id="google-ad-top"> <!-- top google ad -->
-				<div class="ad-container-top">
-					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-					<!-- Pare and Flourish - Top Ad -->
-					<ins class="adsbygoogle"
-					style="display:block"
-					data-ad-client="ca-pub-5907828496259396"
-					data-ad-slot="2278578863"
-					data-ad-format="auto"></ins>
-					<script>
-					(adsbygoogle = window.adsbygoogle || []).push({});
-					</script>
-				</div>
-			</section> <!-- close top google ad -->
+	<div class="row">
 
-			<div class="post-content">
-				{{ content }}
+		<div class="col-lg-8 col-md-8 col-sm-12">
+
+			<div class="medium-tb">
+
+				<section id="google-ad-top"> <!-- Google adsense ad -->
+					<div class="ad-container-top">
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- Pare and Flourish - Top Ad -->
+						<ins class="adsbygoogle"
+						style="display:block"
+						data-ad-client="ca-pub-5907828496259396"
+						data-ad-slot="2278578863"
+						data-ad-format="auto"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+					</div>
+				</section> <!-- close top google ad -->
+
+				<div class="post-content"> <!-- Professional development content (title, description, etc..). -->
+					{{ content }}
+				</div>
+
+				{% include professional-development.html %} <!-- Professional development blog tiles (/professional-development/) -->
+
+				<p style="text-align:center">More blogs soon to come!</p> <!-- Text that appears below the blog tiles. -->
+
 			</div>
 
-			{% include professional-development.html %}
+			<hr class="primary">
 
-			<p style="text-align:center">More blogs soon to come!</p>
-
-        </div>
-    
-        <hr class="primary">
-    </div>
-        
-    <div class="col-lg-4 col-md-4 col-sm-12">
-    
-		<div class="side-panel">
-       		{% include subscribe.html %}
 		</div>
-       
-        {% include side-panel.html %}
-    </div>
-    
-    </div>
+
+		<div class="col-lg-4 col-md-4 col-sm-12"> <!-- Side panel with subscribe section. -->
+			<div class="side-panel">
+				{% include subscribe.html %}
+			</div>
+			{% include side-panel.html %}
+		</div>
+
+	</div>
     
 </div>

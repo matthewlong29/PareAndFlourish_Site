@@ -1,40 +1,40 @@
-<div class="blog-content">
+<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 
-    <div class="row">
-        
+<div class="blog-content"> 
 
-            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                
-                <a href="{{ site.url }}{{ post.url }}">
-                    <img src="{{ site.url }}/images/teasers-1080x600/{{ post.image.teaser }}" class="img-responsive" alt="{{ post.image.alt }}" />
-                </a>
-                
-                {% if page.url == "/" %}
-                
-                    <a href="{{ site.url }}/{{ post.category }}" title="Click here to see more posts related to {{ post.category-title }}.">
-                        <h4>{{ post.category-title }}</h4>
-                    </a>
-                
-                {% else %}
-                
-                    <h4>{{ post.category-title }}</h4>
-                
-                {% endif %}
-                
-            </div>
+	<div class="row">
 
-            <div class="blog-text col-lg-8 col-md-8 col-sm-6 col-xs-12">
-                <a href="{{ site.url }}{{ post.url }}">
-                    <h3>{{ post.title }}</h3>
-                    <p class="date">{{ post.modified }}</p>
-                    <p class="author">Written by: {{ post.author }}</p>
-                    <p class="">{{ post.excerpt }}</p>
-                </a>
-            </div>
+		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"> <!-- Image and category portion of blog tile. -->
 
+			<a href="{{ site.url }}{{ post.url }}">
+				<img src="{{ site.url }}/images/teasers-1080x600/{{ post.image.teaser }}" class="img-responsive" alt="{{ post.image.alt }}" />
+			</a>
 
-    </div>
-    
-    <hr class="secondary">
+			{% if page.url == "/" %}
+
+				<a href="{{ site.url }}/{{ post.category }}" title="Click here to see more posts related to {{ post.category-title }}.">
+						<h4>{{ post.category-title }}</h4>
+				</a>
+
+			{% else %}
+
+				<h4>{{ post.category-title }}</h4>
+
+			{% endif %}
+
+		</div>
+
+		<div class="blog-text col-lg-8 col-md-8 col-sm-6 col-xs-12">
+			<a href="{{ site.url }}{{ post.url }}">
+				<h3>{{ post.title }}</h3>
+				<p class="date">{{ post.modified }}</p>
+				<p class="author">Written by: {{ post.author }}</p>
+				<p class="">{{ post.excerpt }}</p>
+			</a>
+		</div>
+
+	</div>
+
+	<hr class="secondary">
     
 </div>

@@ -2,46 +2,44 @@
 layout: default
 ---
 
-<!-- Banner Section -->
+<!-- This is the layout for the homepage. The homepage contains tiles for all the blog posts sorted from newest to oldest. -->
 
-{% include banner.html %}
+<!-- Banner Section -->
+{% include banner.html %} <!-- Banner image as well as logo and description. -->
 
 <!-- Latest Blog Post Section -->
+<div class="container"> <!-- Page container (bootstrap). -->
+       
+	<div class="row">
 
-<div class="container">
-    
-    
-    
-    <div class="row">
-        
-        <div class="col-lg-8 col-md-8 col-sm-12">
-            
-            <section id="google-ad-top">
-                <div class="ad-container-top">
-                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                    <!-- Pare and Flourish - Top Ad -->
-                    <ins class="adsbygoogle"
-                    style="display:block"
-                    data-ad-client="ca-pub-5907828496259396"
-                    data-ad-slot="2278578863"
-                    data-ad-format="auto"></ins>
-                    <script>
-                    (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>
-                </div>
-            </section>
+		<div class="col-lg-8 col-md-8 col-sm-12">
 
-            {% include latest.html %}
-        </div>
+			<section id="google-ad-top"> <!-- Google adsense -->
+				<div class="ad-container-top">
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<!-- Pare and Flourish - Top Ad -->
+					<ins class="adsbygoogle"
+					style="display:block"
+					data-ad-client="ca-pub-5907828496259396"
+					data-ad-slot="2278578863"
+					data-ad-format="auto"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+				</div>
+			</section>
 
-        <div class="col-lg-4 col-md-4 col-sm-12">
-        
+			{% include latest.html %} <!-- Latest blog posts. -->
+			
+		</div>
+
+		<div class="col-lg-4 col-md-4 col-sm-12"> <!-- Side panel with subscribe form. -->
 			<div class="side-panel">
 				{% include subscribe.html %}
 			</div>
-           
-            {% include side-panel.html %}
-        </div>
-        
-    </div>
+			{% include side-panel.html %}
+		</div>
+
+	</div>
+	
 </div>

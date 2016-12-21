@@ -1,31 +1,33 @@
+<!-- The banner section contains the banner image, text logo, description, and button linking to the subscription form page. -->	
+
 <section id="banner-front">
 
-    <div class="banner-front">
-        
-        <div class="container banner-content">
-            
-            <div class="col-lag-12">
-                
-                <div class="slider">
-                    <div class="slider-top"></div>
-                </div>
-                
-                <img src="../images/pare-and-flourish-gray.svg" class="img-responsive" alt="pare and flourish" data-pin-nopin="true">
-                
-                <div class="slider">
-                    <div class="slider-bottom"></div>
-                </div>
-                
-            </div>
+	<div class="banner-front">
 
-            <p>{{ site.description }}</p>
-            
-            <a href="{{ site.url }}/join-pare-and-flourish/"><div class="sub-button">Click here to subscribe!</div></a>
+		<div class="container banner-content"> <!-- Banner content for homepage. -->
 
-        </div>
+			<div class="col-lag-12">
 
-    </div>
-    
-    <div class="blank"></div>
+				<div class="slider"> <!-- Bar/line above text logo. -->
+					<div class="slider-top"></div>
+				</div>
+
+				<img src="../images/pare-and-flourish-gray.svg" class="img-responsive" alt="pare and flourish" data-pin-nopin="true"> <!-- Text logo. -->
+
+				<div class="slider"> <!-- Bar/line below text logo. -->
+					<div class="slider-bottom"></div>
+				</div>
+
+			</div>
+
+			<p>{{ site.description }}</p> <!-- Website description. See config page. -->
+
+			<a href="{{ site.url }}/join-pare-and-flourish/"><div class="sub-button">Click here to subscribe!</div></a> <!-- Link to subscription form page. -->
+
+		</div>
+
+	</div>
+
+	<div class="blank"></div> <!-- Bar/line below the banner image. -->
 
 </section>
