@@ -8,11 +8,11 @@ Please note that this source code has not been "themed" and credit must be given
 
 ## CREDITS
 Filler and teaser images:
-	Unsplash (unsplash.com)
+	[Unsplash](https://unsplash.com/)
 
 Icons:
-	Font Awesome (http://fontawesome.io/)
+	[Font Awesome](http://fontawesome.io/)
         
 Other:
-	jQuery (jquery.com)
+	[jQuery](https://jquery.com/)
 	
