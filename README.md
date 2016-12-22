@@ -13,16 +13,22 @@ You can get in contact with us through social media at [Twitter](https://twitter
 Below you will find a list of tools and services that are used in the creation of this site.
 
 ### Development Tools:
-[Bootstrap](http://getbootstrap.com/), [Google AdSense](https://www.google.com/adsense/start/#?modal_active=none), [Google Analytics](https://www.google.com/analytics/#?modal_active=none), [Jekyll](https://jekyllrb.com/), [jQuery](https://jquery.com/), [Sass](http://sass-lang.com/)
+* [Bootstrap](http://getbootstrap.com/)
+* [Google AdSense](https://www.google.com/adsense/start/#?modal_active=none)
+* [Google Analytics](https://www.google.com/analytics/#?modal_active=none)
+* [Jekyll](https://jekyllrb.com/)
+* [jQuery](https://jquery.com/)
+* [Sass](http://sass-lang.com/)
 	
 ### Filler and teaser images:
-[Unsplash](https://unsplash.com/).
+* [Unsplash](https://unsplash.com/)
 
 ### Fonts:
-[Dancing Script](https://fonts.google.com/specimen/Dancing+Script), [Open Sans](https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans).
+* [Dancing Script](https://fonts.google.com/specimen/Dancing+Script)
+* [Open Sans](https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans)
 
 ### Icons:
-[Font Awesome](http://fontawesome.io/).
+* [Font Awesome](http://fontawesome.io/)
 
 ### Subscription Service:
-[Mailchimp](https://mailchimp.com/).
+* [Mailchimp](https://mailchimp.com/)
