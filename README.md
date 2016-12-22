@@ -7,12 +7,18 @@ Pare and Flourish, 2016. Unauthorized use and/or duplication of this material wi
 Please note that this source code has not been "themed" and credit must be given for any use of it. 
 
 ## CREDITS
+
+Development Tools:
+	[Bootstrap](http://getbootstrap.com/), [jekyll](https://jekyllrb.com/), [jQuery](https://jquery.com/), 
+	
 Filler and teaser images:
-	[Unsplash](https://unsplash.com/)
+	[Unsplash](https://unsplash.com/).
+
+Fonts:
+	[Dancing Script](https://fonts.google.com/specimen/Dancing+Script), [Open Sans](https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans).
 
 Icons:
-	[Font Awesome](http://fontawesome.io/)
-        
-Other:
-	[jQuery](https://jquery.com/)
-	
+	[Font Awesome](http://fontawesome.io/).
+
+Subscription Service:
+	[Mailchimp](https://mailchimp.com/).
