@@ -6,10 +6,14 @@ Pare and Flourish, 2016. Unauthorized use and/or duplication of this material wi
 
 Please note that this source code has not been "themed" and credit must be given for any use of it. 
 
+## Social Media
+
+
 ## CREDITS
+Below you will find a list of tools and services that are used in the creation of this site.
 
 Development Tools:
-	[Bootstrap](http://getbootstrap.com/), [jekyll](https://jekyllrb.com/), [jQuery](https://jquery.com/), 
+	[Bootstrap](http://getbootstrap.com/), [Google AdSense](https://www.google.com/adsense/start/#?modal_active=none), [Google Analytics](https://www.google.com/analytics/#?modal_active=none), [Jekyll](https://jekyllrb.com/), [jQuery](https://jquery.com/), [Sass](http://sass-lang.com/)
 	
 Filler and teaser images:
 	[Unsplash](https://unsplash.com/).
