@@ -96,6 +96,10 @@ Conversations with people who are basically strangers can seem intimidating. But
 		</a>
 	</div>
 	<div class="col-xs-6 paginate">
+		<a href="{{site.url}}/professional-development/inequality-in-workforce/">
+			<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
+			<div class="col-xs-12 text"><h3>Work Like a Girl: Inequality in the Workforce</h3></div>		
+		</a>
 	</div>
 </div> <!-- close "pagination" -->
 
