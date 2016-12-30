@@ -14,7 +14,8 @@ author: "Skylar Wooden and Katie Butler"
 excerpt: "If a last minute trip to the mall—arms full of socks—feels familiar, you might want to reevaluate your gift strategy. Finding a meaningful gift can be enjoyable."
 
 image:
-  feature: introducing.png
+  ftsmall: pers-small.png
+  ftlarge: pers-large.png
   teaser: gift-giving-purpose.png
   alt: "A Guide to Gift Giving with Purpose"
 

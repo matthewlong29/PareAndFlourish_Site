@@ -14,7 +14,8 @@ author: "Skylar Wooden and Katie Butler"
 excerpt: "Even for those of us who don’t struggle with communication, networking conversations can be a shock to the senses. Suddenly all of your personality disappears and you have no idea what to fill the silence with. You’re bombarded with thoughts of all the things you should be saying, and nothing is coming naturally."
 
 image:
-  feature: introducing.png
+  ftsmall: prof-small.png
+  ftlarge: prof-large.png
   teaser: networking-tips.png
   vteaser: networking-tips-v.png
   alt: "Six Tips to Networking Like a Pro"

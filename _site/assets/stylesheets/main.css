@@ -5994,18 +5994,17 @@ blockquote:after {
   padding: 1em; }
 
 .feature-image {
-  background-image: url("../../images/flower-field.png");
-  background-attachment: fixed;
-  background-size: cover;
-  min-height: 25vh;
-  max-height: 40vh;
-  background-position: right 0px bottom 500px; }
-  @media (max-width: 767px) {
+  margin: 0 auto; }
+  @media (max-width: 991px) {
     .feature-image {
-      background-attachment: scroll;
-      min-height: 25vh;
-      max-height: 40vh; } }
+      padding-top: 50px; } }
 
+@media (min-width: 992px) {
+  .feature-small {
+    display: none; } }
+@media (max-width: 991px) {
+  .feature-large {
+    display: none; } }
 .social-section {
   min-height: 7.5vh;
   background-color: rgba(46, 56, 66, 0.85);

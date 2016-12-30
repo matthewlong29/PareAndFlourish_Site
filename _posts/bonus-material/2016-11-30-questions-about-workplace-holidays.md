@@ -14,7 +14,8 @@ author: "Skylar Wooden, Katie Butler, and Sarah Caton"
 excerpt: "Holidays are possibly the best time of the year—maybe theoretically is a better way to describe it. They’re magical and lively, but can be a bit awkward too."
 
 image:
-  feature: introducing.png
+  ftsmall: bonu-small.png
+  ftlarge: bonu-large.png
   teaser: workplace-holidays.png
   alt: "Your Questions About Workplace Holidays, Answered"
 

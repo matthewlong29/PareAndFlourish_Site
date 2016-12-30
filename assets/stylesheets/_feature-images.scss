@@ -1,13 +1,18 @@
 .feature-image {
-	background-image: url('../../images/flower-field.png');
-	background-attachment: fixed;
-	background-size: cover;
-	min-height: 25vh;
-	max-height: 40vh;
-	background-position: right 0px bottom 500px; 
-	@media (max-width: 767px) {
-		background-attachment: scroll;
-		min-height: 25vh;
-		max-height: 40vh;
-	}
+  margin: 0 auto;
+  @media (max-width: 991px) {
+    padding-top: 50px;
+  }
+}
+
+@media (min-width: 992px) {
+  .feature-small {
+    display: none;
+  }
+}
+
+@media (max-width: 991px) {
+  .feature-large {
+    display: none;
+  }
 }

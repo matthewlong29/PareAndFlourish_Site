@@ -14,7 +14,8 @@ author: "Skylar Wooden and Katie Butler"
 excerpt: "Do your best at your day job, but don’t give it all of yourself. Give back. Find out which fires generosity can ignite in your motivation."
 
 image:
-  feature: introducing.png
+  ftsmall: prof-small.png
+  ftlarge: prof-large.png
   teaser: three-ways-involved.png
   alt: "Three Ways to Get Involved Without Killing Your Time"
 
