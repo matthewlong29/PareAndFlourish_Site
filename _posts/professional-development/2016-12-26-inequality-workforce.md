@@ -7,7 +7,7 @@ permalink: /professional-development/inequality-in-workforce/
 
 published: 2016-26-19
 
-modified: Dacember 26, 2016
+modified: December 26, 2016
 
 author: "Skylar Wooden and Katie Butler"
 
