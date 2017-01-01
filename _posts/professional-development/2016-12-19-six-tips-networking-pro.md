@@ -7,7 +7,7 @@ permalink: /professional-development/six-tips-networking-pro/
 
 published: 2016-12-19
 
-modified: Dacember 19, 2016
+modified: December 19, 2016
 
 author: "Skylar Wooden and Katie Butler"
 
