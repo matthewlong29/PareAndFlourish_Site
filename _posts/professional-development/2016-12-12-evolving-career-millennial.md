@@ -7,7 +7,7 @@ permalink: /professional-development/evolving-career-millennial/
 
 published: 2016-12-12
 
-modified: Dacember 12, 2016
+modified: December 12, 2016
 
 author: "Skylar Wooden and Katie Butler"
 
