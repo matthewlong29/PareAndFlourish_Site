@@ -5812,6 +5812,9 @@ button.close {
 body {
   background-color: #FDFDFD; }
 
+#disqus_thread .publisher-anchor-color {
+  color: black !important; }
+
 .about-us {
   margin: 0;
   padding: 0; }
