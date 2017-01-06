@@ -39,6 +39,9 @@ Home is no longer just home now that you can log in to work or check email. Are 
 
 This often feels like multitasking. People are praised for multitasking, when it actually makes them less productive. You can never be fully present if your mind is always in the other place. 
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">People are praised for <a href="https://twitter.com/hashtag/multitasking?src=hash">#multitasking</a>, when it actually makes them less <a href="https://twitter.com/hashtag/productive?src=hash">#productive</a>.</p>&mdash; PareandFlourish (@pareandflourish) <a href="https://twitter.com/pareandflourish/status/815931384573415424">January 2, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 It’s difficult to be mindful of one activity at a time. Here are some of our best tips to master work-life balance:
 
 <hr class="secondary">
@@ -115,6 +118,10 @@ Work is important, but never let it drain your life. Your home life is just as i
 		</a>
 	</div>
 	<div class="col-xs-6 paginate">
+        <a href="{{site.url}}/professional-development/new-year-networking-challenge/">
+            <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
+            <div class="col-xs-12 text"><h3>New Year New Netork: Networking Challenge</h3></div>
+        </a>
 	</div>
 </div> <!-- close "pagination" -->
 
