@@ -5815,6 +5815,9 @@ body {
 #disqus_thread .publisher-anchor-color {
   color: black !important; }
 
+disqus-link {
+  color: #2E3842; }
+
 .about-us {
   margin: 0;
   padding: 0; }
