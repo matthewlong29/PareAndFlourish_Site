@@ -7,7 +7,7 @@ permalink: /professional-development/inequality-in-workforce/
 
 published: 2016-26-19
 
-modified: Dacember 26, 2016
+modified: December 26, 2016
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -75,7 +75,7 @@ Workplace sexism is alive and well, friends. Thinking otherwise is wildly unprod
 
 If any of these stories hit a nerve, take a look at Sheryl Sandberg’s book <a href="http://www.pareandflourish.com/resources/">Lean In: Women, Work and the Will to Lead</a>. Sandberg has brought to light stories and facts that will shine a bright light on the sometimes dark side of women in business. If you’re looking for your next motivation to advance your career, Lean In will light a fire. Maybe you don’t have the time to devote to reading right now. You can skim our <a href="http://www.pareandflourish.com/bonus-material/review-lean-in/">review</a> of her book. 
 
-Even if it takes decades, we’ll get there. We’ll get there a hell of a lot faster if we work together. Do you have a story about workplace sexism? Tell us about it in the comments. Check out our next post on our New Year Networking Challenge!
+Even if it takes decades, we’ll get there. We’ll get there a hell of a lot faster if we work together. Do you have a story about workplace sexism? Tell us about it in the comments. Check out our next post on mastering work-life balance!
 
 <hr class="primary">
 
