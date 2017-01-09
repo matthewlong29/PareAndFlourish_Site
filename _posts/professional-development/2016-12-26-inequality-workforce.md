@@ -71,7 +71,7 @@ When sexism is part of your daily reality from childhood, it can be very difficu
 
 <hr class="secondary">
 
-Workplace sexism is alive and well, friends. Thinking otherwise is wildly unproductive. Even if you haven’t personally experienced sexim at work, fight for the girl next to you who has. If you truly don’t believe it exists, that’s okay, really. But remember this: you will lose nothing by working toward an equality that you already believe is there.
+Workplace sexism is alive and well, friends. Thinking otherwise is wildly unproductive. Even if you haven’t personally experienced sexism at work, fight for the girl next to you who has. If you truly don’t believe it exists, that’s okay, really. But remember this: you will lose nothing by working toward an equality that you already believe is there.
 
 If any of these stories hit a nerve, take a look at Sheryl Sandberg’s book <a href="http://www.pareandflourish.com/resources/">Lean In: Women, Work and the Will to Lead</a>. Sandberg has brought to light stories and facts that will shine a bright light on the sometimes dark side of women in business. If you’re looking for your next motivation to advance your career, Lean In will light a fire. Maybe you don’t have the time to devote to reading right now. You can skim our <a href="http://www.pareandflourish.com/bonus-material/review-lean-in/">review</a> of her book. 
 
