@@ -122,64 +122,62 @@
 			<!-- Navigation bar. Top of the site. -->
 
 <nav class="navbar navbar-custom navbar-fixed-top" role="navigation"> <!-- Open navigation tag. -->
+  <div class="container"> <!-- Navigation bar container (bootstrap). -->
 
-	<div class="container"> <!-- Navigation bar container (bootstrap). -->
-	
-		<div class="navbar-header"> <!-- Navigation home (left side). -->
-		
-			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse"> <!-- Three bar button to open menu on small windows -->
-				<i class="fa fa-bars"></i>
-			</button>
-			
-			<a class="navbar-brand" href="http://localhost:4000/"> <!-- Link to home page -->
-				<span class="light">Pare And Flourish</span>
-			</a>
-			
-		</div>
+    <div class="navbar-header"> <!-- Navigation home (left side). -->
 
-		<div class="collapse navbar-collapse navbar-right navbar-main-collapse"> <!-- Collect the nav links, forms, and other content for toggling (right side). -->
-		
-			<ul class="nav navbar-nav">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse"> <!-- Three bar button to open menu on small windows -->
+        <i class="fa fa-bars"></i>
+      </button>
 
-				<li> <!-- Navbar link to start here page -->
-					<a href="/start-here/"><span class="light">Start Here</span></a>
-				</li>
+      <a class="navbar-brand" href="http://localhost:4000/"> <!-- Link to home page -->
+        <span class="light">Pare and Flourish</span>
+      </a>
 
-				<li class="dropdown"> <!-- Dropdown menu containing links to prof., personal, and bonus blog pages -->
-					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blogs <span class="caret"></span></a>
-					
-					<ul class="dropdown-menu"> <!-- Dropdown menu-->
-						<li> <!-- Link to personal development page -->
-							<a href="/personal-development/"><span class="light">Personal Development</span></a>
-						</li>
-						<li> <!-- Link to professional development page -->
-							<a href="/professional-development/"><span class="light">Professional Development</span></a>
-						</li>
-						<li> <!-- Link to bonus material page -->
-							<a href="/bonus-material/"><span class="light">Bonus</span></a>
-						</li>
-					</ul>
-					
-				</li>
+    </div>
 
-				<li> <!-- Link to work with us page -->
-					<a href="/work-with-us/"><span class="light">Work With Us</span></a>
-				</li>
+    <div class="collapse navbar-collapse navbar-right navbar-main-collapse"> <!-- Collect the nav links, forms, and other content for toggling (right side). -->
 
-				<li> <!-- Link to resources page -->
-					<a href="/resources/"><span class="light">Resources</span></a>
-				</li>
+      <ul class="nav navbar-nav">
 
-				<li> <!-- Link to join page and flourish page -->
-					<a href="/join-pare-and-flourish/"><span class="light">Join Pare and Flourish</span></a>
-				</li>
+        <li> <!-- Navbar link to start here page -->
+          <a href="/start-here/"><span class="light">Start Here</span></a>
+        </li>
 
-			</ul>
-			
-		</div>
+        <li class="dropdown"> <!-- Dropdown menu containing links to prof., personal, and bonus blog pages -->
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blogs <span class="caret"></span></a>
 
-	</div>
+          <ul class="dropdown-menu"> <!-- Dropdown menu-->
+            <li> <!-- Link to personal development page -->
+              <a href="/personal-development/"><span class="light">Personal Development</span></a>
+            </li>
+            <li> <!-- Link to professional development page -->
+              <a href="/professional-development/"><span class="light">Professional Development</span></a>
+            </li>
+            <li> <!-- Link to bonus material page -->
+              <a href="/bonus-material/"><span class="light">Bonus</span></a>
+            </li>
+          </ul>
 
+        </li>
+
+        <li> <!-- Link to work with us page -->
+          <a href="/work-with-us/"><span class="light">Work With Us</span></a>
+        </li>
+
+        <li> <!-- Link to resources page -->
+          <a href="/resources/"><span class="light">Resources</span></a>
+        </li>
+
+        <li> <!-- Link to join page and flourish page -->
+          <a href="/join-pare-and-flourish/"><span class="light">Join Pare and Flourish</span></a>
+        </li>
+
+      </ul>
+
+    </div>
+
+  </div>
 </nav> <!-- Close navigation tag. --> <!-- Navigation bar. -->
 			
 			<!-- This is the layout for article/blog post pages. -->
@@ -193,10 +191,10 @@
     
         <div class="feature-image"> <!-- Picture of image defined in front matter of each blog post. The image will almost always been that of its parent directory (personal, professional, and bonus). -->
           <div class="feature-large">
-            <img src="http://localhost:4000/images/feature/prof-large.png" class="img-responsive" data-pin-nopin="true">
+            <img src="http://localhost:4000/images/header/prof-large.jpg" class="img-responsive" data-pin-nopin="true">
           </div>
           <div class="feature-small">
-            <img src="http://localhost:4000/images/feature/prof-small.png" class="img-responsive" data-pin-nopin="true">
+            <img src="http://localhost:4000/images/header/prof-small.jpg" class="img-responsive" data-pin-nopin="true">
           </div>
         </div>
 
@@ -306,8 +304,8 @@
 
 	<div id="mc_embed_signup_scroll">
 
-		<p class="title">Subscribe to our mailing list!</p>
-		<p class="text">Subscribe to receive a FREE cover letter template! Be the first to know about new blog posts and promotions!</p>
+		<p class="title">Subscribe to receive a FREE cover letter template!</p>
+		<p class="text">Be the first to know about new blog posts and promotions!</p>
 
 		<input type="email" value="" placeholder="Email Address (required)" name="EMAIL" class="required email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
 		<input type="text" value="" placeholder="First Name" name="FNAME" class="" id="mce-FNAME" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
@@ -373,11 +371,8 @@
 		
 		<section id="current-teaser"> <!-- Horizontal teaser. -->
 			<div class="current-teaser">
-				<img src="http://localhost:4000/images/teasers-1080x600/three-ways-involved.png" class="img-responsive" alt="Three Ways to Get Involved Without Killing Your Time" />
+				<img src="http://localhost:4000/images/teasers-1080x600/three-ways-involved.jpg" class="img-responsive" alt="Three Ways to Get Involved Without Killing Your Time" />
 			</div>
-			<a href="http://localhost:4000/professional-development" title="Click here to see more posts related to Professional Development.">
-				<h4>Professional Development</h4>
-			</a>
 		</section>
 		
 		
