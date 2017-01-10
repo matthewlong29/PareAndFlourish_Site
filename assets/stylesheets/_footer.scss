@@ -28,6 +28,7 @@
 		transition: 1s all ease;
 		border: 1px dotted $theme-gray;
 		background-color: $theme-red;
+        margin: 1em auto 0 auto;
 		&:hover,
 		&:focus {
 			border: 1px solid darken($theme-gray, 25%);
