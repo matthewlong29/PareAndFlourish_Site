@@ -14,9 +14,9 @@ author: "Skylar Wooden and Katie Butler"
 excerpt: "As millennials, we often hear ourselves described as entitled by older generations. Do we put off an air of entitlement? Possibly so. But, it’s not entitlement they’re seeing."
 
 image:
-  ftsmall: prof-small.png
-  ftlarge: prof-large.png
-  teaser: evolving-millennial.png
+  ftsmall: prof-small.jpg
+  ftlarge: prof-large.jpg
+  teaser: evolving-millennial.jpg
   alt: "The Evolving Career of the Millennial"
 
 category: professional-development

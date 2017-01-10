@@ -14,9 +14,9 @@ author: "Skylar Wooden and Katie Butler"
 excerpt: "What does it mean to live authentically? Authenticity, as it relates to everyday living, means something different to everyone. Our idea of living authentically brought you this blog."
 
 image:
-  ftsmall: pers-small.png
-  ftlarge: pers-large.png
-  teaser: authenticity-what-it-means.png
+  ftsmall: pers-small.jpg
+  ftlarge: pers-large.jpg
+  teaser: authenticity-what-it-means.jpg
   alt: "Authenticity: What it Means to You"
 
 category: personal-development

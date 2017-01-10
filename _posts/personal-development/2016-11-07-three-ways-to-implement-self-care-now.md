@@ -14,9 +14,9 @@ author: "Skylar Wooden and Katie Butler"
 excerpt: "When was the last time that you did nothing? Really think about that. It can be a hard concept to grasp in your vibrant professional years."
 
 image:
-  ftsmall: pers-small.png
-  ftlarge: pers-large.png
-  teaser: self-care.png
+  ftsmall: pers-small.jpg
+  ftlarge: pers-large.jpg
+  teaser: self-care.jpg
   alt: "Three Ways to Implement Self-Care. Now."
 
 category: personal-development

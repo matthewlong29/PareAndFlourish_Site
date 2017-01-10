@@ -14,9 +14,9 @@ author: "Skylar Wooden and Katie Butler"
 excerpt: "Humans love comfort. While it’s not always a conscious decision, we’re always looking to make an uncomfortable feeling go away. The feeling comes out of nowhere—suddenly something feels “off.”"
 
 image:
-  ftsmall: pers-small.png
-  ftlarge: pers-large.png
-  teaser: comfortable-uncomfortable.png
+  ftsmall: pers-small.jpg
+  ftlarge: pers-large.jpg
+  teaser: comfortable-uncomfortable.jpg
   alt: "Being Comfortable with Being Uncomfortable"
 
 category: personal-development

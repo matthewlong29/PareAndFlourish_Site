@@ -14,10 +14,10 @@ author: "Skylar Wooden and Katie Butler"
 excerpt: "People love to say, or blindly believe, that sexism in the workplace is no longer relevant. When people around you believe that, you start believing it yourself...until you ask a handful of your female friends about how they’ve experienced workplace inequality."
 
 image:
-  ftsmall: prof-small.png
-  ftlarge: prof-large.png
-  teaser: inequality-workforce.png
-  vteaser: inequality-workforce-v.png
+  ftsmall: prof-small.jpg
+  ftlarge: prof-large.jpg
+  teaser: inequality-workforce.jpg
+  vteaser: inequality-workforce-v.jpg
   alt: "Work Like a Girl: Inequality in the Workforce"
 
 category: professional-development

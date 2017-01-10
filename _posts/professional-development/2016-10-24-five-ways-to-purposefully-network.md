@@ -14,9 +14,9 @@ author: "Skylar Wooden and Katie Butler"
 excerpt: "It’s never about how many people you meet, it’s about who you meet and how. This is a prime quality over quantity scenario."
 
 image:
-  ftsmall: prof-small.png
-  ftlarge: prof-large.png
-  teaser: five-ways-to-network.png
+  ftsmall: prof-small.jpg
+  ftlarge: prof-large.jpg
+  teaser: five-ways-to-network.jpg
   alt: "Five Ways to Purposefully Network"
 
 category: professional-development

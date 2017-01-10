@@ -14,10 +14,10 @@ author: "Skylar Wooden and Katie Butler"
 excerpt: "Networking can be challenge-ing (see what we did there?). Bad jokes aside, it’s difficult to actively network. Not because the activity is difficult, but because it feels like something that should always happen organically."
 
 image:
-  ftsmall: prof-small.png
-  ftlarge: prof-large.png
-  teaser: networking-challenge-new-year.png
-  vteaser: networking-challenge-infographic.png
+  ftsmall: prof-small.jpg
+  ftlarge: prof-large.jpg
+  teaser: networking-challenge-new-year.jpg
+  vteaser: networking-challenge-infographic.jpg
   alt: "New Year New Netork: Networking Challenge"
 
 category: professional-development

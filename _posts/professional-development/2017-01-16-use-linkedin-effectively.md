@@ -14,10 +14,10 @@ author: "Skylar Wooden and Katie Butler"
 excerpt: "Unlike face-to-face networking events, LinkedIn lets you make connections with the click of a button. Not only can you quickly make connections, but you can craft your profile to make the perfect first impression."
 
 image:
-  ftsmall: prof-small.png
-  ftlarge: prof-large.png
-  teaser: use-linkedin.png
-  vteaser: use-linkedin-v.png
+  ftsmall: prof-small.jpg
+  ftlarge: prof-large.jpg
+  teaser: use-linkedin.jpg
+  vteaser: use-linkedin-v.jpg
   alt: "5 Steps to Use LinkedIn Effectively"
 
 category: professional-development

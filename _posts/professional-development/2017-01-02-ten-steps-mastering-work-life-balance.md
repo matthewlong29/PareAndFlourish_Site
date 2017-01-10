@@ -14,10 +14,10 @@ author: "Skylar Wooden and Katie Butler"
 excerpt: "Technology allows you to work anywhere any time. Laptops, smartphones, and hotspots blur the line between work and home. We never have to be in one place at one time thanks to the internet."
 
 image:
-  ftsmall: prof-small.png
-  ftlarge: prof-large.png
-  teaser: work-life-balance.png
-  vteaser: work-life-balance-v.png
+  ftsmall: prof-small.jpg
+  ftlarge: prof-large.jpg
+  teaser: work-life-balance.jpg
+  vteaser: work-life-balance-v.jpg
   alt: "Ten Steps to Mastering Work-Life Balance"
 
 category: professional-development

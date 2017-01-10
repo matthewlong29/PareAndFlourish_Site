@@ -14,9 +14,9 @@ author: "Skylar Wooden and Katie Butler"
 excerpt: "An informational interview sounds like the most boring networking tactic out there. It should really be more aptly named. Let’s go with “professional coffee date.”"
 
 image:
-  ftsmall: prof-small.png
-  ftlarge: prof-large.png
-  teaser: networking-best-kept-secret.png
+  ftsmall: prof-small.jpg
+  ftlarge: prof-large.jpg
+  teaser: networking-best-kept-secret.jpg
   alt: "The Networking World's Best-Kept Secret"
 
 category: professional-development

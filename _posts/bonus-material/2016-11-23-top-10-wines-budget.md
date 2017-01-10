@@ -14,9 +14,9 @@ author: "Skylar Wooden and Katie Butler"
 excerpt: "It’s that time of year again! No, not Christmas. The time of year when you can unapologetically buy wine in bulk for “the holidays.” You have a short window in November and December when no one can look twice when you buy a case from Liquor Barn."
 
 image:
-  ftsmall: bonu-small.png
-  ftlarge: bonu-large.png
-  teaser: top-ten-wines.png
+  ftsmall: bonu-small.jpg
+  ftlarge: bonu-large.jpg
+  teaser: top-ten-wines.jpg
   alt: "Top 10 Wines on a Budget"
 
 category: bonus-material

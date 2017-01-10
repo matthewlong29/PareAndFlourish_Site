@@ -14,9 +14,9 @@ author: "Skylar Wooden and Katie Butler"
 excerpt: "It’s Monday. You spent all of your “vacation” time driving out of town to listen to your grandparents talk about politics you don’t agree with. Your pants don’t quite fit the way they did before. And now, you’re back at work, wondering where the time went."
 
 image:
-  ftsmall: pers-small.png
-  ftlarge: pers-large.png
-  teaser: thanksgiving-over.png
+  ftsmall: pers-small.jpg
+  ftlarge: pers-large.jpg
+  teaser: thanksgiving-over.jpg
   alt: "Thanksgiving is Over. Now What?"
 
 category: personal-development

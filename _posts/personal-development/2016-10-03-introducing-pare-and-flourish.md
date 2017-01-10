@@ -14,9 +14,9 @@ author: "Skylar Wooden and Katie Butler"
 excerpt: "If you write the blog that you always wanted to write, but no one reads it, does it matter? We want you, the reader, to know it matters. You have done something you have never done before, and each step in a direction that matters to you, matters."
 
 image:
-  ftsmall: pers-small.png
-  ftlarge: pers-large.png
-  teaser: introducing.png
+  ftsmall: pers-small.jpg
+  ftlarge: pers-large.jpg
+  teaser: introducing.jpg
   alt: "Introducing Pare and Flourish"
 
 category: personal-development
