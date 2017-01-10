@@ -1,108 +1,107 @@
 .navbar-custom {
-	margin-bottom: 0;
-	border-bottom: 1px $theme-gray;
-	font-family: $base-font-sans;
-	background-color: $theme-gray;
+  margin-bottom: 0;
+  border-bottom: 1px $theme-gray;
+  font-family: $base-font-sans;
+  background-color: $theme-gray;
 }
 
 .navbar-custom .navbar-toggle {
-	color: $theme-white;
-	background-color: $theme-gray;
-	font-size: 12px;
+  color: $theme-white;
+  background-color: $theme-gray;
+  font-size: 1em;
 }
 
 .navbar-custom .navbar-toggle:focus,
 .navbar-custom .navbar-toggle:active {
-	outline: none;
+  outline: none;
 }
 
 .navbar-custom .navbar-brand {
-	font-weight: 700;
+  font-family: $base-font-script;
+  font-size: 2.5em;
+  @media (max-width: 1200px) {
+    font-size: 2em;
+  }
 }
 
 .navbar-custom .navbar-brand:focus {
-	outline: none;
+  outline: none;
 }
 
 .navbar-custom a {
-	color: $theme-white;
-	background-color: $theme-gray;
-	border-radius: 5px;
+  color: $theme-white;
+  background-color: $theme-gray;
 }
 
 .navbar-custom .nav li a {
-	color: $theme-white;
-	background-color: $theme-gray;
-	border-radius: 5px;
-	-webkit-transition: background 0.3s ease-in-out;
-	-moz-transition: background 0.3s ease-in-out;
-	transition: background 0.3s ease-in-out;
+  color: $theme-white;
+  background-color: $theme-gray;
+  -webkit-transition: background 0.3s ease-in-out;
+  -moz-transition: background 0.3s ease-in-out;
+  transition: background 0.3s ease-in-out;
 }
 
 .navbar-custom .nav li a:hover {
-	outline: none;
-	color: $theme-gray;
-	background-color: $theme-white;
+  outline: none;
+  color: $theme-gray;
+  background-color: $theme-white;
 }
 
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a:active {
-	outline: none;
-	color: $theme-white;
-	background-color: $theme-gray;
+  outline: none;
+  color: $theme-white;
+  background-color: $theme-gray;
 }
 
 .navbar-custom .nav li.active {
-	outline: none;
+  outline: none;
 }
 
 .navbar-custom .nav li.active a {
-	background-color: $theme-gray;
-	border-radius: 5px;
+  background-color: $theme-gray;
 }
 
 .navbar-custom .nav li.active a:hover {
-	color: $theme-white;
+  color: $theme-white;
 }
 
 @media(max-width:992px){
-	.nav>li>a {
-		padding-left: 1em;
-		padding-right: 1em;
-	}
+  .nav>li>a {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
 }
 
 @media (min-width: 992px) {
-	.navbar-custom {
-		padding: 20px 0;
-		border-bottom: none;
-		letter-spacing: 1px;
-		background: transparent;
-		-webkit-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
-		-moz-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
-		transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
-	}
-	.navbar-custom.top-nav-collapse {
-		padding: 0;
-		background: $theme-gray;
-		border-bottom: 1px $theme-gray;
-	}
+  .navbar-custom {
+    padding: 5px 0;
+    background-color: $theme-gray;
+    -webkit-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+    -moz-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+    transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+  }
+  .navbar-custom.top-nav-collapse {
+    padding: 0;
+    background: $theme-gray;
+    border-bottom: 1px $theme-gray;
+  }
 }
 
 ul.banner-social-buttons {
-	margin-top: 0;
+  margin-top: 0;
 }
 
 @media (max-width: 1200px) {
-	ul.banner-social-buttons {
-		margin-top: 15px;
-	}
+  ul.banner-social-buttons {
+    margin-top: 15px;
+  }
 }
 
 .navbar-custom .dropdown-menu {
-	background-color: $theme-gray;
+  background-color: $theme-gray;
 }
 
 .dropdown-menu > li > a {
-	color: $theme-white;
+  color: $theme-white;
 }
