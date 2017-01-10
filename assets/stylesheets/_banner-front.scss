@@ -1,84 +1,96 @@
 .banner-front {
-	background-image: url('../../images/flower-field.png');
-	background-size: cover;
-	background-attachment: fixed;
-	@media (max-width: 767px) {
-		background-attachment: scroll;
-	}
-	background-position: center;
-	min-height: 100vh;
-	text-align: center;
-	color: $theme-white;
-	.banner-content {
-		.slider-top {
-			right: 0;
-			-webkit-transition: 1s all ease;
-			transition: 1s all ease;
-			border: 2px solid $theme-gray;
-			margin: auto;
-			margin-top: 17.5vh;
-			margin-bottom: 2.5vh;
-			width: 50%;
-		}
-		.slider-bottom {
-			left: 0;
-			-webkit-transition: 1s all ease;
-			transition: 1s all ease;
-			border: 2px solid $theme-gray;
-			margin: auto;
-			margin-top: 2.5vh;
-			margin-bottom: 2.5vh;
-			width: 50%;
-		}
-		h1 {
-			-webkit-transition: 1s all ease;
-			transition: 1s all ease;
-			display: block;
-			margin-top: 0vh;
-			margin-bottom: 0vh;
-			color: $theme-gray;
-			font-size: 3.25em;
-			font-weight: 800;
-			text-transform: uppercase;
-			@media (max-width: 767px) {
-					font-size: 2.5em;
-			}
-		}
-		p {
-			-webkit-transition: 1s all ease;
-			transition: 1s all ease;
-			margin: auto;
-			margin-left: 25%;
-			margin-right: 25%;
-			color: $theme-gray;
-			font-size: 1.5em;
-			@media (max-width: 767px) {
-				font-size: 1.25em;
-			}
-		}
-		a {
-			text-decoration: none;
-			color: $theme-white;
-			font-size: 1.25em;
-			font-family: $base-font-sans;
-		}
-		.sub-button {
-			-webkit-transition: 1s all ease;
-			transition: 1s all ease;
-			border: 1px dotted $theme-gray;
-			margin-top: 15vh;
-			margin-bottom: 5vh;
-			background-color: $theme-red;
-			&:hover,
-			&:focus {
-				border: 1px solid darken($theme-gray, 25%);
-				background-color: lighten($theme-red, 15%);
-				transition: .5s;
-			}
-		}
-		img {
-			margin: auto;
-			color: $theme-gray;
-		}
-	}
+  text-align: center;
+  color: $theme-white;
+  margin: 50px auto 0 auto;
+  position: relative;
+  -webkit-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+  .banner-overlay {
+    top: 58.1481%;
+    right: 4.1666%;
+    bottom: 4.1975%;
+    left: 54.1666%;
+    position: absolute;
+    @media (max-width: 758px) {
+      display: none;
+    }
+    p {
+      color: $theme-gray;
+      font-size: 1.5em;
+      -webkit-transition: all .2s ease-in-out;
+      -o-transition: all .2s ease-in-out;
+      transition: all .2s ease-in-out;
+      @media (max-width: 1047px) {
+        font-size: 1.2em;
+      }
+      @media (max-width: 876px) {
+        font-size: 1.1em;
+      }
+      @media (max-width: 808px) {
+        font-size: 1.05em;
+      }
+      @media (max-width: 787px) {
+        font-size: .95em;
+      }
+      @media (max-width: 767px) {
+        font-size: 0.9em;
+      }
+    }
+    a {
+      text-decoration: none;
+      color: $theme-white;
+      font-size: 1.75em;
+      font-family: $base-font-script
+    }
+    .sub-button {
+      border: 1px dotted $theme-gray;
+      background-color: $theme-red;
+      margin: 0 auto;
+      &:hover,
+      &:focus {
+        border: 1px solid darken($theme-gray, 25%);
+        background-color: lighten($theme-red, 15%);
+        transition: .5s;
+      }
+    }
+  }
+  .banner-under {
+    background-color: transparentize($theme-gray, 0.15);
+    padding-bottom: 1em;
+    @media (min-width: 758px) {
+          display: none;
+    }
+    p {
+      color: darken($theme-white, 35%);
+      margin: 1em;
+      font-size: 1.2em;
+      -webkit-transition: all .2s ease-in-out;
+      -o-transition: all .2s ease-in-out;
+      transition: all .2s ease-in-out;
+      @media (max-width: 580px) {
+        font-size: 1.1em;
+      }
+      @media (max-width: 380px) {
+        font-size: 1em;
+      }
+    }
+    a {
+      text-decoration: none;
+      color: $theme-white;
+      font-size: 1.75em;
+      font-family: $base-font-script
+    }
+    .sub-button {
+      border: 1px dotted $theme-gray;
+      background-color: $theme-red;
+      margin: 0 auto;
+      &:hover,
+      &:focus {
+          border: 1px solid darken($theme-gray, 25%);
+          background-color: lighten($theme-red, 15%);
+          transition: .5s;
+      }
+    }
+  }
 }
