@@ -42,12 +42,9 @@
 		{% if page.image.vteaser %} <!-- Vertical teaser (if one exists the front matter will state it in page.image.vteaser).-->
 		
 		<section id="current-vteaser"> <!-- Vertical teaser. -->
-			<div class="current-teaser">
+			<div class="current-teaser tease">
 				<img src="{{ site.url }}/images/teasers-1080x600/{{ page.image.vteaser }}" class="img-responsive" alt="{{ page.image.alt }}" />
 			</div>
-			<a href="{{ site.url }}/{{ page.category }}" title="Click here to see more posts related to {{ page.category-title }}.">
-				<h4>{{ page.category-title }}</h4>
-			</a>
 		</section>
 		
 		{% elsif page.image.teaser %} <!-- Horizontal teaser (if there isn't a vertical teaser). -->
@@ -56,9 +53,6 @@
 			<div class="current-teaser">
 				<img src="{{ site.url }}/images/teasers-1080x600/{{ page.image.teaser }}" class="img-responsive" alt="{{ page.image.alt }}" />
 			</div>
-			<a href="{{ site.url }}/{{ page.category }}" title="Click here to see more posts related to {{ page.category-title }}.">
-				<h4>{{ page.category-title }}</h4>
-			</a>
 		</section>
 		
 		{% endif %}
