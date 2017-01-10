@@ -8,7 +8,6 @@
 		color: $theme-white;
 		text-align: center;
 		background-color: $theme-red;
-		border-radius: 5px;
 		margin: 0 0 1em 0;
 		&:hover,
 		&:focus {
@@ -20,7 +19,6 @@
 		color: $theme-gray;
 		text-align: center;
 		background-color: $theme-yellow;
-		border-radius: 5px;
 		margin: 0 0 1em 0;
 		font-size: 1.25em;
 		&:hover,
@@ -40,23 +38,21 @@
 	}
 	img {
 		border: 2px solid $theme-gray;
-		border-radius: 5px;
 		margin: auto 0;
 	}
 	.twitter-section {
+        margin: 1em 0 0 0;
 		@media only screen and (max-width: 992px) {
 			display: none;
 		}
 		.tweets {
 			border: 2px solid $theme-gray;
-			border-radius: 5px;  
 		}
 	}
 	.social-buttons {
 		@media only screen and (max-width: 992px) {
 			display: none;
 		}
-		border-radius: 5px;
 		margin: 0 0 1em 0;
 		text-align: center;
 		font-size: 12px;
@@ -91,7 +87,6 @@
 	}
 	.amazon-native-ads {
 		border: 2px solid $theme-gray;
-		border-radius: 5px;
 		margin: 0 0 1em 0;
 		padding: .35em;
 	}

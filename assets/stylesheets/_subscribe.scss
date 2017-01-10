@@ -4,9 +4,6 @@
 	padding: 1em;
 	margin: 1em 0 1em 0;
 	text-align: center;
-	border-radius: 5px;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
 	border: 2px solid $theme-gray;
 	p.title {
 		font-size: 1.25em;
@@ -32,9 +29,6 @@
 	margin-bottom: 10px;
 	padding: 8px 10px;
 	width: 100%;
-	border-radius: 5px;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
 }
 
 #mc_side input.email { background: $theme-white }
@@ -60,9 +54,6 @@
 	color: $theme-red;
 	padding: 20px;
 	text-align: center;
-	border-radius: 5px;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
 	border: 2px solid $theme-gray;
 }
 
@@ -73,9 +64,6 @@
 	margin-bottom: 10px;
 	padding: 8px 10px;
 	width: 100%;
-	border-radius: 5px;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
 }
 
 #mc_page input.email { background: $theme-white }
