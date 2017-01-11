@@ -1,0 +1,44 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+  <channel>
+    <title>{{ site.title }} RSS Feed</title>
+    <description>{{ site.description }}</description>
+    <image>
+      <url>{{ site.url }}/images/header/home-banner.jpg</url>
+      <title>Pare and Flourish</title>
+      <link>{{ site.url }}</link>
+    </image>
+    <webfeeds:cover image="{{ site.url }}/images/header/home-banner.jpg" />
+    <webfeeds:icon>{{ site.url }}/pandf-logo.svg</webfeeds:icon>
+    <webfeeds:logo>{{ site.url }}/pandf-logo.svg</webfeeds:logo>
+    <webfeeds:accentColor>072879</webfeeds:accentColor>
+    <webfeeds:related layout="card" target="browser"/>
+    <webfeeds:analytics id="UA-86211989-1" engine="GoogleAnalytics"/>
+    <language>en-us</language>
+    <link>{{ site.url }}</link>
+    <atom:link href="http://www.pareandflourish.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+    {% for post in site.posts %}
+      <item>
+        <title>{{ post.title | xml_escape }}</title>
+        <author>{{ post.author }}</author>
+        <description>
+          <![CDATA[
+            <img src="{{ site.url }}/images/teasers-1080x600/{{ post.image.teaser }}">
+            {{ post.excerpt | xml_escape }}
+          ]]>
+        </description>
+        <media:thumbnail url="{{ site.url }}/images/teasers-1080x600/{{ post.image.teaser }}"/>
+        <media:content url="{{ site.url }}/images/teasers-1080x600/{{ post.image.teaser }}" type="image/jpeg" />
+        <pubDate>{{ post.published }}</pubDate>
+        <link>{{ post.url | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+      </item>
+    {% endfor %}
+    
+  </channel>
+</rss>
