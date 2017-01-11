@@ -5,7 +5,7 @@ permalink: /personal-development/introducing-pare-and-flourish/
 
 title: "Introducing Pare and Flourish"
 
-published: 2016-10-03
+published: Mon, 03 Oct 2016 10:00:00 EST
 
 modified: October 3, 2016
 

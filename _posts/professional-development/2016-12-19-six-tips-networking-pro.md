@@ -5,7 +5,7 @@ title: "Six Tips to Networking Like a Pro"
 
 permalink: /professional-development/six-tips-networking-pro/
 
-published: 2016-12-19
+published: Mon, 19 Dec 2016 10:00:00 EST
 
 modified: December 19, 2016
 

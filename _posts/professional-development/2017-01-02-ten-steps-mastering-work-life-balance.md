@@ -5,7 +5,7 @@ title: "Ten Steps to Mastering Work-Life Balance"
 
 permalink: /professional-development/ten-steps-mastering-work-life-balance/
 
-published: 2017-01-02
+published: Mon, 02 Jan 2017 10:00:00 EST
 
 modified: January 02, 2017
 

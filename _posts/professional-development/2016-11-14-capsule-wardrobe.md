@@ -5,7 +5,7 @@ title: "Capsule Wardrobe for the Young Professional: A Beginner’s Guide"
 
 permalink: /professional-development/capsule-wardrobe/
 
-published: 2016-11-14
+published: Mon, 14 Nov 2016 10:00:00 EST
 
 modified: November 14, 2016
 

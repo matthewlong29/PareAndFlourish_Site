@@ -5,7 +5,7 @@ permalink: /personal-development/thanksgiving-over-now-what/
 
 title: "Thanksgiving is Over. Now What?"
 
-published: 2016-11-28
+published: Mon, 28 Nov 2016 10:00:00 EST
 
 modified: November 28, 2016
 

@@ -5,7 +5,7 @@ title: "Five Ways to Purposefully Network"
 
 permalink: /professional-development/five-ways-to-purposefully-network/
 
-published: 2016-10-24
+published: Mon, 24 Oct 2016 10:00:00 EST
 
 modified: October 24, 2016
 

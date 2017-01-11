@@ -5,7 +5,7 @@ title: "Top 10 Wines on a Budget"
 
 permalink: /bonus-material/top-10-wines-budget/
 
-published: 2016-11-23
+published: Wed, 23 Nov 2016 10:00:00 EST
 
 modified: November 23, 2016
 

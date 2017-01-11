@@ -5,7 +5,7 @@ permalink: /personal-development/comfortable-being-uncomfortable/
 
 title: "Being Comfortable with Being Uncomfortable"
 
-published: 2016-11-21
+published: Mon, 21 Nov 2016 10:00:00 EST
 
 modified: November 21, 2016
 

@@ -5,7 +5,7 @@ permalink: /personal-development/gift-giving-with-purpose/
 
 title: "A Guide to Gift Giving with Purpose"
 
-published: 2016-12-05
+published: Mon, 05 Dec 2016 10:00:00 EST
 
 modified: December 05, 2016
 

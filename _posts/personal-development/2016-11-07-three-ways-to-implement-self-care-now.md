@@ -5,7 +5,7 @@ title: "Three Ways to Implement Self-Care. Now."
 
 permalink: /personal-development/three-ways-to-implement-self-care-now/
 
-published: 2016-11-7
+published: Mon, 07 Nov 2016 10:00:00 EST
 
 modified: November 7, 2016
 

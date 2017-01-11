@@ -5,7 +5,7 @@ title: "Your Questions About Workplace Holidays, Answered"
 
 permalink: /bonus-material/questions-about-workplace-holidays/
 
-published: 2016-11-30
+published: Wed, 30 Nov 2016 10:00:00 EST
 
 modified: November 30, 2016
 

@@ -5,7 +5,7 @@ title: "Three Ways to Get Involved Without Killing Your Time"
 
 permalink: /professional-development/three-ways-to-get-involved-without-killing-your-time/
 
-published: 2016-10-17
+published: Mon, 17 Oct 2016 10:00:00 EST
 
 modified: October 17, 2016
 

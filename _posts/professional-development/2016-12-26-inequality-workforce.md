@@ -5,7 +5,7 @@ title: "Work Like a Girl: Inequality in the Workforce"
 
 permalink: /professional-development/inequality-in-workforce/
 
-published: 2016-26-19
+published: Mon, 26 Dec 2016 10:00:00 EST
 
 modified: December 26, 2016
 

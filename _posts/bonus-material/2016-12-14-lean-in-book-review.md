@@ -5,7 +5,7 @@ title: "Review of Lean In"
 
 permalink: /bonus-material/review-lean-in/
 
-published: 2016-12-14
+published: Wed, 14 Dec 2016 10:00:00 EST
 
 modified: December 14, 2016
 
