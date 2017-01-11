@@ -2,109 +2,112 @@
 
 <head>
     
-	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<meta name="p:domain_verify" content="902b7d54021d7361708728fa135c5eed" />
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="p:domain_verify" content="902b7d54021d7361708728fa135c5eed" />
 
-	<!-- Pinterest Rich Pins (Article Pins) -->
-	<meta property="og:type" content="article" />
+  <!-- Pinterest Rich Pins (Article Pins) -->
+  <meta property="og:type" content="article" />
 
-	<!-- Website/Post Title -->
-	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <!-- Website/Post Title -->
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
 
-	<!-- Website/Post Description -->
-	<meta name="description" property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+  <!-- Website/Post Description -->
+  <meta name="description" property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
 
-	<!-- Website/Post URL -->
-	<meta property="og:url" content="{% if page.permalink %}{{ site.url }}{{ page.permalink }}{% else %}{{ site.url }}{% endif %}" />  
+  <!-- Website/Post URL -->
+  <meta property="og:url" content="{% if page.permalink %}{{ site.url }}{{ page.permalink }}{% else %}{{ site.url }}{% endif %}" />  
 
-	<!-- Site Name-->
-	<meta property="og:site_name" content="pareandflourish.com" />
+  <!-- Site Name-->
+  <meta property="og:site_name" content="pareandflourish.com" />
 
-	<!-- Article Publish Time -->
-	<meta property="article:published_time" content="{% if page.published %}{{ page.published }}{% else %}{{ site.first_published }}{% endif %}" />
+  <!-- Article Publish Time -->
+  <meta property="article:published_time" content="{% if page.published %}{{ page.published }}{% else %}{{ site.first_published }}{% endif %}" />
 
-	<!-- Website/Post Authors -->
-	<meta name="author" property="article:author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.team }}{% endif %}" />
+  <!-- Website/Post Authors -->
+  <meta name="author" property="article:author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.team }}{% endif %}" />
 
-	<!-- Website/Post Keywords-->
-	<meta name="Keywords" property="" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}" />
+  <!-- Website/Post Keywords-->
+  <meta name="Keywords" property="" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}" />
 
-	<!-- Website Title -->
-	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <!-- Website Title -->
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-	<!-- Stylesheets -->
+  <!-- Link to rss feed -->
+  <link rel="alternate" type="application/rss+xml" title="Pare and Flourish - All Posts" href="/feed.xml">
 
-	<!-- Custom Google Fonts -->
-	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Dancing+Script|Open+Sans">
+  <!-- Stylesheets -->
 
-	<!-- Font Awesome (icons) -->
-	<link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/font-awesome/css/font-awesome.css">
+  <!-- Custom Google Fonts -->
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Dancing+Script|Open+Sans">
 
-	<!-- Custom CSS -->
+  <!-- Font Awesome (icons) -->
+  <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/font-awesome/css/font-awesome.css">
 
-	<!-- This is the subscriber tool css link (custom css overrides can be found in subscribe.scss -->
-	<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+  <!-- Custom CSS -->
 
-	<!-- This includes bootstrap, sass partials, navbar, and other plugins -->
-	<link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/stylesheets/main.css">
+  <!-- This is the subscriber tool css link (custom css overrides can be found in subscribe.scss -->
+  <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 
-	<!-- Favicons -->
-	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-	<link rel="manifest" href="/manifest.json">
-	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#fdfdfd">
+  <!-- This includes bootstrap, sass partials, navbar, and other plugins -->
+  <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/stylesheets/main.css">
 
-	<meta name="theme-color" content="#fdfdfd">
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#fdfdfd">
 
-	<!-- Javascript -->
+  <meta name="theme-color" content="#fdfdfd">
 
-	<!-- jquery -->
-	<script type="text/javascript" src="{{ site.url }}/assets/javascript/vendor/jquery.js"></script>
+  <!-- Javascript -->
 
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
+  <!-- jquery -->
+  <script type="text/javascript" src="{{ site.url }}/assets/javascript/vendor/jquery.js"></script>
 
-	<!-- Bootstrap Core JavaScript -->
-	<script type="text/javascript" src="{{ site.url }}/assets/bootstrap/js/bootstrap.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
 
-	<!-- Navbar Collapse -->
-	<script type="text/javascript" src="{{ site.url }}/assets/javascript/navcollapse.js"></script>
+  <!-- Bootstrap Core JavaScript -->
+  <script type="text/javascript" src="{{ site.url }}/assets/bootstrap/js/bootstrap.js"></script>
 
-	<!-- Twitter widget -->
-	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <!-- Navbar Collapse -->
+  <script type="text/javascript" src="{{ site.url }}/assets/javascript/navcollapse.js"></script>
 
-	<!-- Subscribe Tool (mailchimp.com) -->
-	<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+  <!-- Twitter widget -->
+  <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-	<script type="text/javascript" src="{{ site.url }}/assets/javascript/subscribe.js"></script>
+  <!-- Subscribe Tool (mailchimp.com) -->
+  <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
 
-	<!-- Disqus Comments -->
-	<script id="dsq-count-scr" src="//pare-and-flourish.disqus.com/count.js" async></script>
+  <script type="text/javascript" src="{{ site.url }}/assets/javascript/subscribe.js"></script>
 
-	<!-- Pinterest Button -->
-	<script async defer data-pin-hover="true" data-pin-tall="true" data-pin-save="true" src="//assets.pinterest.com/js/pinit.js"></script>
+  <!-- Disqus Comments -->
+  <script id="dsq-count-scr" src="//pare-and-flourish.disqus.com/count.js" async></script>
 
-	<!-- Google Analytics -->
-	<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  <!-- Pinterest Button -->
+  <script async defer data-pin-hover="true" data-pin-tall="true" data-pin-save="true" src="//assets.pinterest.com/js/pinit.js"></script>
 
-		ga('create', 'UA-86211989-1', 'auto');
-		ga('send', 'pageview');
-	</script>
+  <!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-	<!-- Google AdSense -->
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    ga('create', 'UA-86211989-1', 'auto');
+    ga('send', 'pageview');
+  </script>
 
-	<script>
-		(adsbygoogle = window.adsbygoogle || []).push({
-		google_ad_client: "ca-pub-5907828496259396",
-		enable_page_level_ads: true
-		});
-	</script>
-    
+  <!-- Google AdSense -->
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-5907828496259396",
+    enable_page_level_ads: true
+    });
+  </script>
+
 </head>
