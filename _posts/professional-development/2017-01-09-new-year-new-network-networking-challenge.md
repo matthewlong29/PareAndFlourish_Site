@@ -1,7 +1,7 @@
 ---
 layout: content-page
 
-title: "New Year New Netork: Networking Challenge"
+title: "New Year New Network: Networking Challenge"
 
 permalink: /professional-development/new-year-networking-challenge/
 
