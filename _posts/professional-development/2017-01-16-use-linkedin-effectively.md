@@ -75,10 +75,14 @@ Spend a few minutes a day on your LinkedIn app. You’ll be surprised how quickl
 	<div class="col-xs-6 paginate">
       <a href="{{site.url}}/professional-development/new-year-networking-challenge/">
         <div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>New Year New Netork: Networking Challenge</h3></div>	
+        <div class="col-xs-12 text"><h3>New Year New Network: Networking Challenge</h3></div>	
       </a>
 	</div>
 	<div class="col-xs-6 paginate">
+      <a href="{{site.url}}/professional-development/mens-reactions-inequality-in-workforce/">
+        <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
+        <div class="col-xs-12 text"><h3>Men's Reactions to Work Like a Girl: Inequality in the Workforce</h3></div>	
+      </a>
 	</div>
 </div> <!-- close "pagination" -->
 

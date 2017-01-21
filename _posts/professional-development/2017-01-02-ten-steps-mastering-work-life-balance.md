@@ -120,7 +120,7 @@ Work is important, but never let it drain your life. Your home life is just as i
 	<div class="col-xs-6 paginate">
         <a href="{{site.url}}/professional-development/new-year-networking-challenge/">
             <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-            <div class="col-xs-12 text"><h3>New Year New Netork: Networking Challenge</h3></div>
+            <div class="col-xs-12 text"><h3>New Year New Network: Networking Challenge</h3></div>
         </a>
 	</div>
 </div> <!-- close "pagination" -->
