@@ -6418,3 +6418,6 @@ a {
   text-decoration: dashed underline;
   padding: 0;
   margin: 0; }
+
+p.indent {
+  margin-left: 2.5em; }
