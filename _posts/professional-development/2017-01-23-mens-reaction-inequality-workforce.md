@@ -49,7 +49,7 @@ The following are excerpts from those experiences:
   </div>
 </div>
 
-It’s arrogant to assume that all men are unaware of workplace inequality. We asked five men to provide us with their reactions to the <a href="{{site.url}}/professional-development/inequality-in-workforce/">stories</a>:
+It’s unfair to assume that all men are unaware of workplace inequality. So, we asked five men to provide us with their reactions to the <a href="{{site.url}}/professional-development/inequality-in-workforce/">stories</a>:
 
 <p class="indent">Matt L., 26</p>
 
