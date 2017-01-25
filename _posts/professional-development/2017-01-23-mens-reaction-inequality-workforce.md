@@ -75,13 +75,13 @@ It’s unfair to assume that all men are unaware of workplace inequality. So, we
 
 <p class="indent">David W., 50</p>
 
-<p class="indent">I forget that there are still companies out there that experience this level of sexism. The stories make me cringe and feel upset — this type of behavior is completely unacceptable. <b>My top leader on my team is an extraordinary performer, and I’d follow her into battle any day of the week.</b> I’m proud to work for a company with many female executives, including our CEO. We’ve come a long way, but <b> we’ve got a much longer way to go to get rid of the huge gap that exists today.</b><p>
+<p class="indent">I forget that there are still companies out there that experience this level of sexism. The stories make me cringe and feel upset — this type of behavior is completely unacceptable. <b>My top leader on my team is an extraordinary performer, and I’d follow her into battle any day of the week.</b> I’m proud to work for a company with many female executives, including our CEO. We’ve come a long way, but <b> we’ve got a much longer way to go to get rid of the huge gap that exists today</b>.<p>
 
 <p class="indent">Bryan S., 38</p>
 
 <p class="indent"><b>We need to learn to trust one another</b>. To understand that we’re all learning and growing. And stupid comments can come out but it doesn’t mean we’re completely sexist (or racist). <b>Outright sexual harassment on the other hand should be dealt with officially</b>. Our society has already decided it’s wrong. It needs to be addressed from a management and organizational level for real change to occur. <b>Sometimes it takes a sacrifice to make significant change</b>.</p>
 
-We don’t have to fight sexism alone. Men who are aware of the issues are our best allies. Together, we can create work environments that are more equal. We can make sexism a more open topic, allowing women to be vocal about situations they feel uneasy about. Feminism has come so far; it just needs a steady push until we’re all on level playing fields. What do you think is the most important element of an equal workplace? Let us know in the comments or on Twitter @pareandflourish. Look for our next article on the elements of the perfect cover letter. 
+<p>We don’t have to fight sexism alone. Men who are aware of the issues are our best allies. Together, we can create work environments that are more equal. We can make sexism a more open topic, allowing women to be vocal about situations they feel uneasy about. Feminism has come so far; it just needs a steady push until we’re all on level playing fields. What do you think is the most important element of an equal workplace? Let us know in the comments or on Twitter @pareandflourish. Look for our next article on the elements of the perfect cover letter.</p>
 
 <hr class="primary">
 
