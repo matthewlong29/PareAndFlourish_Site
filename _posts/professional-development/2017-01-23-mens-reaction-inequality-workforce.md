@@ -75,7 +75,7 @@ It’s unfair to assume that all men are unaware of workplace inequality. So, we
 
 <p class="indent">David W., 50</p>
 
-<p>I forget that there are still companies out there that experience this level of sexism. The stories make me cringe and feel upset — this type of behavior is completely unacceptable. <b>My top leader on my team is an extraordinary performer, and I’d follow her into battle any day of the week.</b> I’m proud to work for a company with many female executives, including our CEO. We’ve come a long way, but <b> we’ve got a much longer way to go to get rid of the huge gap that exists today.</b><p>
+<p class="indent">I forget that there are still companies out there that experience this level of sexism. The stories make me cringe and feel upset — this type of behavior is completely unacceptable. <b>My top leader on my team is an extraordinary performer, and I’d follow her into battle any day of the week.</b> I’m proud to work for a company with many female executives, including our CEO. We’ve come a long way, but <b> we’ve got a much longer way to go to get rid of the huge gap that exists today.</b><p>
 
 <p class="indent">Bryan S., 38</p>
 
