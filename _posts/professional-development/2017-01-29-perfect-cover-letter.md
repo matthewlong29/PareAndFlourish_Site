@@ -101,7 +101,7 @@ Cover letters are the most underestimated and misunderstood job materials. We ho
 	</div>
 	<div class="col-xs-6 paginate">
 			<a href="{{site.url}}/professional-development/what-is-levo-and-how-to-use-it/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-eight" aria-hidden="true"></i></div>
+        <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
         <div class="col-xs-12 text"><h3>Levo: What Is It and What Can It Do for You?</h3></div>	
       </a>
 	</div>

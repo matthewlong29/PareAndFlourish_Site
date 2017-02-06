@@ -1,7 +1,7 @@
 ---
 layout: content-page
 
-title: "Levo: What Is It and What Can It Do for You?"
+title: "Levo: What is it and What Can it do for You?"
 
 permalink: /professional-development/what-is-levo-and-how-to-use-it/
 
@@ -34,13 +34,16 @@ Levo is like LinkedIn’s fun sibling. Its platform is professional at heart, wh
 
 <hr class="secondary">
 
-Levo wants to “showcase the real you.” Your profile prompts you to not list job responsibilities, but rather to explain why you love what you do. Instead of using a logo for a company photo, you’re free to post a picture of your adorable coworkers https://www.levo.com/skylar-wooden dressed as Alice in Wonderland characters. 
+Levo wants to “showcase the real you.” Your profile prompts you to not list job responsibilities, but rather to explain why you love what you do. Instead of using a logo for a company photo, you’re free to post a picture of your [adorable coworkers](https://www.levo.com/skylar-wooden) dressed as Alice in Wonderland characters. 
 
 Choosing your colors and pictures is oddly reminiscent of building your MySpace profile, in only the best ways, of course. Levo gives you a space to be who you are, without throwing professionalism out the door.
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Levo?src=hash">#Levo</a> gives you a space to be who you are, without throwing professionalism out the door <a href="https://twitter.com/hashtag/networking?src=hash">#networking</a></p>&mdash; PareandFlourish (@pareandflourish) <a href="https://twitter.com/pareandflourish/status/828642143287771136">February 6, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### You’re More than Your Job Title
 
-At times, we identify ourselves by our professions. Levo lets us identify by our lives in a well-rounded approach. You’re able to discuss your accomplishments alongside photos of your recent trip to Greece https://www.levo.com/945640, explaining how traveling has changed your perspective. 
+At times, we identify ourselves by our professions. Levo lets us identify by our lives in a well-rounded approach. You’re able to discuss your accomplishments alongside photos of your [recent trip to Greece](https://www.levo.com/945640), explaining how traveling has changed your perspective. 
 
 You’re never just a CPA, or a Writer, or an Engineer. You’re so much more.
 
@@ -48,7 +51,7 @@ You’re never just a CPA, or a Writer, or an Engineer. You’re so much more.
 
 Stay at the top of your game by learning more about your industry. Levo gives you access to its best digital learning events. You can view weekly expert webinars, learning the skills you need to advance. Find those events here. https://www.levo.com/learn
 
-By subscribing to Levo through your profile, you’ll receive their blog articles in your inbox. The articles offer the latest career advice, with a relatable angle (like 11 Signs You’re the Workplace Unicorn) https://www.levo.com/posts/11-signs-coworkers-think-youre-the-workplace-unicorn. Levo lets its users explore their creative side, their talents, and their paths.
+By subscribing to Levo through your profile, you’ll receive their blog articles in your inbox. The articles offer the latest career advice, with a relatable angle [like 11 Signs You’re the Workplace Unicorn](https://www.levo.com/posts/11-signs-coworkers-think-youre-the-workplace-unicorn). Levo lets its users explore their creative side, their talents, and their paths.
 
 ### Face-to-Face Networking
 
@@ -58,7 +61,7 @@ Levo also offers local events. It has 30 chapters across the US, Canada, and Eur
 
 By asking you questions like “What inspires you?” “What are your natural talents?” and “What job would you love?” Levo helps make your dream career a reality. 
 
-If you’re feeling lost, as we all do at times, there’s a guide for that too. Advice for your inspired career path (https://www.levo.com/path) is at your fingertips with the site’s guides, apps, and advice from established professionals. 
+If you’re feeling lost, as we all do at times, there’s a guide for that too. Advice for your [inspired career path](https://www.levo.com/path) is at your fingertips with the site’s guides, apps, and advice from established professionals. 
 
 <hr class="secondary">
 
