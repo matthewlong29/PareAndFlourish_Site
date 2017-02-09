@@ -17,6 +17,7 @@ image:
   ftsmall: prof-small.jpg
   ftlarge: prof-large.jpg
   teaser: perfect-cover-letter.jpg
+  vteaser: cover-letter-infographic.jpg
   alt: "How to Write the Perfect Cover Letter"
 
 category: professional-development
