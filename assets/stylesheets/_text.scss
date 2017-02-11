@@ -10,6 +10,10 @@ li {
 	font-family: $base-font-sans;
 }
 
+li.extra-indent {
+  margin-left: 2.5em;
+}
+
 p.script {
 	font-family: $base-font-script;
 	display: inline;
