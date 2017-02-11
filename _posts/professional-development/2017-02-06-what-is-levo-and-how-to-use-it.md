@@ -77,6 +77,10 @@ Levo allows you to easily hone in on your professional brand. The website helps 
       </a>
 	</div>
 	<div class="col-xs-6 paginate">
+      <a href="{{site.url}}/professional-development/stop-consuming-learn-by-doing/">
+        <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
+        <div class="col-xs-12 text"><h3>Stop Consuming: Learn by Doing!</h3></div>	
+      </a>
 	</div>
 </div> <!-- close "pagination" -->
 
