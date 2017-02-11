@@ -6393,6 +6393,9 @@ li {
   color: #020202;
   font-family: "Open Sans", serif; }
 
+li.extra-indent {
+  margin-left: 2.5em; }
+
 p.script {
   font-family: "Dancing Script", serif;
   display: inline;
