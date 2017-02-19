@@ -130,6 +130,10 @@ Here are a couple of ways to <b>learn by doing today</b>:
       </a>
 	</div>
 	<div class="col-xs-6 paginate">
+      <a href="{{site.url}}/professional-development/pitching-your-professional-brand-for-introverts/">
+        <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
+        <div class="col-xs-12 text"><h3>Pitching Your Professional Brand: A Guide for Introverts</h3></div>	
+      </a>
 	</div>
 </div> <!-- close "pagination" -->
 
