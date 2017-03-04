@@ -59,7 +59,7 @@ Chances are, you’ve thought at least once that you’d like to have more time 
 
 <hr class="secondary">
 
-Take advantage of your time. Your body, mind, and spirit will thank you for taking the time to be mindful of your needs. What’s your favorite lunch break activity? Let us know in the comments. Look for our next article on how to handle big decisions when they scare you.  
+Take advantage of your time. Your body, mind, and spirit will thank you for taking the time to be mindful of your needs. What’s your favorite lunch break activity? Let us know in the comments. Look for our next article on how to be productive when you lose motivation.  
 
 <hr class="primary">
 
