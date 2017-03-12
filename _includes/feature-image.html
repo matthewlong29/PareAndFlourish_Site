@@ -1,55 +1,103 @@
 <!-- Feature image section. The feature images are the images that appear at the top of ever page. Except the front page. The front page image is referred to as the banner image. In the future the feature image should be different for the start here, various blog category, work with us, resources, and join us pages. -->
-<section id="feature-image">
-  <div class="container-fluid"> {% if page.url == "/" %}
-    <!-- Home page feature image. -->
-    <div class="feature-image">
-      <!-- Picture of Katie and Skylar. Still needs to be taken. :( --><img src="" class="img-responsive" data-pin-nopin="true"> </div> {% elsif page.url == "/start-here/" %}
-    <!-- Start here page feature image. -->
-    <div class="feature-image">
-      <!-- Filler image. -->
-      <div class="feature-large"> <img src="{{site.url}}/images/header/star-large.jpg" class="img-responsive" data-pin-nopin="true"> </div>
-      <div class="feature-small"> <img src="{{site.url}}/images/header/star-small.jpg" class="img-responsive" data-pin-nopin="true"> </div>
-    </div> {% elsif page.url == "/personal-development/" %}
-    <!-- Personal development page feature image. -->
-    <div class="feature-image">
-      <!-- Picture of coffee cup on picnic table. -->
-      <div class="feature-large"> <img src="{{site.url}}/images/header/pers-large.jpg" class="img-responsive" data-pin-nopin="true"> </div>
-      <div class="feature-small"> <img src="{{site.url}}/images/header/pers-small.jpg" class="img-responsive" data-pin-nopin="true"> </div>
-    </div> {% elsif page.url == "/professional-development/" %}
-    <!-- Professional development page feature image. -->
-    <div class="feature-image">
-      <!-- Picture of city landscape. -->
-      <div class="feature-large"> <img src="{{site.url}}/images/header/prof-large.jpg" class="img-responsive" data-pin-nopin="true"> </div>
-      <div class="feature-small"> <img src="{{site.url}}/images/header/prof-small.jpg" class="img-responsive" data-pin-nopin="true"> </div>
-    </div> {% elsif page.url == "/bonus-material/" %}
-    <!-- Bonus material page feature image. -->
-    <div class="feature-image">
-      <!-- Picture of stacked books in a library. -->
-      <div class="feature-large"> <img src="{{site.url}}/images/header/bonu-large.jpg" class="img-responsive" data-pin-nopin="true"> </div>
-      <div class="feature-small"> <img src="{{site.url}}/images/header/bonu-small.jpg" class="img-responsive" data-pin-nopin="true"> </div>
-    </div> {% elsif page.url == "/work-with-us/" %}
-    <!-- Work with us page feature image. -->
-    <div class="feature-image">
-      <!-- Filler image. -->
-      <div class="feature-large"> <img src="{{site.url}}/images/header/work-large.jpg" class="img-responsive" data-pin-nopin="true"> </div>
-      <div class="feature-small"> <img src="{{site.url}}/images/header/work-small.jpg" class="img-responsive" data-pin-nopin="true"> </div>
-    </div> {% elsif page.url == "/resources/" %}
-    <!-- Resources page feature image. -->
-    <div class="feature-image">
-      <!-- Filler image. -->
-      <div class="feature-large"> <img src="{{site.url}}/images/header/reso-large.jpg" class="img-responsive" data-pin-nopin="true"> </div>
-      <div class="feature-small"> <img src="{{site.url}}/images/header/reso-small.jpg" class="img-responsive" data-pin-nopin="true"> </div>
-    </div> {% elsif page.url == "/join-pare-and-flourish/" %}
-    <!-- Join pare and flourish page feature image. -->
-    <div class="feature-image">
-      <!-- Filler image. -->
-      <div class="feature-large"> <img src="{{site.url}}/images/header/join-large.jpg" class="img-responsive" data-pin-nopin="true"> </div>
-      <div class="feature-small"> <img src="{{site.url}}/images/header/join-small.jpg" class="img-responsive" data-pin-nopin="true"> </div>
-    </div> {% else %}
-    <!-- Blog posts feature image. -->
-    <div class="feature-image">
-      <!-- Picture of image defined in front matter of each blog post. The image will almost always been that of its parent directory (personal, professional, and bonus). -->
-      <div class="feature-large"> <img src="{{site.url}}/images/header/{{page.image.ftlarge}}" class="img-responsive" data-pin-nopin="true"> </div>
-      <div class="feature-small"> <img src="{{site.url}}/images/header/{{page.image.ftsmall}}" class="img-responsive" data-pin-nopin="true"> </div>
-    </div> {% endif %} </div>
+   
+<section id="feature-image"> 
+  <div class="container-fluid">
+      
+      {% if page.url == "/" %} <!-- Home page feature image. -->
+
+        <div class="feature-image"> <!-- Picture of Katie and Skylar. Still needs to be taken. :( -->
+          <img src="" class="img-responsive" data-pin-nopin="true">
+        </div> 
+
+      {% elsif page.url == "/start-here/" %} <!-- Start here page feature image. -->
+
+        <div class="feature-image"> <!-- Filler image. -->
+          <div class="feature-large">
+            <img src="{{site.url}}/images/header/star-large.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+          <div class="feature-small">
+            <img src="{{site.url}}/images/header/star-small.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+        </div>
+
+      {% elsif page.url == "/personal-development/" %} <!-- Personal development page feature image. -->
+
+        <div class="feature-image"> <!-- Picture of coffee cup on picnic table. -->
+          <div class="feature-large">
+            <img src="{{site.url}}/images/header/pers-large.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+          <div class="feature-small">
+            <img src="{{site.url}}/images/header/pers-small.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+        </div>
+
+      {% elsif page.url == "/professional-development/" %} <!-- Professional development page feature image. -->
+
+        <div class="feature-image"> <!-- Picture of city landscape. -->
+          <div class="feature-large">
+            <img src="{{site.url}}/images/header/prof-large.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+          <div class="feature-small">
+            <img src="{{site.url}}/images/header/prof-small.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+        </div>
+
+      {% elsif page.url == "/bonus-material/" %} <!-- Bonus material page feature image. -->
+
+        <div class="feature-image"> <!-- Picture of stacked books in a library. -->
+          <div class="feature-large">
+            <img src="{{site.url}}/images/header/bonu-large.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+          <div class="feature-small">
+            <img src="{{site.url}}/images/header/bonu-small.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+        </div>
+
+      {% elsif page.url == "/work-with-us/" %} <!-- Work with us page feature image. -->
+
+        <div class="feature-image"> <!-- Filler image. -->
+          <div class="feature-large">
+            <img src="{{site.url}}/images/header/work-large.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+          <div class="feature-small">
+            <img src="{{site.url}}/images/header/work-small.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+        </div>
+
+      {% elsif page.url == "/resources/" %} <!-- Resources page feature image. -->
+
+        <div class="feature-image"> <!-- Filler image. -->
+          <div class="feature-large">
+            <img src="{{site.url}}/images/header/reso-large.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+          <div class="feature-small">
+            <img src="{{site.url}}/images/header/reso-small.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+        </div>
+
+      {% elsif page.url == "/join-pare-and-flourish/" %} <!-- Join pare and flourish page feature image. -->
+
+        <div class="feature-image"> <!-- Filler image. -->
+          <div class="feature-large">
+            <img src="{{site.url}}/images/header/join-large.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+          <div class="feature-small">
+            <img src="{{site.url}}/images/header/join-small.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+        </div>
+
+      {% else %} <!-- Blog posts feature image. -->
+    
+        <div class="feature-image"> <!-- Picture of image defined in front matter of each blog post. The image will almost always been that of its parent directory (personal, professional, and bonus). -->
+          <div class="feature-large">
+            <img src="{{site.url}}/images/header/{{page.image.ftlarge}}" class="img-responsive" data-pin-nopin="true">
+          </div>
+          <div class="feature-small">
+            <img src="{{site.url}}/images/header/{{page.image.ftsmall}}" class="img-responsive" data-pin-nopin="true">
+          </div>
+        </div>
+
+      {% endif %}
+
+  </div>
 </section>

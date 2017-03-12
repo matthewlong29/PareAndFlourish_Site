@@ -1,14 +1,27 @@
---- layout: default ---
+---
+layout: default
+---
+
 <!-- This is the layout for the homepage. The homepage contains tiles for all the blog posts sorted from newest to oldest. -->
-<!-- Banner Section -->{% include banner.html %}
-<!-- Banner image as well as logo and description. -->
+
+<!-- Banner Section -->
+{% include banner.html %} <!-- Banner image as well as logo and description. -->
+
 <!-- Latest Blog Post Section -->
-<!-- Page container (bootstrap). -->
-<div class="container">
-  <div class="row">
-    <!-- Latest blog posts. -->
-    <div class="col-lg-8 col-md-8 col-sm-12"> {% include latest.html %} </div>
-    <!-- Side panel with subscribe form. -->
-    <div class="col-lg-4 col-md-4 col-sm-12"> {% include side-panel.html %} </div>
-  </div>
+<div class="container"> <!-- Page container (bootstrap). -->
+       
+	<div class="row">
+
+		<div class="col-lg-8 col-md-8 col-sm-12">
+
+			{% include latest.html %} <!-- Latest blog posts. -->
+			
+		</div>
+
+		<div class="col-lg-4 col-md-4 col-sm-12"> <!-- Side panel with subscribe form. -->
+          {% include side-panel.html %}
+		</div>
+
+	</div>
+	
 </div>
