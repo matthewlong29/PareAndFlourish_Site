@@ -23,7 +23,7 @@
   <meta name="description" property="og:description" content="When was the last time that you did nothing? Really think about that. It can be a hard concept to grasp in your vibrant professional years." />
 
   <!-- Website/Post URL -->
-  <meta property="og:url" content="http://localhost:4000/personal-development/three-ways-to-implement-self-care-now/" />  
+  <meta property="og:url" content="http://www.pareandflourish.com/personal-development/three-ways-to-implement-self-care-now/" />  
 
   <!-- Site Name-->
   <meta property="og:site_name" content="pareandflourish.com" />
@@ -36,7 +36,10 @@
 
   <!-- Website/Post Keywords-->
   <meta name="Keywords" property="" content="self-care, well-being, wellbeing, selfcare" />
-
+  
+  <!-- Facebook App Moderation -->
+  <meta property="fb:app_id" content="174295113036712" />
+  
   <!-- Website Title -->
   <title>Three Ways to Implement Self-Care. Now.</title>
 
@@ -49,15 +52,18 @@
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Dancing+Script|Open+Sans">
 
   <!-- Font Awesome (icons) -->
-  <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/font-awesome/css/font-awesome.css">
+  <link rel="stylesheet" type="text/css" href="http://www.pareandflourish.com/assets/font-awesome/css/font-awesome.css">
 
+  <!-- animate.css -->
+  <link rel="stylesheet" type="text/css" href="http://www.pareandflourish.com/assets/animate/animate.css">
+  
   <!-- Custom CSS -->
 
   <!-- This is the subscriber tool css link (custom css overrides can be found in subscribe.scss -->
   <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 
   <!-- This includes bootstrap, sass partials, navbar, and other plugins -->
-  <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/stylesheets/main.css">
+  <link rel="stylesheet" type="text/css" href="http://www.pareandflourish.com/assets/stylesheets/main.css">
 
   <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -71,15 +77,19 @@
   <!-- Javascript -->
 
   <!-- jquery -->
-  <script type="text/javascript" src="http://localhost:4000/assets/javascript/vendor/jquery.js"></script>
+  <script type="text/javascript" src="http://www.pareandflourish.com/assets/javascript/vendor/jquery.js"></script>
 
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
-
+  
+  <script type="text/javascript" src="http://www.pareandflourish.com/assets/javascript/animate-sidebar.js"></script>
+  
+  <script type="text/javascript" src="http://www.pareandflourish.com/assets/javascript/animate-sub-button.js"></script>
+  
   <!-- Bootstrap Core JavaScript -->
-  <script type="text/javascript" src="http://localhost:4000/assets/bootstrap/js/bootstrap.js"></script>
+  <script type="text/javascript" src="http://www.pareandflourish.com/assets/bootstrap/js/bootstrap.js"></script>
 
   <!-- Navbar Collapse -->
-  <script type="text/javascript" src="http://localhost:4000/assets/javascript/navcollapse.js"></script>
+  <script type="text/javascript" src="http://www.pareandflourish.com/assets/javascript/navcollapse.js"></script>
 
   <!-- Twitter widget -->
   <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -87,10 +97,11 @@
   <!-- Subscribe Tool (mailchimp.com) -->
   <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
 
-  <script type="text/javascript" src="http://localhost:4000/assets/javascript/subscribe.js"></script>
+  <script type="text/javascript" src="http://www.pareandflourish.com/assets/javascript/subscribe.js"></script>
 
-  <!-- Disqus Comments -->
-  <script id="dsq-count-scr" src="//pare-and-flourish.disqus.com/count.js" async></script>
+  <!-- Facebook Comments -->
+  <div id="fb-root"></div>
+  <script type="text/javascript" src="http://www.pareandflourish.com/assets/javascript/facebook-comments.js"></script>
 
   <!-- Pinterest Button -->
   <script async defer data-pin-hover="true" data-pin-tall="true" data-pin-save="true" src="//assets.pinterest.com/js/pinit.js"></script>
@@ -136,7 +147,7 @@
         <i class="fa fa-bars"></i>
       </button>
 
-      <a class="navbar-brand" href="http://localhost:4000/"> <!-- Link to home page -->
+      <a class="navbar-brand" href="http://www.pareandflourish.com/"> <!-- Link to home page -->
         <span class="light">Pare and Flourish</span>
       </a>
 
@@ -197,17 +208,15 @@
     
         <div class="feature-image"> <!-- Picture of image defined in front matter of each blog post. The image will almost always been that of its parent directory (personal, professional, and bonus). -->
           <div class="feature-large">
-            <img src="http://localhost:4000/images/header/pers-large.jpg" class="img-responsive" data-pin-nopin="true">
+            <img src="http://www.pareandflourish.com/images/header/pers-large.jpg" class="img-responsive" data-pin-nopin="true">
           </div>
           <div class="feature-small">
-            <img src="http://localhost:4000/images/header/pers-small.jpg" class="img-responsive" data-pin-nopin="true">
+            <img src="http://www.pareandflourish.com/images/header/pers-small.jpg" class="img-responsive" data-pin-nopin="true">
           </div>
         </div>
 
       
 
-      <div class="blank"></div> <!-- Bar/line below the feature image. -->
-      
   </div>
 </section> <!-- Feature image -->
 
@@ -259,13 +268,13 @@
 
 <div class="row"> <!-- "pagination" -->
 	<div class="col-xs-6 paginate">
-			<a href="http://localhost:4000/personal-development/authenticity-what-it-means-to-you/">
+			<a href="http://www.pareandflourish.com/personal-development/authenticity-what-it-means-to-you/">
 				<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
 				<div class="col-xs-12 text"><h3>Authenticity: What it Means to You</h3></div>		
 			</a>
 	</div>
 	<div class="col-xs-6 paginate">
-			<a href="http://localhost:4000/personal-development/comfortable-being-uncomfortable/">
+			<a href="http://www.pareandflourish.com/personal-development/comfortable-being-uncomfortable/">
 				<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
 				<div class="col-xs-12 text"><h3>Being Comfortable with Being Uncomfortable</h3></div>
 			</a>
@@ -278,126 +287,81 @@
  <!-- Post content (written in markdown.. see "_posts"). -->
 
 				</div>
-              
-                <div class="disqus-link">
+            
                    <!-- Comments. Powered by disqus. -->
-                      <div id="disqus_thread"></div>
-                      <script>
-                      (function() { // DON'T EDIT BELOW THIS LINE
-                      var d = document, s = d.createElement('script');
-                      s.src = '//pare-and-flourish.disqus.com/embed.js';
-                      s.setAttribute('data-timestamp', +new Date());
-                      (d.head || d.body).appendChild(s);
-                      })();
-                      </script>
-                      <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                      <div class="fb-comments" data-href="http://www.pareandflourish.com/personal-development/three-ways-to-implement-self-care-now/" data-numposts="3" data-width="100%"></div>
                   
-                </div>
+
               
 			</div>
 		</div>
 
 		<div class="col-lg-4 col-md-4 col-sm-12"> <!-- Side panel with subscribe form. -->
-			<div class="side-panel">
-					<!-- Subscription information. The subscription service we use is mail chimp. Mail chimp can be seen and managed at https://mailchimp.com/. -->
-
-<div id="mc_side">
-	<form action="//pareandflourish.us14.list-manage.com/subscribe/post?u=21b3326a4d3b41c8b98c42507&amp;id=32335e5912" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-
-	<div id="mc_embed_signup_scroll">
-
-		<p class="title">Subscribe to receive a FREE cover letter template!</p>
-		<p class="text">Be the first to know about new blog posts and promotions!</p>
-
-		<input type="email" value="" placeholder="Email Address (required)" name="EMAIL" class="required email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
-		<input type="text" value="" placeholder="First Name" name="FNAME" class="" id="mce-FNAME" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
-		<input type="text" value="" placeholder="Last Name" name="LNAME" class="" id="mce-LNAME" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+          <!-- Side panel. The side panel contains tons of information for the website. This information is a subscription form (as long as user isn't on the subscription page), links to social media and paypal (twitter, facebook, pinterest, instagram, and paypal), teaser image (if the user is on an article page), twitter feed, amazon affiliate "shop related products" section, and placeholders for ad spots. -->
 
 
-		<div id="mce-responses" class="clear">
-			<div class="response" id="mce-error-response" style="display:none"></div>
-			<div class="response" id="mce-success-response" style="display:none"></div>
-		</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-
-		<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_21b3326a4d3b41c8b98c42507_32335e5912" tabindex="-1" value=""></div>
-
-		<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-
-	</div>
-		
-	</form>
-</div>
-			</div>
-			<!-- Side panel. The side panel contains tons of information for the website. This information is a subscription form (as long as user isn't on the subscription page), links to social media and paypal (twitter, facebook, pinterest, instagram, and paypal), teaser image (if the user is on an article page), twitter feed, amazon affiliate "shop related products" section, and placeholders for ad spots. -->
-  
- <section id="side-panel"> 
-	<div class="side-panel"> <!-- Open side panel div. -->        
-		<section id="social-buttons">
-			<div class="social-buttons"> <!-- Social media section (and paypal) -->
-				<a href="https://twitter.com/pareandflourish/" target="_blank"> <!-- Link to twitter (see config). Icons are from font awesome. -->
-					<span class="fa-stack fa-2x" title="See our tweets here">
-						<i class="fa fa-square-o fa-stack-2x"></i>
-						<i class="fa fa-twitter fa-stack-1x twitter-color"></i>
-					</span>
-				</a>
-				<a href="http://www.pareandflourish.com/feed.xml" target="_blank"> <!-- Link to facebook (see config). Icons are from font awesome. -->
-					<span class="fa-stack fa-2x" title="See our RSS feed here">
-						<i class="fa fa-square-o fa-stack-2x"></i>
-						<i class="fa fa-rss fa-stack-1x rss-color"></i>
-					</span>
-				</a>                                     
-				<a href="https://www.pinterest.com/pareandflourish/" target="_blank"> <!-- Link to pinterest (see config). Icons are from font awesome. -->
-					<span class="fa-stack fa-2x" title="See our pins here">
-						<i class="fa fa-square-o fa-stack-2x"></i>
-						<i class="fa fa-pinterest fa-stack-1x pinterest-color"></i>
-					</span>
-				</a>
-				<a href="https://www.instagram.com/pareandflourish/" target="_blank"> <!-- Link to instagram (see config). Icons are from font awesome. -->
-					<span class="fa-stack fa-2x" title="See our instagram here">
-						<i class="fa fa-square-o fa-stack-2x"></i>
-						<i class="fa fa-instagram fa-stack-1x instagram-color"></i>
-					</span>
-				</a>
-				<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5JHZTSRZ52BZ6" target="_blank"> <!-- Link to paypal (see config). Icons are from font awesome. -->
-					<span class="fa-stack fa-2x" title="Click here to donate">
-						<i class="fa fa-square-o fa-stack-2x"></i>
-						<i class="fa fa-paypal fa-stack-1x paypal-color"></i>
-					</span>
-				</a>
-			</div>
-		</section>
-
-		<!-- Teaser image that coincides with the post the user is currently visiting. The point of having this is so pinterest will pin the image we want. -->
-
-		 <!-- Horizontal teaser (if there isn't a vertical teaser). -->
-		
-		<section id="current-teaser"> <!-- Horizontal teaser. -->
-			<div class="current-teaser">
-				<img src="http://localhost:4000/images/teasers-1080x600/self-care.jpg" class="img-responsive webfeedsFeaturedVisual" alt="Three Ways to Implement Self-Care. Now." />
-			</div>
-		</section>
-		
-		
-
-		<section id="twitter"> <!-- Twitter feed section. -->
-			<div class="twitter-section">
-				<div class="tweets">
-					<a class="twitter-timeline" data-lang="en" data-width="1000" data-height="500" data-theme="light" data-chrome="nofooter transparent noscrollbar" href="https://twitter.com/pareandflourish">Tweets by pareandflourish</a>
-				</div>
-				<a href="https://twitter.com/pareandflourish/" target="_blank">
-					<h3>See more here! <i class="fa fa-twitter"></i></h3>
-				</a>
-			</div>
-		</section>
-
-		<section id="amazon-native-ads"> <!-- Amazon native Ads. -->
-			<div class="amazon-native-ads">
-				<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=79899e6a-8c0e-41ae-88ae-544fbb5c7c2f&storeId=pareandflouri-20"></script>
-			</div>
-		</section>
-
-	</div> <!-- Close side panel div. -->
+<section id="side-panel">
+  <div class="side-panel">
+    <!-- Subscription information. The subscription service we use is mail chimp. Mail chimp can be seen and managed at https://mailchimp.com/. -->
+    <div id="mc_side">
+      <form action="//pareandflourish.us14.list-manage.com/subscribe/post?u=21b3326a4d3b41c8b98c42507&amp;id=32335e5912" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll">
+          <p class="title">Subscribe to receive a FREE cover letter template!</p>
+          <p class="text">Be the first to know about new blog posts and promotions!</p>
+          <input type="email" value="" placeholder="Email Address (required)" name="EMAIL" class="required email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+          <input type="text" value="" placeholder="First Name" name="FNAME" class="" id="mce-FNAME" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+          <input type="text" value="" placeholder="Last Name" name="LNAME" class="" id="mce-LNAME" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+          <div id="mce-responses" class="clear">
+            <div class="response" id="mce-error-response" style="display:none"></div>
+            <div class="response" id="mce-success-response" style="display:none"></div>
+          </div>
+          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+          <div style="position: absolute; left: -5000px;" aria-hidden="true">
+            <input type="text" name="b_21b3326a4d3b41c8b98c42507_32335e5912" tabindex="-1" value=""> </div>
+          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"> </div>
+      </form>
+    </div>
+    <!-- Open side panel div. -->
+    <section id="social-buttons">
+      <div class="social-buttons">
+        <!-- Social media section (and paypal) -->
+        <a href="https://twitter.com/pareandflourish/" target="_blank">
+          <!-- Link to twitter (see config). Icons are from font awesome. --><span class="fa-stack fa-2x" title="See our tweets here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x twitter-color"></i></span></a>
+        <a href="http://www.pareandflourish.com/feed.xml" target="_blank">
+          <!-- Link to facebook (see config). Icons are from font awesome. --><span class="fa-stack fa-2x" title="See our RSS feed here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-rss fa-stack-1x rss-color"></i></span></a>
+        <a href="https://www.pinterest.com/pareandflourish/" target="_blank">
+          <!-- Link to pinterest (see config). Icons are from font awesome. --><span class="fa-stack fa-2x" title="See our pins here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-pinterest fa-stack-1x pinterest-color"></i></span></a>
+        <a href="https://www.instagram.com/pareandflourish/" target="_blank">
+          <!-- Link to instagram (see config). Icons are from font awesome. --><span class="fa-stack fa-2x" title="See our instagram here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-instagram fa-stack-1x instagram-color"></i></span></a>
+        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5JHZTSRZ52BZ6" target="_blank">
+          <!-- Link to paypal (see config). Icons are from font awesome. --><span class="fa-stack fa-2x" title="Click here to donate"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-paypal fa-stack-1x paypal-color"></i></span></a>
+      </div>
+    </section>
+    <!-- Teaser image that coincides with the post the user is currently visiting. The point of having this is so pinterest will pin the image we want. -->
+    <!-- Horizontal teaser (if there isn't a vertical teaser). -->
+    <section id="current-teaser">
+      <!-- Horizontal teaser. -->
+      <div class="current-teaser"> <img src="http://www.pareandflourish.com/images/teasers-1080x600/self-care.jpg" class="img-responsive webfeedsFeaturedVisual" alt="Three Ways to Implement Self-Care. Now." /> </div>
+    </section> 
+    <section id="twitter">
+      <!-- Twitter feed section. -->
+      <div class="twitter-section">
+        <div class="tweets"> <a class="twitter-timeline" data-lang="en" data-width="1000" data-height="500" data-theme="light" data-chrome="nofooter transparent noscrollbar" href="https://twitter.com/pareandflourish">Tweets by pareandflourish</a> </div>
+        <a href="https://twitter.com/pareandflourish/" target="_blank">
+          <h3>See more here! <i class="fa fa-twitter"></i></h3> </a>
+      </div>
+    </section>
+    <section id="amazon-native-ads">
+      <!-- Amazon native Ads. -->
+      <div class="amazon-native-ads">
+        <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=79899e6a-8c0e-41ae-88ae-544fbb5c7c2f&storeId=pareandflouri-20"></script>
+      </div>
+    </section>
+  </div>
+  <!-- Close side panel div. -->
 </section>
+
+
 		</div>
 
 	</div>
@@ -475,7 +439,7 @@
 						</div> <!-- Close social media section. -->
 
 						<div class="col-lg-12 col-md-12 col-sm-12"> <!-- Subscribe button. This "button" only links to the subscribe form page. -->
-							<a href="http://localhost:4000/join-pare-and-flourish/"><div class="sub-button">Click here to subscribe!</div></a>
+							<a href="http://www.pareandflourish.com/join-pare-and-flourish/"><div class="sub-button">Click here to subscribe!</div></a>
 						</div>
 
 					</div> <!-- Close row that contains contact info, social media links, and a button linking to subscription form page. -->
