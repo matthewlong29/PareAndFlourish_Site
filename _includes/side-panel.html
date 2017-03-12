@@ -1,6 +1,4 @@
-<!-- Side panel. The side panel contains tons of information for the website. This information is a subscription form (as long as user isn't on the subscription page), links to social media and paypal (twitter, facebook, pinterest, instagram, and paypal), teaser image (if the user is on an article page), twitter feed, amazon affiliate "shop related products" section, and placeholders for ad spots. -->
-{% if page.url == "/join-pare-and-flourish/" %}
-
+<!-- Side panel. The side panel contains tons of information for the website. This information is a subscription form (as long as user isn't on the subscription page), links to social media and paypal (twitter, facebook, pinterest, instagram, and paypal), teaser image (if the user is on an article page), twitter feed, amazon affiliate "shop related products" section, and placeholders for ad spots. -->{% if page.url == "/join-pare-and-flourish/" %}
 <section id="side-panel">
   <div class="side-panel">
     <!-- Open side panel div. -->
@@ -46,10 +44,7 @@
     </section>
   </div>
   <!-- Close side panel div. -->
-</section>
-
-{% else %}
-
+</section> {% else %}
 <section id="side-panel">
   <div class="side-panel">
     <!-- Subscription information. The subscription service we use is mail chimp. Mail chimp can be seen and managed at https://mailchimp.com/. -->
@@ -114,6 +109,4 @@
     </section>
   </div>
   <!-- Close side panel div. -->
-</section>
-
-{% endif %}
+</section> {% endif %}

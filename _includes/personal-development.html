@@ -1,15 +1,6 @@
 <!-- Latest personal development blogs. This is a for loop for all personal development blogs (not bonus material or professional development blogs) to appear on the personal development page. -->
-
-<section id="personal-development"> <!-- Personal development blog page -->
-
-	<div class="blog-tiles">
-
-		<hr class="primary">
-
-		{% for post in site.categories.personal-development %}
-			{% include blog-tiles.html %}
-		{% endfor %}
-
-	</div>
-	
+<section id="personal-development">
+  <!-- Personal development blog page -->
+  <div class="blog-tiles">
+    <hr class="primary"> {% for post in site.categories.personal-development %} {% include blog-tiles.html %} {% endfor %} </div>
 </section>
