@@ -1,34 +1,36 @@
 .paginate {
-	a {
-		text-decoration: none;
-	}
-	.img {
-		border: 2px solid $theme-gray;
-		margin: 1em 0 0 0;
-		padding: 0;
-	}
-	.arrow {
-		color: $theme-white;
-		text-align: center;
-		background-color: $theme-red;
-		margin: 1em 0 0 0;
-		&:hover,
-		&:focus {
-			background-color: lighten($theme-red, 5%);
-			transition: .5s;
-		}
-	}
-	.text {
-		text-align: center;
-		h3 {
-			font-family: 'Dancing Script', serif;
-			color: darken($theme-gray, 25%);
-			font-weight: normal;
-			margin: 0 0 0 0;
-			&:hover,
-			&:focus {
-					font-weight: bold;
-			}
-		}
-	}
+  a {
+    text-decoration: none;
+  }
+  .img {
+    border: 2px solid $theme-gray;
+    margin: 1em 0 0 0;
+    padding: 0;
+  }
+  .arrow {
+    color: $theme-white;
+    text-align: center;
+    background-color: $theme-red;
+    margin: 1em 0 0 0;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px $theme-gray;
+    &:hover,
+    &:focus {
+      background-color: lighten($theme-red, 5%);
+      box-shadow: 1px 1px 2.5px $theme-gray;
+    }
+  }
+  .text {
+    text-align: center;
+    h3 {
+      font-family: 'Dancing Script', serif;
+      color: darken($theme-gray, 25%);
+      font-weight: normal;
+      margin: 0 0 0 0;
+      &:hover,
+      &:focus {
+        font-weight: bold;
+      }
+    }
+  }
 }

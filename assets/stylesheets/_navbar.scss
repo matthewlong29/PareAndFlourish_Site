@@ -4,12 +4,15 @@
   font-family: $base-font-sans;
   background-color: $theme-gray;
   z-index: 8675310;
+  box-shadow: 2px 2px 5px $theme-gray;
+  border-radius: 5px !important;
 }
 
 .navbar-custom .navbar-toggle {
   color: $theme-white;
   background-color: $theme-gray;
   font-size: 1em;
+  border-radius: 5px;
 }
 
 .navbar-custom .navbar-toggle:focus,
@@ -46,6 +49,7 @@
   outline: none;
   color: $theme-gray;
   background-color: $theme-white;
+  border-radius: 5px;
 }
 
 .navbar-custom .nav li a:focus,
@@ -53,6 +57,7 @@
   outline: none;
   color: $theme-white;
   background-color: $theme-gray;
+  border-radius: 5px;
 }
 
 .navbar-custom .nav li.active {
@@ -65,17 +70,20 @@
 
 .navbar-custom .nav li.active a:hover {
   color: $theme-white;
+  border-radius: 5px;
 }
 
-@media(max-width:992px){
+@media(max-width:992px) {
   .nav>li>a {
     padding-left: 0.5em;
     padding-right: 0.5em;
+    border-radius: 5px;
   }
 }
 
 @media (min-width: 992px) {
   .navbar-custom {
+    border-radius: 5px;
     padding: 5px 0;
     background-color: $theme-gray;
     -webkit-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;

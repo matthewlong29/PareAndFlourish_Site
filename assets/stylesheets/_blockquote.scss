@@ -1,12 +1,12 @@
 blockquote {
-	border-left: 0.3em solid $theme-red;
-	background-color: transparentize($theme-gray, .95);
-	position: relative;
-	cite {
-		font-size: 0.8em;
-		&:before {
-			content: "\2014";
-			padding-right: 5px;
-		}
-	}
+  border-left: 0.3em solid $theme-red;
+  background-color: transparentize($theme-gray, .95);
+  position: relative;
+  cite {
+    font-size: 0.8em;
+    &:before {
+      content: "\2014";
+      padding-right: 5px;
+    }
+  }
 }

@@ -1,97 +1,109 @@
 .side-panel {
-	margin: 1em 0 1em 0;
-	padding: 0;
-	background-color: $theme-white;
-	-webkit-transition: 1s all ease;
-	transition: 1s all ease;
-	h3 {
-		color: $theme-white;
-		text-align: center;
-		background-color: $theme-red;
-		margin: 0 0 1em 0;
-		&:hover,
-		&:focus {
-			background-color: lighten($theme-red, 15%);
-			transition: .5s;
-		}
-	}
-	h4 {
-		color: $theme-gray;
-		text-align: center;
-		background-color: $theme-yellow;
-		margin: 0 0 1em 0;
-		font-size: 1.25em;
-		&:hover,
-		&:focus {
-			background-color: lighten($theme-yellow, 10%);
-			transition: .5s;
-		}
-	}
-	p {
-		color: lighten($theme-gray, 25%);
-		text-align: left;
-		margin: 1em;
-	}
-	a {
-		text-decoration: none;
-		text-align: left;
-	}
-	img {
-		border: 2px solid $theme-gray;
-		margin: auto 0;
-	}
-	.twitter-section {
-        margin: 1em 0 0 0;
-		@media only screen and (max-width: 992px) {
-			display: none;
-		}
-		.tweets {
-			border: 2px solid $theme-gray;
-		}
-	}
-	.social-buttons {
-		@media only screen and (max-width: 992px) {
-			display: none;
-		}
-		margin: 0 0 1em 0;
-		text-align: center;
-		font-size: 12px;
-		a {
-			color: $theme-gray;
-			font-size: 1em;    
-			text-decoration: none;
-			&:hover {
-				border-bottom: 0px;
-				color: $theme-white;
-				transition: .5s;
-			}
-		}
-		.twitter-color {
-			color: $twitter-color;
-		}
-		.facebook-color {
-		color: $facebook-color;
-		}
-		.github-color {
-			color: $github-color;
-		}
-		.pinterest-color {
-			color: $pinterest-color;
-		}
-		.paypal-color {
-			color: $paypal-color;
-		}
-		.instagram-color {
-			color: $instagram-color;
-		}
-		.rss-color {
-			color: $rss-color;
-		}
-	}
-	.amazon-native-ads {
-		border: 2px solid $theme-gray;
-		margin: 0 0 1em 0;
-		padding: .35em;
-	}
+  margin: 1em 0 1em 0;
+  padding: 0;
+  background-color: $theme-white;
+  -webkit-transition: 1s all ease;
+  transition: 1s all ease;
+  h3 {
+    color: $theme-white;
+    text-align: center;
+    background-color: $theme-red;
+    margin: 0 0 1em 0;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px $theme-gray;
+    &:hover,
+    &:focus {
+      background-color: lighten($theme-red, 15%);
+      box-shadow: 1px 1px 2.5px $theme-gray;
+    }
+  }
+  h4 {
+    color: $theme-gray;
+    text-align: center;
+    background-color: $theme-yellow;
+    margin: 0 0 1em 0;
+    font-size: 1.25em;
+    &:hover,
+    &:focus {
+      background-color: lighten($theme-yellow, 10%);
+      transition: .5s;
+    }
+  }
+  p {
+    color: lighten($theme-gray, 25%);
+    text-align: left;
+    margin: 1em;
+  }
+  a {
+    text-decoration: none;
+    text-align: left;
+  }
+  img {
+    border: 2px solid $theme-gray;
+    margin: auto 0;
+  }
+  .twitter-section {
+    margin: 1em 0 0 0;
+    @media only screen and (max-width: 992px) {
+      display: none;
+    }
+    .tweets {
+      border: 2px solid $theme-gray;
+      border-radius: 5px;
+      box-shadow: 2px 2px 5px #020202;
+    }
+  }
+  .social-buttons {
+    @media only screen and (max-width: 992px) {
+      display: none;
+    }
+    margin: 0 0 1em 0;
+    text-align: center;
+    font-size: 12px;
+    a {
+      color: $theme-gray;
+      font-size: 1em;
+      text-decoration: none;
+      &:hover {
+        border-bottom: 0px;
+        color: $theme-white;
+        transition: .5s;
+      }
+    }
+    .twitter-color {
+      color: $twitter-color;
+    }
+    .facebook-color {
+      color: $facebook-color;
+    }
+    .github-color {
+      color: $github-color;
+    }
+    .pinterest-color {
+      color: $pinterest-color;
+    }
+    .paypal-color {
+      color: $paypal-color;
+    }
+    .instagram-color {
+      color: $instagram-color;
+    }
+    .rss-color {
+      color: $rss-color;
+    }
+  }
+  .amazon-native-ads {
+    border: 2px solid $theme-gray;
+    margin: 0 0 1em 0;
+    padding: .35em;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #020202;
+  }
+  #amzn-native-ad-0 {
+    .amzn-native-header {
+      .amzn-native-header-text {
+        font-weight: bold !important;
+      }
+    }
+  }
 }
-
