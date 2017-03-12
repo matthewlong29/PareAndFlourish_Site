@@ -30,7 +30,10 @@
 
   <!-- Website/Post Keywords-->
   <meta name="Keywords" property="" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}" />
-
+  
+  <!-- Facebook App Moderation -->
+  <meta property="fb:app_id" content="174295113036712" />
+  
   <!-- Website Title -->
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
@@ -45,6 +48,9 @@
   <!-- Font Awesome (icons) -->
   <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/font-awesome/css/font-awesome.css">
 
+  <!-- animate.css -->
+  <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/animate/animate.css">
+  
   <!-- Custom CSS -->
 
   <!-- This is the subscriber tool css link (custom css overrides can be found in subscribe.scss -->
@@ -68,7 +74,11 @@
   <script type="text/javascript" src="{{ site.url }}/assets/javascript/vendor/jquery.js"></script>
 
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
-
+  
+  <script type="text/javascript" src="{{ site.url }}/assets/javascript/animate-sidebar.js"></script>
+  
+  <script type="text/javascript" src="{{ site.url }}/assets/javascript/animate-sub-button.js"></script>
+  
   <!-- Bootstrap Core JavaScript -->
   <script type="text/javascript" src="{{ site.url }}/assets/bootstrap/js/bootstrap.js"></script>
 
@@ -83,8 +93,9 @@
 
   <script type="text/javascript" src="{{ site.url }}/assets/javascript/subscribe.js"></script>
 
-  <!-- Disqus Comments -->
-  <script id="dsq-count-scr" src="//pare-and-flourish.disqus.com/count.js" async></script>
+  <!-- Facebook Comments -->
+  <div id="fb-root"></div>
+  <script type="text/javascript" src="{{ site.url }}/assets/javascript/facebook-comments.js"></script>
 
   <!-- Pinterest Button -->
   <script async defer data-pin-hover="true" data-pin-tall="true" data-pin-save="true" src="//assets.pinterest.com/js/pinit.js"></script>
