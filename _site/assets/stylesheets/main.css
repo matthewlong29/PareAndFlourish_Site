@@ -6066,14 +6066,15 @@ hr.secondary {
   margin-bottom: 0;
   border-bottom: 1px #020202;
   font-family: "Open Sans", serif;
-  background-color: #020202;
+  background-color: #072879;
   z-index: 8675310;
   box-shadow: 2px 2px 5px #020202;
-  border-radius: 5px !important; }
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px; }
 
 .navbar-custom .navbar-toggle {
   color: #fff;
-  background-color: #020202;
+  background-color: #072879;
   font-size: 1em;
   border-radius: 5px; }
 
@@ -6093,11 +6094,11 @@ hr.secondary {
 
 .navbar-custom a {
   color: #fff;
-  background-color: #020202; }
+  background-color: #072879; }
 
 .navbar-custom .nav li a {
   color: #fff;
-  background-color: #020202;
+  background-color: #072879;
   -webkit-transition: background 0.3s ease-in-out;
   -moz-transition: background 0.3s ease-in-out;
   transition: background 0.3s ease-in-out; }
@@ -6112,14 +6113,14 @@ hr.secondary {
 .navbar-custom .nav li a:active {
   outline: none;
   color: #fff;
-  background-color: #020202;
+  background-color: #072879;
   border-radius: 5px; }
 
 .navbar-custom .nav li.active {
   outline: none; }
 
 .navbar-custom .nav li.active a {
-  background-color: #020202; }
+  background-color: #072879; }
 
 .navbar-custom .nav li.active a:hover {
   color: #fff;
@@ -6132,17 +6133,18 @@ hr.secondary {
     border-radius: 5px; } }
 @media (min-width: 992px) {
   .navbar-custom {
-    border-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
     padding: 5px 0;
-    background-color: #020202;
+    background-color: #072879;
     -webkit-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
     -moz-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
     transition: background 0.5s ease-in-out, padding 0.5s ease-in-out; }
 
   .navbar-custom.top-nav-collapse {
     padding: 0;
-    background: #020202;
-    border-bottom: 1px #020202; } }
+    background: #072879;
+    border-bottom: 1px #072879; } }
 ul.banner-social-buttons {
   margin-top: 0; }
 
@@ -6150,7 +6152,7 @@ ul.banner-social-buttons {
   ul.banner-social-buttons {
     margin-top: 15px; } }
 .navbar-custom .dropdown-menu {
-  background-color: #020202; }
+  background-color: #072879; }
 
 .dropdown-menu > li > a {
   color: #fff; }
