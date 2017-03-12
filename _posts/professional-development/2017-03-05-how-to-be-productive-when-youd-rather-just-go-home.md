@@ -79,6 +79,10 @@ How do you stay productive when all you want to do is go home and curl up on the
       </a>
 	</div>
 	<div class="col-xs-6 paginate">
+    <a href="{{site.url}}/professional-development/who-to-include-in-your-professional-circle/">
+        <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
+        <div class="col-xs-12 text"><h3>Who to Include in Your Professional Circle</h3></div>	
+      </a>
 	</div>
 </div> <!-- close "pagination" -->
 
