@@ -1,119 +1,120 @@
 .navbar-custom {
-  margin-bottom: 0;
-  border-bottom: 1px $theme-gray;
-  font-family: $base-font-sans;
-  background-color: $theme-red;
-  z-index: 8675310;
-  box-shadow: 2px 2px 5px $theme-gray;
-  border-bottom-left-radius: 5px;
-  border-bottom-right-radius: 5px;
+	margin-bottom: 0;
+	border-bottom: 1px $theme-gray;
+	font-family: $base-font-sans;
+	background-color: $theme-red;
+	z-index: 8675310;
+	box-shadow: 2px 2px 5px $theme-gray;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
 }
 
 .navbar-custom .navbar-toggle {
-  color: $theme-white;
-  background-color: $theme-red;
-  font-size: 1em;
-  border-radius: 5px;
+	color: $theme-white;
+	background-color: $theme-red;
+	font-size: 1em;
+	border-radius: 5px;
 }
 
 .navbar-custom .navbar-toggle:focus,
 .navbar-custom .navbar-toggle:active {
-  outline: none;
+	outline: none;
 }
 
 .navbar-custom .navbar-brand {
-  font-family: $base-font-script;
-  font-size: 2.5em;
-  @media (max-width: 1200px) {
-    font-size: 2em;
-  }
+	font-family: $base-font-script;
+	font-size: 2.5em;
+	text-decoration: none;
+	@media (max-width: 1200px) {
+		font-size: 2em;
+	}
 }
 
 .navbar-custom .navbar-brand:focus {
-  outline: none;
+	outline: none;
 }
 
 .navbar-custom a {
-  color: $theme-white;
-  background-color: $theme-red;
+	color: $theme-white;
+	background-color: $theme-red;
 }
 
 .navbar-custom .nav li a {
-  color: $theme-white;
-  background-color: $theme-red;
-  -webkit-transition: background 0.3s ease-in-out;
-  -moz-transition: background 0.3s ease-in-out;
-  transition: background 0.3s ease-in-out;
+	color: $theme-white;
+	background-color: $theme-red;
+	text-decoration: none;
+	-webkit-transition: background 0.3s ease-in-out;
+	-moz-transition: background 0.3s ease-in-out;
+	transition: background 0.3s ease-in-out;
 }
 
 .navbar-custom .nav li a:hover {
-  outline: none;
-  color: $theme-gray;
-  background-color: $theme-white;
-  border-radius: 5px;
+	outline: none;
+	color: $theme-gray;
+	background-color: $theme-white;
+	border-radius: 5px;
 }
 
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a:active {
-  outline: none;
-  color: $theme-white;
-  background-color: $theme-red;
-  border-radius: 5px;
+	outline: none;
+	color: $theme-white;
+	background-color: $theme-red;
+	border-radius: 5px;
 }
 
 .navbar-custom .nav li.active {
-  outline: none;
+	outline: none;
 }
 
 .navbar-custom .nav li.active a {
-  background-color: $theme-red;
+	background-color: $theme-red;
 }
 
 .navbar-custom .nav li.active a:hover {
-  color: $theme-white;
-  border-radius: 5px;
+	color: $theme-white;
+	border-radius: 5px;
 }
 
 @media(max-width:992px) {
-  .nav>li>a {
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-    border-radius: 5px;
-
-  }
+	.nav>li>a {
+		padding-left: 0.5em;
+		padding-right: 0.5em;
+		border-radius: 5px;
+	}
 }
 
 @media (min-width: 992px) {
-  .navbar-custom {
-    border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px;
-    padding: 5px 0;
-    background-color: $theme-red;
-    -webkit-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
-    -moz-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
-    transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
-  }
-  .navbar-custom.top-nav-collapse {
-    padding: 0;
-    background: $theme-red;
-    border-bottom: 1px $theme-red;
-  }
+	.navbar-custom {
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+		padding: 5px 0;
+		background-color: $theme-red;
+		-webkit-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+		-moz-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+		transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+	}
+	.navbar-custom.top-nav-collapse {
+		padding: 0;
+		background: $theme-red;
+		border-bottom: 1px $theme-red;
+	}
 }
 
 ul.banner-social-buttons {
-  margin-top: 0;
+	margin-top: 0;
 }
 
 @media (max-width: 1200px) {
-  ul.banner-social-buttons {
-    margin-top: 15px;
-  }
+	ul.banner-social-buttons {
+		margin-top: 15px;
+	}
 }
 
 .navbar-custom .dropdown-menu {
-  background-color: $theme-red;
+	background-color: $theme-red;
 }
 
-.dropdown-menu > li > a {
-  color: $theme-white;
+.dropdown-menu>li>a {
+	color: $theme-white;
 }

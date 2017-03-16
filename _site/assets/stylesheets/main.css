@@ -6084,7 +6084,8 @@ hr.secondary {
 
 .navbar-custom .navbar-brand {
   font-family: "Dancing Script", serif;
-  font-size: 2.5em; }
+  font-size: 2.5em;
+  text-decoration: none; }
   @media (max-width: 1200px) {
     .navbar-custom .navbar-brand {
       font-size: 2em; } }
@@ -6099,6 +6100,7 @@ hr.secondary {
 .navbar-custom .nav li a {
   color: #fff;
   background-color: #072879;
+  text-decoration: none;
   -webkit-transition: background 0.3s ease-in-out;
   -moz-transition: background 0.3s ease-in-out;
   transition: background 0.3s ease-in-out; }
