@@ -104,6 +104,10 @@ Meeting and connecting with people in these specialized areas can go a long way.
       </a>
 	</div>
 	<div class="col-xs-6 paginate">
+      <a href="{{site.url}}/professional-development/5-things-to-consider-before-asking-to-work-remotely/">
+        <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
+        <div class="col-xs-12 text"><h3>5 Things to Consider Before Asking to Work Remotely</h3></div>	
+      </a>
 	</div>
 </div> <!-- close "pagination" -->
 
