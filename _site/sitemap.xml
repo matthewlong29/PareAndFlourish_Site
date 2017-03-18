@@ -109,7 +109,11 @@
 <lastmod>2017-03-12T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/bonus-material/</loc>
+<loc>http://localhost:4000/professional-development/5-things-to-consider-before-asking-to-work-remotely/</loc>
+<lastmod>2017-03-19T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/professional-development/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/join-pare-and-flourish/</loc>
@@ -118,10 +122,10 @@
 <loc>http://localhost:4000/personal-development/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/professional-development/</loc>
+<loc>http://localhost:4000/bonus-material/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/resources/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/start-here/</loc>
@@ -130,6 +134,6 @@
 <loc>http://localhost:4000/work-with-us/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://localhost:4000/resources/</loc>
 </url>
 </urlset>
