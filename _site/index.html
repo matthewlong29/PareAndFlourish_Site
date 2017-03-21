@@ -200,6 +200,7 @@
 			<!-- This is the layout for the homepage. The homepage contains tiles for all the blog posts sorted from newest to oldest. -->
 
 <!-- Banner Section -->
+
 <!-- The banner section contains the banner image, text logo, description, and button linking to the subscription form page. -->	
 
 <section id="banner-front">
@@ -226,27 +227,47 @@
 
   <div class="blank"></div> <!-- Bar/line below the banner image. -->
 
-</section> <!-- Banner image as well as logo and description. -->
+</section>
+
 
 <!-- Latest Blog Post Section -->
-<div class="container"> <!-- Page container (bootstrap). -->
-       
-	<div class="row">
+<!-- Page container (bootstrap). -->
+<div class="container">
 
-		<div class="col-lg-8 col-md-8 col-sm-12">
-
-			<!-- -Latest blogs. This is a for loop for all blogs (regardless of category) to appear on the home page. -->
+	<div class="social-buttons">
+		<div class="row no-gutter">
+			<div class="col-sm-6">
+				<!-- Social media section -->
+				<a href="https://twitter.com/pareandflourish/" target="_blank">
+					<span class="fa-stack fa-3x" title="See our tweets here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x twitter-color"></i></span></a>
+				<a href="https://www.facebook.com/pareandflourish/" target="_blank">
+					<span class="fa-stack fa-3x" title="See our facebook here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x facebook-color"></i></span></a>
+				<a href="http://www.pareandflourish.com/feed.xml" target="_blank">
+					<span class="fa-stack fa-3x" title="See our RSS feed here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-rss fa-stack-1x rss-color"></i></span></a>
+			</div>
+			<div class="col-sm-6">
+				<a href="https://www.pinterest.com/pareandflourish/" target="_blank">
+					<span class="fa-stack fa-3x" title="See our pins here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-pinterest fa-stack-1x pinterest-color"></i></span></a>
+				<a href="https://www.instagram.com/pareandflourish/" target="_blank">
+					<span class="fa-stack fa-3x" title="See our instagram here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-instagram fa-stack-1x instagram-color"></i></span></a>
+				<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5JHZTSRZ52BZ6" target="_blank">
+					<span class="fa-stack fa-3x" title="Click here to donate"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-paypal fa-stack-1x paypal-color"></i></span></a>
+			</div>
+		</div>
+	</div>
+	
+		<!-- -Latest blogs. This is a for loop for all blogs (regardless of category) to appear on the home page. -->
 
 <section id="latest-blogs">
 	<div class="blog-tiles">
-
-		<h1>Latest Blogs</h1> <!-- Latest blog heading (used for homepage) -->
-		<hr class="primary">
-
 		
+		<!-- Latest blog heading (used for homepage) -->
+		
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/professional-development/5-things-to-consider-before-asking-to-work-remotely/"> <img src="http://localhost:4000/images/teasers-1080x600/work-remotely.jpg" class="img-responsive" alt="How to be Productive (When You’d Rather Just Go Home)" /> </a>
@@ -260,11 +281,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/professional-development/who-to-include-in-your-professional-circle/"> <img src="http://localhost:4000/images/teasers-1080x600/professional-circle.jpg" class="img-responsive" alt="How to be Productive (When You’d Rather Just Go Home)" /> </a>
@@ -278,11 +301,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/professional-development/how-to-be-productive-when-youd-rather-just-go-home/"> <img src="http://localhost:4000/images/teasers-1080x600/how-to-be-productive.jpg" class="img-responsive" alt="How to be Productive (When You’d Rather Just Go Home)" /> </a>
@@ -296,11 +321,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/professional-development/what-you-should-do-on-your-lunch-break/"> <img src="http://localhost:4000/images/teasers-1080x600/lunch-break.jpg" class="img-responsive" alt="What You Should Actually Do on Your Lunch Break" /> </a>
@@ -314,11 +341,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/professional-development/pitching-your-professional-brand-for-introverts/"> <img src="http://localhost:4000/images/teasers-1080x600/branding-for-introverts.jpg" class="img-responsive" alt="Stop Consuming: Learn by Doing!" /> </a>
@@ -332,11 +361,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/professional-development/stop-consuming-learn-by-doing/"> <img src="http://localhost:4000/images/teasers-1080x600/learn-by-doing.jpg" class="img-responsive" alt="Stop Consuming: Learn by Doing!" /> </a>
@@ -350,11 +381,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/professional-development/what-is-levo-and-how-to-use-it/"> <img src="http://localhost:4000/images/teasers-1080x600/levo.jpg" class="img-responsive" alt="Levo: What Is It and What Can It Do for You?" /> </a>
@@ -368,11 +401,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/professional-development/perfect-cover-letter/"> <img src="http://localhost:4000/images/teasers-1080x600/perfect-cover-letter.jpg" class="img-responsive" alt="How to Write the Perfect Cover Letter" /> </a>
@@ -386,11 +421,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/professional-development/mens-reactions-inequality-in-workforce/"> <img src="http://localhost:4000/images/teasers-1080x600/mens-reaction-inequality.jpg" class="img-responsive" alt="Men's Reactions to Work Like a Girl: Inequality in the Workforce" /> </a>
@@ -404,11 +441,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/professional-development/use-linkedin-effectively/"> <img src="http://localhost:4000/images/teasers-1080x600/use-linkedin.jpg" class="img-responsive" alt="5 Steps to Use LinkedIn Effectively" /> </a>
@@ -422,11 +461,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/professional-development/new-year-networking-challenge/"> <img src="http://localhost:4000/images/teasers-1080x600/networking-challenge-new-year.jpg" class="img-responsive" alt="New Year New Netork: Networking Challenge" /> </a>
@@ -440,11 +481,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/professional-development/ten-steps-mastering-work-life-balance/"> <img src="http://localhost:4000/images/teasers-1080x600/work-life-balance.jpg" class="img-responsive" alt="Ten Steps to Mastering Work-Life Balance" /> </a>
@@ -458,11 +501,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/professional-development/inequality-in-workforce/"> <img src="http://localhost:4000/images/teasers-1080x600/inequality-workforce.jpg" class="img-responsive" alt="Work Like a Girl: Inequality in the Workforce" /> </a>
@@ -476,11 +521,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/professional-development/six-tips-networking-pro/"> <img src="http://localhost:4000/images/teasers-1080x600/networking-tips.jpg" class="img-responsive" alt="Six Tips to Networking Like a Pro" /> </a>
@@ -494,11 +541,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/bonus-material/review-lean-in/"> <img src="http://localhost:4000/images/teasers-1080x600/review-lean-in.jpg" class="img-responsive" alt="Review of Lean In" /> </a>
@@ -512,11 +561,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/professional-development/evolving-career-millennial/"> <img src="http://localhost:4000/images/teasers-1080x600/evolving-millennial.jpg" class="img-responsive" alt="The Evolving Career of the Millennial" /> </a>
@@ -530,11 +581,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/personal-development/gift-giving-with-purpose/"> <img src="http://localhost:4000/images/teasers-1080x600/gift-giving-purpose.jpg" class="img-responsive" alt="A Guide to Gift Giving with Purpose" /> </a>
@@ -548,11 +601,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/bonus-material/questions-about-workplace-holidays/"> <img src="http://localhost:4000/images/teasers-1080x600/workplace-holidays.jpg" class="img-responsive" alt="Your Questions About Workplace Holidays, Answered" /> </a>
@@ -566,11 +621,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/personal-development/thanksgiving-over-now-what/"> <img src="http://localhost:4000/images/teasers-1080x600/thanksgiving-over.jpg" class="img-responsive" alt="Thanksgiving is Over. Now What?" /> </a>
@@ -584,11 +641,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/bonus-material/top-10-wines-budget/"> <img src="http://localhost:4000/images/teasers-1080x600/top-ten-wines.jpg" class="img-responsive" alt="Top 10 Wines on a Budget" /> </a>
@@ -602,11 +661,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/personal-development/comfortable-being-uncomfortable/"> <img src="http://localhost:4000/images/teasers-1080x600/comfortable-uncomfortable.jpg" class="img-responsive" alt="Being Comfortable with Being Uncomfortable" /> </a>
@@ -620,11 +681,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/professional-development/capsule-wardrobe/"> <img src="http://localhost:4000/images/teasers-1080x600/capsule-wardrobe.jpg" class="img-responsive" alt="Capsule Wardrobe for the Young Professional: A Beginner’s Guide" /> </a>
@@ -638,11 +701,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/personal-development/three-ways-to-implement-self-care-now/"> <img src="http://localhost:4000/images/teasers-1080x600/self-care.jpg" class="img-responsive" alt="Three Ways to Implement Self-Care. Now." /> </a>
@@ -656,11 +721,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/professional-development/the-networking-worlds-best-kept-secret/"> <img src="http://localhost:4000/images/teasers-1080x600/networking-best-kept-secret.jpg" class="img-responsive" alt="The Networking World's Best-Kept Secret" /> </a>
@@ -674,11 +741,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/professional-development/five-ways-to-purposefully-network/"> <img src="http://localhost:4000/images/teasers-1080x600/five-ways-to-network.jpg" class="img-responsive" alt="Five Ways to Purposefully Network" /> </a>
@@ -692,11 +761,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/professional-development/three-ways-to-get-involved-without-killing-your-time/"> <img src="http://localhost:4000/images/teasers-1080x600/three-ways-involved.jpg" class="img-responsive" alt="Three Ways to Get Involved Without Killing Your Time" /> </a>
@@ -710,11 +781,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/personal-development/authenticity-what-it-means-to-you/"> <img src="http://localhost:4000/images/teasers-1080x600/authenticity-what-it-means.jpg" class="img-responsive" alt="Authenticity: What it Means to You" /> </a>
@@ -728,11 +801,13 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
-		
+  
+</div> 
+		 
 			<!-- Blog tiles section.  Blog tiles contain teaser, category (as well as link to category page), title, date published, author(s), and description (excerpt). Future additions could be tags, number of comments, read time, etc.. -->
 <div class="blog-content">
   <div class="row">
+		<hr class="secondary"> 
     <div class="col-lg-4 col-md-4 col-sm-6">
       <!-- Image and category portion of blog tile. -->
       <a href="http://localhost:4000/personal-development/introducing-pare-and-flourish/"> <img src="http://localhost:4000/images/teasers-1080x600/introducing.jpg" class="img-responsive" alt="Introducing Pare and Flourish" /> </a>
@@ -746,80 +821,18 @@
       </a>
     </div>
   </div>
-  <hr class="secondary"> </div>
+  
+</div> 
 		
 
 	</div>
-</section> <!-- Latest blog posts. -->
-			
-		</div>
-
-		<div class="col-lg-4 col-md-4 col-sm-12"> <!-- Side panel with subscribe form. -->
-          <!-- Side panel. The side panel contains tons of information for the website. This information is a subscription form (as long as user isn't on the subscription page), links to social media and paypal (twitter, facebook, pinterest, instagram, and paypal), teaser image (if the user is on an article page), twitter feed, amazon affiliate "shop related products" section, and placeholders for ad spots. -->
-
-
-<section id="side-panel">
-  <div class="side-panel">
-    <!-- Subscription information. The subscription service we use is mail chimp. Mail chimp can be seen and managed at https://mailchimp.com/. -->
-    <div id="mc_side">
-      <form action="//pareandflourish.us14.list-manage.com/subscribe/post?u=21b3326a4d3b41c8b98c42507&amp;id=32335e5912" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-        <div id="mc_embed_signup_scroll">
-          <p class="title">Subscribe to receive a FREE cover letter template!</p>
-          <p class="text">Be the first to know about new blog posts and promotions!</p>
-          <input type="email" value="" placeholder="Email Address (required)" name="EMAIL" class="required email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
-          <input type="text" value="" placeholder="First Name" name="FNAME" class="" id="mce-FNAME" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
-          <input type="text" value="" placeholder="Last Name" name="LNAME" class="" id="mce-LNAME" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
-          <div id="mce-responses" class="clear">
-            <div class="response" id="mce-error-response" style="display:none"></div>
-            <div class="response" id="mce-success-response" style="display:none"></div>
-          </div>
-          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-          <div style="position: absolute; left: -5000px;" aria-hidden="true">
-            <input type="text" name="b_21b3326a4d3b41c8b98c42507_32335e5912" tabindex="-1" value=""> </div>
-          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"> </div>
-      </form>
-    </div>
-    <!-- Open side panel div. -->
-    <section id="social-buttons">
-      <div class="social-buttons">
-        <!-- Social media section (and paypal) -->
-        <a href="https://twitter.com/pareandflourish/" target="_blank">
-          <!-- Link to twitter (see config). Icons are from font awesome. --><span class="fa-stack fa-2x" title="See our tweets here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x twitter-color"></i></span></a>
-        <a href="http://www.pareandflourish.com/feed.xml" target="_blank">
-          <!-- Link to facebook (see config). Icons are from font awesome. --><span class="fa-stack fa-2x" title="See our RSS feed here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-rss fa-stack-1x rss-color"></i></span></a>
-        <a href="https://www.pinterest.com/pareandflourish/" target="_blank">
-          <!-- Link to pinterest (see config). Icons are from font awesome. --><span class="fa-stack fa-2x" title="See our pins here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-pinterest fa-stack-1x pinterest-color"></i></span></a>
-        <a href="https://www.instagram.com/pareandflourish/" target="_blank">
-          <!-- Link to instagram (see config). Icons are from font awesome. --><span class="fa-stack fa-2x" title="See our instagram here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-instagram fa-stack-1x instagram-color"></i></span></a>
-        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5JHZTSRZ52BZ6" target="_blank">
-          <!-- Link to paypal (see config). Icons are from font awesome. --><span class="fa-stack fa-2x" title="Click here to donate"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-paypal fa-stack-1x paypal-color"></i></span></a>
-      </div>
-    </section>
-    <!-- Teaser image that coincides with the post the user is currently visiting. The point of having this is so pinterest will pin the image we want. -->
-    <section id="twitter">
-      <!-- Twitter feed section. -->
-      <div class="twitter-section">
-        <div class="tweets"> <a class="twitter-timeline" data-lang="en" data-width="1000" data-height="500" data-theme="light" data-chrome="nofooter transparent noscrollbar" href="https://twitter.com/pareandflourish">Tweets by pareandflourish</a> </div>
-        <a href="https://twitter.com/pareandflourish/" target="_blank">
-          <h3>See more here! <i class="fa fa-twitter"></i></h3> </a>
-      </div>
-    </section>
-    <section id="amazon-native-ads">
-      <!-- Amazon native Ads. -->
-      <div class="amazon-native-ads">
-        <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=79899e6a-8c0e-41ae-88ae-544fbb5c7c2f&storeId=pareandflouri-20"></script>
-      </div>
-    </section>
-  </div>
-  <!-- Close side panel div. -->
 </section>
 
+		<!-- Latest blog posts. -->
 
-		</div>
 
-	</div>
-	
-</div> <!-- Website content. -->
+</div>
+ <!-- Website content. -->
 		
 			<!-- The footer section contains ton of information about the site. This information is: contact information (email, twitter, facebook, pinterest, github, instagram, and paypal), button that links to the subscription form page, copyright statement, amazon affiliate disclosure, and links to web designer/developer (myself xd) as well as the logo designers websites. -->
 

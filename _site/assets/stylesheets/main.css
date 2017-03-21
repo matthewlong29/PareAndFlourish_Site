@@ -5824,6 +5824,10 @@ img {
   border-radius: 5px;
   box-shadow: 2px 2px 5px #020202; }
 
+.no-gutter > [class*='col-'] {
+  padding-right: 0;
+  padding-left: 0; }
+
 .about-us {
   margin: 0;
   padding: 0; }
@@ -5940,10 +5944,6 @@ blockquote {
   background-color: #fff;
   -webkit-transition: 1s all ease;
   transition: 1s all ease; }
-  .blog-tiles h1 {
-    text-align: center; }
-  .blog-tiles p {
-    text-align: center; }
   .blog-tiles .blog-content {
     padding: 0;
     margin: 0; }
@@ -5954,15 +5954,11 @@ blockquote {
     .blog-tiles .blog-content h3 {
       font-family: 'Dancing Script', serif;
       color: black;
-      font-weight: normal;
-      margin: 0 0 1em 0; }
-      .blog-tiles .blog-content h3:hover, .blog-tiles .blog-content h3:focus {
-        font-weight: bold; }
-    .blog-tiles .blog-content h5 {
-      color: #1c1c1c;
-      margin: 0; }
+      font-weight: bold;
+      margin: 0 0 1em 0;
+      font-size: 2.25em; }
     .blog-tiles .blog-content p {
-      font-size: 1em;
+      font-size: 1.2em;
       color: #424242;
       text-align: left;
       margin: 0; }
@@ -5970,12 +5966,12 @@ blockquote {
       margin: 0;
       padding: 0;
       color: #020202;
-      font-size: 1.05em; }
+      font-size: 1.25em; }
     .blog-tiles .blog-content p.author {
       margin: 0;
       padding: 0;
       color: #020202;
-      font-size: 1.05em; }
+      font-size: 1.25em; }
     .blog-tiles .blog-content a {
       text-decoration: none;
       text-align: left; }
@@ -6260,43 +6256,28 @@ ul.banner-social-buttons {
       border: 2px solid #020202;
       border-radius: 5px;
       box-shadow: 2px 2px 5px #020202; }
-  .side-panel .social-buttons {
-    margin: 0 0 1em 0;
-    text-align: center;
-    font-size: 12px; }
-    @media only screen and (max-width: 992px) {
-      .side-panel .social-buttons {
-        display: none; } }
-    .side-panel .social-buttons a {
-      color: #020202;
-      font-size: 1em;
-      text-decoration: none; }
-      .side-panel .social-buttons a:hover {
-        border-bottom: 0px;
-        color: #fff;
-        transition: .5s; }
-    .side-panel .social-buttons .twitter-color {
-      color: #00aced; }
-    .side-panel .social-buttons .facebook-color {
-      color: #3b5998; }
-    .side-panel .social-buttons .github-color {
-      color: #171516; }
-    .side-panel .social-buttons .pinterest-color {
-      color: #bd081c; }
-    .side-panel .social-buttons .paypal-color {
-      color: #009cde; }
-    .side-panel .social-buttons .instagram-color {
-      color: #c13584; }
-    .side-panel .social-buttons .rss-color {
-      color: #f26522; }
-  .side-panel .amazon-native-ads {
-    border: 2px solid #020202;
-    margin: 0 0 1em 0;
-    padding: .35em;
-    border-radius: 5px;
-    box-shadow: 2px 2px 5px #020202; }
-  .side-panel #amzn-native-ad-0 .amzn-native-header .amzn-native-header-text {
-    font-weight: bold !important; }
+
+.social-buttons {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center; }
+  .social-buttons a {
+    color: #020202; }
+  .social-buttons .twitter-color {
+    color: #00aced; }
+  .social-buttons .facebook-color {
+    color: #3b5998; }
+  .social-buttons .github-color {
+    color: #171516; }
+  .social-buttons .pinterest-color {
+    color: #bd081c; }
+  .social-buttons .paypal-color {
+    color: #009cde; }
+  .social-buttons .instagram-color {
+    color: #c13584; }
+  .social-buttons .rss-color {
+    color: #f26522; }
 
 .sub-button {
   display: block;
