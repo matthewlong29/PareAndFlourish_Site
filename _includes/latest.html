@@ -2,12 +2,11 @@
 
 <section id="latest-blogs">
 	<div class="blog-tiles">
-
-		<h1>Latest Blogs</h1> <!-- Latest blog heading (used for homepage) -->
-		<hr class="primary">
-
-		{% for post in site.posts %}
-			{% include blog-tiles.html %}
+		
+		<!-- Latest blog heading (used for homepage) -->
+		
+		{% for post in site.posts %} 
+			{% include blog-tiles.html %} 
 		{% endfor %}
 
 	</div>
