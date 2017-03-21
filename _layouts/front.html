@@ -1,27 +1,42 @@
----
-layout: default
+--- 
+layout: default 
 ---
 
 <!-- This is the layout for the homepage. The homepage contains tiles for all the blog posts sorted from newest to oldest. -->
 
 <!-- Banner Section -->
-{% include banner.html %} <!-- Banner image as well as logo and description. -->
+
+{% include banner.html %}
+
 
 <!-- Latest Blog Post Section -->
-<div class="container"> <!-- Page container (bootstrap). -->
-       
-	<div class="row">
+<!-- Page container (bootstrap). -->
+<div class="container">
 
-		<div class="col-lg-8 col-md-8 col-sm-12">
-
-			{% include latest.html %} <!-- Latest blog posts. -->
-			
+	<div class="social-buttons">
+		<div class="row no-gutter">
+			<div class="col-sm-6">
+				<!-- Social media section -->
+				<a href="{{ site.links.twitter }}" target="_blank">
+					<span class="fa-stack fa-3x" title="See our tweets here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x twitter-color"></i></span></a>
+				<a href="{{ site.links.facebook }}" target="_blank">
+					<span class="fa-stack fa-3x" title="See our facebook here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x facebook-color"></i></span></a>
+				<a href="{{ site.links.rss }}" target="_blank">
+					<span class="fa-stack fa-3x" title="See our RSS feed here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-rss fa-stack-1x rss-color"></i></span></a>
+			</div>
+			<div class="col-sm-6">
+				<a href="{{ site.links.pinterest }}" target="_blank">
+					<span class="fa-stack fa-3x" title="See our pins here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-pinterest fa-stack-1x pinterest-color"></i></span></a>
+				<a href="{{ site.links.instagram }}" target="_blank">
+					<span class="fa-stack fa-3x" title="See our instagram here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-instagram fa-stack-1x instagram-color"></i></span></a>
+				<a href="{{ site.links.paypal }}" target="_blank">
+					<span class="fa-stack fa-3x" title="Click here to donate"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-paypal fa-stack-1x paypal-color"></i></span></a>
+			</div>
 		</div>
-
-		<div class="col-lg-4 col-md-4 col-sm-12"> <!-- Side panel with subscribe form. -->
-          {% include side-panel.html %}
-		</div>
-
 	</div>
 	
+		{% include latest.html %}
+		<!-- Latest blog posts. -->
+
+
 </div>
