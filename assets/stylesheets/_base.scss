@@ -21,3 +21,8 @@ img {
   border-radius: 5px;
   box-shadow: 2px 2px 5px #020202;
 }
+
+.no-gutter > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+}
