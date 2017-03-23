@@ -1,33 +1,28 @@
 // Bootstrap Overrides
 .container-fluid {
-	padding: 0;
-}
-
-#disqus_thread .publisher-anchor-color {
-	color: black !important;
+  padding: 0;
 }
 
 body {
-	min-height: 100%;
+  background-color: $theme-white;
 }
 
-html {
-	height: 100%;
-	min-height: 100%;
+#disqus_thread .publisher-anchor-color {
+  color: black !important;
 }
 
 disqus-link {
-	color: $theme-gray;
+  color: $theme-gray;
 }
 
 img {
-	margin: 0 auto;
-	border: 2px solid $theme-gray;
-	border-radius: 5px;
-	box-shadow: 2px 2px 5px #020202;
+  margin: 0 auto;
+  border: 2px solid $theme-gray;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px #020202;
 }
 
-.no-gutter>[class*='col-'] {
-	padding-right: 0;
-	padding-left: 0;
+.no-gutter > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
 }
