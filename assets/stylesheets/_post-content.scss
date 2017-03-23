@@ -2,8 +2,11 @@
   font-size: 1.25em;
   margin: auto;
   p {
-    line-height: 1.5em;
+    line-height: 1.75em;
   }
+	li {
+		line-height: 1.75em;
+	}
   h2 {
     font-family: $base-font-script;
     font-weight: bold;
