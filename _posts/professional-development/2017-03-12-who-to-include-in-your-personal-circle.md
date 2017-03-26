@@ -18,7 +18,7 @@ image:
   ftlarge: prof-large.jpg
   teaser: professional-circle.jpg
   vteaser: professional-circle-v.jpg
-  alt: "How to be Productive (When You’d Rather Just Go Home)"
+  alt: "Who to Include in Your Professional Circle"
 
 category: professional-development
 

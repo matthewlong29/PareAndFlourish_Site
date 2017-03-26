@@ -18,7 +18,7 @@ image:
   ftlarge: prof-large.jpg
   teaser: work-remotely.jpg
   vteaser: work-remotely-v.jpg
-  alt: "How to be Productive (When You’d Rather Just Go Home)"
+  alt: "5 Things to Consider Before Asking to Work Remotely"
 
 category: professional-development
 
@@ -83,6 +83,10 @@ Never assume your boss will deny your request to work from home. If you want to 
       </a>
 	</div>
 	<div class="col-xs-6 paginate">
+      <a href="{{site.url}}/professional-development/why-email-ruins-our-conversations/">
+        <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
+        <div class="col-xs-12 text"><h3>Why Email Ruins our Conversations</h3></div>	
+      </a>
 	</div>
 </div> <!-- close "pagination" -->
 
