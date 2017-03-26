@@ -6185,7 +6185,9 @@ ul.banner-social-buttons {
   font-size: 1.25em;
   margin: auto; }
   .post-content p {
-    line-height: 1.5em; }
+    line-height: 1.75em; }
+  .post-content li {
+    line-height: 1.75em; }
   .post-content h2 {
     font-family: "Dancing Script", serif;
     font-weight: bold;
