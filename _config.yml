@@ -22,6 +22,8 @@ team: Skylar Wooden, Katie Butler, and Matthew Long
 # Build settings
 markdown: kramdown
 
+paginator: 10
+
 # Plugin: jekyll-assets
 
 assets:
