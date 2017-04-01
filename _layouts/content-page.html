@@ -1,13 +1,15 @@
----
-layout: default
+--- 
+layout: default 
 ---
 
 <!-- This is the layout for article/blog post pages. -->
 
-{% include feature-image.html %} <!-- Feature image -->
+{% include feature-image.html %}
+<!-- Feature image -->
 
-<div class="container"> <!-- Page container (bootstrap). -->
-    
+<div class="container">
+	<!-- Page container (bootstrap). -->
+
 	<div class="row">
 
 		<div class="col-lg-8 col-md-8 col-sm-12">
@@ -15,22 +17,25 @@ layout: default
 
 				<div class="post-content">
 
-					{{ content }} <!-- Post content (written in markdown.. see "_posts"). -->
+					{{ content }}
+					<!-- Post content (written in markdown.. see "_posts"). -->
 
 				</div>
-            
-                  {% if page.comments %} <!-- Comments. Powered by disqus. -->
-                      <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="3" data-width="100%"></div>
-                  {% endif %}
 
-              
+				{% if page.comments %}
+				<!-- Comments. Powered by disqus. -->
+				<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="3" data-width="100%"></div>
+				{% endif %}
+
+
 			</div>
 		</div>
 
-		<div class="col-lg-4 col-md-4 col-sm-12"> <!-- Side panel with subscribe form. -->
-          {% include side-panel.html %}
+		<div class="col-lg-4 col-md-4 col-sm-12">
+			<!-- Side panel with subscribe form. -->
+			{% include side-panel.html %}
 		</div>
 
 	</div>
-    
+
 </div>

@@ -5,7 +5,7 @@
 		
 		<!-- Latest blog heading (used for homepage) -->
 		
-		{% for post in site.posts %} 
+		{% for post in site.posts limit: 10 %} 
 			{% include blog-tiles.html %} 
 		{% endfor %}
 
