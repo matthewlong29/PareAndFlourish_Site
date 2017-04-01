@@ -4,15 +4,10 @@
 	<div class="blog-tiles">
 		
 		<!-- Latest blog heading (used for homepage) -->
-		<div id="posts">
-			{% for post in site.posts %} 
-				{% include blog-tiles.html %} 
-			{% endfor %}
-		</div>
 		
-		<div id="pagination">
-			<a href="/page2/" class="next">next</a>
-		</div>
-		
+		{% for post in site.posts %} 
+			{% include blog-tiles.html %} 
+		{% endfor %}
+
 	</div>
 </section>
