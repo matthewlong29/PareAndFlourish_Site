@@ -3,8 +3,6 @@ layout: content-page
 
 title: "The Evolving Career of the Millennial"
 
-permalink: /evolving-career-millennial/
-
 published: Mon, 12 Dec 2016 10:00:00 EST
 
 modified: December 12, 2016
@@ -18,10 +16,6 @@ image:
   ftlarge: prof-large.jpg
   teaser: evolving-millennial.jpg
   alt: "The Evolving Career of the Millennial"
-
-category: professional-development
-
-category-title: Professional Development
 
 keywords: career, millennial, stepping stone, job, job search, opportunity
 

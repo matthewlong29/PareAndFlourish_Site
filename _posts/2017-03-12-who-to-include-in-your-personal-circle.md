@@ -3,8 +3,6 @@ layout: content-page
 
 title: "Who to Include in Your Professional Circle"
 
-permalink: /who-to-include-in-your-professional-circle/
-
 published: Sun, 12 Mar 2017 10:00:00 EST
 
 modified: March 12, 2017
@@ -19,10 +17,6 @@ image:
   teaser: professional-circle.jpg
   vteaser: professional-circle-v.jpg
   alt: "Who to Include in Your Professional Circle"
-
-category: professional-development
-
-category-title: Professional Development
 
 keywords: Networking Tips, Referral Group, What is a referral group, Professional Development
 

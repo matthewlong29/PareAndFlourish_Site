@@ -3,8 +3,6 @@ layout: content-page
 
 title: "Why Email Ruins our Conversations"
 
-permalink: /why-email-ruins-our-conversations/
-
 published: Sun, 26 Mar 2017 10:00:00 EST
 
 modified: March 26, 2017
@@ -19,10 +17,6 @@ image:
   teaser: email-ruins-conversations.jpg
   vteaser: email-ruins-conversations-v.jpg
   alt: "Why Email Ruins our Conversations"
-
-category: professional-development
-
-category-title: Professional Development
 
 keywords: Why Email Ruins Conversation, Business Email, Networking Tips, Communication Advice
 

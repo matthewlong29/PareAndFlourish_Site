@@ -3,8 +3,6 @@ layout: content-page
 
 title: "Five Ways to Purposefully Network"
 
-permalink: /five-ways-to-purposefully-network/
-
 published: Mon, 24 Oct 2016 10:00:00 EST
 
 modified: October 24, 2016
@@ -18,10 +16,6 @@ image:
   ftlarge: prof-large.jpg
   teaser: five-ways-to-network.jpg
   alt: "Five Ways to Purposefully Network"
-
-category: professional-development
-
-category-title: Professional Development
 
 keywords: networking, volunteering, conference, informational interview, Pprofessors
 

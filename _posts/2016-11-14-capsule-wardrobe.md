@@ -3,8 +3,6 @@ layout: content-page
 
 title: "Capsule Wardrobe for the Young Professional: A Beginner’s Guide"
 
-permalink: /capsule-wardrobe/
-
 published: Mon, 14 Nov 2016 10:00:00 EST
 
 modified: November 14, 2016
@@ -18,10 +16,6 @@ image:
   ftlarge: prof-large.jpg
   teaser: capsule-wardrobe.jpg
   alt: "Capsule Wardrobe for the Young Professional: A Beginner’s Guide"
-
-category: professional-development
-
-category-title: Professional Development
 
 keywords: capsule wardrobe, wardrobe, business casual
 
