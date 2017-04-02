@@ -5,23 +5,9 @@
 		
 		<!-- Latest blog heading (used for homepage) -->
 		
-		{% for post in site.posts %}
+		{% for post in site.posts limit: 10 %} 
 			{% include blog-tiles.html %} 
 		{% endfor %}
-		
-		<!-- If we have a previous page, we show a link to it -->
-<!--
-		{% if paginator.previous_page %}
-			<span class="previous"><a href="{{ paginator.previous_page_path }}">Previous</a></span>
-		{% endif %}
--->
 
-		<!-- If we have a next page, we show a link to it -->
-<!--
-		{% if paginator.next_page %}
-			<span class="next"><a href="{{ paginator.next_page_path }}">Next</a></span>
-		{% endif %}
--->
-		
 	</div>
 </section>
