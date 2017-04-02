@@ -35,6 +35,7 @@ GEM
       pathutil (>= 0.8)
       rack (> 1, < 2)
       sprockets (~> 3.3, < 3.7)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
     jekyll-sitemap (1.0.0)
@@ -70,6 +71,7 @@ DEPENDENCIES
   bundler
   jekyll
   jekyll-assets
+  jekyll-paginate
   jekyll-sitemap
   kramdown
   sass

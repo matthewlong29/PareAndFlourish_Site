@@ -3,8 +3,6 @@ layout: content-page
 
 title: "Who to Include in Your Professional Circle"
 
-permalink: /who-to-include-in-your-professional-circle/
-
 published: Sun, 12 Mar 2017 10:00:00 EST
 
 modified: March 12, 2017
@@ -100,9 +98,9 @@ Meeting and connecting with people in these specialized areas can go a long way.
       </a>
 	</div>
 	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/five-things-to-consider-before-asking-to-work-remotely/">
+      <a href="{{site.url}}/5-things-to-consider-before-asking-to-work-remotely/">
         <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>Five Things to Consider Before Asking to Work Remotely</h3></div>	
+        <div class="col-xs-12 text"><h3>5 Things to Consider Before Asking to Work Remotely</h3></div>	
       </a>
 	</div>
 </div> <!-- close "pagination" -->

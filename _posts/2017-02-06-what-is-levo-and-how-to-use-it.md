@@ -3,8 +3,6 @@ layout: content-page
 
 title: "Levo: What is it and What Can it do for You?"
 
-permalink: /what-is-levo-and-how-to-use-it/
-
 published: Mon, 06 Feb 2017 10:00:00 EST
 
 modified: February 06, 2017

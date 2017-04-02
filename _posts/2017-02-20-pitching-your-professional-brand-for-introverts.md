@@ -3,8 +3,6 @@ layout: content-page
 
 title: "Pitching Your Professional Brand: A Guide for Introverts"
 
-permalink: /pitching-your-professional-brand-for-introverts/
-
 published: Mon, 20 Feb 2017 10:00:00 EST
 
 modified: February 20, 2017

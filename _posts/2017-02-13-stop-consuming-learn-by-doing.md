@@ -3,8 +3,6 @@ layout: content-page
 
 title: "Stop Consuming: Learn by Doing!"
 
-permalink: /stop-consuming-learn-by-doing/
-
 published: Mon, 13 Feb 2017 10:00:00 EST
 
 modified: February 13, 2017

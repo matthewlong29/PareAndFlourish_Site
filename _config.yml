@@ -22,8 +22,11 @@ team: Skylar Wooden, Katie Butler, and Matthew Long
 # Build settings
 markdown: kramdown
 
-# Plugin: jekyll-assets
+# Enable Pagination
+paginate: 5
+paginate_path: "/page/:num/"
 
+# Plugin: jekyll-assets
 assets:
   sources:
     - assets/javascripts
@@ -37,6 +40,7 @@ sass:
 
 # Jekyll configuration
 gems:
+  - jekyll-paginate
   - jekyll
   - jekyll-assets
   - jekyll-sitemap

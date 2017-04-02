@@ -3,8 +3,6 @@ layout: content-page
 
 title: "Top 10 Wines on a Budget"
 
-permalink: /top-10-wines-budget/
-
 published: Wed, 23 Nov 2016 10:00:00 EST
 
 modified: November 23, 2016

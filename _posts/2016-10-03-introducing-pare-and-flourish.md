@@ -1,8 +1,6 @@
 ---
 layout: content-page
 
-permalink: /introducing-pare-and-flourish/
-
 title: "Introducing Pare and Flourish"
 
 published: Mon, 03 Oct 2016 10:00:00 EST

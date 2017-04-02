@@ -1,8 +1,6 @@
 ---
 layout: content-page
 
-permalink: /comfortable-being-uncomfortable/
-
 title: "Being Comfortable with Being Uncomfortable"
 
 published: Mon, 21 Nov 2016 10:00:00 EST

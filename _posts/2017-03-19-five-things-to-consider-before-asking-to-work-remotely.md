@@ -3,8 +3,6 @@ layout: content-page
 
 title: "Five Things to Consider Before Asking to Work Remotely"
 
-permalink: /five-things-to-consider-before-asking-to-work-remotely/
-
 published: Sun, 19 Mar 2017 10:00:00 EST
 
 modified: March 19, 2017
@@ -18,7 +16,7 @@ image:
   ftlarge: prof-large.jpg
   teaser: work-remotely.jpg
   vteaser: work-remotely-v.jpg
-  alt: "5 Things to Consider Before Asking to Work Remotely"
+  alt: "Five Things to Consider Before Asking to Work Remotely"
 
 keywords: Work from Home, How to Ask to Work From Home, How to Work from Home, Work Remotely
 

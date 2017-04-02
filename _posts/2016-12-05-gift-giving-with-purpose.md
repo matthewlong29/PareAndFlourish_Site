@@ -1,8 +1,6 @@
 ---
 layout: content-page
 
-permalink: /gift-giving-with-purpose/
-
 title: "A Guide to Gift Giving with Purpose"
 
 published: Mon, 05 Dec 2016 10:00:00 EST
