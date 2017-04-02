@@ -9,8 +9,5 @@ gem "bootstrap-sass"
 gem "jekyll"
 gem "jekyll-assets"
 gem "jekyll-sitemap"
-gem "jekyll-paginate"
 
 gem "kramdown"
-
-gem "bundler"
