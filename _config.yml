@@ -1,10 +1,7 @@
-# Welcome to Jekyll!
-
-# Site settings
 url: http://www.pareandflourish.com
 title: Pare and Flourish
 description: A professional development blog teaching you how to pitch your brand in your career. Come read the latest millennial career advice from the job search, to career development, and everything in between.
-owner: Pare and Flourish # Company name.
+owner: Pare and Flourish
 first_published: 2016-10-03
 email: contact@pareandflourish.com
 keywords: pare, flourish, authenticity, personal development, professional development
@@ -19,10 +16,7 @@ links:
 
 team: Skylar Wooden, Katie Butler, and Matthew Long
 
-# Build settings
 markdown: kramdown
-
-# Plugin: jekyll-assets
 
 assets:
   sources:
@@ -33,37 +27,10 @@ assets:
 
 sass:
     sass_dir: assets/stylesheets
-    
-# Jekyll configuration
+
 gems:
   - jekyll
   - jekyll-assets
   - jekyll-sitemap
-  
-defaults:
 
-  # Personal Development
-  - scope:
-      path: _posts/personal-development/
-      type: posts
-    values:
-      layout: content-page
-      category: posts
-      
-  # Professional Development
-  - scope:
-      path: _posts/professional-development/
-      type: posts
-    values:
-      layout: content-page
-      category: posts
-
-  # Personal Development
-  - scope:
-      path: _posts/bonus-material/
-      type: posts
-    values:
-      layout: content-page
-      category: posts
-      
 future: false
