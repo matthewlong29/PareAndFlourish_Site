@@ -11,6 +11,8 @@ author: "Skylar Wooden and Katie Butler"
 
 excerpt: "If you identify as an introvert, it can be challenging to get your name out there and pitch your brand. You have the potential to be a serious asset to an organization. Unfortunately, they won’t discover you if they can’t find you."
 
+categories: blog
+
 image:
   ftsmall: prof-small.jpg
   ftlarge: prof-large.jpg

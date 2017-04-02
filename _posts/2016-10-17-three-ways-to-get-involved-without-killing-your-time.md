@@ -11,6 +11,8 @@ author: "Skylar Wooden and Katie Butler"
 
 excerpt: "Do your best at your day job, but don’t give it all of yourself. Give back. Find out which fires generosity can ignite in your motivation."
 
+categories: blog
+
 image:
   ftsmall: prof-small.jpg
   ftlarge: prof-large.jpg

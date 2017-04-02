@@ -11,6 +11,8 @@ author: "Skylar Wooden and Katie Butler"
 
 excerpt: "Imagine your work day without email. It’s nearly impossible. How would the business run? How would people communicate? We would be on the phone or walking around the office for nearly our entire day. Email is the center of our business communication, and rightfully so. But is it sometimes too much of a good thing?"
 
+categories: blog
+
 image:
   ftsmall: prof-small.jpg
   ftlarge: prof-large.jpg

@@ -11,6 +11,8 @@ author: "Skylar Wooden and Katie Butler"
 
 excerpt: "Levo is like LinkedIn’s fun sibling. Its platform is professional at heart, while emphasizing your personal flare. Relatable. Helpful. Attractive. It’s everything you didn’t know you wanted in a professional networking site."
 
+categories: blog
+
 image:
   ftsmall: prof-small.jpg
   ftlarge: prof-large.jpg

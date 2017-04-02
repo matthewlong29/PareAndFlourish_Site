@@ -11,6 +11,8 @@ author: "Skylar Wooden and Katie Butler"
 
 excerpt: "Networking can be challenge-ing (see what we did there?). Bad jokes aside, it’s difficult to actively network. Not because the activity is difficult, but because it feels like something that should always happen organically."
 
+categories: blog
+
 image:
   ftsmall: prof-small.jpg
   ftlarge: prof-large.jpg

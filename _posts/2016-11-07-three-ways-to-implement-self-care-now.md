@@ -11,6 +11,8 @@ author: "Skylar Wooden and Katie Butler"
 
 excerpt: "When was the last time that you did nothing? Really think about that. It can be a hard concept to grasp in your vibrant professional years."
 
+categories: blog
+
 image:
   ftsmall: pers-small.jpg
   ftlarge: pers-large.jpg
