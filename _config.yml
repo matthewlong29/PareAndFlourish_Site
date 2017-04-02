@@ -24,6 +24,7 @@ markdown: kramdown
 
 # Enable Pagination
 paginate: 5
+paginate_path: "/page/:num/"
 
 # Plugin: jekyll-assets
 assets:
@@ -35,11 +36,13 @@ assets:
 
 sass:
     sass_dir: assets/stylesheets
-    
+
+
 # Jekyll configuration
 gems:
+  - jekyll-paginate
   - jekyll
   - jekyll-assets
   - jekyll-sitemap
-      
+
 future: false
