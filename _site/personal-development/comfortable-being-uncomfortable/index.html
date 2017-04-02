@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+
+<!-- This default layout basically acts as the "container" around everything for the site. By that container i'm not talking about bootstrap, but instead the opening and closing html, head, body tags. This layout will be used as the layout for other layouts. -->
+
+<html lang="en"> <!-- English language -->
+
+	<!-- The head tag contains meta data, website/page title, links to stylesheets, links to favicons, links to scrpts, as well as a couple small scripts (google analytics and google adsense). -->
+
+<head>
+    
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="p:domain_verify" content="902b7d54021d7361708728fa135c5eed" />
+
+  <!-- Pinterest Rich Pins (Article Pins) -->
+  <meta property="og:type" content="article" />
+
+  <!-- Website/Post Title -->
+  <meta property="og:title" content="Being Comfortable with Being Uncomfortable" />
+
+  <!-- Website/Post Description -->
+  <meta name="description" property="og:description" content="Humans love comfort. While it’s not always a conscious decision, we’re always looking to make an uncomfortable feeling go away. The feeling comes out of nowh..." />
+
+  <!-- Website/Post URL -->
+  <meta property="og:url" content="http://localhost:4000/personal-development/comfortable-being-uncomfortable/" />  
+
+  <!-- Site Name-->
+  <meta property="og:site_name" content="pareandflourish.com" />
+
+  <!-- Article Publish Time -->
+  <meta property="article:published_time" content="Mon, 21 Nov 2016 10:00:00 EST" />
+
+  <!-- Website/Post Authors -->
+  <meta name="author" property="article:author" content="Skylar Wooden and Katie Butler" />
+
+  <!-- Website/Post Keywords-->
+  <meta name="Keywords" property="" content="intuition, mindfulness" />
+  
+  <!-- Facebook App Moderation -->
+  <meta property="fb:app_id" content="174295113036712" />
+  
+  <!-- Website Title -->
+  <title>Being Comfortable with Being Uncomfortable</title>
+
+  <!-- Link to rss feed -->
+  <link rel="alternate" type="application/rss+xml" title="Pare and Flourish - All Posts" href="/feed.xml">
+
+  <!-- Stylesheets -->
+
+  <!-- Custom Google Fonts -->
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Dancing+Script|Open+Sans">
+
+  <!-- Font Awesome (icons) -->
+  <script src="https://use.fontawesome.com/e0e0737231.js"></script>
+
+  <!-- animate.css -->
+  <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/animate/animate.css">
+  
+  <!-- Custom CSS -->
+
+  <!-- This is the subscriber tool css link (custom css overrides can be found in subscribe.scss -->
+  <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+
+  <!-- This includes bootstrap, sass partials, navbar, and other plugins -->
+  <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/stylesheets/main.css">
+
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#fdfdfd">
+
+  <meta name="theme-color" content="#fdfdfd">
+
+  <!-- Javascript -->
+
+  <!-- jquery -->
+  <script type="text/javascript" src="http://localhost:4000/assets/javascript/vendor/jquery.js"></script>
+
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
+  
+  <script type="text/javascript" src="http://localhost:4000/assets/javascript/animate-sidebar.js"></script>
+  
+  <script type="text/javascript" src="http://localhost:4000/assets/javascript/animate-sub-button.js"></script>
+  
+  <!-- Bootstrap Core JavaScript -->
+  <script type="text/javascript" src="http://localhost:4000/assets/bootstrap/js/bootstrap.js"></script>
+
+  <!-- Navbar Collapse -->
+  <script type="text/javascript" src="http://localhost:4000/assets/javascript/navcollapse.js"></script>
+
+  <!-- Twitter widget -->
+  <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+  <!-- Subscribe Tool (mailchimp.com) -->
+  <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+
+  <script type="text/javascript" src="http://localhost:4000/assets/javascript/subscribe.js"></script>
+
+  <!-- Facebook Comments -->
+  <div id="fb-root"></div>
+  <script type="text/javascript" src="http://localhost:4000/assets/javascript/facebook-comments.js"></script>
+
+  <!-- Pinterest Button -->
+  <script async defer data-pin-hover="true" data-pin-tall="true" data-pin-save="true" src="//assets.pinterest.com/js/pinit.js"></script>
+  
+  <!-- Mailchimp Subscribe Popup -->
+  <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us14.list-manage.com","uuid":"21b3326a4d3b41c8b98c42507","lid":"32335e5912"}) })</script>
+
+  <!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-86211989-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+  <!-- Google AdSense -->
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-5907828496259396",
+    enable_page_level_ads: true
+    });
+  </script>
+
+</head> <!-- scripts, metadata, links to css pages, etc.. -->
+
+	<body id="page-top" data-target=".navbar-fixed-top"> <!-- Opening body tag. -->
+
+		<div class="container-fluid"> <!-- Fluid container (bootstrap). -->
+
+			<!-- Navigation bar. Top of the site. -->
+
+<nav class="navbar navbar-custom navbar-fixed-top" role="navigation"> <!-- Open navigation tag. -->
+  <div class="container"> <!-- Navigation bar container (bootstrap). -->
+
+    <div class="navbar-header"> <!-- Navigation home (left side). -->
+
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse"> <!-- Three bar button to open menu on small windows -->
+        <i class="fa fa-bars"></i>
+      </button>
+
+      <a class="navbar-brand" href="http://localhost:4000/"> <!-- Link to home page -->
+        <span class="light">Pare and Flourish</span>
+      </a>
+
+    </div>
+
+    <div class="collapse navbar-collapse navbar-right navbar-main-collapse"> <!-- Collect the nav links, forms, and other content for toggling (right side). -->
+
+      <ul class="nav navbar-nav">
+
+        <li> <!-- Navbar link to start here page -->
+          <a href="/start-here/"><span class="light">Start Here</span></a>
+        </li>
+
+        <li class="dropdown"> <!-- Dropdown menu containing links to prof., personal, and bonus blog pages -->
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blogs <span class="caret"></span></a>
+
+          <ul class="dropdown-menu"> <!-- Dropdown menu-->
+            <li> <!-- Link to personal development page -->
+              <a href="/personal-development/"><span class="light">Personal Development</span></a>
+            </li>
+            <li> <!-- Link to professional development page -->
+              <a href="/professional-development/"><span class="light">Professional Development</span></a>
+            </li>
+            <li> <!-- Link to bonus material page -->
+              <a href="/bonus-material/"><span class="light">Bonus</span></a>
+            </li>
+          </ul>
+
+        </li>
+
+        <li> <!-- Link to work with us page -->
+          <a href="/work-with-us/"><span class="light">Work With Us</span></a>
+        </li>
+
+        <li> <!-- Link to resources page -->
+          <a href="/resources/"><span class="light">Resources</span></a>
+        </li>
+
+        <li> <!-- Link to join page and flourish page -->
+          <a href="/join-pare-and-flourish/"><span class="light">Join Pare and Flourish</span></a>
+        </li>
+
+      </ul>
+
+    </div>
+
+  </div>
+</nav> <!-- Close navigation tag. --> <!-- Navigation bar. -->
+			
+			<!-- This is the layout for article/blog post pages. -->
+
+<!-- Feature image section. The feature images are the images that appear at the top of ever page. Except the front page. The front page image is referred to as the banner image. In the future the feature image should be different for the start here, various blog category, work with us, resources, and join us pages. -->
+   
+<section id="feature-image"> 
+  <div class="container-fluid">
+      
+       <!-- Blog posts feature image. -->
+    
+        <div class="feature-image"> <!-- Picture of image defined in front matter of each blog post. The image will almost always been that of its parent directory (personal, professional, and bonus). -->
+          <div class="feature-large">
+            <img src="http://localhost:4000/images/header/pers-large.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+          <div class="feature-small">
+            <img src="http://localhost:4000/images/header/pers-small.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+        </div>
+
+      
+
+  </div>
+</section> <!-- Feature image -->
+
+<div class="container"> <!-- Page container (bootstrap). -->
+    
+	<div class="row">
+
+		<div class="col-lg-8 col-md-8 col-sm-12">
+			<div class="medium-tb">
+
+				<div class="post-content">
+
+					<h2 id="being-comfortable-with-being-uncomfortable">Being Comfortable with Being Uncomfortable</h2>
+
+<blockquote>
+  <p>“The number-one thing that you will have to sacrifice to be great, to achieve what you are capable of, and to execute your plans, is your comfort.<br />
+<cite><a href="http://localhost:4000/resources/">The 12 Week Year by Brian P. Moran</a></cite></p>
+</blockquote>
+
+<p>Humans love comfort. While it’s not always a conscious decision, we’re always looking to make an uncomfortable feeling go away. The feeling comes out of nowhere—suddenly something feels “off.” Often, you’re not able to pinpoint the cause. It could be anything: your job or social life or relationship or physical health. Anything.</p>
+
+<p>When you’re feeling discomfort, you have two options:</p>
+
+<hr class="secondary" />
+
+<h3 id="1-settle-into-it-until-youve-adapted-and-the-feeling-has-passed">1. Settle into it until you’ve adapted and the feeling has passed:</h3>
+
+<p>The first is often the easier choice because it requires less decisiveness. But, you run the risk of continually ignoring the feeling until you’re not only comfortable, but complacent and stuck.</p>
+
+<p>Of course, we understand that life isn’t all about what you do and don’t want to do. Sometimes you have to work that job you hate because you need the money or you need the experience. If this is your case, we’re not suggesting you quit your job; however, if your intuition tells you that you should be doing something else, do something about it at whatever pace you can: apply to new jobs that pay as much/more than you make now, sign up for night classes, or volunteer in a field you’d like to be in. This same idea can be applied to anything in your life. You aren’t always in a position to make a change. Just make sure you’re working toward your change.</p>
+
+<hr class="secondary" />
+
+<h3 id="2-understand-what-the-feeling-is-telling-you-about-your-path">2. Understand what the feeling is telling you about your path:</h3>
+
+<p>The second, though, will give you time to talk to your inner self and find a solution. If you have the vague internal monologue that says “I just don’t feel right,” but don’t have a question or reason, it’s something to explore.</p>
+
+<p>Bury yourself into your feeling. Try asking yourself these questions: 
+Am I being challenged at my job? 
+Do my friends help me create a positive atmosphere? 
+Do I feel loved and appreciated in my relationship? 
+If I could do one thing, what would it be?</p>
+
+<p>If exploring this feeling within yourself isn’t enough, ask for help. Talk to your mentors, your friends, your therapist (if you have one), or anyone who might have some insight on this stage of your life. Most of all, don’t stress. You won’t find the answer immediately. Your intuition is more complex than that. Keep a lookout, though. You’ll get there.</p>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">You won&#39;t find the answer immediately. Your intuition is more complex than that. <a href="https://twitter.com/hashtag/mindfulness?src=hash">#mindfulness</a> <a href="https://twitter.com/hashtag/intuition?src=hash">#intuition</a></p>&mdash; PareandFlourish (@pareandflourish) <a href="https://twitter.com/pareandflourish/status/800752956823965696">November 21, 2016</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<hr class="secondary" />
+
+<p>We, personally, feel this discomfort often. It brought you this blog. It sent us on traveling adventures. It pushed us to volunteer, to be more vulnerable, to say “yes” more often.</p>
+
+<p>What has your discomfort inspired you to do? We’d love to see photos, if you have them! Be sure to look for our next post about being thankful during the holidays.</p>
+
+<hr class="primary" />
+
+<div class="row"> <!-- "pagination" -->
+	<div class="col-xs-6 paginate">
+			<a href="http://localhost:4000/personal-development/three-ways-to-implement-self-care-now/">
+				<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
+				<div class="col-xs-12 text"><h3>Three Ways to Implement Self-Care. Now.</h3></div>		
+			</a>
+	</div>
+	<div class="col-xs-6 paginate">
+			<a href="http://localhost:4000/personal-development/thanksgiving-over-now-what/">
+				<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
+				<div class="col-xs-12 text"><h3>Thanksgiving is Over. Now What?</h3></div>
+			</a>
+	</div>
+</div>
+<p><!-- close "pagination" --></p>
+
+<hr class="primary" />
+
+ <!-- Post content (written in markdown.. see "_posts"). -->
+
+				</div>
+            
+                   <!-- Comments. Powered by disqus. -->
+                      <div class="fb-comments" data-href="http://localhost:4000/personal-development/comfortable-being-uncomfortable/" data-numposts="3" data-width="100%"></div>
+                  
+
+              
+			</div>
+		</div>
+
+		<div class="col-lg-4 col-md-4 col-sm-12"> <!-- Side panel with subscribe form. -->
+          <!-- Side panel. The side panel contains tons of information for the website. This information is a subscription form (as long as user isn't on the subscription page), links to social media and paypal (twitter, facebook, pinterest, instagram, and paypal), teaser image (if the user is on an article page), twitter feed, amazon affiliate "shop related products" section, and placeholders for ad spots. -->
+
+
+<section id="side-panel">
+  <div class="side-panel">
+    <!-- Subscription information. The subscription service we use is mail chimp. Mail chimp can be seen and managed at https://mailchimp.com/. -->
+    <div id="mc_side">
+      <form action="//pareandflourish.us14.list-manage.com/subscribe/post?u=21b3326a4d3b41c8b98c42507&amp;id=32335e5912" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll">
+          <p class="title">Subscribe to receive a FREE cover letter template!</p>
+          <p class="text">Be the first to know about new blog posts and promotions!</p>
+          <input type="email" value="" placeholder="Email Address (required)" name="EMAIL" class="required email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+          <input type="text" value="" placeholder="First Name" name="FNAME" class="" id="mce-FNAME" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+          <input type="text" value="" placeholder="Last Name" name="LNAME" class="" id="mce-LNAME" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+          <div id="mce-responses" class="clear">
+            <div class="response" id="mce-error-response" style="display:none"></div>
+            <div class="response" id="mce-success-response" style="display:none"></div>
+          </div>
+          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+          <div style="position: absolute; left: -5000px;" aria-hidden="true">
+            <input type="text" name="b_21b3326a4d3b41c8b98c42507_32335e5912" tabindex="-1" value=""> </div>
+          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"> </div>
+      </form>
+    </div>
+    <!-- Open side panel div. -->
+    <section id="social-buttons">
+      <div class="social-buttons">
+        <!-- Social media section (and paypal) -->
+        <a href="https://twitter.com/pareandflourish/" target="_blank">
+          <!-- Link to twitter (see config). Icons are from font awesome. --><span class="fa-stack fa-2x" title="See our tweets here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x twitter-color"></i></span></a>
+        <a href="http://www.pareandflourish.com/feed.xml" target="_blank">
+          <!-- Link to facebook (see config). Icons are from font awesome. --><span class="fa-stack fa-2x" title="See our RSS feed here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-rss fa-stack-1x rss-color"></i></span></a>
+        <a href="https://www.pinterest.com/pareandflourish/" target="_blank">
+          <!-- Link to pinterest (see config). Icons are from font awesome. --><span class="fa-stack fa-2x" title="See our pins here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-pinterest fa-stack-1x pinterest-color"></i></span></a>
+        <a href="https://www.instagram.com/pareandflourish/" target="_blank">
+          <!-- Link to instagram (see config). Icons are from font awesome. --><span class="fa-stack fa-2x" title="See our instagram here"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-instagram fa-stack-1x instagram-color"></i></span></a>
+        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5JHZTSRZ52BZ6" target="_blank">
+          <!-- Link to paypal (see config). Icons are from font awesome. --><span class="fa-stack fa-2x" title="Click here to donate"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-paypal fa-stack-1x paypal-color"></i></span></a>
+      </div>
+    </section>
+    <!-- Teaser image that coincides with the post the user is currently visiting. The point of having this is so pinterest will pin the image we want. -->
+    <!-- Horizontal teaser (if there isn't a vertical teaser). -->
+    <section id="current-teaser">
+      <!-- Horizontal teaser. -->
+      <div class="current-teaser"> <img src="http://localhost:4000/images/teasers-1080x600/comfortable-uncomfortable.jpg" class="img-responsive webfeedsFeaturedVisual" alt="Being Comfortable with Being Uncomfortable" /> </div>
+    </section> 
+    <section id="twitter">
+      <!-- Twitter feed section. -->
+      <div class="twitter-section">
+        <div class="tweets"> <a class="twitter-timeline" data-lang="en" data-width="1000" data-height="500" data-theme="light" data-chrome="nofooter transparent noscrollbar" href="https://twitter.com/pareandflourish">Tweets by pareandflourish</a> </div>
+        <a href="https://twitter.com/pareandflourish/" target="_blank">
+          <h3>See more here! <i class="fa fa-twitter"></i></h3> </a>
+      </div>
+    </section>
+  </div>
+  <!-- Close side panel div. -->
+</section>
+
+
+		</div>
+
+	</div>
+    
+</div> <!-- Website content. -->
+		
+			<!-- The footer section contains ton of information about the site. This information is: contact information (email, twitter, facebook, pinterest, github, instagram, and paypal), button that links to the subscription form page, copyright statement, amazon affiliate disclosure, and links to web designer/developer (myself xd) as well as the logo designers websites. -->
+
+<section id="footer">
+	<div class="footer-section">
+
+	<div class="blank"></div> <!-- Bar/line at top of footer. -->
+	
+	<section id="footer-content"> 
+		<div class="social-section"> 
+			<div class="container"> <!-- Footer container (bootstrap) -->
+				<div class="small-t"> <!-- Open small-t (small top padding) -->
+					<div class="row"> <!-- This row contains contact info, social media links, and a button linking to subscription form page. -->
+
+						<div class="col-lg-12 col-md-12 col-sm-12"> <!-- Text indicating where and how to get in contact with us (including email). -->
+							<p>Find us on social media (shown below) or contact us by email at <a href="mailto:contact@pareandflourish.com" class="alt">contact@pareandflourish.com</a>.</p>
+						</div>
+
+						<div class="col-lg-12 col-md-12 col-sm-12"> <!-- Social Media Section (and copyright statement) -->
+
+							<a href="https://twitter.com/pareandflourish/" target="_blank"> <!-- Link to twitter (see config). Icons are from font awesome. -->
+								<span class="fa-stack fa-lg" title="See our tweets here">
+									<i class="fa fa-square-o fa-stack-2x"></i>
+									<i class="fa fa-twitter fa-stack-1x twitter-color"></i>
+								</span>
+							</a>
+
+							<a href="http://www.pareandflourish.com/feed.xml" target="_blank"> <!-- Link to rss feed (see config). Icons are from font awesome. -->
+								<span class="fa-stack fa-lg" title="See our RSS feed here">
+									<i class="fa fa-square-o fa-stack-2x"></i>
+									<i class="fa fa-rss fa-stack-1x rss-color"></i>
+								</span>
+							</a>  
+
+							<a href="https://www.facebook.com/pareandflourish/" target="_blank"> <!-- Link to facebook (see config). Icons are from font awesome. -->
+								<span class="fa-stack fa-lg" title="See our facebook here">
+									<i class="fa fa-square-o fa-stack-2x"></i>
+									<i class="fa fa-facebook fa-stack-1x facebook-color"></i>
+								</span>
+							</a>                                        
+
+							<a href="https://www.pinterest.com/pareandflourish/" target="_blank"> <!-- Link to pinterest (see config). Icons are from font awesome. -->
+								<span class="fa-stack fa-lg" title="See our pins here">
+									<i class="fa fa-square-o fa-stack-2x"></i>
+									<i class="fa fa-pinterest fa-stack-1x pinterest-color"></i>
+								</span>
+							</a>
+
+							<a href="https://github.com/mtlong29/PareAndFlourish_Site/" target="_blank"> <!-- Link to github (see config). Icons are from font awesome. -->
+								<span class="fa-stack fa-lg" title="See the source code for our site here">
+									<i class="fa fa-square-o fa-stack-2x"></i>
+									<i class="fa fa-github fa-stack-1x github-color"></i>
+								</span>
+							</a>
+
+							<a href="https://www.instagram.com/pareandflourish/" target="_blank"> <!-- Link to instagram (see config). Icons are from font awesome. -->
+								<span class="fa-stack fa-lg" title="See our instagram here">
+									<i class="fa fa-square-o fa-stack-2x"></i>
+									<i class="fa fa-instagram fa-stack-1x instagram-color"></i>
+								</span>
+							</a>
+
+							<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5JHZTSRZ52BZ6" target="_blank"> <!-- Link to paypal (see config). Icons are from font awesome. -->
+								<span class="fa-stack fa-lg" title="Click here to donate">
+									<i class="fa fa-square-o fa-stack-2x"></i>
+									<i class="fa fa-paypal fa-stack-1x paypal-color"></i>
+								</span>
+							</a>
+
+						</div> <!-- Close social media section. -->
+
+						<div class="col-lg-12 col-md-12 col-sm-12"> <!-- Subscribe button. This "button" only links to the subscribe form page. -->
+							<a href="http://localhost:4000/join-pare-and-flourish/"><div class="sub-button">Click here to subscribe!</div></a>
+						</div>
+
+					</div> <!-- Close row that contains contact info, social media links, and a button linking to subscription form page. -->
+				</div> <!-- Close small-t (top padding) -->
+
+					<div class="row"> <!-- Copyright statement. -->
+						<div class="col-lg-12 col-md-12 col-sm-12">
+							<p>&copy; Pare and Flourish, 2016. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Pare and Flourish with appropriate and specific direction to the original content. All content is created and maintained by Pare and Flourish unless otherwise indicated. All images are from Unsplash.com unless otherwise indicated.</p>
+						</div>
+					</div>
+
+					<div class="row"> <!-- Disclosure for amazon affiliate program. -->
+						<div class="col-lg-12 col-md-12 col-sm-12">
+							<p>Pare and Flourish LLC is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to pareandflourish.com.</p>
+						</div>
+					</div>
+
+				<div class="row"> <!-- Links to site and logo designers portfolio/website. -->
+					<div class="col-lg-12 col-md-12 col-sm-12">
+						<p class="alt">Site design and development by <a href="http://www.mtlong.me" class="alt" target="_blank">Matthew Long</a>. Logo design by <a href="http://www.baileegrob.com" class="alt" target="_blank">Bailee Grob</a>.</p>
+					</div>
+				</div>
+
+			</div> <!-- Close footer container (bootstrap). -->
+		</div>
+	</section> 
+
+	</div>
+</section>
+ <!-- Footer section. Containing copyright, links to social media, email, site/logo designers, affiliate disclosure. -->
+
+		</div>
+
+	</body>
+
+</html>

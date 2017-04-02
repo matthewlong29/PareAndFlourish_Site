@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<!-- This layout is the "homepage" for personal development blog posts. This is basically the same as the homepage (www.pareandflourish.com) except it only contains the tiles catagorized as personal development. -->
+
+{% include feature-image.html %} <!-- Incluide feature image. -->
+
+<div class="container"> <!-- Page container (bootstrap). -->
+        
+	<div class="row">
+
+		<div class="col-lg-8 col-md-8 col-sm-12">
+
+			<div class="medium-tb">
+
+				<div class="post-content"> <!-- Bonus material content (title, description, etc..). -->
+					{{ content }}
+				</div>
+
+				{% include personal-development.html %} <!-- Personal development blog tiles (/personal-development/). -->
+
+				<p style="text-align:center">More blogs soon to come!</p> <!-- Text that appears below the blog tiles. -->
+
+			</div>
+
+			<hr class="primary">
+
+		</div>
+
+		<div class="col-lg-4 col-md-4 col-sm-12"> <!-- Side panel with subscribe form. -->
+			{% include side-panel.html %}
+		</div>
+
+	</div>
+    
+</div>

@@ -40,30 +40,30 @@ gems:
   - jekyll-assets
   - jekyll-sitemap
   
-#defaults:
-#
-#  # Personal Development
-#  - scope:
-#      path: _posts/
-#      type: posts
-#    values:
-#      layout: content-page
-#      category: posts
-#      
-#  # Professional Development
-#  - scope:
-#      path: _posts/
-#      type: posts
-#    values:
-#      layout: content-page
-#      category: posts
-#
-#  # Personal Development
-#  - scope:
-#      path: _posts/
-#      type: posts
-#    values:
-#      layout: content-page
-#      category: posts
+defaults:
+
+  # Personal Development
+  - scope:
+      path: _posts/personal-development/
+      type: posts
+    values:
+      layout: content-page
+      category: posts
+      
+  # Professional Development
+  - scope:
+      path: _posts/professional-development/
+      type: posts
+    values:
+      layout: content-page
+      category: posts
+
+  # Personal Development
+  - scope:
+      path: _posts/bonus-material/
+      type: posts
+    values:
+      layout: content-page
+      category: posts
       
 future: false
