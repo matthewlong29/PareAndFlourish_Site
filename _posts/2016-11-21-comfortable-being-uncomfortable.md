@@ -11,6 +11,8 @@ author: "Skylar Wooden and Katie Butler"
 
 excerpt: "Humans love comfort. While it’s not always a conscious decision, we’re always looking to make an uncomfortable feeling go away. The feeling comes out of nowhere—suddenly something feels “off.”"
 
+categories: blog
+
 image:
   ftsmall: pers-small.jpg
   ftlarge: pers-large.jpg

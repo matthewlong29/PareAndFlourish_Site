@@ -11,6 +11,8 @@ author: "Skylar Wooden and Katie Butler"
 
 excerpt: "At 10AM, we’re alert and ready for anything the day throws at us. If only that feeling lasted until the last item on the to-do list was crossed off. Once 2PM rolls around, we’ve had a filling lunch, our necks are stiff from staring at the computer, and all we can think about it what to make for dinner."
 
+categories: blog
+
 image:
   ftsmall: prof-small.jpg
   ftlarge: prof-large.jpg

@@ -11,6 +11,8 @@ author: "Skylar Wooden and Katie Butler"
 
 excerpt: "Each cover letter you write is a unique conversation between you and the recruiter. No one likes to be in a boring conversation; for the same reasons, no one wants to read a boring cover letter—much less hire the person to have future conversations."
 
+categories: blog
+
 image:
   ftsmall: prof-small.jpg
   ftlarge: prof-large.jpg

@@ -11,6 +11,8 @@ author: "Skylar Wooden, Katie Butler"
 
 excerpt: "It’s no secret that the playing field is uneven. Women are seen through a different set of eyes—as if estrogen will wilt the growth of business. The author discusses the obstacles women face in a positive light, rather than presenting them as a never-ending struggle."
 
+categories: blog
+
 image:
   ftsmall: bonu-small.jpg
   ftlarge: bonu-large.jpg

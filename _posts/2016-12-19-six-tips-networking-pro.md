@@ -11,6 +11,8 @@ author: "Skylar Wooden and Katie Butler"
 
 excerpt: "Even for those of us who don’t struggle with communication, networking conversations can be a shock to the senses. Suddenly all of your personality disappears and you have no idea what to fill the silence with. You’re bombarded with thoughts of all the things you should be saying, and nothing is coming naturally."
 
+categories: blog
+
 image:
   ftsmall: prof-small.jpg
   ftlarge: prof-large.jpg
