@@ -13,7 +13,7 @@
 	color: $theme-white;
 	background-color: $theme-red;
 	font-size: 1em;
-	border-radius: 5px;
+	border-radius: 2px;
 }
 
 .navbar-custom .navbar-toggle:focus,
@@ -52,7 +52,7 @@
 	outline: none;
 	color: $theme-gray;
 	background-color: $theme-white;
-	border-radius: 5px;
+	border-radius: 2px;
 }
 
 .navbar-custom .nav li a:focus,
@@ -60,7 +60,7 @@
 	outline: none;
 	color: $theme-white;
 	background-color: $theme-red;
-	border-radius: 5px;
+	border-radius: 2px;
 }
 
 .navbar-custom .nav li.active {
@@ -73,14 +73,14 @@
 
 .navbar-custom .nav li.active a:hover {
 	color: $theme-white;
-	border-radius: 5px;
+	border-radius: 2px;
 }
 
 @media(max-width:992px) {
 	.nav>li>a {
 		padding-left: 0.5em;
 		padding-right: 0.5em;
-		border-radius: 5px;
+		border-radius: 2px;
 	}
 }
 
