@@ -16,6 +16,8 @@ links:
 
 team: Skylar Wooden, Katie Butler, and Matthew Long
 
+paginate: 5
+
 markdown: kramdown
 
 assets:
@@ -32,5 +34,6 @@ gems:
   - jekyll
   - jekyll-assets
   - jekyll-sitemap
+  - jekyll-paginate
 
 future: false

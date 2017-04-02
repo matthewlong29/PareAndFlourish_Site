@@ -3,6 +3,8 @@ layout: content-page
 
 title: "Men's Reactions to Work Like a Girl: Inequality in the Workforce"
 
+permalink: /mens-reactions-to-work-like-a-girl-inequality-in-the-workforce
+
 published: Mon, 23 Jan 2017 10:00:00 EST
 
 modified: January 23, 2017

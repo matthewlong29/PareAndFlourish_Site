@@ -3,6 +3,8 @@ layout: content-page
 
 title: "Interview Tips from an Introvert"
 
+permalink: /interview-tips-from-an-introvert
+
 published: Sun, 02 Apr 2017 10:00:00 EST
 
 modified: April 02, 2017
@@ -10,6 +12,8 @@ modified: April 02, 2017
 author: "Saxon McCullough Reynolds"
 
 excerpt: "Job interviews are scary. We can all agree on this, right? Even if you are a confident, out-going, adrenaline-junkie-masochist, the thought of preparing to be judged by strangers doesn’t exactly sound like a good time. But what if you’re the type of person who would rather text (or die) than talk on the phone? Or write five drafts of an email before hitting send? Welcome. You’ve come to the right place."
+
+categories: blog
 
 image:
   ftsmall: prof-small.jpg

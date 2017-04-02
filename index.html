@@ -1,3 +1,42 @@
----
-layout: front
----
+--- 
+layout: default 
+--- 
+
+{% include banner.html %}
+
+<div class="container">
+
+	{% include social-front.html %} 
+	<section id="latest-blogs">
+	<div class="blog-tiles">
+		
+		<!-- Latest blog heading (used for homepage) -->
+		<div id="posts">
+			{% for post in paginator.posts %} 
+				{% include blog-tiles.html %} 
+			{% endfor %}
+		</div>
+		
+	</div>
+</section>
+	
+<div class="row temp-pag">
+	<hr class="primary">
+	<div class="col-sm-4">
+		{% if paginator.previous_page %}
+			<a href="{{ paginator.previous_page_path }}"><h4>Previous</h4></a>
+		{% endif %}
+	</div>
+	<div class="col-sm-4">
+		<h4>Page: {{ paginator.page }} of {{ paginator.total_pages }}</h4>
+	</div>
+	<div class="col-sm-4">
+		{% if paginator.next_page %}
+			<a href="{{ paginator.next_page_path }}"><h4>Next</h4></a>
+		{% endif %}
+	</div>
+	<hr class="primary">
+</div>
+
+
+</div>

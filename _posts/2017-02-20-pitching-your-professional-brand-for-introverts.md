@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Pitching Your Professional Brand: A Guide for Introverts"
 
-permalink: /professional-development/pitching-your-professional-brand-for-introverts/
+permalink: /pitching-your-professional-brand-a-guide-for-introverts
 
 published: Mon, 20 Feb 2017 10:00:00 EST
 
@@ -21,10 +21,6 @@ image:
   teaser: branding-for-introverts.jpg
   vteaser: branding-for-introverts-v.jpg
   alt: "Stop Consuming: Learn by Doing!"
-
-category: professional-development
-
-category-title: Professional Development
 
 keywords: Introvert, Networking, Professional Branding
 

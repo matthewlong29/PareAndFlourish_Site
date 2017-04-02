@@ -3,6 +3,8 @@ layout: content-page
 
 title: "Capsule Wardrobe for the Young Professional: A Beginner’s Guide"
 
+permalink: /capsule-wardrobe-for-the-young-professional-a-beginners-guide
+
 published: Mon, 14 Nov 2016 10:00:00 EST
 
 modified: November 14, 2016
