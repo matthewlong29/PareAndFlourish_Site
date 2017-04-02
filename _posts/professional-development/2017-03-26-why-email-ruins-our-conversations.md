@@ -85,6 +85,10 @@ You don’t want to be stuck in a conversation about your career and realize you
       </a>
 	</div>
 	<div class="col-xs-6 paginate">
+			<a href="{{site.url}}/professional-development/interview-tips-from-an-introvert/">
+        <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
+        <div class="col-xs-12 text"><h3>Interview Tips from an Introvert</h3></div>	
+      </a>
 	</div>
 </div> <!-- close "pagination" -->
 
