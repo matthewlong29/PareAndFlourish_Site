@@ -3,6 +3,8 @@ layout: content-page
 
 title: "Levo: What is it and What Can it do for You?"
 
+permalink: /what-is-levo-and-how-to-use-it/
+
 published: Mon, 06 Feb 2017 10:00:00 EST
 
 modified: February 06, 2017
@@ -18,6 +20,10 @@ image:
   ftlarge: prof-large.jpg
   teaser: levo.jpg
   alt: "Levo: What Is It and What Can It Do for You?"
+
+category: professional-development
+
+category-title: Professional Development
 
 keywords: Levo, How to Use Levo, What is Levo, Networking Site
 

@@ -1,6 +1,8 @@
 ---
 layout: content-page
 
+permalink: /gift-giving-with-purpose/
+
 title: "A Guide to Gift Giving with Purpose"
 
 published: Mon, 05 Dec 2016 10:00:00 EST
@@ -18,6 +20,10 @@ image:
   ftlarge: pers-large.jpg
   teaser: gift-giving-purpose.jpg
   alt: "A Guide to Gift Giving with Purpose"
+
+category: personal-development
+
+category-title: Personal Development
 
 keywords: thoughtfullness, gift, giving, christmas, ideas, presents, gifts, merry christmas, happy holidays
 

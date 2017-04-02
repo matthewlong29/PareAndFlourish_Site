@@ -3,6 +3,8 @@ layout: content-page
 
 title: "What You Should Actually Do on Your Lunch Break"
 
+permalink: /what-you-should-do-on-your-lunch-break/
+
 published: Mon, 27 Feb 2017 10:00:00 EST
 
 modified: February 27, 2017
@@ -19,6 +21,10 @@ image:
   teaser: lunch-break.jpg
   vteaser: lunch-break-v.jpg
   alt: "What You Should Actually Do on Your Lunch Break"
+
+category: professional-development
+
+category-title: Professional Development
 
 keywords: lunch break activities, what to do on your lunch, self-care on lunch break
 

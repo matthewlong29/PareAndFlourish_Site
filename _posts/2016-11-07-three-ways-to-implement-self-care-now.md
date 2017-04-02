@@ -3,6 +3,8 @@ layout: content-page
 
 title: "Three Ways to Implement Self-Care. Now."
 
+permalink: /three-ways-to-implement-self-care-now/
+
 published: Mon, 07 Nov 2016 10:00:00 EST
 
 modified: November 7, 2016
@@ -18,6 +20,10 @@ image:
   ftlarge: pers-large.jpg
   teaser: self-care.jpg
   alt: "Three Ways to Implement Self-Care. Now."
+
+category: personal-development
+
+category-title: Personal Development
 
 keywords: self-care, well-being, wellbeing, selfcare
 

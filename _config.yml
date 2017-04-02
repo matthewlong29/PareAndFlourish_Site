@@ -22,10 +22,8 @@ team: Skylar Wooden, Katie Butler, and Matthew Long
 # Build settings
 markdown: kramdown
 
-# Enable Pagination
-paginate: 5
-
 # Plugin: jekyll-assets
+
 assets:
   sources:
     - assets/javascripts
@@ -41,5 +39,31 @@ gems:
   - jekyll
   - jekyll-assets
   - jekyll-sitemap
+  
+#defaults:
+#
+#  # Personal Development
+#  - scope:
+#      path: _posts/
+#      type: posts
+#    values:
+#      layout: content-page
+#      category: posts
+#      
+#  # Professional Development
+#  - scope:
+#      path: _posts/
+#      type: posts
+#    values:
+#      layout: content-page
+#      category: posts
+#
+#  # Personal Development
+#  - scope:
+#      path: _posts/
+#      type: posts
+#    values:
+#      layout: content-page
+#      category: posts
       
 future: false

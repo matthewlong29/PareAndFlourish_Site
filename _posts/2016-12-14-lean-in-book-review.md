@@ -3,6 +3,8 @@ layout: content-page
 
 title: "Review of Lean In"
 
+permalink: /review-lean-in/
+
 published: Wed, 14 Dec 2016 10:00:00 EST
 
 modified: December 14, 2016
@@ -18,6 +20,10 @@ image:
   ftlarge: bonu-large.jpg
   teaser: review-lean-in.jpg
   alt: "Review of Lean In"
+
+category: bonus-material
+
+category-title: Bonus Material
 
 keywords: equality, wage gap, Lean In, Sheryl Sandberg, afraid, networking
 

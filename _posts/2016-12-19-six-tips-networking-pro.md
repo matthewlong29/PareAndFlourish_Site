@@ -3,6 +3,8 @@ layout: content-page
 
 title: "Six Tips to Networking Like a Pro"
 
+permalink: /six-tips-networking-pro/
+
 published: Mon, 19 Dec 2016 10:00:00 EST
 
 modified: December 19, 2016
@@ -19,6 +21,10 @@ image:
   teaser: networking-tips.jpg
   vteaser: networking-tips-v.jpg
   alt: "Six Tips to Networking Like a Pro"
+
+category: professional-development
+
+category-title: Professional Development
 
 keywords: career, millennial, stepping stone, job, job search, opportunity
 

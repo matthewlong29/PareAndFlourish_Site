@@ -3,6 +3,8 @@ layout: content-page
 
 title: "Your Questions About Workplace Holidays, Answered"
 
+permalink: /questions-about-workplace-holidays/
+
 published: Wed, 30 Nov 2016 10:00:00 EST
 
 modified: November 30, 2016
@@ -18,6 +20,10 @@ image:
   ftlarge: bonu-large.jpg
   teaser: workplace-holidays.jpg
   alt: "Your Questions About Workplace Holidays, Answered"
+
+category: bonus-material
+
+category-title: Bonus Material
 
 keywords: happy holidays, professionalism, new job, tips for work, professional, holiday etiquette, workplace, coworkers, team building
 

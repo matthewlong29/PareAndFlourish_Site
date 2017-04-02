@@ -3,6 +3,8 @@ layout: content-page
 
 title: "5 Steps to Use LinkedIn Effectively"
 
+permalink: /use-linkedin-effectively/
+
 published: Mon, 16 Jan 2017 10:00:00 EST
 
 modified: January 16, 2017
@@ -19,6 +21,10 @@ image:
   teaser: use-linkedin.jpg
   vteaser: use-linkedin-v.jpg
   alt: "5 Steps to Use LinkedIn Effectively"
+
+category: professional-development
+
+category-title: Professional Development
 
 keywords: LinkedIn Tips, LinkedIn Summary Examples, LinkedIn Photo Tips, How to Use LinkedIn
 

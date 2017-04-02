@@ -3,6 +3,8 @@ layout: content-page
 
 title: "How to Write the Perfect Cover Letter"
 
+permalink: /perfect-cover-letter/
+
 published: Mon, 30 Jan 2017 10:00:00 EST
 
 modified: January 30, 2017
@@ -19,6 +21,10 @@ image:
   teaser: perfect-cover-letter.jpg
   vteaser: cover-letter-infographic.jpg
   alt: "How to Write the Perfect Cover Letter"
+
+category: professional-development
+
+category-title: Professional Development
 
 keywords: Cover Letter Tips, How to Write a Cover Letter, Job Search Tips
 

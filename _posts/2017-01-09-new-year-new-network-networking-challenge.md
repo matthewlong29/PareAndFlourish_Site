@@ -3,6 +3,8 @@ layout: content-page
 
 title: "New Year New Network: Networking Challenge"
 
+permalink: /new-year-networking-challenge/
+
 published: Mon, 09 Jan 2017 10:00:00 EST
 
 modified: January 09, 2017
@@ -19,6 +21,10 @@ image:
   teaser: networking-challenge-new-year.jpg
   vteaser: networking-challenge-infographic.jpg
   alt: "New Year New Netork: Networking Challenge"
+
+category: professional-development
+
+category-title: Professional Development
 
 keywords: networking tips, conference tips, linkedin tips, levo tips
 

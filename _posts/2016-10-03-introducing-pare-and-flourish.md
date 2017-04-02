@@ -1,6 +1,8 @@
 ---
 layout: content-page
 
+permalink: /introducing-pare-and-flourish/
+
 title: "Introducing Pare and Flourish"
 
 published: Mon, 03 Oct 2016 10:00:00 EST
@@ -18,6 +20,10 @@ image:
   ftlarge: pers-large.jpg
   teaser: introducing.jpg
   alt: "Introducing Pare and Flourish"
+
+category: personal-development
+
+category-title: Personal Development
 
 keywords: pare, flourish
 

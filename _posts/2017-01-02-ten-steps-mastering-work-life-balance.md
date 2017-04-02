@@ -3,6 +3,8 @@ layout: content-page
 
 title: "Ten Steps to Mastering Work-Life Balance"
 
+permalink: /ten-steps-mastering-work-life-balance/
+
 published: Mon, 02 Jan 2017 10:00:00 EST
 
 modified: January 02, 2017
@@ -19,6 +21,10 @@ image:
   teaser: work-life-balance.jpg
   vteaser: work-life-balance-v.jpg
   alt: "Ten Steps to Mastering Work-Life Balance"
+
+category: professional-development
+
+category-title: Professional Development
 
 keywords: Work life balance, self care methods, increase productivity, lower stress
 

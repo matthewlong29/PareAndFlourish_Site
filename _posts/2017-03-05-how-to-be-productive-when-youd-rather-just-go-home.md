@@ -3,6 +3,8 @@ layout: content-page
 
 title: "How to be Productive (When You’d Rather Just Go Home)"
 
+permalink: /how-to-be-productive-when-youd-rather-just-go-home/
+
 published: Sun, 05 Mar 2017 10:00:00 EST
 
 modified: March 05, 2017
@@ -19,6 +21,10 @@ image:
   teaser: how-to-be-productive.jpg
   vteaser: how-to-be-productive-v.jpg
   alt: "How to be Productive (When You’d Rather Just Go Home)"
+
+category: professional-development
+
+category-title: Professional Development
 
 keywords: Productivity Tips, How to be Productive, How to be Motivated
 

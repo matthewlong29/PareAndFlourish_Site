@@ -1,6 +1,8 @@
 ---
 layout: content-page
 
+permalink: /thanksgiving-over-now-what/
+
 title: "Thanksgiving is Over. Now What?"
 
 published: Mon, 28 Nov 2016 10:00:00 EST
@@ -18,6 +20,10 @@ image:
   ftlarge: pers-large.jpg
   teaser: thanksgiving-over.jpg
   alt: "Thanksgiving is Over. Now What?"
+
+category: personal-development
+
+category-title: Personal Development
 
 keywords: giving thanks, mindfulness, holidays, being thankful, thanksgiving
 

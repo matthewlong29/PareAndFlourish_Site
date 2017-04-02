@@ -3,6 +3,8 @@ layout: content-page
 
 title: "Top 10 Wines on a Budget"
 
+permalink: /top-10-wines-budget/
+
 published: Wed, 23 Nov 2016 10:00:00 EST
 
 modified: November 23, 2016
@@ -18,6 +20,10 @@ image:
   ftlarge: bonu-large.jpg
   teaser: top-ten-wines.jpg
   alt: "Top 10 Wines on a Budget"
+
+category: bonus-material
+
+category-title: Bonus Material
 
 keywords: wine, wine list, top 10 wines under 15, kentucky wine, cheap wine, wine on a budget
 
