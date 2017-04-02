@@ -11,8 +11,6 @@ author: "Skylar Wooden and Katie Butler"
 
 excerpt: "For some, working from home is the dream. For others, working from home is a necessity. Employees who decide to move cities, or states, or countries (a.k.a the real dream) must choose to do one of two things: quit their current job or convince their boss to let them work remotely."
 
-categories: blog
-
 image:
   ftsmall: prof-small.jpg
   ftlarge: prof-large.jpg

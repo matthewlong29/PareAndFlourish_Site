@@ -11,8 +11,6 @@ author: "Ash Norton"
 
 excerpt: "As I started my sophomore year of chemical engineering, I thought I had learned so much, but I hadn’t learned it in a sustainable way. Three months later, having finished my first term as a co-op student, I learned engineering lessons that I would never forget."
 
-categories: blog
-
 image:
   ftsmall: prof-small.jpg
   ftlarge: prof-large.jpg

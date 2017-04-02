@@ -11,8 +11,6 @@ author: "Skylar Wooden and Katie Butler"
 
 excerpt: "We’re all guilty of working through our lunch breaks. The intention is to get a few more things done. You tell yourself you’re getting ahead. You may be right, but in terms of your mental and physical health, you aren’t doing anyone any favors."
 
-categories: blog
-
 image:
   ftsmall: prof-small.jpg
   ftlarge: prof-large.jpg

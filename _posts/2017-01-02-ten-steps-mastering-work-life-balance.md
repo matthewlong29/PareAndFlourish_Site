@@ -11,8 +11,6 @@ author: "Skylar Wooden and Katie Butler"
 
 excerpt: "Technology allows you to work anywhere any time. Laptops, smartphones, and hotspots blur the line between work and home. We never have to be in one place at one time thanks to the internet."
 
-categories: blog
-
 image:
   ftsmall: prof-small.jpg
   ftlarge: prof-large.jpg

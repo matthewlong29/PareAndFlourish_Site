@@ -11,8 +11,6 @@ author: "Skylar Wooden and Katie Butler"
 
 excerpt: "In a time of need, you want people you can run to with your questions. It’s time to add those people to your professional circle."
 
-categories: blog
-
 image:
   ftsmall: prof-small.jpg
   ftlarge: prof-large.jpg

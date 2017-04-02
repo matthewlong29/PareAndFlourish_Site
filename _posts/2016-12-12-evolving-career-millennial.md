@@ -11,8 +11,6 @@ author: "Skylar Wooden and Katie Butler"
 
 excerpt: "As millennials, we often hear ourselves described as entitled by older generations. Do we put off an air of entitlement? Possibly so. But, it’s not entitlement they’re seeing."
 
-categories: blog
-
 image:
   ftsmall: prof-small.jpg
   ftlarge: prof-large.jpg

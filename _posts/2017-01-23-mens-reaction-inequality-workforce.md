@@ -11,8 +11,6 @@ author: "Skylar Wooden and Katie Butler"
 
 excerpt: "Women are faced with these issues subtly, and otherwise, frequently throughout their careers. Workplace sexism is terribly common for women, which begs the question: How familiar is the opposite sex with the issue?"
 
-categories: blog
-
 image:
   ftsmall: prof-small.jpg
   ftlarge: prof-large.jpg
