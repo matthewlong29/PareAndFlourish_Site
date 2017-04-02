@@ -3,6 +3,8 @@ layout: content-page
 
 title: "The Evolving Career of the Millennial"
 
+permalink: /evolving-career-millennial/
+
 published: Mon, 12 Dec 2016 10:00:00 EST
 
 modified: December 12, 2016

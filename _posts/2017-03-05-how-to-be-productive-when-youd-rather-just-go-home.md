@@ -3,6 +3,8 @@ layout: content-page
 
 title: "How to be Productive (When You’d Rather Just Go Home)"
 
+permalink: /how-to-be-productive-when-youd-rather-just-go-home/
+
 published: Sun, 05 Mar 2017 10:00:00 EST
 
 modified: March 05, 2017

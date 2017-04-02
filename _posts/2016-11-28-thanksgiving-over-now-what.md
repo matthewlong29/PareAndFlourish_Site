@@ -1,6 +1,8 @@
 ---
 layout: content-page
 
+permalink: /thanksgiving-over-now-what/
+
 title: "Thanksgiving is Over. Now What?"
 
 published: Mon, 28 Nov 2016 10:00:00 EST
