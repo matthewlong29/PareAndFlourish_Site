@@ -3,7 +3,7 @@ layout: content-page
 
 title: "New Year New Network: Networking Challenge"
 
-permalink: /new-year-new-network-networking-challenge
+permalink: /blog/new-year-new-network-networking-challenge
 
 published: Mon, 09 Jan 2017 10:00:00 EST
 

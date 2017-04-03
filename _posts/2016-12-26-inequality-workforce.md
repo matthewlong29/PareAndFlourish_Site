@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Work Like a Girl: Inequality in the Workforce"
 
-permalink: /work-like-a-girl-inequality-in-the-workforce
+permalink: /blog/work-like-a-girl-inequality-in-the-workforce
 
 published: Mon, 26 Dec 2016 10:00:00 EST
 

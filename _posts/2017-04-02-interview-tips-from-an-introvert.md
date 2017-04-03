@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Interview Tips from an Introvert"
 
-permalink: /interview-tips-from-an-introvert
+permalink: /blog/interview-tips-from-an-introvert
 
 published: Sun, 02 Apr 2017 10:00:00 EST
 

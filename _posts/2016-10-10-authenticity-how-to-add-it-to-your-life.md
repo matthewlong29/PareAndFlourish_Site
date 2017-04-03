@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Authenticity: What it Means to You"
 
-permalink: /authenticity-what-it-meanst-to-you
+permalink: /blog/authenticity-what-it-meanst-to-you
 
 published: Mon, 10 Oct 2016 10:00:00 EST
 

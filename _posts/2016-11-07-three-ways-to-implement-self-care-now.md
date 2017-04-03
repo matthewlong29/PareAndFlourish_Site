@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Three Ways to Implement Self-Care. Now."
 
-permalink: /three-ways-to-implement-self-care-now
+permalink: /blog/three-ways-to-implement-self-care-now
 
 published: Mon, 07 Nov 2016 10:00:00 EST
 

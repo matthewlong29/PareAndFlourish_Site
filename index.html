@@ -7,36 +7,56 @@ layout: default
 <div class="container">
 
 	{% include social-front.html %} 
-	<section id="latest-blogs">
-	<div class="blog-tiles">
-		
-		<!-- Latest blog heading (used for homepage) -->
-		<div id="posts">
-			{% for post in paginator.posts %} 
-				{% include blog-tiles.html %} 
-			{% endfor %}
-		</div>
-		
-	</div>
-</section>
 	
-<div class="row temp-pag">
-	<hr class="primary">
-	<div class="col-sm-4">
-		{% if paginator.previous_page %}
-			<a href="{{ paginator.previous_page_path }}"><h4>Previous</h4></a>
-		{% endif %}
-	</div>
-	<div class="col-sm-4">
-		<h4>Page: {{ paginator.page }} of {{ paginator.total_pages }}</h4>
-	</div>
-	<div class="col-sm-4">
-		{% if paginator.next_page %}
-			<a href="{{ paginator.next_page_path }}"><h4>Next</h4></a>
-		{% endif %}
-	</div>
-	<hr class="primary">
-</div>
+	{% if paginator.page %} 
+		{% assign offset = paginator.page | minus:1 | times:paginator.per_page %} 
+		{% assign currentPage = paginator.page %} 
+	{% else %} 
+		{% assign offset = 0 %} 
+		{% assign currentPage = 1 %} 
+	{% endif %}
 
+	<section id="latest-blogs">
+		<div class="blog-tiles">
+			<div id="blogContainer" class="postContainer" data-page="{{ currentPage }}" data-totalPages="{{ paginator.total_pages }}">
+				{% for post in paginator.posts %}
+					<article class="post list">
+						<div class="blog-content">
+							<div class="row">
+								<hr class="secondary">
+								<div class="col-lg-4 col-md-4 col-sm-6">
+									<a href="{{ site.url }}{{ post.url }}"> 
+										<img src="{{ site.url }}/images/teasers-1080x600/{{ post.image.teaser }}" class="img-responsive" alt="{{ post.image.alt }}" /> 
+									</a>
+								</div>
+								<div class="blog-text col-lg-8 col-md-8 col-sm-6">
+									<a href="{{ site.url }}{{ post.url }}">
+										<h3>{{ post.title }}</h3>
+										<p class="date">{{ post.modified }}</p>
+										<p class="author">Written by: {{ post.author }}</p>
+										<p class="">{{ post.excerpt }}</p>
+									</a>
+								</div>
+							</div>
+						</div>
+					</article>
+				{% endfor %}
+			</div>
+		</div>
+	</section>
+
+	{% assign postCount = site.posts | size %} 
+	{% assign postsCovered = site.paginate | plus:offset %} 
+	{% if postsCovered < postCount %} 
+		<div class="row">
+			<div class="container">
+				<button class="loadMore">Load more posts</button>
+			</div>
+		</div>
+	{% endif %}
+
+	<script>
+		$(".loadMore").click(loadMorePosts);
+	</script>
 
 </div>

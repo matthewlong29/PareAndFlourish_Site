@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Introducing Pare and Flourish"
 
-permalink: /introducing-pare-and-flourish
+permalink: /blog/introducing-pare-and-flourish
 
 published: Mon, 03 Oct 2016 10:00:00 EST
 

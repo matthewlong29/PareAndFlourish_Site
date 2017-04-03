@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Who to Include in Your Professional Circle"
 
-permalink: /who-to-include-in-your-professional-circle
+permalink: /blog/who-to-include-in-your-professional-circle
 
 published: Sun, 12 Mar 2017 10:00:00 EST
 

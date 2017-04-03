@@ -3,7 +3,7 @@ layout: content-page
 
 title: "What You Should Actually Do on Your Lunch Break"
 
-permalink: /what-you-should-actually-do-on-your-lunch-break
+permalink: /blog/what-you-should-actually-do-on-your-lunch-break
 
 published: Mon, 27 Feb 2017 10:00:00 EST
 

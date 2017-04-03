@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Being Comfortable with Being Uncomfortable"
 
-permalink: /being-comfortable-with-being-uncomfortable
+permalink: /blog/being-comfortable-with-being-uncomfortable
 
 published: Mon, 21 Nov 2016 10:00:00 EST
 

@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Six Tips to Networking Like a Pro"
 
-permalink: /six-tips-to-networking-like-a-pro
+permalink: /blog/six-tips-to-networking-like-a-pro
 
 published: Mon, 19 Dec 2016 10:00:00 EST
 

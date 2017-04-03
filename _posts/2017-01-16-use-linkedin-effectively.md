@@ -3,7 +3,7 @@ layout: content-page
 
 title: "5 Steps to Use LinkedIn Effectively"
 
-permalink: /five-steps-to-use-linkedin-effectively
+permalink: /blog/five-steps-to-use-linkedin-effectively
 
 published: Mon, 16 Jan 2017 10:00:00 EST
 

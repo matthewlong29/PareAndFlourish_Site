@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Why Email Ruins our Conversations"
 
-permalink: /why-email-ruins-our-conversations
+permalink: /blog/why-email-ruins-our-conversations
 
 published: Sun, 26 Mar 2017 10:00:00 EST
 

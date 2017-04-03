@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Your Questions About Workplace Holidays, Answered"
 
-permalink: /your-questions-about-workplace-holidays-answered
+permalink: /blog/your-questions-about-workplace-holidays-answered
 
 published: Wed, 30 Nov 2016 10:00:00 EST
 

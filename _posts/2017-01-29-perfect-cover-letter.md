@@ -3,7 +3,7 @@ layout: content-page
 
 title: "How to Write the Perfect Cover Letter"
 
-permalink: /how-to-write-the-perfect-cover-letter
+permalink: /blog/how-to-write-the-perfect-cover-letter
 
 published: Mon, 30 Jan 2017 10:00:00 EST
 

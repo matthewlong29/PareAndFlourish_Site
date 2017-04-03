@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Review of Lean In"
 
-permalink: /review-of-lean-in
+permalink: /blog/review-of-lean-in
 
 published: Wed, 14 Dec 2016 10:00:00 EST
 

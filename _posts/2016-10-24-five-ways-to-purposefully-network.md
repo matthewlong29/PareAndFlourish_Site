@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Five Ways to Purposefully Network"
 
-permalink: /five-ways-to-purposefully-network
+permalink: /blog/five-ways-to-purposefully-network
 
 published: Mon, 24 Oct 2016 10:00:00 EST
 

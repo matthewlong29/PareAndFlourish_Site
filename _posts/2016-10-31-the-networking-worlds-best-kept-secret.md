@@ -3,7 +3,7 @@ layout: content-page
 
 title: "The Networking World's Best-Kept Secret"
 
-permalink: /the-networking-worlds-best-kept-secret
+permalink: /blog/the-networking-worlds-best-kept-secret
 
 published: Mon, 31 Oct 2016 10:00:00 EST
 
