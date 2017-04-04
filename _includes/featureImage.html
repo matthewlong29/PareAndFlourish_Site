@@ -20,6 +20,17 @@
           </div>
         </div>
 
+			{% elsif page.url == "/tags/" %} <!-- Start here page feature image. -->
+
+        <div class="feature-image"> <!-- Filler image. -->
+          <div class="feature-large">
+            <img src="{{site.url}}/images/header/reso-large.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+          <div class="feature-small">
+            <img src="{{site.url}}/images/header/reso-small.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+        </div>
+		
       {% elsif page.url == "/work-with-us/" %} <!-- Work with us page feature image. -->
 
         <div class="feature-image"> <!-- Filler image. -->
