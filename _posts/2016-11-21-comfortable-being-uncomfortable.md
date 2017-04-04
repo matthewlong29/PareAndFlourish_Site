@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Being Comfortable with Being Uncomfortable"
 
-permalink: /blog/being-comfortable-with-being-uncomfortable
+permalink: /blog/being-comfortable-with-being-uncomfortable/
 
 published: Mon, 21 Nov 2016 10:00:00 EST
 
@@ -65,22 +65,3 @@ If exploring this feeling within yourself isn’t enough, ask for help. Talk to 
 We, personally, feel this discomfort often. It brought you this blog. It sent us on traveling adventures. It pushed us to volunteer, to be more vulnerable, to say “yes” more often.
 
 What has your discomfort inspired you to do? We’d love to see photos, if you have them! Be sure to look for our next post about being thankful during the holidays. 
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/personal-development/three-ways-to-implement-self-care-now/">
-				<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-				<div class="col-xs-12 text"><h3>Three Ways to Implement Self-Care. Now.</h3></div>		
-			</a>
-	</div>
-	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/personal-development/thanksgiving-over-now-what/">
-				<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-				<div class="col-xs-12 text"><h3>Thanksgiving is Over. Now What?</h3></div>
-			</a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

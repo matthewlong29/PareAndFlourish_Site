@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Authenticity: What it Means to You"
 
-permalink: /blog/authenticity-what-it-meanst-to-you
+permalink: /blog/authenticity-what-it-meanst-to-you/
 
 published: Mon, 10 Oct 2016 10:00:00 EST
 
@@ -51,22 +51,3 @@ Maybe today’s self-improvement task is reading this blog post and getting the 
 Look for our next blog about using volunteer work as an outlet while still protecting your most important asset: time.  
 
 So tell us, what goal do you want to use your time to work toward? Is it opening your own business? Going back to school? Learning something new? We’d love to hear all of your aspirations, inspiration, and motivation.
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/personal-development/introducing-pare-and-flourish/">
-				<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-				<div class="col-xs-12 text"><h3>Introducing Pare and Flourish</h3></div>		
-			</a>
-	</div>
-	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/personal-development/three-ways-to-implement-self-care-now/">
-				<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-				<div class="col-xs-12 text"><h3>Three Ways to Implement Self-Care. Now.</h3></div>
-			</a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

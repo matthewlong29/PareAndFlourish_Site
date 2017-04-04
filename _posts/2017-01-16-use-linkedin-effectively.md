@@ -3,7 +3,7 @@ layout: content-page
 
 title: "5 Steps to Use LinkedIn Effectively"
 
-permalink: /blog/five-steps-to-use-linkedin-effectively
+permalink: /blog/five-steps-to-use-linkedin-effectively/
 
 published: Mon, 16 Jan 2017 10:00:00 EST
 
@@ -66,22 +66,3 @@ Now that your LinkedIn is ready to impress, connect with everyone you know! Neve
 Building your connections is a good way to stay up to date on your industry’s latest news and events. With respect comes responsibility; now that you’ve grown your network, be mindful of the message you’re sending. Only like and share information that supports the image, or brand, you’re creating. 
 
 Spend a few minutes a day on your LinkedIn app. You’ll be surprised how quickly you start building a meaningful network of people who have relevant insight to share. Check out our Networking Challenge for other ways to expand your network. Look for our next post about men’s reactions to our most recent workplace sexism article.
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/new-year-networking-challenge/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>New Year New Network: Networking Challenge</h3></div>	
-      </a>
-	</div>
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/mens-reactions-inequality-in-workforce/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>Men's Reactions to Work Like a Girl: Inequality in the Workforce</h3></div>	
-      </a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

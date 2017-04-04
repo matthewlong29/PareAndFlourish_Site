@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Six Tips to Networking Like a Pro"
 
-permalink: /blog/six-tips-to-networking-like-a-pro
+permalink: /blog/six-tips-to-networking-like-a-pro/
 
 published: Mon, 19 Dec 2016 10:00:00 EST
 
@@ -84,22 +84,3 @@ Unfortunately some conversations are ended by one person trying to discretely wa
 <hr class="secondary">
 
 Conversations with people who are basically strangers can seem intimidating. But really, they’re just people looking to have nice conversation. Once you master these steps, you’ll be a pro. Look for our next article on being a woman in the workplace. 
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-		<a href="{{site.url}}/professional-development/evolving-career-millennial/">
-			<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-			<div class="col-xs-12 text"><h3>The Evolving Career of the Millennial</h3></div>		
-		</a>
-	</div>
-	<div class="col-xs-6 paginate">
-		<a href="{{site.url}}/professional-development/inequality-in-workforce/">
-			<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-			<div class="col-xs-12 text"><h3>Work Like a Girl: Inequality in the Workforce</h3></div>		
-		</a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

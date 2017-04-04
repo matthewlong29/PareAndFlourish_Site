@@ -3,7 +3,7 @@ layout: content-page
 
 title: "The Networking World's Best-Kept Secret"
 
-permalink: /blog/the-networking-worlds-best-kept-secret
+permalink: /blog/the-networking-worlds-best-kept-secret/
 
 published: Mon, 31 Oct 2016 10:00:00 EST
 
@@ -69,22 +69,3 @@ Here are a few example questions that will prompt a thorough answer:
 Treat the follow-up just like any interview. Thank the person for their time. Be sure to make it personal and mention something specific that resonated with you. If they know that you were grateful for their time and that you listened to what they had to offer, you’ve done well.
 
 Have you had an informational interview experience that you’d like to share? If so, comment below and let us know what you learned! Look for our next blog on the importance of self-care.
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/professional-development/five-ways-to-purposefully-network/">
-				<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-				<div class="col-xs-12 text"><h3>Five Ways to Purposefully Network</h3></div>		
-			</a>
-	</div>
-	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/professional-development/capsule-wardrobe/">
-				<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-				<div class="col-xs-12 text"><h3>Capsule Wardrobe for the Young Professional: A Beginner’s Guide</h3></div>
-			</a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

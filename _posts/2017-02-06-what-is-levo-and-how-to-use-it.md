@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Levo: What is it and What Can it do for You?"
 
-permalink: /blog/levo-what-is-it-and-what-can-it-do-for-you
+permalink: /blog/levo-what-is-it-and-what-can-it-do-for-you/
 
 published: Mon, 06 Feb 2017 10:00:00 EST
 
@@ -64,22 +64,3 @@ If you’re feeling lost, as we all do at times, there’s a guide for that too.
 <hr class="secondary">
 
 Levo allows you to easily hone in on your professional brand. The website helps you perfect your online presence in three easy steps: 1. Tell your whole story. 2. Show off who you are. 3. Get noticed by the network. Start your Levo profile. Own your brand. 
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/perfect-cover-letter/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>How to Write the Perfect Cover Letter</h3></div>	
-      </a>
-	</div>
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/stop-consuming-learn-by-doing/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>Stop Consuming: Learn by Doing!</h3></div>	
-      </a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

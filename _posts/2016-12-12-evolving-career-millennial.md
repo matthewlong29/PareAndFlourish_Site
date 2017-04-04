@@ -3,7 +3,7 @@ layout: content-page
 
 title: "The Evolving Career of the Millennial"
 
-permalink: /blog/the-evolving-career-of-the-millennial
+permalink: /blog/the-evolving-career-of-the-millennial/
 
 published: Mon, 12 Dec 2016 10:00:00 EST
 
@@ -67,22 +67,3 @@ It is more than acceptable to think about what your next step will be. You’ll 
 <hr class="secondary">
 
 It can be tough when you realize that you may not stay in your current job. You may feel like you’re hiding your search for opportunity from your friends, leadership, and coworkers. You’re not alone. It’s uncomfortable for everyone. What’s in your 5-year plan? Let us know in the comments! Lookout for our review of Sheryl Sandberg’s book Lean In: Women, Work, and the Will to Lead.
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-		<a href="{{site.url}}/professional-development/capsule-wardrobe/">
-			<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-			<div class="col-xs-12 text"><h3>Capsule Wardrobe for the Young Professional: A Beginner’s Guide</h3></div>		
-		</a>
-	</div>
-	<div class="col-xs-6 paginate">
-		<a href="{{site.url}}/professional-development/six-tips-networking-pro/">
-			<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-			<div class="col-xs-12 text"><h3>Six Tips to Networking Like a Pro</h3></div>		
-		</a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

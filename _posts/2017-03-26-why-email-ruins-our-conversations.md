@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Why Email Ruins our Conversations"
 
-permalink: /blog/why-email-ruins-our-conversations
+permalink: /blog/why-email-ruins-our-conversations/
 
 published: Sun, 26 Mar 2017 10:00:00 EST
 
@@ -70,22 +70,3 @@ Thanks to our emailing habits, we’re out of practice when it comes to talking 
 </ol>
 
 You don’t want to be stuck in a conversation about your career and realize you don’t know what to say. We’ve been there, it’s embarrassing. You can’t always craft a perfect conversation, but you can always prepare. What do you do to keep your communication skills up to par? Let us know in the comments or tweet us @pareandflourish!
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/5-things-to-consider-before-asking-to-work-remotely/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>5 Things to Consider Before Asking to Work Remotely</h3></div>	
-      </a>
-	</div>
-	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/professional-development/interview-tips-from-an-introvert/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>Interview Tips from an Introvert</h3></div>	
-      </a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

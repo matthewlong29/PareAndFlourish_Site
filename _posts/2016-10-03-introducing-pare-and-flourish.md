@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Introducing Pare and Flourish"
 
-permalink: /blog/introducing-pare-and-flourish
+permalink: /blog/introducing-pare-and-flourish/
 
 published: Mon, 03 Oct 2016 10:00:00 EST
 
@@ -46,18 +46,3 @@ In this blog, you can expect first-hand accounts of our daily life struggles, ho
 We want you, the reader, to know **it matters**. You have done something you have never done before, and each step in a direction that matters to you, matters.
 
 This is a year of firsts for us. You'll learn about plenty of our firsts in this blog. In fact, this blog is one of our big firsts for the year. We ask that you join us in our adventure. Try something new with us. If you have felt inspired by something new you’ve tried recently, we want to share that feeling of inspiration. Leave a link or an idea in the comments! 
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-	</div>
-	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/personal-development/authenticity-what-it-means-to-you/">
-				<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-				<div class="col-xs-12 text"><h3>Authenticity: What it Means to You</h3></div>
-			</a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

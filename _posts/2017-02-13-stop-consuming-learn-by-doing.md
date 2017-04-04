@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Stop Consuming: Learn by Doing!"
 
-permalink: /blog/stop-consuming-learn-by-doing
+permalink: /blog/stop-consuming-learn-by-doing/
 
 published: Mon, 13 Feb 2017 10:00:00 EST
 
@@ -118,21 +118,4 @@ Here are a couple of ways to <b>learn by doing today</b>:
   </div>
 </div>
 
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/what-is-levo-and-how-to-use-it/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>Levo: What is it and What Can it do for You?</h3></div>	
-      </a>
-	</div>
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/pitching-your-professional-brand-for-introverts/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>Pitching Your Professional Brand: A Guide for Introverts</h3></div>	
-      </a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">
+<br>

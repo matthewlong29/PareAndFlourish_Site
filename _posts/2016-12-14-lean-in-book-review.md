@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Review of Lean In"
 
-permalink: /blog/review-of-lean-in
+permalink: /blog/review-of-lean-in/
 
 published: Wed, 14 Dec 2016 10:00:00 EST
 
@@ -88,18 +88,3 @@ Not being honest will get you nowhere. If an employer asks you in a performance 
 These are the lessons that stuck with us the most. We guarantee that you’ll have your own favorite lessons. Tell us about them! Leave a comment below. We hope you buy the book! Find it on our <a href="{{site.url}}/resources/">resource page</a>. This is a list of our favorites. Any purchase from that page supports Pare and Flourish so that we can bring you more content, just like this. Look out for our next article on how to navigate networking conversations! 
 
 *We have <strong>not</strong> been paid to write this review. We feel strongly about its message and want to share it with you.
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/bonus-material/questions-about-workplace-holidays/">
-				<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-				<div class="col-xs-12 text"><h3>Your Questions About Workplace Holidays, Answered</h3></div>		
-			</a>
-	</div>
-	<div class="col-xs-6 paginate">
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

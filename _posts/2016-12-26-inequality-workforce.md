@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Work Like a Girl: Inequality in the Workforce"
 
-permalink: /blog/work-like-a-girl-inequality-in-the-workforce
+permalink: /blog/work-like-a-girl-inequality-in-the-workforce/
 
 published: Mon, 26 Dec 2016 10:00:00 EST
 
@@ -74,22 +74,3 @@ Workplace sexism is alive and well, friends. Thinking otherwise is wildly unprod
 If any of these stories hit a nerve, take a look at Sheryl Sandberg’s book <a href="http://www.pareandflourish.com/resources/">Lean In: Women, Work and the Will to Lead</a>. Sandberg has brought to light stories and facts that will shine a bright light on the sometimes dark side of women in business. If you’re looking for your next motivation to advance your career, Lean In will light a fire. Maybe you don’t have the time to devote to reading right now. You can skim our <a href="http://www.pareandflourish.com/bonus-material/review-lean-in/">review</a> of her book. 
 
 Even if it takes decades, we’ll get there. We’ll get there a hell of a lot faster if we work together. Do you have a story about workplace sexism? Tell us about it in the comments. Check out our next post on mastering work-life balance!
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-		<a href="{{site.url}}/professional-development/six-tips-networking-pro/">
-			<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-			<div class="col-xs-12 text"><h3>Six Tips to Networking Like a Pro</h3></div>		
-		</a>
-	</div>
-	<div class="col-xs-6 paginate">
-        <a href="{{site.url}}/professional-development/ten-steps-mastering-work-life-balance/">
-			<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-			<div class="col-xs-12 text"><h3>Ten Steps to Mastering Work-Life Balance</h3></div>
-		</a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

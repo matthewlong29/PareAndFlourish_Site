@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Top 10 Wines on a Budget"
 
-permalink: /blog/top-ten-wines-on-a-budget
+permalink: /blog/top-ten-wines-on-a-budget/
 
 published: Wed, 23 Nov 2016 10:00:00 EST
 
@@ -171,18 +171,3 @@ Just in time for the holidays, we’ve put together a list of our favorites (sta
 <hr class="secondary">
 
 If you find yourself surrounded by people who don't appreciate wine this holiday season, you should reevaluate your surroundings. When someone offers you a beer, you keep right on drinkin’ your pinot.
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-	</div>
-	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/bonus-material/questions-about-workplace-holidays/">
-				<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-				<div class="col-xs-12 text"><h3>Your Questions About Workplace Holidays, Answered</h3></div>
-			</a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

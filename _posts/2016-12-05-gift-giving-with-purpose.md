@@ -3,7 +3,7 @@ layout: content-page
 
 title: "A Guide to Gift Giving with Purpose"
 
-permalink: /blog/a-guide-to-gift-giving-with-purpose
+permalink: /blog/a-guide-to-gift-giving-with-purpose/
 
 published: Mon, 05 Dec 2016 10:00:00 EST
 
@@ -71,18 +71,3 @@ A book is the gift of knowledge, entertainment, and so much more. We love fictio
 <hr class="secondary">
 
 We hope we helped you set your gift giving anxiety aside! Revel in the Christmas spirit now that you’ve made progress on your gift list. Look for our next post about approaching your first job as a stepping stone. Did we miss any of your favorite gifts to give? Let us know in the comments!
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/personal-development/thanksgiving-over-now-what/">
-				<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-				<div class="col-xs-12 text"><h3>Thanksgiving is Over. Now What?</h3></div>		
-			</a>
-	</div>
-	<div class="col-xs-6 paginate">
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

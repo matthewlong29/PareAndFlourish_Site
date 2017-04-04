@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Pitching Your Professional Brand: A Guide for Introverts"
 
-permalink: /blog/pitching-your-professional-brand-a-guide-for-introverts
+permalink: /blog/pitching-your-professional-brand-a-guide-for-introverts/
 
 published: Mon, 20 Feb 2017 10:00:00 EST
 
@@ -75,22 +75,3 @@ Pitching your professional brand is never finished. You can always grow. These t
 Do you have a branding tip that works for you? Let us know in the comments! 
 
 Check out our next post on practicing self-care during your lunch breaks.
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/stop-consuming-learn-by-doing/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>Stop Consuming: Learn by Doing!</h3></div>	
-      </a>
-	</div>
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/what-you-should-do-on-your-lunch-break/">
-      <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-      <div class="col-xs-12 text"><h3>What You Should Actually Do on Your Lunch Break</h3></div>	
-      </a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

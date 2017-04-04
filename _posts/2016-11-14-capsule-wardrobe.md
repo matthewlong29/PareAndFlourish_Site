@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Capsule Wardrobe for the Young Professional: A Beginner’s Guide"
 
-permalink: /blog/capsule-wardrobe-for-the-young-professional-a-beginners-guide
+permalink: /blog/capsule-wardrobe-for-the-young-professional-a-beginners-guide/
 
 published: Mon, 14 Nov 2016 10:00:00 EST
 
@@ -99,22 +99,3 @@ Here are a few we recommend:
 * [Men's Fashion](https://www.pinterest.com/prockhold/mens-fashion/)
 
 Do you follow any pinterest boards or bloggers that you’d like to recommend? Let us know! Any services that you use? Tell us all about them. We love getting boxes in the mail! Look for our next post on listening to your intuition.
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-		<a href="{{site.url}}/professional-development/the-networking-worlds-best-kept-secret/">
-			<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-			<div class="col-xs-12 text"><h3>The Networking World's Best-Kept Secret</h3></div>		
-		</a>
-	</div>
-	<div class="col-xs-6 paginate">
-		<a href="{{site.url}}/professional-development/evolving-career-millennial/">
-			<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-			<div class="col-xs-12 text"><h3>The Evolving Career of the Millennial</h3></div>		
-		</a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

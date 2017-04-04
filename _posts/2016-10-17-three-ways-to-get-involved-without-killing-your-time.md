@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Three Ways to Get Involved Without Killing Your Time"
 
-permalink: /blog/three-ways-to-get-involved-without-killing-your-time
+permalink: /blog/three-ways-to-get-involved-without-killing-your-time/
 
 published: Mon, 17 Oct 2016 10:00:00 EST
 
@@ -68,18 +68,3 @@ Ways that we’ve added nonprofit work to our lives include volunteering to serv
 Look for our next post where we will provide some helpful tips on networking and how you can use it to your advantage. 
 
 In the meantime, what are your favorite organizations and what cause do they support? Leave a comment below and tell us how you incorporate giving back to your community into your hectic schedule. 
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-	</div>
-	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/professional-development/five-ways-to-purposefully-network/">
-				<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-				<div class="col-xs-12 text"><h3>Five Ways to Purposefully Network</h3></div>
-			</a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

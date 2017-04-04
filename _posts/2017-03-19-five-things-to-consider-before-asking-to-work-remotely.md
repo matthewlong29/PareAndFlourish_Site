@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Five Things to Consider Before Asking to Work Remotely"
 
-permalink: /blog/five-things-to-consider-before-asking-to-work-remotely
+permalink: /blog/five-things-to-consider-before-asking-to-work-remotely/
 
 published: Sun, 19 Mar 2017 10:00:00 EST
 
@@ -70,22 +70,3 @@ Once you’ve made your proposal to your boss, you will be ready to negotiate yo
 <hr class="secondary">
 
 Never assume your boss will deny your request to work from home. If you want to keep your job, your superiors will appreciate your dedication to their company. Have you ever asked a superior if you could work remotely? Was it successful? Let us know in the comments!  
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/who-to-include-in-your-professional-circle/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>Who to Include in Your Professional Circle</h3></div>	
-      </a>
-	</div>
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/why-email-ruins-our-conversations/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>Why Email Ruins our Conversations</h3></div>	
-      </a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

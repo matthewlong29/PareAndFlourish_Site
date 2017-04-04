@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Who to Include in Your Professional Circle"
 
-permalink: /blog/who-to-include-in-your-professional-circle
+permalink: /blog/who-to-include-in-your-professional-circle/
 
 published: Sun, 12 Mar 2017 10:00:00 EST
 
@@ -91,22 +91,3 @@ And then there’s your insurance agent, who is also keeping you out of legal is
 <hr class="secondary">
 
 Meeting and connecting with people in these specialized areas can go a long way. You are no longer at the mercy of customer service or overpaying for advice. Do you think we missed any? Let us know in the comments! 
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/how-to-be-productive-when-youd-rather-just-go-home/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>How to be Productive (When You’d Rather Just Go Home)</h3></div>	
-      </a>
-	</div>
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/5-things-to-consider-before-asking-to-work-remotely/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>5 Things to Consider Before Asking to Work Remotely</h3></div>	
-      </a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

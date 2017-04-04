@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Men's Reactions to Work Like a Girl: Inequality in the Workforce"
 
-permalink: /blog/mens-reactions-to-work-like-a-girl-inequality-in-the-workforce
+permalink: /blog/mens-reactions-to-work-like-a-girl-inequality-in-the-workforce/
 
 published: Mon, 23 Jan 2017 10:00:00 EST
 
@@ -80,22 +80,3 @@ It’s unfair to assume that all men are unaware of workplace inequality. So, we
 <p class="indent"><b>We need to learn to trust one another</b>. To understand that we’re all learning and growing. And stupid comments can come out but it doesn’t mean we’re completely sexist (or racist). <b>Outright sexual harassment on the other hand should be dealt with officially</b>. Our society has already decided it’s wrong. It needs to be addressed from a management and organizational level for real change to occur. <b>Sometimes it takes a sacrifice to make significant change</b>.</p>
 
 <p>We don’t have to fight sexism alone. Men who are aware of the issues are our best allies. Together, we can create work environments that are more equal. We can make sexism a more open topic, allowing women to be vocal about situations they feel uneasy about. Feminism has come so far; it just needs a steady push until we’re all on level playing fields. What do you think is the most important element of an equal workplace? Let us know in the comments or on Twitter @pareandflourish. Look for our next article on the elements of the perfect cover letter.</p>
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/use-linkedin-effectively/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>5 Steps to Use LinkedIn Effectively</h3></div>	
-      </a>
-	</div>
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/perfect-cover-letter/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>How to Write the Perfect Cover Letter</h3></div>	
-      </a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

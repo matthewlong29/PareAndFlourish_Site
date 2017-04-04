@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Ten Steps to Mastering Work-Life Balance"
 
-permalink: /blog/ten-steps-to-mastering-work-life-balance
+permalink: /blog/ten-steps-to-mastering-work-life-balance/
 
 published: Mon, 02 Jan 2017 10:00:00 EST
 
@@ -105,22 +105,3 @@ Daily rituals prepare your brain for what’s happening next. Make a work ritual
 <hr class="secondary">
 
 Work is important, but never let it drain your life. Your home life is just as important, in spite of what your employer would have you believe. Be present wherever you are. What do you do to help balance your work and home lives? Look for next week’s networking challenge to boost your new year connections! 
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-		<a href="{{site.url}}/professional-development/inequality-in-workforce/">
-			<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-			<div class="col-xs-12 text"><h3>Work Like a Girl: Inequality in the Workforce</h3></div>		
-		</a>
-	</div>
-	<div class="col-xs-6 paginate">
-        <a href="{{site.url}}/professional-development/new-year-networking-challenge/">
-            <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-            <div class="col-xs-12 text"><h3>New Year New Network: Networking Challenge</h3></div>
-        </a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

@@ -3,7 +3,7 @@ layout: content-page
 
 title: "New Year New Network: Networking Challenge"
 
-permalink: /blog/new-year-new-network-networking-challenge
+permalink: /blog/new-year-new-network-networking-challenge/
 
 published: Mon, 09 Jan 2017 10:00:00 EST
 
@@ -46,22 +46,3 @@ This year, let’s start our professional development out right. Here’s our 10
 </ol>
 
 Do you think you can complete all 10 challenges? Let us know in the comments! Check out our next post on how to get the most out of your LinkedIn account. 
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/ten-steps-mastering-work-life-balance/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>Ten Steps to Mastering Work-Life Balance</h3></div>	
-      </a>
-	</div>
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/use-linkedin-effectively/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>5 Steps to Use LinkedIn Effectively</h3></div>	
-      </a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Your Questions About Workplace Holidays, Answered"
 
-permalink: /blog/your-questions-about-workplace-holidays-answered
+permalink: /blog/your-questions-about-workplace-holidays-answered/
 
 published: Wed, 30 Nov 2016 10:00:00 EST
 
@@ -105,24 +105,3 @@ We put together a few questions we’ve encountered in the past to try to provid
 <hr class="secondary">
 
 <b>What lessons have you learned in your own workplace holiday experiences?</b>
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/bonus-material/top-10-wines-budget/">
-				<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-				<div class="col-xs-12 text"><h3>Top 10 Wines on a Budget</h3></div>		
-			</a>
-	</div>
-	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/bonus-material/review-lean-in/">
-				<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-				<div class="col-xs-12 text"><h3>Review of Lean In</h3></div>		
-			</a>
-	</div>
-	<div class="col-xs-6 paginate">
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

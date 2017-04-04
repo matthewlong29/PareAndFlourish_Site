@@ -3,7 +3,7 @@ layout: content-page
 
 title: "What You Should Actually Do on Your Lunch Break"
 
-permalink: /blog/what-you-should-actually-do-on-your-lunch-break
+permalink: /blog/what-you-should-actually-do-on-your-lunch-break/
 
 published: Mon, 27 Feb 2017 10:00:00 EST
 
@@ -58,22 +58,3 @@ Chances are, you’ve thought at least once that you’d like to have more time 
 <hr class="secondary">
 
 Take advantage of your time. Your body, mind, and spirit will thank you for taking the time to be mindful of your needs. What’s your favorite lunch break activity? Let us know in the comments. Look for our next article on how to be productive when you lose motivation.  
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/pitching-your-professional-brand-for-introverts/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>Pitching Your Professional Brand: A Guide for Introverts</h3></div>	
-      </a>
-	</div>
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/how-to-be-productive-when-youd-rather-just-go-home/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>How to be Productive (When You’d Rather Just Go Home)</h3></div>	
-      </a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

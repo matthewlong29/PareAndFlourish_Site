@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Three Ways to Implement Self-Care. Now."
 
-permalink: /blog/three-ways-to-implement-self-care-now
+permalink: /blog/three-ways-to-implement-self-care-now/
 
 published: Mon, 07 Nov 2016 10:00:00 EST
 
@@ -60,22 +60,3 @@ You need time to be alone, to reflect and let your mind wander. Sit outside with
 <hr class="secondary">
 
 Don’t let the stressors of the world blow out your candle. Spend this week trying to implement self-care at least once. What is your favorite self-care practice? Let us know in the comments! Look for our next post on building a capsule wardrobe.
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/personal-development/authenticity-what-it-means-to-you/">
-				<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-				<div class="col-xs-12 text"><h3>Authenticity: What it Means to You</h3></div>		
-			</a>
-	</div>
-	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/personal-development/comfortable-being-uncomfortable/">
-				<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-				<div class="col-xs-12 text"><h3>Being Comfortable with Being Uncomfortable</h3></div>
-			</a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

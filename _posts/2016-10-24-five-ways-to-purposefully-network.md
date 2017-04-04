@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Five Ways to Purposefully Network"
 
-permalink: /blog/five-ways-to-purposefully-network
+permalink: /blog/five-ways-to-purposefully-network/
 
 published: Mon, 24 Oct 2016 10:00:00 EST
 
@@ -67,21 +67,3 @@ Having a good relationship with your professors will only benefit you.
 As we’ve mentioned in our post [Three Ways to Get Involved Without Killing Your Time]({{site.url}}/professional-development/three-ways-to-get-involved-without-killing-your-time), volunteer work is a great resource. Pick something that you’re passionate about, show that you’re really there to make change happen, and form relationships with everyone around you. These people may become your most valuable resources. You might be working next to someone who is, or who knows, someone who can help you reach your goals. 
 
 What are some ways that you’ve found to purposefully network? Please let us know in the comments! For next week, look for our next blog on the art of the informational interview.
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/professional-development/three-ways-to-get-involved-without-killing-your-time/">
-				<div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-				<div class="col-xs-12 text"><h3>Three Ways to Get Involved Without Killing Your Time</h3></div>		
-			</a>
-	</div>
-	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/professional-development/the-networking-worlds-best-kept-secret/">
-				<div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-				<div class="col-xs-12 text"><h3>The Networking World's Best-Kept Secret</h3></div>
-			</a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

@@ -3,7 +3,7 @@ layout: content-page
 
 title: "How to Write the Perfect Cover Letter"
 
-permalink: /blog/how-to-write-the-perfect-cover-letter
+permalink: /blog/how-to-write-the-perfect-cover-letter/
 
 published: Mon, 30 Jan 2017 10:00:00 EST
 
@@ -88,22 +88,3 @@ This is not the time to discuss, at length:
 <i>My experience in the study abroad program changed my life…</i>
 
 Cover letters are the most underestimated and misunderstood job materials. We hope we’ve uncovered some of the mystery for you, but if you need some help getting the bare bones and formatting, we’ve created a [cover letter template](http://pareandflourish.com/join-pare-and-flourish/) for you. Join our community to download your template and receive weekly tips on pitching your professional brand. 
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/mens-reactions-inequality-in-workforce/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>Men's Reactions to Work Like a Girl: Inequality in the Workforce</h3></div>	
-      </a>
-	</div>
-	<div class="col-xs-6 paginate">
-			<a href="{{site.url}}/professional-development/what-is-levo-and-how-to-use-it/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>Levo: What Is It and What Can It Do for You?</h3></div>	
-      </a>
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">

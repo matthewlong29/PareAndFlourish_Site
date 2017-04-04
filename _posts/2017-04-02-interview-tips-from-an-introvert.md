@@ -3,7 +3,7 @@ layout: content-page
 
 title: "Interview Tips from an Introvert"
 
-permalink: /blog/interview-tips-from-an-introvert
+permalink: /blog/interview-tips-from-an-introvert/
 
 published: Sun, 02 Apr 2017 10:00:00 EST
 
@@ -91,18 +91,3 @@ Hi there! I am a seasoned introvert who recently climbed out of my unemployment 
 <hr class="secondary">
 
 I hope you find these tricks and tips helpful! I’ve really enjoyed reflecting on what did and did not work for me. What about you? Do you have any go-to tricks to help ease the job interview jitters? Leave a note in the comments or tweet this blog at @PareandFlourish! 
-
-<hr class="primary">
-
-<div class="row"> <!-- "pagination" -->
-	<div class="col-xs-6 paginate">
-      <a href="{{site.url}}/professional-development/why-email-ruins-our-conversations/">
-        <div class="col-xs-12 arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
-        <div class="col-xs-12 text"><h3>Why Email Ruins our Conversations</h3></div>	
-      </a>
-	</div>
-	<div class="col-xs-6 paginate">
-	</div>
-</div> <!-- close "pagination" -->
-
-<hr class="primary">
