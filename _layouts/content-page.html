@@ -4,7 +4,9 @@ layout: default
 
 <!-- This is the layout for article/blog post pages. -->
 
-{% include feature-image.html %}
+{% include featureImage.html %}
+
+{% include nav.html %}
 <!-- Feature image -->
 
 <div class="container">
@@ -21,9 +23,11 @@ layout: default
 					<!-- Post content (written in markdown.. see "_posts"). -->
 
 				</div>
-
+				
+				{% include nextOrPreviousPost.html %}
+				
 				{% if page.comments %}
-				<!-- Comments. Powered by disqus. -->
+				<!-- Comments. Powered by facebook. -->
 				<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="3" data-width="100%"></div>
 				{% endif %}
 
@@ -32,7 +36,7 @@ layout: default
 
 		<div class="col-lg-4 col-md-4 col-sm-12">
 			<!-- Side panel with subscribe form. -->
-			{% include side-panel.html %}
+			{% include sidePanel.html %}
 		</div>
 
 	</div>
