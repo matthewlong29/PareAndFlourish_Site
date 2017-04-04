@@ -22,7 +22,7 @@ image:
   vteaser: networking-tips-v.jpg
   alt: "Six Tips to Networking Like a Pro"
 
-keywords: career, millennial, stepping stone, job, job search, opportunity
+tags: career, millennial, stepping stone, job, job search, opportunity
 
 comments: true
 ---

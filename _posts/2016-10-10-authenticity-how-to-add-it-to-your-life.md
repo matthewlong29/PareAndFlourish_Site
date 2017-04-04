@@ -21,7 +21,7 @@ image:
   teaser: authenticity-what-it-means.jpg
   alt: "Authenticity: What it Means to You"
 
-keywords: authenticity
+tags: authenticity
 
 comments: true
 ---

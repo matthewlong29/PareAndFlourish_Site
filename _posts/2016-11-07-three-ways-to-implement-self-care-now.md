@@ -21,7 +21,7 @@ image:
   teaser: self-care.jpg
   alt: "Three Ways to Implement Self-Care. Now."
 
-keywords: self-care, well-being, wellbeing, selfcare
+tags: self-care, well-being, wellbeing, selfcare
 
 comments: true
 ---

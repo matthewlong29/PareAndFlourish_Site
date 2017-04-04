@@ -21,7 +21,7 @@ image:
   teaser: three-ways-involved.jpg
   alt: "Three Ways to Get Involved Without Killing Your Time"
 
-keywords: involved, time
+tags: involved, time
 
 comments: true
 ---

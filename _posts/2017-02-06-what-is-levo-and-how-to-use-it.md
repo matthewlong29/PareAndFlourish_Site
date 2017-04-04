@@ -21,7 +21,7 @@ image:
   teaser: levo.jpg
   alt: "Levo: What Is It and What Can It Do for You?"
 
-keywords: Levo, How to Use Levo, What is Levo, Networking Site
+tags: Levo, How to Use Levo, What is Levo, Networking Site
 
 comments: true
 ---

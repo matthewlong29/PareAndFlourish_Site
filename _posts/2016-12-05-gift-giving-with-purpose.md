@@ -21,7 +21,7 @@ image:
   teaser: gift-giving-purpose.jpg
   alt: "A Guide to Gift Giving with Purpose"
 
-keywords: thoughtfullness, gift, giving, christmas, ideas, presents, gifts, merry christmas, happy holidays
+tags: thoughtfullness, gift, giving, christmas, ideas, presents, gifts, merry christmas, happy holidays
 
 comments: true
 ---

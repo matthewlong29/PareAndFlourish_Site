@@ -21,7 +21,7 @@ image:
   teaser: review-lean-in.jpg
   alt: "Review of Lean In"
 
-keywords: equality, wage gap, Lean In, Sheryl Sandberg, afraid, networking
+tags: equality, wage gap, Lean In, Sheryl Sandberg, afraid, networking
 
 comments: true
 ---

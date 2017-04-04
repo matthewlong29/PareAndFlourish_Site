@@ -22,7 +22,7 @@ image:
   vteaser: inequality-workforce-v.jpg
   alt: "Work Like a Girl: Inequality in the Workforce"
 
-keywords: sexism at work, feminist business, inequality in the workforce, business women, workplace sexism, workplace inequality
+tags: sexism at work, feminist business, inequality in the workforce, business women, workplace sexism, workplace inequality
 
 comments: true
 ---

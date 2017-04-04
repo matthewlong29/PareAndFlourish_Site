@@ -21,7 +21,7 @@ image:
   teaser: introducing.jpg
   alt: "Introducing Pare and Flourish"
 
-keywords: pare, flourish
+tags: pare, flourish
 
 comments: true
 ---

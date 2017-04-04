@@ -22,7 +22,7 @@ image:
   vteaser: networking-challenge-infographic.jpg
   alt: "New Year New Netork: Networking Challenge"
 
-keywords: networking tips, conference tips, linkedin tips, levo tips
+tags: networking tips, conference tips, linkedin tips, levo tips
 
 comments: true
 ---

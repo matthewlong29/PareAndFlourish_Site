@@ -22,7 +22,7 @@ image:
   vteaser: use-linkedin-v.jpg
   alt: "5 Steps to Use LinkedIn Effectively"
 
-keywords: LinkedIn Tips, LinkedIn Summary Examples, LinkedIn Photo Tips, How to Use LinkedIn
+tags: LinkedIn Tips, LinkedIn Summary Examples, LinkedIn Photo Tips, How to Use LinkedIn
 
 comments: true
 ---

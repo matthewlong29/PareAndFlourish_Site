@@ -21,7 +21,7 @@ image:
   teaser: workplace-holidays.jpg
   alt: "Your Questions About Workplace Holidays, Answered"
 
-keywords: happy holidays, professionalism, new job, tips for work, professional, holiday etiquette, workplace, coworkers, team building
+tags: happy holidays, professionalism, new job, tips for work, professional, holiday etiquette, workplace, coworkers, team building
 
 comments: true
 ---

@@ -22,7 +22,7 @@ image:
   vteaser: cover-letter-infographic.jpg
   alt: "How to Write the Perfect Cover Letter"
 
-keywords: Cover Letter Tips, How to Write a Cover Letter, Job Search Tips
+tags: Cover Letter Tips, How to Write a Cover Letter, Job Search Tips
 
 comments: true
 ---

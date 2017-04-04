@@ -22,7 +22,7 @@ image:
   vteaser: how-to-be-productive-v.jpg
   alt: "How to be Productive (When You’d Rather Just Go Home)"
 
-keywords: Productivity Tips, How to be Productive, How to be Motivated
+tags: Productivity Tips, How to be Productive, How to be Motivated
 
 comments: true
 ---

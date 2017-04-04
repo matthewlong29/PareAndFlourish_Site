@@ -21,7 +21,7 @@ image:
   teaser: top-ten-wines.jpg
   alt: "Top 10 Wines on a Budget"
 
-keywords: wine, wine list, top 10 wines under 15, kentucky wine, cheap wine, wine on a budget
+tags: wine, wine list, top 10 wines under 15, kentucky wine, cheap wine, wine on a budget
 
 comments: true
 ---

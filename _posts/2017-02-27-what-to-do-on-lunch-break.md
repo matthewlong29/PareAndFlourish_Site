@@ -22,7 +22,7 @@ image:
   vteaser: lunch-break-v.jpg
   alt: "What You Should Actually Do on Your Lunch Break"
 
-keywords: lunch break activities, what to do on your lunch, self-care on lunch break
+tags: lunch break activities, what to do on your lunch, self-care on lunch break
 
 comments: true
 ---

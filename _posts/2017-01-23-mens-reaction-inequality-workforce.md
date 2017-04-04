@@ -21,7 +21,7 @@ image:
   teaser: mens-reaction-inequality.jpg
   alt: "Men's Reactions to Work Like a Girl: Inequality in the Workforce"
 
-keywords: Workplace Inequality, Wage Gap, Corporate Feminism, Corporate Sexism
+tags: Workplace Inequality, Wage Gap, Corporate Feminism, Corporate Sexism
 
 comments: true
 ---

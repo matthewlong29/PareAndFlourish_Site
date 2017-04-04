@@ -22,7 +22,7 @@ image:
   vteaser: introvert-interview-tips-v.jpg
   alt: "Interview Tips from an Introvert"
 
-keywords: Interview Tips for Introverts, Interview Tips, Interview Advice
+tags: Interview Tips for Introverts, Interview Tips, Interview Advice
 
 comments: true
 ---

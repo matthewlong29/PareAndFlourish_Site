@@ -21,7 +21,7 @@ image:
   teaser: networking-best-kept-secret.jpg
   alt: "The Networking World's Best-Kept Secret"
 
-keywords: networking, informational interview
+tags: networking, informational interview
 
 comments: true
 ---

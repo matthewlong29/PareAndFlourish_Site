@@ -21,7 +21,7 @@ image:
   teaser: five-ways-to-network.jpg
   alt: "Five Ways to Purposefully Network"
 
-keywords: networking, volunteering, conference, informational interview, Pprofessors
+tags: networking, volunteering, conference, informational interview, Pprofessors
 
 comments: true
 ---

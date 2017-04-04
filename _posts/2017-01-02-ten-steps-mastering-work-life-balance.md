@@ -22,7 +22,7 @@ image:
   vteaser: work-life-balance-v.jpg
   alt: "Ten Steps to Mastering Work-Life Balance"
 
-keywords: Work life balance, self care methods, increase productivity, lower stress
+tags: Work life balance, self care methods, increase productivity, lower stress
 
 comments: true
 ---

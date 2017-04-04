@@ -22,7 +22,7 @@ image:
   vteaser: learn-by-doing-v.jpg
   alt: "Stop Consuming: Learn by Doing!"
 
-keywords: Ash Norton Engineer, Learn by Doing, Young Engineer, Subject Matter Expert
+tags: Ash Norton Engineer, Learn by Doing, Young Engineer, Subject Matter Expert
 
 comments: true
 ---

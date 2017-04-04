@@ -21,7 +21,7 @@ image:
   teaser: comfortable-uncomfortable.jpg
   alt: "Being Comfortable with Being Uncomfortable"
 
-keywords: intuition, mindfulness
+tags: intuition, mindfulness
 
 comments: true
 ---
