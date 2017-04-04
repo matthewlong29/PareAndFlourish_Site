@@ -25,12 +25,8 @@
     h3 {
       font-family: 'Dancing Script', serif;
       color: darken($theme-gray, 25%);
-      font-weight: normal;
-      margin: 0 0 0 0;
-      &:hover,
-      &:focus {
-        font-weight: bold;
-      }
+      font-weight: bold;
+      margin: 0 0 1em 0;
     }
   }
 }
