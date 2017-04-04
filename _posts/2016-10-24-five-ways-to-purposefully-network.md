@@ -64,6 +64,6 @@ Professors are some of the most underrated resources. We owe everything to the t
 Having a good relationship with your professors will only benefit you. 
 <hr class="secondary">
 ### 5. Volunteer Work
-As we’ve mentioned in our post [Three Ways to Get Involved Without Killing Your Time]({{site.url}}/professional-development/three-ways-to-get-involved-without-killing-your-time), volunteer work is a great resource. Pick something that you’re passionate about, show that you’re really there to make change happen, and form relationships with everyone around you. These people may become your most valuable resources. You might be working next to someone who is, or who knows, someone who can help you reach your goals. 
+As we’ve mentioned in our post [Three Ways to Get Involved Without Killing Your Time]({{site.url}}/blog/three-ways-to-get-involved-without-killing-your-time/), volunteer work is a great resource. Pick something that you’re passionate about, show that you’re really there to make change happen, and form relationships with everyone around you. These people may become your most valuable resources. You might be working next to someone who is, or who knows, someone who can help you reach your goals. 
 
 What are some ways that you’ve found to purposefully network? Please let us know in the comments! For next week, look for our next blog on the art of the informational interview.

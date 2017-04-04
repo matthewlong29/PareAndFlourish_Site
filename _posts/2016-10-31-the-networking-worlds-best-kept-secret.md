@@ -35,7 +35,7 @@ Networking should not be a superficial way to meet as many people as possible. Y
 
 An informational interview sounds like the most boring networking tactic out there. It should really be more aptly named. Let’s go with “professional coffee date.”  
 
-In our previous post, [5 Ways to Purposefully Network]({{site.url}}//professional-development/five-ways-to-purposefully-network), this type of interview is referred to as the “networking world’s best-kept secret.” How many people have told you about their experience with an informational interview? Probably very few. For most, this is a newer concept. We’re going to talk a little about the ins and outs of the informational interview so you can boost your networking skills!
+In our previous post, [5 Ways to Purposefully Network]({{site.url}}/blog/five-ways-to-purposefully-network/), this type of interview is referred to as the “networking world’s best-kept secret.” How many people have told you about their experience with an informational interview? Probably very few. For most, this is a newer concept. We’re going to talk a little about the ins and outs of the informational interview so you can boost your networking skills!
 
 ### How to Set it Up 
 

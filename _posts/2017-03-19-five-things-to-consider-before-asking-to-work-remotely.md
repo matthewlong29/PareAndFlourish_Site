@@ -42,7 +42,7 @@ How can it be beneficial to your boss and your company? Possibly:
 <ul>
   <li>You will save time by not commuting to work. </li>
   <li>You will free up much-needed space at the office.</li>
-  <li>You will be able to create a better <a href="{{ site.url }}/professional-development/ten-steps-mastering-work-life-balance/">work-life balance</a>, which will increase your overall productivity. </li>
+  <li>You will be able to create a better <a href="{{ site.url }}/blog/ten-steps-to-mastering-work-life-balance/">work-life balance</a>, which will increase your overall productivity. </li>
 </ul>
 
 ### Prove Yourself

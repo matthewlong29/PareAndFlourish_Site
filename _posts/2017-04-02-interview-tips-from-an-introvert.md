@@ -50,7 +50,7 @@ Hi there! I am a seasoned introvert who recently climbed out of my unemployment 
 
 		<p>Please, oh, please, do not memorize a script for each question, rather, just practice hitting the key points you feel are necessary. Remember: this is a conversation, not a foreign language exam.</p>
 
-		<p>Also see: <a href="{{ site.url}}/pitching-your-professional-brand-for-introverts/">Pitching Your Professional Brand: A Guide for Introverts</a></p>
+		<p>Also see: <a href="{{ site.url}}/blog/pitching-your-professional-brand-a-guide-for-introverts/">Pitching Your Professional Brand: A Guide for Introverts</a></p>
 	</li>
 	<li>
 		<h4>Cling to the Familiar (on interview day)</h4>
