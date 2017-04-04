@@ -5831,6 +5831,9 @@ img {
 .temp-pag {
   text-align: center; }
 
+.mc-modal {
+  z-index: 8675311 !important; }
+
 .about-us {
   margin: 0;
   padding: 0; }
@@ -5845,7 +5848,7 @@ img {
 .banner-front {
   text-align: center;
   color: #fff;
-  margin: 50px auto 0 auto;
+  margin: 0 auto;
   position: relative;
   -webkit-transition: all .2s ease-in-out;
   -o-transition: all .2s ease-in-out;
@@ -5905,7 +5908,7 @@ img {
         display: none; } }
     .banner-front .banner-under p {
       color: #a6a6a6;
-      margin: 1em;
+      margin: 0em;
       font-size: 1.2em;
       -webkit-transition: all .2s ease-in-out;
       -o-transition: all .2s ease-in-out;
@@ -5982,9 +5985,6 @@ blockquote {
 
 .feature-image {
   margin: 0 auto; }
-  @media (max-width: 991px) {
-    .feature-image {
-      padding-top: 50px; } }
 
 @media (min-width: 992px) {
   .feature-small {
@@ -6076,8 +6076,9 @@ hr.secondary {
   background-color: #072879;
   z-index: 8675310;
   box-shadow: 2px 2px 5px #020202;
-  border-bottom-left-radius: 5px;
-  border-bottom-right-radius: 5px; }
+  border-radius: 0;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px; }
 
 .navbar-custom .navbar-toggle {
   color: #fff;
@@ -6187,10 +6188,8 @@ ul.banner-social-buttons {
   .paginate .text h3 {
     font-family: 'Dancing Script', serif;
     color: black;
-    font-weight: normal;
-    margin: 0 0 0 0; }
-    .paginate .text h3:hover, .paginate .text h3:focus {
-      font-weight: bold; }
+    font-weight: bold;
+    margin: 0 0 1em 0; }
 
 .post-content {
   font-size: 1.25em;

@@ -4,7 +4,7 @@
 
 <html lang="en"> <!-- English language -->
 
-	<!-- The head tag contains meta data, website/page title, links to stylesheets, links to favicons, links to scrpts, as well as a couple small scripts (google analytics and google adsense). -->
+<!-- The head tag contains meta data, website/page title, links to stylesheets, links to favicons, links to scrpts, as well as a couple small scripts (google analytics and google adsense). -->
 
 <head>
     
@@ -74,15 +74,36 @@
   <!-- Website Title -->
   <title>Pare and Flourish</title>
 
-</head> <!-- scripts, metadata, links to css pages, etc.. -->
+</head>
 
 	<body id="page-top" data-target=".navbar-fixed-top"> <!-- Opening body tag. -->
 
 		<div class="container-fluid"> <!-- Fluid container (bootstrap). -->
 
-			<!-- Navigation bar. Top of the site. -->
+			<!-- This is the layout for article/blog post pages. -->
 
-<nav class="navbar navbar-custom navbar-fixed-top" role="navigation"> <!-- Open navigation tag. -->
+<!-- Feature image section. The feature images are the images that appear at the top of ever page. Except the front page. The front page image is referred to as the banner image. In the future the feature image should be different for the start here, various blog category, work with us, resources, and join us pages. -->
+   
+<section id="feature-image"> 
+  <div class="container-fluid">
+      
+       <!-- Work with us page feature image. -->
+
+        <div class="feature-image"> <!-- Filler image. -->
+          <div class="feature-large">
+            <img src="http://localhost:4000/images/header/work-large.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+          <div class="feature-small">
+            <img src="http://localhost:4000/images/header/work-small.jpg" class="img-responsive" data-pin-nopin="true">
+          </div>
+        </div>
+
+      
+
+  </div>
+</section>
+
+<nav class="navbar navbar-custom" role="navigation"> <!-- Open navigation tag. -->
   <div class="container"> <!-- Navigation bar container (bootstrap). -->
 
     <div class="navbar-header"> <!-- Navigation home (left side). -->
@@ -122,30 +143,7 @@
     </div>
 
   </div>
-</nav> <!-- Close navigation tag. --> <!-- Navigation bar. -->
-			
-			<!-- This is the layout for article/blog post pages. -->
-
-<!-- Feature image section. The feature images are the images that appear at the top of ever page. Except the front page. The front page image is referred to as the banner image. In the future the feature image should be different for the start here, various blog category, work with us, resources, and join us pages. -->
-   
-<section id="feature-image"> 
-  <div class="container-fluid">
-      
-       <!-- Work with us page feature image. -->
-
-        <div class="feature-image"> <!-- Filler image. -->
-          <div class="feature-large">
-            <img src="http://localhost:4000/images/header/work-large.jpg" class="img-responsive" data-pin-nopin="true">
-          </div>
-          <div class="feature-small">
-            <img src="http://localhost:4000/images/header/work-small.jpg" class="img-responsive" data-pin-nopin="true">
-          </div>
-        </div>
-
-      
-
-  </div>
-</section>
+</nav> <!-- Close navigation tag. -->
 <!-- Feature image -->
 
 <div class="container">
@@ -213,7 +211,18 @@
 					<!-- Post content (written in markdown.. see "_posts"). -->
 
 				</div>
+				
+				<hr class="primary">
 
+<div class="row">
+
+	 
+
+</div>
+
+<hr class="primary">
+
+				
 				
 
 			</div>
@@ -399,6 +408,8 @@
   <script type="text/javascript" src="http://localhost:4000/assets/javascript/animate-sub-button.js"></script>
 	
 	<script type="text/javascript" src="http://localhost:4000/assets/javascript/loadmore.js"></script>
+	
+	<script type="text/javascript" src="http://localhost:4000/assets/javascript/stickynav.js"></script>
   
   <!-- Bootstrap Core JavaScript -->
   <script type="text/javascript" src="http://localhost:4000/assets/bootstrap/js/bootstrap.js"></script>
