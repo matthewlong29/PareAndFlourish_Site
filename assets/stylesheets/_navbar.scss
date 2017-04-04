@@ -5,8 +5,9 @@
 	background-color: $theme-red;
 	z-index: 8675310;
 	box-shadow: 2px 2px 5px $theme-gray;
-	border-bottom-left-radius: 5px;
-	border-bottom-right-radius: 5px;
+	border-radius: 0;
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 2px;
 }
 
 .navbar-custom .navbar-toggle {
