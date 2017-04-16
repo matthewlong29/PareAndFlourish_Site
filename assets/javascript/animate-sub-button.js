@@ -4,4 +4,4 @@
 $(document).ready(function () {
   "use strict";
   $(".sub-button").addClass("animated bounce");
-})();
+});
