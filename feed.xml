@@ -32,6 +32,7 @@ layout: null
         <description>
           <![CDATA[
             <img src="{{ site.url }}/images/teasers-1080x600/{{ post.image.teaser }}">
+						<br>
             {{ post.excerpt | xml_escape }}
           ]]>
         </description>
