@@ -56,6 +56,8 @@ Hi there! I am a seasoned introvert who recently climbed out of my unemployment 
 		<h4>Cling to the Familiar (on interview day)</h4>
 
 		<p>Generally, I would say resisting change is a negative thing. Change is uncomfortable but necessary; that is, except for the day of an interview. Daily routines create a sense of control and stability and promote feelings of peace and confidence. Don’t skimp out on your daily bagel because you have butterflies in your stomach. Don’t set an alarm for two hours earlier than usual to get a head start on the day. You are smart and capable on any given day, no need to modify what already works for you.</p>
+		
+		<p>Jacob Merkley, author of Power Over Life, teaches us about building confidence and believing in yourself.* View his article <a href="https://www.poweroverlife.com/build-confidence-self-esteem-tips-quotes/" target="_blank">here</a>.</p>
 	</li>
 	<li>
 		<h4>Dress…like you!</h4>
@@ -89,5 +91,7 @@ Hi there! I am a seasoned introvert who recently climbed out of my unemployment 
 </ol>
 
 <hr class="secondary">
+
+*This resource was added by the authors of Pare and Flourish, not by the author of this article.
 
 I hope you find these tricks and tips helpful! I’ve really enjoyed reflecting on what did and did not work for me. What about you? Do you have any go-to tricks to help ease the job interview jitters? Leave a note in the comments or tweet this blog at @PareandFlourish! 
