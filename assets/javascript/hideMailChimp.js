@@ -1,5 +1,5 @@
 $(document).ready(function () {
-	$("body").on("click", function () {
+	$("body").on("touchstart click", function () {
 		$("#PopupSignupForm_0").hide();
 	});
 });
