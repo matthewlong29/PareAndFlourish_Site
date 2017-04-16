@@ -27,7 +27,7 @@ tags: Functional Resume, Functional Resume Template, How to Write a Functional R
 comments: true
 ---
 
-## Millennial Professional Pt.1: Why a “Functional Resume” Will Land you an Interview
+## Millennial Professional Pt. 1: Why a “Functional Resume” Will Land you an Interview
 
 Let us introduce you to the three-part Millennial Professional series. In this series, we will cover the resume, interview, and interview follow-up portions of your job search. First, Why a “Functional Resume” Will Land you an Interview!
 
