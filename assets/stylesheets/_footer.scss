@@ -1,62 +1,62 @@
 .social-section {
-  min-height: 7.5vh;
-  background-color: transparentize($theme-gray, 0.15);
-  text-align: center;
-  border-radius: 2px;
-  box-shadow: 2px 2px 5px $theme-gray;
-  p {
-    color: darken($theme-white, 35%);
-    font-size: .9em;
-  }
-  p.alt {
-    margin-top: 0;
-    padding-top: 0;
-  }
-  a {
-    color: darken($theme-white, 35%);
-    font-size: 1em;
-    text-decoration: none;
-    &:hover {
-      border-bottom: 0px;
-      color: $theme-white;
-      transition: .5s;
-    }
-  }
-  a.alt {
-    border-bottom: 1px dotted;
-  }
-  .sub-button {
-    -webkit-transition: 1s all ease;
-    transition: 1s all ease;
-    border: 1px dotted $theme-gray;
-    background-color: $theme-red;
-    margin: 1em auto 0 auto;
-    &:hover,
-    &:focus {
-      border: 1px solid darken($theme-gray, 25%);
-      background-color: lighten($theme-red, 15%);
-      transition: .5s;
-    }
-  }
-  .twitter-color {
-    color: $twitter-color;
-  }
-  .facebook-color {
-    color: $facebook-color;
-  }
-  .github-color {
-    color: $github-color;
-  }
-  .pinterest-color {
-    color: $pinterest-color;
-  }
-  .paypal-color {
-    color: $paypal-color;
-  }
-  .instagram-color {
-    color: $instagram-color;
-  }
-  .rss-color {
-    color: $rss-color;
-  }
+	min-height: 7.5vh;
+	background-color: transparentize($theme-gray, 0.15);
+	text-align: center;
+	border-radius: 2px;
+	box-shadow: 2px 2px 5px $theme-gray;
+	p {
+		color: darken($theme-white, 35%);
+		font-size: .9em;
+	}
+	p.alt {
+		margin-top: 0;
+		padding-top: 0;
+	}
+	a {
+		color: darken($theme-white, 35%);
+		font-size: 1em;
+		text-decoration: none;
+		&:hover {
+			border-bottom: 0px;
+			color: $theme-white;
+			transition: .5s;
+		}
+	}
+	a.alt {
+		border-bottom: 1px dotted;
+	}
+	.sub-button {
+		-webkit-transition: 1s all ease;
+		transition: 1s all ease;
+		border: 1px dotted $theme-gray;
+		background-color: $theme-red;
+		margin: 1em auto 0 auto;
+		&:hover,
+		&:focus {
+			border: 1px solid darken($theme-gray, 25%);
+			background-color: lighten($theme-red, 15%);
+			transition: .5s;
+		}
+	}
+	.twitter-color {
+		color: $twitter-color;
+	}
+	.facebook-color {
+		color: $facebook-color;
+	}
+	.github-color {
+		color: $github-color;
+	}
+	.pinterest-color {
+		color: $pinterest-color;
+	}
+	.paypal-color {
+		color: $paypal-color;
+	}
+	.instagram-color {
+		color: $instagram-color;
+	}
+	.rss-color {
+		color: $rss-color;
+	}
 }

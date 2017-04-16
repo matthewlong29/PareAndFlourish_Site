@@ -3,99 +3,119 @@
 <section id="footer">
 	<div class="footer-section">
 
-	<div class="blank"></div> <!-- Bar/line at top of footer. -->
-	
-	<section id="footer-content"> 
-		<div class="social-section"> 
-			<div class="container"> <!-- Footer container (bootstrap) -->
-				<div class="small-t"> <!-- Open small-t (small top padding) -->
-					<div class="row"> <!-- This row contains contact info, social media links, and a button linking to subscription form page. -->
+		<section id="footer-content">
+			<div class="social-section">
+				<div class="container">
+					<!-- Footer container (bootstrap) -->
+					<div class="small-t">
+						<!-- Open small-t (small top padding) -->
+						<div class="row">
+							<!-- This row contains contact info, social media links, and a button linking to subscription form page. -->
 
-						<div class="col-lg-12 col-md-12 col-sm-12"> <!-- Text indicating where and how to get in contact with us (including email). -->
-							<p>Find us on social media (shown below) or contact us by email at <a href="mailto:{{ site.email }}" class="alt">{{ site.email }}</a>.</p>
-						</div>
+							<div class="col-lg-12 col-md-12 col-sm-12">
+								<!-- Text indicating where and how to get in contact with us (including email). -->
+								<p>Find us on social media (shown below) or contact us by email at <a href="mailto:{{ site.email }}" class="alt">{{ site.email }}</a>.</p>
+							</div>
 
-						<div class="col-lg-12 col-md-12 col-sm-12"> <!-- Social Media Section (and copyright statement) -->
+							<div class="col-lg-12 col-md-12 col-sm-12">
+								<!-- Social Media Section (and copyright statement) -->
 
-							<a href="{{ site.links.twitter }}" target="_blank"> <!-- Link to twitter (see config). Icons are from font awesome. -->
-								<span class="fa-stack fa-lg" title="See our tweets here">
+								<a href="{{ site.links.twitter }}" target="_blank">
+									<!-- Link to twitter (see config). Icons are from font awesome. -->
+									<span class="fa-stack fa-lg" title="See our tweets here">
 									<i class="fa fa-square-o fa-stack-2x"></i>
 									<i class="fa fa-twitter fa-stack-1x twitter-color"></i>
 								</span>
-							</a>
+								</a>
 
-							<a href="{{ site.links.rss }}" target="_blank"> <!-- Link to rss feed (see config). Icons are from font awesome. -->
-								<span class="fa-stack fa-lg" title="See our RSS feed here">
+								<a href="{{ site.links.rss }}" target="_blank">
+									<!-- Link to rss feed (see config). Icons are from font awesome. -->
+									<span class="fa-stack fa-lg" title="See our RSS feed here">
 									<i class="fa fa-square-o fa-stack-2x"></i>
 									<i class="fa fa-rss fa-stack-1x rss-color"></i>
 								</span>
-							</a>  
+								</a>
 
-							<a href="{{ site.links.facebook }}" target="_blank"> <!-- Link to facebook (see config). Icons are from font awesome. -->
-								<span class="fa-stack fa-lg" title="See our facebook here">
+								<a href="{{ site.links.facebook }}" target="_blank">
+									<!-- Link to facebook (see config). Icons are from font awesome. -->
+									<span class="fa-stack fa-lg" title="See our facebook here">
 									<i class="fa fa-square-o fa-stack-2x"></i>
 									<i class="fa fa-facebook fa-stack-1x facebook-color"></i>
 								</span>
-							</a>                                        
+								</a>
 
-							<a href="{{ site.links.pinterest }}" target="_blank"> <!-- Link to pinterest (see config). Icons are from font awesome. -->
-								<span class="fa-stack fa-lg" title="See our pins here">
+								<a href="{{ site.links.pinterest }}" target="_blank">
+									<!-- Link to pinterest (see config). Icons are from font awesome. -->
+									<span class="fa-stack fa-lg" title="See our pins here">
 									<i class="fa fa-square-o fa-stack-2x"></i>
 									<i class="fa fa-pinterest fa-stack-1x pinterest-color"></i>
 								</span>
-							</a>
+								</a>
 
-							<a href="{{ site.links.github }}" target="_blank"> <!-- Link to github (see config). Icons are from font awesome. -->
-								<span class="fa-stack fa-lg" title="See the source code for our site here">
+								<a href="{{ site.links.github }}" target="_blank">
+									<!-- Link to github (see config). Icons are from font awesome. -->
+									<span class="fa-stack fa-lg" title="See the source code for our site here">
 									<i class="fa fa-square-o fa-stack-2x"></i>
 									<i class="fa fa-github fa-stack-1x github-color"></i>
 								</span>
-							</a>
+								</a>
 
-							<a href="{{ site.links.instagram }}" target="_blank"> <!-- Link to instagram (see config). Icons are from font awesome. -->
-								<span class="fa-stack fa-lg" title="See our instagram here">
+								<a href="{{ site.links.instagram }}" target="_blank">
+									<!-- Link to instagram (see config). Icons are from font awesome. -->
+									<span class="fa-stack fa-lg" title="See our instagram here">
 									<i class="fa fa-square-o fa-stack-2x"></i>
 									<i class="fa fa-instagram fa-stack-1x instagram-color"></i>
 								</span>
-							</a>
+								</a>
 
-							<a href="{{ site.links.paypal }}" target="_blank"> <!-- Link to paypal (see config). Icons are from font awesome. -->
-								<span class="fa-stack fa-lg" title="Click here to donate">
+								<a href="{{ site.links.paypal }}" target="_blank">
+									<!-- Link to paypal (see config). Icons are from font awesome. -->
+									<span class="fa-stack fa-lg" title="Click here to donate">
 									<i class="fa fa-square-o fa-stack-2x"></i>
 									<i class="fa fa-paypal fa-stack-1x paypal-color"></i>
 								</span>
-							</a>
+								</a>
 
-						</div> <!-- Close social media section. -->
+							</div>
+							<!-- Close social media section. -->
 
-						<div class="col-lg-12 col-md-12 col-sm-12"> <!-- Subscribe button. This "button" only links to the subscribe form page. -->
-							<a href="{{ site.url }}/join-pare-and-flourish/"><div class="sub-button">Click here to subscribe!</div></a>
+							<div class="col-lg-12 col-md-12 col-sm-12">
+								<!-- Subscribe button. This "button" only links to the subscribe form page. -->
+								<a href="{{ site.url }}/join-pare-and-flourish/">
+									<div class="sub-button">Click here to subscribe!</div>
+								</a>
+							</div>
+
 						</div>
+						<!-- Close row that contains contact info, social media links, and a button linking to subscription form page. -->
+					</div>
+					<!-- Close small-t (top padding) -->
 
-					</div> <!-- Close row that contains contact info, social media links, and a button linking to subscription form page. -->
-				</div> <!-- Close small-t (top padding) -->
-
-					<div class="row"> <!-- Copyright statement. -->
+					<div class="row">
+						<!-- Copyright statement. -->
 						<div class="col-lg-12 col-md-12 col-sm-12">
 							<p>&copy; Pare and Flourish, 2016. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Pare and Flourish with appropriate and specific direction to the original content. All content is created and maintained by Pare and Flourish unless otherwise indicated. All images are from either unsplash.com or pexels.com unless otherwise indicated.</p>
 						</div>
 					</div>
 
-					<div class="row"> <!-- Disclosure for amazon affiliate program. -->
+					<div class="row">
+						<!-- Disclosure for amazon affiliate program. -->
 						<div class="col-lg-12 col-md-12 col-sm-12">
 							<p>Pare and Flourish LLC is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to pareandflourish.com.</p>
 						</div>
 					</div>
 
-				<div class="row"> <!-- Links to site and logo designers portfolio/website. -->
-					<div class="col-lg-12 col-md-12 col-sm-12">
-						<p class="alt">Site design and development by <a href="http://www.mtlong.me" class="alt" target="_blank">Matthew Long</a>. Logo design by <a href="http://www.baileegrob.com" class="alt" target="_blank">Bailee Grob</a>.</p>
+					<div class="row">
+						<!-- Links to site and logo designers portfolio/website. -->
+						<div class="col-lg-12 col-md-12 col-sm-12">
+							<p class="alt">Site design and development by <a href="http://www.mtlong.me" class="alt" target="_blank">Matthew Long</a>. Logo design by <a href="http://www.baileegrob.com" class="alt" target="_blank">Bailee Grob</a>.</p>
+						</div>
 					</div>
-				</div>
 
-			</div> <!-- Close footer container (bootstrap). -->
-		</div>
-	</section> 
+				</div>
+				<!-- Close footer container (bootstrap). -->
+			</div>
+		</section>
 
 	</div>
 </section>
