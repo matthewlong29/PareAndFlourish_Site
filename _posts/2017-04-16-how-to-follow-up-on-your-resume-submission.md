@@ -11,7 +11,7 @@ modified: April 16, 2017
 
 author: "Skylar Wooden and Katie Butler"
 
-excerpt: "You’ve filled out your resume and submitted the application. Congrats! You’re staying ahead of your competition by using a clean, easy-to-read resume. Now, it’s time to stay ahead of your competition—the follow up."
+excerpt: "You’ve filled out your resume and submitted the application. Congrats! You’re ahead of your competition already by using a clean, easy-to-read resume. Now, it’s time to stay ahead of your competition—the follow up."
 
 categories: blog
 
@@ -29,7 +29,7 @@ comments: true
 
 ## Millennial Professional Pt. 2: How to Follow up on Your Resume Submission
 
-You’ve filled out your resume and submitted the application. Congrats! You’re staying ahead of your competition by using a clean, easy-to-read resume. Now, it’s time to stay ahead of your competition—the follow up. 
+You’ve filled out your resume and submitted the application. Congrats! You’re ahead of your competition already by using a clean, easy-to-read resume. Now, it’s time to stay ahead of your competition—the follow up. 
 
 “Give them space,” you’ll think. While you’re giving the employer space, there are other applicants making themselves known. 
 
@@ -45,4 +45,4 @@ Many questions come up while writing the email. Let’s take a guess:
 	<li>How do I close?</li>
 </ul>
 
-We’ve created a choose-your-own template for your follow up email. This includes a list of timelines, subject lines, salutations, body text, and closings. You are able to review each list, select what applies to you, and piece it together into a professional, effective follow up email. Happy job hunting! 
+We’ve created a choose-your-own template for your follow-up email. This includes a list of subject lines, salutations, body text, and closings. You are able to review each list, select what applies to you, and piece it together into a professional, effective follow up email. Happy job hunting! If you have questions, please tweet them at @pareandflourish! 
