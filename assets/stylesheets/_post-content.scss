@@ -40,3 +40,21 @@
     margin: 1em 0 1em 0;
   }
 }
+
+.subscribeBottom {
+	margin-bottom: 1em;
+	.download {
+    color: $theme-white;
+    text-align: center;
+    background-color: $theme-red;
+    margin: 1em;
+		padding: .25em;
+    border-radius: 2px;
+    box-shadow: 2px 2px 5px $theme-gray;
+    &:hover,
+    &:focus {
+      background-color: lighten($theme-red, 5%);
+      box-shadow: 1px 1px 2.5px $theme-gray;
+    }
+  }
+}
