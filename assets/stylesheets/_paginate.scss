@@ -11,7 +11,8 @@
     color: $theme-white;
     text-align: center;
     background-color: $theme-red;
-    margin: 1em 0 0 0;
+    margin: 1em 0;
+		padding: .25em;
     border-radius: 2px;
     box-shadow: 2px 2px 5px $theme-gray;
     &:hover,
