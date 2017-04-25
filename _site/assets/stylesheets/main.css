@@ -6177,7 +6177,8 @@ ul.banner-social-buttons {
   color: #fff;
   text-align: center;
   background-color: #072879;
-  margin: 1em 0 0 0;
+  margin: 1em 0;
+  padding: .25em;
   border-radius: 2px;
   box-shadow: 2px 2px 5px #020202; }
   .paginate .arrow:hover, .paginate .arrow:focus {
@@ -6223,6 +6224,20 @@ ul.banner-social-buttons {
       transition: 1s; }
   .post-content hr.secondary {
     margin: 1em 0 1em 0; }
+
+.subscribeBottom {
+  margin-bottom: 1em; }
+  .subscribeBottom .download {
+    color: #fff;
+    text-align: center;
+    background-color: #072879;
+    margin: 1em;
+    padding: .25em;
+    border-radius: 2px;
+    box-shadow: 2px 2px 5px #020202; }
+    .subscribeBottom .download:hover, .subscribeBottom .download:focus {
+      background-color: #083091;
+      box-shadow: 1px 1px 2.5px #020202; }
 
 .side-panel {
   margin: 1em 0 1em 0;
@@ -6337,8 +6352,6 @@ ul.banner-social-buttons {
     color: #020202;
     margin: 0 0 1em 0;
     padding: 0; }
-  #mc_side img {
-    margin-bottom: 1em; }
 
 #mc_side input {
   border: 1px solid #020202;

@@ -80,8 +80,9 @@
 
 		<div class="container-fluid"> <!-- Fluid container (bootstrap). -->
 
-			<!-- This is the layout for article/blog post pages. -->
+			<!-- This is the layout for all content pages. -->
 
+<!-- Feature image -->
 <!-- Feature image section. The feature images are the images that appear at the top of ever page. Except the front page. The front page image is referred to as the banner image. In the future the feature image should be different for the start here, various blog category, work with us, resources, and join us pages. -->
    
 <section id="feature-image"> 
@@ -103,6 +104,7 @@
   </div>
 </section>
 
+<!-- Navigation bar -->
 <nav class="navbar navbar-custom" role="navigation"> <!-- Open navigation tag. -->
   <div class="container"> <!-- Navigation bar container (bootstrap). -->
 
@@ -144,19 +146,18 @@
 
   </div>
 </nav> <!-- Close navigation tag. -->
-<!-- Feature image -->
 
+<!-- Page container (bootstrap). -->
 <div class="container">
-	<!-- Page container (bootstrap). -->
+
 
 	<div class="row">
 
 		<div class="col-lg-8 col-md-8 col-sm-12">
-			<div class="medium-tb">
+			<div class="post-content">
 
-				<div class="post-content">
-
-					<h2>Flourish with us!</h2>
+				<!-- Post content (written in markdown and html.. see "_posts"). -->
+				<h2>Flourish with us!</h2>
 <p>This unique blog is written by two very different people, living very different lives.</p>
 
 <p class="script">Skylar</p><p class="script-inline">, the creative one, the Writer.</p><br>
@@ -199,18 +200,22 @@
 
 <br><hr class="secondary"><br>
 
-					<!-- Post content (written in markdown.. see "_posts"). -->
 
-				</div>
-				
-				
-				
+				<!-- Subscription incentive at bottom of posts. Download button links to join-pare-and-flourish page -->
 				
 
 			</div>
+
+			<!-- Pagination -->
+			 
+			
+			<!-- Comments. Powered by facebook. -->
+			
+
 		</div>
 
 		<div class="col-lg-4 col-md-4 col-sm-12">
+			
 			<!-- Side panel with subscribe form. -->
 			<!-- Side panel. The side panel contains tons of information for the website. This information is a subscription form (as long as user isn't on the subscription page), links to social media and paypal (twitter, facebook, pinterest, instagram, and paypal), teaser image (if the user is on an article page), twitter feed, amazon affiliate "shop related products" section, and placeholders for ad spots. -->
 
@@ -221,7 +226,6 @@
     <div id="mc_side">
       <form action="//pareandflourish.us14.list-manage.com/subscribe/post?u=21b3326a4d3b41c8b98c42507&amp;id=32335e5912" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
-					<img src="http://localhost:4000/images/other/subscriptionGraphic.jpg" class="img-responsive img-fluid" alt="subscribe here" title="Subscribe here!" data-pin-nopin="true">
           <p class="title">Subscribe to receive a FREE cover letter template!</p>
           <p class="text">Be the first to know about new blog posts and promotions!</p>
           <input type="email" value="" placeholder="Email Address (required)" name="EMAIL" class="required email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
