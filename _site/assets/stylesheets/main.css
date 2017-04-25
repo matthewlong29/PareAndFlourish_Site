@@ -6337,6 +6337,8 @@ ul.banner-social-buttons {
     color: #020202;
     margin: 0 0 1em 0;
     padding: 0; }
+  #mc_side img {
+    margin-bottom: 1em; }
 
 #mc_side input {
   border: 1px solid #020202;
