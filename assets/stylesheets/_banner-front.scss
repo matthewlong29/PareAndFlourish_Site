@@ -6,16 +6,17 @@
   -webkit-transition: all .2s ease-in-out;
   -o-transition: all .2s ease-in-out;
   transition: all .2s ease-in-out;
-  .banner-overlay {
-    top: 58.1481%;
-    right: 4.1666%;
-    bottom: 4.1975%;
-    left: 54.1666%;
+	.banner-overlay {
+    top: 55%;
+    right: 0%;
+    bottom: 4%;
+    left: 0%;
     position: absolute;
     @media (max-width: 758px) {
       display: none;
     }
     p {
+			text-shadow: 1px 1px 4px $theme-gray;
       color: $theme-gray;
       font-size: 1.5em;
       -webkit-transition: all .2s ease-in-out;
@@ -55,6 +56,8 @@
       }
     }
   }
+
+	
   .banner-under {
     background-color: transparentize($theme-gray, 0.15);
     padding-top: 0;
