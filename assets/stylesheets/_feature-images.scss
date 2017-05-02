@@ -1,15 +1,3 @@
 .feature-image {
   margin: 0 auto;
 }
-
-@media (min-width: 992px) {
-  .feature-small {
-    display: none;
-  }
-}
-
-@media (max-width: 991px) {
-  .feature-large {
-    display: none;
-  }
-}
