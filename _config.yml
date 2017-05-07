@@ -29,7 +29,8 @@ assets:
     browsers: ["last 2 versions","> 5%","IE 9"]
 
 sass:
-    sass_dir: assets/stylesheets
+  sass_dir: assets/stylesheets
+  style: compressed
 
 gems:
   - jekyll
