@@ -38,6 +38,15 @@
 			transition: .5s;
 		}
 	}
+	.footerLinks {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		align-content: center;
+		p {
+			padding: 0 5px 0 5px;
+		}
+	}
 	.twitter-color {
 		color: $twitter-color;
 	}
