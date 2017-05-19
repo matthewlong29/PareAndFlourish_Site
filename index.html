@@ -25,11 +25,23 @@ layout: default
 	{% assign postCount = site.posts | size %} 
 	{% assign postsCovered = site.paginate | plus:offset %} 
 	{% if postsCovered < postCount %} 
-		<div class="row">
-			<div class="container">
+		
+			
+				<div class="row">
+					<div class="loading">
+						<div class="col-sm-4">
+				<hr>
+						</div>
+						<div class="col-sm-4">
 				<button class="loadMore">Load more posts</button>
-			</div>
-		</div>
+						</div>
+						<div class="col-sm-4">
+				<hr>
+						</div>
+					</div>
+				</div>
+			
+		
 	{% endif %}
 
 	<script>
