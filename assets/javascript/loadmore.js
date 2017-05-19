@@ -16,6 +16,7 @@ function loadMorePosts() {
 
 		if ($blogContainer.attr("data-totalPages") == nextPage) {
 			$(".loadMore").remove();
+			$(".loadingHR").remove();
 		}
 
 		$(_this).removeClass("loading");
