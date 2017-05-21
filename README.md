@@ -24,7 +24,7 @@ Below you will find a list of tools and services that are used in the creation o
 * [Unsplash](https://unsplash.com/)
 
 ### Fonts:
-* [Dancing Script](https://fonts.google.com/specimen/Dancing+Script)
+* [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
 * [Open Sans](https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans)
 
 ### Icons:
