@@ -14,9 +14,9 @@
 		color: $theme-white;
 		border: $commonBorder;
 		border-radius: 2px;
-		box-shadow: 2px 2px 4px $theme-gray;
+		box-shadow: $commonShadow;
 		&:hover{
-			box-shadow: 1px 1px 2px $theme-gray;
+			box-shadow: $commonShadowHover;
 		}
 	}
 }

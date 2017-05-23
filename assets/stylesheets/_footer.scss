@@ -3,7 +3,7 @@
 	background-color: transparentize($theme-gray, 0.15);
 	text-align: center;
 	border-radius: 2px;
-	box-shadow: 2px 2px 5px $theme-gray;
+	box-shadow: $commonShadow;
 	p {
 		color: darken($theme-white, 35%);
 		font-size: .9em;

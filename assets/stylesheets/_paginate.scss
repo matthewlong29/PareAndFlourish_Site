@@ -15,11 +15,11 @@
     margin: 1em 0;
 		padding: .25em;
     border-radius: 2px;
-    box-shadow: 2px 2px 5px $theme-gray;
+    box-shadow: $commonShadow;
     &:hover,
     &:focus {
       background-color: lighten($theme-red, 5%);
-      box-shadow: 1px 1px 2.5px $theme-gray;
+      box-shadow: $commonShadowHover;
     }
   }
   .text {

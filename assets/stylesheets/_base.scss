@@ -19,7 +19,7 @@ img {
 	margin: 0 auto;
 	border: $commonBorder;
 	border-radius: 2px;
-	box-shadow: 2px 2px 5px #020202;
+	box-shadow: $commonShadow;
 }
 
 img.noImageStyling {

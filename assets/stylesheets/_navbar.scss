@@ -4,7 +4,7 @@
   font-family: $base-font-sans;
   background-color: $theme-red;
   z-index: 8675310;
-  box-shadow: 2px 2px 5px $theme-gray;
+  box-shadow: $commonShadow;
   border-radius: 0;
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;

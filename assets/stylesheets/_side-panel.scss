@@ -10,11 +10,11 @@
     background-color: $theme-red;
     margin: 0 0 1em 0;
     border-radius: 2px;
-    box-shadow: 2px 2px 5px $theme-gray;
+    box-shadow: $commonShadow;
     &:hover,
     &:focus {
       background-color: lighten($theme-red, 15%);
-      box-shadow: 1px 1px 2.5px $theme-gray;
+      box-shadow: $commonShadowHover;
     }
   }
   p {
@@ -37,7 +37,7 @@
     .tweets {
       border: $commonBorder;
       border-radius: 2px;
-      box-shadow: 2px 2px 5px #020202;
+      box-shadow: $commonShadow;
     }
   }
 }

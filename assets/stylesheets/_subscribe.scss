@@ -6,7 +6,7 @@
   text-align: center;
   border: $commonBorder;
   border-radius: 2px;
-  box-shadow: 2px 2px 5px #020202;
+  box-shadow: $commonShadow;
   p.title {
     font-size: 1.25em;
     font-family: $base-font-sans;
@@ -67,7 +67,7 @@
   text-align: center;
   border: $commonBorder;
   border-radius: 2px;
-  box-shadow: 2px 2px 5px $theme-gray;
+  box-shadow: $commonShadow;
 }
 
 #mc_page input {

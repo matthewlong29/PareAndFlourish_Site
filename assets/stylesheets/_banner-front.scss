@@ -70,7 +70,7 @@
     margin-top: 0;
     padding-bottom: 1em;
     border-radius: 2px;
-    box-shadow: 2px 2px 5px $theme-gray;
+    box-shadow: $commonShadow;
     @media (min-width: 758px) {
           display: none;
     }
