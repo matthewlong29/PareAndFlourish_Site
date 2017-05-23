@@ -1,29 +1,42 @@
 // Website Colors
-$theme-red: #000;
-$theme-yellow: #dcd7c4;
-$theme-white: #fff;
-$theme-gray: #020202;
-$theme-black: #000000;
+$colorPrimary: #000;
+$colorWhite: #fff;
+$colorGray: #080808;
+$colorBlack: #000;
+
+// Transition Colors
+$colorPrimaryLighten: lighten($colorPrimary, 15%);
 
 // Social Media Colors
-$twitter-color: #00aced;
-$github-color: #171516;
-$pinterest-color: #bd081c;
-$instagram-color: #c13584;
-$paypal-color: #009cde;
-$facebook-color: #3b5998;
-$linkedin-color: #4875B4;
-$rss-color: #f26522;
+$colorTwitter: #00aced;
+$colorGithub: #171516;
+$colorPinterest: #bd081c;
+$colorInstagram: #c13584;
+$colorPaypal: #009cde;
+$colorFacebook: #3b5998;
+$colorRSS: #f26522;
 
 // Borders
-$commonBorder: 2px solid $theme-gray;
+$commonBorder: 2px solid $colorGray;
+$commonRadius: 2px;
 
 // Box Shadows
-$commonShadow: 2px 2px 4px $theme-gray;
-$commonShadowHover: 1px 1px 2px $theme-gray;
+$commonShadow: 2px 2px 4px $colorGray;
+$commonShadowHover: 1px 1px 2px $colorGray;
 
 // Font for Headings
-$base-font-script: "Playfair Display SC", serif;
+$primaryFont: "Playfair Display SC", serif;
 
 // Font for Everything Else
-$base-font-sans: "Open Sans", serif;
+$secondaryFont: "Open Sans", sans-serif;
+
+// Margins
+$zeroMargin: 0;
+$autoMargin: 0 auto;
+
+// Paddings
+$zeroPadding: 0;
+
+// Transitions
+$shortTransition: all .2s ease;
+$zeroTranslate: translate(0px, 0);

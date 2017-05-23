@@ -1,24 +1,16 @@
-// Bootstrap Overrides
 .container-fluid {
-	padding: 0;
+	padding: $zeroPadding;
 }
 
 body {
-	background-color: $theme-white;
-}
-
-#disqus_thread .publisher-anchor-color {
-	color: black !important;
-}
-
-disqus-link {
-	color: $theme-gray;
+	background-color: $colorWhite;
+	@include transition($shortTransition);
 }
 
 img {
-	margin: 0 auto;
+	margin: $autoMargin;
 	border: $commonBorder;
-	border-radius: 2px;
+	border-radius: $commonRadius;
 	box-shadow: $commonShadow;
 }
 
@@ -39,4 +31,8 @@ img.noImageStyling {
 
 .mc-modal {
 	z-index: 8675311 !important;
+}
+
+::selection {
+	background: $colorPrimaryLighten;
 }

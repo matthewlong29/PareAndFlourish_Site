@@ -1,30 +1,30 @@
 .social-buttons {
 	width: 100%;
-	margin: 0 auto;
+	margin: $autoMargin;
 	display: flex;
 	justify-content: center;
 	a {
-		color: $theme-gray;
+		color: $colorGray;
 	}
 	.twitter-color {
-		color: $twitter-color;
+		color: $colorTwitter;
 	}
 	.facebook-color {
-		color: $facebook-color;
+		color: $colorFacebook;
 	}
 	.github-color {
-		color: $github-color;
+		color: $colorGithub;
 	}
 	.pinterest-color {
-		color: $pinterest-color;
+		color: $colorPinterest;
 	}
 	.paypal-color {
-		color: $paypal-color;
+		color: $colorPaypal;
 	}
 	.instagram-color {
-		color: $instagram-color;
+		color: $colorInstagram;
 	}
 	.rss-color {
-		color: $rss-color;
+		color: $colorRSS;
 	}
 }

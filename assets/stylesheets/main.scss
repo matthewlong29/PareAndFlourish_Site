@@ -8,6 +8,9 @@
 // Variables
 @import "variables";
 
+// Mixins
+@import "mixins";
+
 // Base
 @import "base";
 
@@ -18,7 +21,6 @@
 @import "blog-tiles";
 @import "feature-images";
 @import "footer";
-@import "highlighter";
 @import "horizontalrules";
 @import "loadMore";
 @import "navbar";

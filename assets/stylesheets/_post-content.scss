@@ -1,61 +1,58 @@
 .post-content {
-  font-size: 1.25em;
-  margin: auto;
-  p {
-    line-height: 1.75em;
-  }
+	font-size: 1.25em;
+	p {
+		line-height: 1.75em;
+	}
 	li {
 		line-height: 1.75em;
 	}
-  h2 {
-    font-family: $base-font-script;
-    font-weight: bold;
-    line-height: 1em;
-  }
-  h2.alt {
-    font-family: $base-font-script;
-    font-weight: bold;
-    font-size: 1.25em;
-  }
-  h3 {
-    line-height: 1em;
-    margin: 0;
-    padding-top: 1em;
-  }
-  h4 {
-    font-family: $base-font-sans;
-    font-weight: bold;
-  }
-  a {
-    text-decoration: none;
-    color: $theme-gray;
-    border-bottom: 1px dotted;
-    &:hover {
-      border-bottom: 0px;
-      color: darken($theme-gray, 0.5);
-      transition: 1s;
-    }
-  }
-  hr.secondary {
-    margin: 1em 0 1em 0;
-  }
+	h2 {
+		font-family: $primaryFont;
+		line-height: 1em;
+	}
+	h2.alt {
+		font-family: $primaryFont;
+		font-size: 1.25em;
+	}
+	h3 {
+		line-height: 1em;
+		margin: $zeroMargin;
+		padding-top: 1em;
+	}
+	h4 {
+		font-family: $secondaryFont;
+	}
+	a {
+		text-decoration: none;
+		color: $colorGray;
+		border-bottom: 1px solid;
+		@include transition($shortTransition);
+		&:hover {
+			border-bottom: 2px solid;
+			color: darken($colorGray, 0.5);
+		}
+	}
+	hr.secondary {
+		margin: 1em 0;
+	}
 }
 
 .subscribeBottom {
 	margin-bottom: 1em;
 	.download {
-    color: $theme-white;
-    text-align: center;
-    background-color: $theme-red;
-    margin: 1em;
+		color: $colorWhite;
+		text-align: center;
+		background-color: $colorPrimary;
+		margin: 1em;
 		padding: .25em;
-    border-radius: 2px;
-    box-shadow: $commonShadow;
+		border-radius: $commonRadius;
+		box-shadow: $commonShadow;
 		border: $commonBorder;
-    &:hover,
-    &:focus {
-      background-color: lighten($theme-red, 5%);
-      box-shadow: $commonShadowHover;
-    }
-  }
+		@include transition($shortTransition);
+		&:hover,
+		&:focus {
+			background-color: $colorPrimaryLighten;
+			box-shadow: $commonShadowHover;
+		}
+	}
 }

@@ -6,15 +6,17 @@
 		flex: 1;
 		border: none;
 		height: 2px;
-		background: black;
+		background: $colorBlack;
 	}
 	.loadMore {
+		text-align: center;
 		width: 100%;
-		background-color: $theme-red;
-		color: $theme-white;
+		background-color: $colorPrimary;
+		color: $colorWhite;
 		border: $commonBorder;
-		border-radius: 2px;
+		border-radius: $commonRadius;
 		box-shadow: $commonShadow;
+		@include transition($shortTransition);
 		&:hover{
 			box-shadow: $commonShadowHover;
 		}

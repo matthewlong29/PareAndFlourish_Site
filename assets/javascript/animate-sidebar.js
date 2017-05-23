@@ -2,5 +2,5 @@
 /*global $, jQuery, alert*/
 
 $(document).ready(function () {
-	$(".side-panel").addClass("animated bounceInRight");
+	$(".side-panel").addClass("animated bounceInUp");
 });

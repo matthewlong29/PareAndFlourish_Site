@@ -1,38 +1,39 @@
 .navbar-custom {
   margin-bottom: 0;
-  border-bottom: 1px $theme-gray;
-  font-family: $base-font-sans;
-  background-color: $theme-red;
+  border-bottom: 1px $colorGray;
+  font-family: $secondaryFont;
+  background-color: $colorPrimary;
   z-index: 8675310;
   box-shadow: $commonShadow;
   border-radius: 0;
-  border-bottom-left-radius: 2px;
-  border-bottom-right-radius: 2px;
+  border-bottom-left-radius: $commonRadius;
+  border-bottom-right-radius: $commonRadius;
   .navbar-toggle {
-    color: $theme-white;
-    background-color: $theme-red;
+    color: $colorWhite;
+    background-color: $colorPrimary;
     font-size: 1em;
-    border-radius: 2px;
+    border-radius: $commonRadius;
   }
   .navbar-brand {
-    font-family: $base-font-script;
-    font-size: 2.15em;
+    font-family: $primaryFont;
+    font-size: 1.8em;
     text-decoration: none;
   }
   a {
-    color: $theme-white;
-    background-color: $theme-red;
+    color: $colorWhite;
+    background-color: $colorPrimary;
   }
   .nav li {
     a {
-      color: $theme-white;
-      background-color: $theme-red;
+      color: $colorWhite;
+      background-color: $colorPrimary;
       text-decoration: none;
+			@include transition($shortTransition);
       &:hover {
         outline: none;
-				color: $theme-red;
-        background-color: $theme-white;
-        border-radius: 2px;
+				color: $colorPrimary;
+        background-color: $colorWhite;
+        border-radius: $commonRadius;
       }
     }
   }
@@ -42,7 +43,7 @@
   .nav > li > a {
     padding-left: 0.5em;
     padding-right: 0.5em;
-    border-radius: 2px;
+    border-radius: $commonRadius;
   }
 }
 
@@ -57,9 +58,9 @@ ul.banner-social-buttons {
 }
 
 .navbar-custom .dropdown-menu {
-  background-color: $theme-red;
+  background-color: $colorPrimary;
 }
 
 .dropdown-menu > li > a {
-  color: $theme-white;
+  color: $colorWhite;
 }

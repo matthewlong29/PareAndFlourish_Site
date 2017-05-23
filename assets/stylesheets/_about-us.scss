@@ -1,13 +1,14 @@
 .about-us {
-  margin: 0;
-  padding: 0;
+  margin: $zeroMargin;
+  padding: $zeroPadding;
+	@include transition($shortTransition);
   p {
     margin: 0 0 1em 0;
-    padding: 0;
-    color: $theme-gray;
+    padding: $zeroPadding;
+    color: $colorGray;
   }
   h3 {
     margin: 1em 0 0 0;
-    padding: 0;
+    padding: $zeroPadding;
   }
 }

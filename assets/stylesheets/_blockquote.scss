@@ -1,6 +1,6 @@
 blockquote {
-  border-left: 0.3em solid $theme-red;
-  background-color: transparentize($theme-gray, .95);
+  border-left: 0.3em solid $colorPrimary;
+  background-color: transparentize($colorGray, .95);
   position: relative;
   cite {
     font-size: 0.8em;

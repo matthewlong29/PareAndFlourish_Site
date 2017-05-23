@@ -1,28 +1,30 @@
 .sub-button {
-  display: block;
-  min-width: 200px;
-  max-width: 250px;
-  min-width: 50px;
-  max-height: 75px;
-  border: $commonBorder;
-  background-color: $theme-red;
-  cursor: pointer;
-  text-align: center;
-  border-radius: 2px;
-  box-shadow: $commonShadow;
-  a {
-    font-size: 1.5em;
-    text-decoration: none;
-    padding: 0;
-    &:hover,
-    &:focus {
-      color: $theme-white;
-      text-decoration: none;
-    }
-  }
-  &:hover,
-  &:focus {
-    background-color: lighten($theme-red, 5%);
-    box-shadow: $commonShadowHover;
-  }
+	display: block;
+	min-width: 200px;
+	max-width: 250px;
+	min-width: 50px;
+	max-height: 75px;
+	border: $commonBorder;
+	background-color: $colorPrimary;
+	cursor: pointer;
+	text-align: center;
+	border-radius: $commonRadius;
+	box-shadow: $commonShadow;
+	a {
+		font-size: 1.5em;
+		text-decoration: none;
+		padding: $zeroPadding;
+		@include transition($shortTransition);
+		&:hover,
+		&:focus {
+			color: $colorWhite;
+			text-decoration: none;
+		}
+	}
+	@include transition($shortTransition);
+	&:hover,
+	&:focus {
+		background-color: $colorPrimaryLighten;
+		box-shadow: $commonShadowHover;
+	}
 }

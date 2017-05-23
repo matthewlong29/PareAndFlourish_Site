@@ -2,17 +2,17 @@ hr.primary {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 2.5px solid $theme-gray;
-  margin: 0;
-  padding: 0;
+  border-top: 2.5px solid $colorGray;
+  margin: $zeroMargin;
+  padding: $zeroPadding;
 }
 
 hr.secondary {
   display: block;
   border: none;
-  color: white;
-  margin: 0;
-  padding: 0;
+  color: $colorWhite;
+  margin: $zeroMargin;
+  padding: $zeroPadding;
   height: 1px;
-  background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 425, from($theme-gray), to($theme-white));
+  background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 425, from($colorGray), to($colorWhite));
 }

@@ -1,11 +1,11 @@
 .social-section {
 	min-height: 7.5vh;
-	background-color: transparentize($theme-gray, 0.15);
+	background-color: transparentize($colorGray, 0.15);
 	text-align: center;
-	border-radius: 2px;
+	border-radius: $commonRadius;
 	box-shadow: $commonShadow;
 	p {
-		color: darken($theme-white, 35%);
+		color: darken($colorWhite, 35%);
 		font-size: .9em;
 	}
 	p.alt {
@@ -13,13 +13,13 @@
 		padding-top: 0;
 	}
 	a {
-		color: darken($theme-white, 35%);
+		color: darken($colorWhite, 35%);
 		font-size: 1em;
 		text-decoration: none;
+		@include transition($shortTransition);
 		&:hover {
 			border-bottom: 0px;
-			color: $theme-white;
-			transition: .5s;
+			color: $colorWhite;
 		}
 	}
 	a.alt {
@@ -31,28 +31,28 @@
 		justify-content: center;
 		align-content: center;
 		p {
-			padding: 0 5px 0 5px;
+			padding: 0 5px;
 		}
 	}
 	.twitter-color {
-		color: $twitter-color;
+		color: $colorTwitter;
 	}
 	.facebook-color {
-		color: $facebook-color;
+		color: $colorFacebook;
 	}
 	.github-color {
-		color: $github-color;
+		color: $colorGithub;
 	}
 	.pinterest-color {
-		color: $pinterest-color;
+		color: $colorPinterest;
 	}
 	.paypal-color {
-		color: $paypal-color;
+		color: $colorPaypal;
 	}
 	.instagram-color {
-		color: $instagram-color;
+		color: $colorInstagram;
 	}
 	.rss-color {
-		color: $rss-color;
+		color: $colorRSS;
 	}
 }

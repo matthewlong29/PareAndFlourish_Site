@@ -1,43 +1,42 @@
 .side-panel {
-  margin: 1em 0 1em 0;
-  padding: 0;
-  background-color: $theme-white;
-  -webkit-transition: 1s all ease;
-  transition: 1s all ease;
-  h3 {
-		color: $theme-white;
-    text-align: center;
-    background-color: $theme-red;
-    margin: 0 0 1em 0;
-    border-radius: 2px;
-    box-shadow: $commonShadow;
-    &:hover,
-    &:focus {
-      background-color: lighten($theme-red, 15%);
-      box-shadow: $commonShadowHover;
-    }
-  }
-  p {
-    text-align: left;
-    margin: 1em;
-  }
-  a {
-    text-decoration: none;
-    text-align: left;
-  }
-  img {
-    border: $commonBorder;
-    margin: auto 0;
-  }
-  .twitter-section {
-    margin: 1em 0 0 0;
-    @media only screen and (max-width: 992px) {
-      display: none;
-    }
-    .tweets {
-      border: $commonBorder;
-      border-radius: 2px;
-      box-shadow: $commonShadow;
-    }
-  }
+	margin: 1em 0 1em 0;
+	padding: $zeroPadding;
+	background-color: $colorWhite;
+	h3 {
+		color: $colorWhite;
+		text-align: center;
+		background-color: $colorPrimary;
+		margin: 0 0 1em 0;
+		border-radius: $commonRadius;
+		box-shadow: $commonShadow;
+		@include transition($shortTransition);
+		&:hover,
+		&:focus {
+			background-color: $colorPrimaryLighten;
+			box-shadow: $commonShadowHover;
+		}
+	}
+	p {
+		text-align: left;
+		margin: 1em;
+	}
+	a {
+		text-decoration: none;
+		text-align: left;
+	}
+	img {
+		border: $commonBorder;
+		margin: auto 0;
+	}
+	.twitter-section {
+		margin: 1em 0 0 0;
+		@media only screen and (max-width: 992px) {
+			display: none;
+		}
+		.tweets {
+			border: $commonBorder;
+			border-radius: $commonRadius;
+			box-shadow: $commonShadow;
+		}
+	}
 }

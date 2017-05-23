@@ -1,107 +1,106 @@
 #mc_side {
-  background: transparentize($theme-gray, .95);
-  color: $theme-red;
-  padding: 1em;
-  margin: 1em 0 1em 0;
-  text-align: center;
-  border: $commonBorder;
-  border-radius: 2px;
-  box-shadow: $commonShadow;
-  p.title {
-    font-size: 1.25em;
-    font-family: $base-font-sans;
-    color: $theme-gray;
-    margin: 0;
-    padding: 0;
-    font-weight: bold;
-  }
-  p.text {
-    font-size: 1em;
-    font-family: $base-font-sans;
-    color: $theme-gray;
-    margin: 0 0 1em 0;
-    padding: 0;
-  }
+	background: transparentize($colorGray, .95);
+	color: $colorPrimary;
+	padding: 1em;
+	margin: 1em 0;
+	text-align: center;
+	border: $commonBorder;
+	border-radius: $commonRadius;
+	box-shadow: $commonShadow;
+	p.title {
+		font-size: 1.25em;
+		font-family: $secondaryFont;
+		color: $colorGray;
+		margin: $zeroMargin;
+		padding: $zeroPadding;
+	}
+	p.text {
+		font-size: 1em;
+		font-family: $secondaryFont;
+		color: $colorGray;
+		margin: 0 0 1em 0;
+		padding: $zeroPadding;
+	}
 }
 
 #mc_side input {
-  border: $commonBorder;
-  border-radius: 2px;
-  color: $theme-gray;
-  margin: auto;
-  margin-bottom: 10px;
-  padding: 8px 10px;
-  width: 100%;
+	border: $commonBorder;
+	border-radius: $commonRadius;
+	color: $colorGray;
+	margin: auto;
+	margin-bottom: 10px;
+	padding: 8px 10px;
+	width: 100%;
 }
 
 #mc_side input.email {
-  background: $theme-white
+	background: $colorWhite;
 }
 
 #mc_side input.name {
-  background: $theme-white
+	background: $colorWhite;
 }
 
 #mc_side input[type="submit"] {
-  margin: auto;
-  background: $theme-red;
-  &:hover,
-  &:focus {
-    background-color: lighten($theme-red, 15%);
-    transition: .5s;
-  }
-  color: $theme-white;
-  cursor: pointer;
-  width: 100%;
-  padding: 8px 0;
+	margin: auto;
+	background: $colorPrimary;
+	@include transition($shortTransition);
+	&:hover,
+	&:focus {
+		background-color: $colorPrimaryLighten;
+	}
+	color: $colorWhite;
+	cursor: pointer;
+	width: 100%;
+	padding: 8px 0;
 }
 
 #mc_side input[type="submit"]:hover {
-  color: $theme-white
+	color: $colorWhite;
 }
 
 #mc_page {
-  background: transparentize($theme-gray, .95);
-  color: $theme-red;
-  padding: 20px;
-  text-align: center;
-  border: $commonBorder;
-  border-radius: 2px;
-  box-shadow: $commonShadow;
+	background: transparentize($colorGray, .95);
+	color: $colorPrimary;
+	padding: 20px;
+	text-align: center;
+	border: $commonBorder;
+	border-radius: $commonRadius;
+	box-shadow: $commonShadow;
 }
 
 #mc_page input {
-  border: $commonBorder;
-  color: $theme-gray;
-  margin: auto;
-  margin-bottom: 10px;
-  padding: 8px 10px;
-  width: 100%;
-  border-radius: 2px;
+	border: $commonBorder;
+	color: $colorGray;
+	margin: auto;
+	margin-bottom: 10px;
+	padding: 8px 10px;
+	width: 100%;
+	border-radius: $commonRadius;
 }
 
 #mc_page input.email {
-  background: $theme-white
+	background: $colorWhite;
 }
 
 #mc_page input.name {
-  background: $theme-white
+	background: $colorWhite;
 }
 
 #mc_page input[type="submit"] {
-  margin: auto;
-  background: $theme-red;
-  &:hover,
-  &:focus {
-    background-color: lighten($theme-red, 15%);
-    transition: .5s;
-  }
-  color: $theme-white;
-  cursor: pointer;
-  width: 100%;
-  padding: 8px 0;
+	margin: auto;
+	background: $colorPrimary;
+	@include transition($shortTransition);
+	&:hover,
+	&:focus {
+		background-color: $colorPrimaryLighten;
+	}
+	color: $colorWhite;
+	cursor: pointer;
+	width: 100%;
+	padding: 8px 0;
 }
 
 #mc_page input[type="submit"]:hover {
-  color: $theme-white
+	color: $colorWhite;
 }

@@ -4,50 +4,50 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $base-font-script;
-  color: darken($theme-gray, 25%);
-	font-weight: normal;
-  padding: .25em 0;
-  margin: .25em 0;
+	@include transition($shortTransition);
+	font-family: $primaryFont;
+	color: darken($colorGray, 25%);
+	padding: .25em 0;
+	margin: .25em 0;
 }
 
 p {
-  color: lighten($theme-gray, 25%);
-  font-family: $base-font-sans;
-  padding: .25em 0;
-  margin: .25em 0;
+	@include transition($shortTransition);
+	font-family: $secondaryFont;
+	color: $colorPrimaryLighten;
+	padding: .25em 0;
+	margin: .25em 0;
 }
 
 p.script {
-  font-family: $base-font-script;
-  display: inline;
-  font-weight: bold;
-  font-size: 1.5em;
+	font-family: $primaryFont;
+	display: inline;
+	font-size: 1.5em;
 }
 
 p.script-inline {
-  font-family: $base-font-sans;
-  display: inline;
+	font-family: $secondaryFont;
+	display: inline;
 }
 
 p.indent {
-  margin-left: 2.5em;
+	margin-left: 2.5em;
 }
 
 a {
-  color: $theme-white;
-  text-decoration: solid underline;
-  padding: 0;
-  margin: 0;
+	color: $colorWhite;
+	text-decoration: solid;
+	padding: $zeroPadding;
+	margin: $zeroMargin;
 }
 
 li {
-  color: $theme-gray;
-  font-family: $base-font-sans;
+	color: $colorGray;
+	font-family: $secondaryFont;
 }
 
 li.extra-indent {
-  margin-left: 2.5em;
+	margin-left: 2.5em;
 }
 
 ul.indent {

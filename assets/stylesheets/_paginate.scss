@@ -1,34 +1,34 @@
 .paginate {
-  a {
-    text-decoration: none;
-  }
-  .img {
-    border: $commonBorder;
-    margin: 1em 0 0 0;
-    padding: 0;
-  }
-  .arrow {
-    color: $theme-white;
-    text-align: center;
-    background-color: $theme-red;
+	a {
+		text-decoration: none;
+	}
+	.img {
 		border: $commonBorder;
-    margin: 1em 0;
+		margin: 1em 0 0 0;
+		padding: $zeroPadding;
+	}
+	.arrow {
+		color: $colorWhite;
+		text-align: center;
+		background-color: $colorPrimary;
+		border: $commonBorder;
+		margin: 1em 0;
 		padding: .25em;
-    border-radius: 2px;
-    box-shadow: $commonShadow;
-    &:hover,
-    &:focus {
-      background-color: lighten($theme-red, 5%);
-      box-shadow: $commonShadowHover;
-    }
-  }
-  .text {
-    text-align: center;
-    h3 {
-      font-family: $base-font-script;
-      color: darken($theme-gray, 25%);
-      font-weight: bold;
-      margin: 0 0 1em 0;
-    }
-  }
+		border-radius: $commonRadius;
+		box-shadow: $commonShadow;
+		@include transition($shortTransition);
+		&:hover,
+		&:focus {
+			background-color: $colorPrimaryLighten;
+			box-shadow: $commonShadowHover;
+		}
+	}
+	.text {
+		text-align: center;
+		h3 {
+			font-family: $primaryFont;
+			color: darken($colorGray, 25%);
+			margin: 0 0 1em 0;
+		}
+	}
 }
