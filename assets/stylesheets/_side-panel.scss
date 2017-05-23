@@ -5,7 +5,7 @@
   -webkit-transition: 1s all ease;
   transition: 1s all ease;
   h3 {
-    color: $theme-white;
+		color: $theme-white;
     text-align: center;
     background-color: $theme-red;
     margin: 0 0 1em 0;
@@ -17,20 +17,7 @@
       box-shadow: 1px 1px 2.5px $theme-gray;
     }
   }
-  h4 {
-    color: $theme-gray;
-    text-align: center;
-    background-color: $theme-yellow;
-    margin: 0 0 1em 0;
-    font-size: 1.25em;
-    &:hover,
-    &:focus {
-      background-color: lighten($theme-yellow, 10%);
-      transition: .5s;
-    }
-  }
   p {
-    color: lighten($theme-gray, 25%);
     text-align: left;
     margin: 1em;
   }
@@ -39,7 +26,7 @@
     text-align: left;
   }
   img {
-    border: 2px solid $theme-gray;
+    border: $commonBorder;
     margin: auto 0;
   }
   .twitter-section {
@@ -48,7 +35,7 @@
       display: none;
     }
     .tweets {
-      border: 2px solid $theme-gray;
+      border: $commonBorder;
       border-radius: 2px;
       box-shadow: 2px 2px 5px #020202;
     }

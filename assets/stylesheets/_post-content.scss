@@ -51,6 +51,7 @@
 		padding: .25em;
     border-radius: 2px;
     box-shadow: 2px 2px 5px $theme-gray;
+		border: $commonBorder;
     &:hover,
     &:focus {
       background-color: lighten($theme-red, 5%);

@@ -52,12 +52,11 @@
       font-family: $base-font-script
     }
     .sub-button {
-      border: 1px dotted $theme-gray;
+      border: $commonBorder;
       background-color: $theme-red;
       margin: 0 auto;
       &:hover,
       &:focus {
-        border: 1px solid darken($theme-gray, 25%);
         background-color: lighten($theme-red, 15%);
         transition: .5s;
       }
@@ -96,12 +95,11 @@
       font-family: $base-font-script
     }
     .sub-button {
-      border: 1px dotted $theme-gray;
+      border: $commonBorder;
       background-color: $theme-red;
       margin: 0 auto;
       &:hover,
       &:focus {
-          border: 1px solid darken($theme-gray, 25%);
           background-color: lighten($theme-red, 15%);
           transition: .5s;
       }

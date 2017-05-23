@@ -1,17 +1,21 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $base-font-script;
+  color: darken($theme-gray, 25%);
+	font-weight: normal;
+  padding: .25em 0;
+  margin: .25em 0;
+}
+
 p {
-  color: $theme-gray;
+  color: lighten($theme-gray, 25%);
   font-family: $base-font-sans;
-  padding: .5em 0 .5em 0;
-  margin: .5em 0 .5em 0;
-}
-
-li {
-  color: $theme-gray;
-  font-family: $base-font-sans;
-}
-
-li.extra-indent {
-  margin-left: 2.5em;
+  padding: .25em 0;
+  margin: .25em 0;
 }
 
 p.script {
@@ -26,26 +30,23 @@ p.script-inline {
   display: inline;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: $base-font-sans;
-  color: $theme-gray;
-  padding: 0;
-  margin: .5em 0 .5em 0;
+p.indent {
+  margin-left: 2.5em;
 }
 
 a {
   color: $theme-white;
-  text-decoration: dashed underline;
+  text-decoration: solid underline;
   padding: 0;
   margin: 0;
 }
 
-p.indent {
+li {
+  color: $theme-gray;
+  font-family: $base-font-sans;
+}
+
+li.extra-indent {
   margin-left: 2.5em;
 }
 

@@ -12,7 +12,7 @@
 		width: 100%;
 		background-color: $theme-red;
 		color: $theme-white;
-		border: 1px solid $theme-gray;
+		border: $commonBorder;
 		border-radius: 2px;
 		box-shadow: 2px 2px 4px $theme-gray;
 		&:hover{

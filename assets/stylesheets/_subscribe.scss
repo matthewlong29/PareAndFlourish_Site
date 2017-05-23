@@ -4,7 +4,7 @@
   padding: 1em;
   margin: 1em 0 1em 0;
   text-align: center;
-  border: 2px solid $theme-gray;
+  border: $commonBorder;
   border-radius: 2px;
   box-shadow: 2px 2px 5px #020202;
   p.title {
@@ -25,7 +25,7 @@
 }
 
 #mc_side input {
-  border: 1px solid $theme-gray;
+  border: $commonBorder;
   border-radius: 2px;
   color: $theme-gray;
   margin: auto;
@@ -65,13 +65,13 @@
   color: $theme-red;
   padding: 20px;
   text-align: center;
-  border: 2px solid $theme-gray;
+  border: $commonBorder;
   border-radius: 2px;
   box-shadow: 2px 2px 5px $theme-gray;
 }
 
 #mc_page input {
-  border: 1px solid $theme-gray;
+  border: $commonBorder;
   color: $theme-gray;
   margin: auto;
   margin-bottom: 10px;
