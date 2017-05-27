@@ -1,66 +1,66 @@
 .navbar-custom {
-  margin-bottom: 0;
-  border-bottom: 1px $colorGray;
-  font-family: $secondaryFont;
-  background-color: $colorPrimary;
-  z-index: 8675310;
-  box-shadow: $commonShadow;
-  border-radius: 0;
-  border-bottom-left-radius: $commonRadius;
-  border-bottom-right-radius: $commonRadius;
-  .navbar-toggle {
-    color: $colorWhite;
-    background-color: $colorPrimary;
-    font-size: 1em;
-    border-radius: $commonRadius;
-  }
-  .navbar-brand {
-    font-family: $primaryFont;
-    font-size: 1.8em;
-    text-decoration: none;
-  }
-  a {
-    color: $colorWhite;
-    background-color: $colorPrimary;
-  }
-  .nav li {
-    a {
-      color: $colorWhite;
-      background-color: $colorPrimary;
-      text-decoration: none;
+	margin-bottom: 0;
+	border-bottom: 1px $colorGray;
+	font-family: $secondaryFont;
+	background-color: $colorPrimary;
+	z-index: 8675310;
+	box-shadow: $commonShadow;
+	border-radius: 0;
+	border-bottom-left-radius: $commonRadius;
+	border-bottom-right-radius: $commonRadius;
+	.navbar-toggle {
+		color: $colorWhite;
+		background-color: $colorPrimary;
+		font-size: 1em;
+		border-radius: $commonRadius;
+	}
+	.navbar-brand {
+		font-family: $primaryFont;
+		font-size: 1.8em;
+		text-decoration: none;
+	}
+	a {
+		color: $colorWhite;
+		background-color: $colorPrimary;
+	}
+	.nav li {
+		a {
+			color: $colorWhite;
+			background-color: $colorPrimary;
+			text-decoration: none;
 			@include transition($shortTransition);
-      &:hover {
-        outline: none;
+			&:hover {
+				outline: none;
 				color: $colorPrimary;
-        background-color: $colorWhite;
-        border-radius: $commonRadius;
-      }
-    }
-  }
+				background-color: $colorWhite;
+				border-radius: $commonRadius;
+			}
+		}
+	}
 }
 
 @media (max-width: 992px) {
-  .nav > li > a {
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-    border-radius: $commonRadius;
-  }
+	.nav>li>a {
+		padding-left: 0.5em;
+		padding-right: 0.5em;
+		border-radius: $commonRadius;
+	}
 }
 
 ul.banner-social-buttons {
-  margin-top: 0;
+	margin-top: 0;
 }
 
 @media (max-width: 1200px) {
-  ul.banner-social-buttons {
-    margin-top: 15px;
-  }
+	ul.banner-social-buttons {
+		margin-top: 15px;
+	}
 }
 
 .navbar-custom .dropdown-menu {
-  background-color: $colorPrimary;
+	background-color: $colorPrimary;
 }
 
-.dropdown-menu > li > a {
-  color: $colorWhite;
+.dropdown-menu>li>a {
+	color: $colorWhite;
 }
