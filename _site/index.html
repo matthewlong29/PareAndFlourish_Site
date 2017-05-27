@@ -43,29 +43,24 @@
 <!-- Facebook App Moderation -->
 <meta property="fb:app_id" content="174295113036712" />
   
-	<!-- Link to rss feed -->
+	<!-- RSS. Link to rss feed. -->
 <link rel="alternate" type="application/rss+xml" title="Pare and Flourish - All Posts" href="/feed.xml">
 
-<!-- Stylesheets -->
-
-<!-- Custom Google Fonts -->
+<!-- Google Fonts. more information can be found at https://fonts.google.com/. -->
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Playfair+Display+SC|Open+Sans">
 
-<!-- Font Awesome (icons) -->
-<script src="https://use.fontawesome.com/e0e0737231.js"></script>
+<!-- Animate.css. More information can be found at https://github.com/daneden/animate.css. -->
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 
-<!-- animate.css -->
-<link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/animate/animate.css">
+<!-- Mailchimp. This is the subscriber tool css link. Custom css overrides can be found in subscribe.scss. More information can be found at https://mailchimp.com/resources/guides/getting-started-with-mailchimp/html/. -->
+<link rel="stylesheet" type="text/css" href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css">
 
-<!-- Custom CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-<!-- This is the subscriber tool css link (custom css overrides can be found in subscribe.scss -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-
-<!-- This includes bootstrap, sass partials, navbar, and other plugins -->
+<!-- Main CSS. This includes bootstrap overrides, mailchimp overrides, scss partial, and more. -->
 <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/stylesheets/main.css">
 
-<!-- Favicons -->
+<!-- Favicons.  -->
 <link rel="apple-touch-icon" sizes="180x180" href="http://localhost:4000/images/icons/apple-touch-icon.png">
 <link rel="icon" type="image/png" href="http://localhost:4000/images/icons/favicon-32x32.png" sizes="32x32">
 <link rel="icon" type="image/png" href="http://localhost:4000/images/icons/favicon-16x16.png" sizes="16x16">
@@ -472,69 +467,51 @@
 
 		</div>
 
-		<!-- Javascript -->
+		<!-- jQuery. More information can be found at https://jquery.com/. -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
-  <!-- jquery -->
-  <script type="text/javascript" src="http://localhost:4000/assets/javascript/vendor/jquery.js"></script>
+<!-- Font Awesome. More information can be found at http://fontawesome.io/. -->
+<script src="https://use.fontawesome.com/250d6e5b7f.js"></script>
 
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
-  
-  <script type="text/javascript" src="http://localhost:4000/assets/javascript/animate-sidebar.js"></script>
-  
-  <script type="text/javascript" src="http://localhost:4000/assets/javascript/animate-sub-button.js"></script>
-	
-	<script type="text/javascript" src="http://localhost:4000/assets/javascript/loadmore.js"></script>
-	
-	<script type="text/javascript" src="http://localhost:4000/assets/javascript/stickynav.js"></script>
+<!-- Animate. Adding animate.css classes. Also, changes the visibility of certain elements to visible on page load. -->
+<script type="text/javascript" src="http://localhost:4000/assets/javascript/animateElements.js"></script>
 
-	<script type="text/javascript" src="http://localhost:4000/assets/javascript/hideMailChimp.js"></script>
+<!-- Load more posts. The button at the bottom of the homepage. Consider /blog/page2/, for example, which is setup by Jekylls pagination (https://jekyllrb.com/docs/pagination/) system. This gets it using jQuerys $.get method. It is then displayed under the current "page". Jekylls pagination is stup using liquid seen on the home index page. -->
+<script type="text/javascript" src="http://localhost:4000/assets/javascript/loadMore.js"></script>
 
-	<script type="text/javascript" src="http://localhost:4000/assets/javascript/fadeInContent.js"></script>
-  
-  <!-- Bootstrap Core JavaScript -->
-  <script type="text/javascript" src="http://localhost:4000/assets/bootstrap/js/bootstrap.js"></script>
+<!-- Bootstrap. Core JavaScript for Bootstrap. The latest can be seen at http://getbootstrap.com/getting-started/#download. -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
-  <!-- Navbar Collapse -->
-  <script type="text/javascript" src="http://localhost:4000/assets/javascript/navcollapse.js"></script>
+<!-- Navbar. Navbar "sticks" to top of page when scrolling down to it. -->
+<script type="text/javascript" src="http://localhost:4000/assets/javascript/navSticky.js"></script>
 
-  <!-- Twitter widget -->
-  <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- Navbar. Makes the navbar collapse. -->
+<script type="text/javascript" src="http://localhost:4000/assets/javascript/navCollapse.js"></script>
 
-  <!-- Subscribe Tool (mailchimp.com) -->
-  <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+<!-- Twitter. Displays twitter feed on each post. More information can be found at https://dev.twitter.com/web/overview. -->
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-  <script type="text/javascript" src="http://localhost:4000/assets/javascript/subscribe.js"></script>
+<!-- Facebook. Displays comments at the bottom of each post. More information can be found at https://developers.facebook.com/docs/plugins/comments/. -->
+<div id="fb-root"></div>
+<script type="text/javascript" src="http://localhost:4000/assets/javascript/facebookComments.js"></script>
 
-  <!-- Facebook Comments -->
-  <div id="fb-root"></div>
-  <script type="text/javascript" src="http://localhost:4000/assets/javascript/facebook-comments.js"></script>
+<!-- Pinterest. Button that displays over every image except for ones that have the Pinterest "data-pin-nopin='true'" tag. -->
+<script async defer data-pin-hover="true" data-pin-tall="true" data-pin-save="true" src="//assets.pinterest.com/js/pinit.js"></script>
 
-  <!-- Pinterest Button -->
-  <script async defer data-pin-hover="true" data-pin-tall="true" data-pin-save="true" src="//assets.pinterest.com/js/pinit.js"></script>
-  
-  <!-- Mailchimp Subscribe Popup -->
-  <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us14.list-manage.com","uuid":"21b3326a4d3b41c8b98c42507","lid":"32335e5912"}) })</script>
+<!-- Mailchimp. Subscribe tool. More information can be found at http://kb.mailchimp.com/lists/signup-forms/add-a-signup-form-to-your-website. -->
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
 
-  <!-- Google Analytics -->
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+<!-- Mailchimp. Form names. -->
+<script type="text/javascript" src="http://localhost:4000/assets/javascript/subscribe.js"></script>
 
-    ga('create', 'UA-86211989-1', 'auto');
-    ga('send', 'pageview');
-  </script>
+<!-- Mailchimp. Subscribe here popup.  -->
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us14.list-manage.com","uuid":"21b3326a4d3b41c8b98c42507","lid":"32335e5912"}) })</script>
 
-  <!-- Google AdSense -->
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mailchimp. Hide mailchimp popup when clicking or touching outside of popup. This will not permanently hide the popup; meaning it will show again on next page load. This is different than if the user clicks the close button. -->
+<script type="text/javascript" src="http://localhost:4000/assets/javascript/hideMailChimp.js"></script>
 
-  <script>
-    (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-5907828496259396",
-    enable_page_level_ads: true
-    });
-  </script>
+<!-- Google Analytics. More information can be found at https://developers.google.com/analytics/. -->
+<script type="text/javascript" src="http://localhost:4000/assets/javascript/googleScripts.js"></script>
 	</body>
 
 </html>
