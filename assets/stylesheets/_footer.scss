@@ -8,22 +8,21 @@
 		color: darken($colorWhite, 35%);
 		font-size: .9em;
 	}
-	p.alt {
-		margin-top: 0;
-		padding-top: 0;
-	}
 	a {
-		color: darken($colorWhite, 35%);
-		font-size: 1em;
 		text-decoration: none;
+		color: $colorWhite;
+		border-bottom: 1px solid;
 		@include transition($shortTransition);
 		&:hover {
-			border-bottom: 0px;
-			color: $colorWhite;
+			border-bottom: 2px solid;
+			color: darken($colorWhite, 0.5);
 		}
 	}
-	a.alt {
-		border-bottom: 1px dotted;
+	a.socialLinks {
+		border-bottom: none;
+		&:hover {
+			border-bottom: none;
+		}
 	}
 	.footerLinks {
 		display: flex;
@@ -33,26 +32,5 @@
 		p {
 			padding: 0 5px;
 		}
-	}
-	.twitter-color {
-		color: $colorTwitter;
-	}
-	.facebook-color {
-		color: $colorFacebook;
-	}
-	.github-color {
-		color: $colorGithub;
-	}
-	.pinterest-color {
-		color: $colorPinterest;
-	}
-	.paypal-color {
-		color: $colorPaypal;
-	}
-	.instagram-color {
-		color: $colorInstagram;
-	}
-	.rss-color {
-		color: $colorRSS;
 	}
 }
