@@ -3,28 +3,12 @@
 	<section id="side-panel">
 		<div class="side-panel">
 
-			{% if page.image.vteaser %}
-
-			<section id="current-vteaser">
-				<div class="current-teaser tease"> 
-					<img src="{{ site.url }}/images/teasers-1080x600/{{ page.image.vteaser }}" class="img-responsive webfeedsFeaturedVisual" alt="{{ page.image.alt }}" /> 
-				</div>
-			</section>
-
-			{% elsif page.image.teaser %}
-
-			<section id="current-teaser">
-				<div class="current-teaser"> 
-					<img src="{{ site.url }}/images/teasers-1080x600/{{ page.image.teaser }}" class="img-responsive webfeedsFeaturedVisual" alt="{{ page.image.alt }}" /> 
-				</div>
-			</section>
-
-			{% endif %}
+			<img src="{{site.url}}/images/other/resumeGraphic.jpg" class="img-responsive webfeedsFeaturedVisual" alt="Download our Job Search Package" />
 
 			<section id="twitter">
 				<div class="twitter-section">
-					<div class="tweets">
-						<a class="twitter-timeline" data-lang="en" data-width="1000" data-height="500" data-theme="light" data-chrome="nofooter transparent noscrollbar" data-tweet-limit="10" href="https://twitter.com/pareandflourish"></a>
+					<div class="tweets"> 
+						<a class="twitter-timeline" data-lang="en" data-width="1000" data-height="500" data-theme="light" data-chrome="nofooter transparent noscrollbar" href="https://twitter.com/pareandflourish">Tweets by pareandflourish</a> 
 					</div>
 					<a href="{{ site.links.twitter }}" target="_blank">
 						<h3>See more here! <i class="fa fa-twitter"></i></h3>
@@ -60,19 +44,11 @@
 
 			{% if page.image.vteaser %}
 
-			<section id="current-vteaser">
-				<div class="current-teaser tease"> 
-					<img src="{{ site.url }}/images/teasers-1080x600/{{ page.image.vteaser }}" class="img-responsive webfeedsFeaturedVisual" alt="{{ page.image.alt }}" /> 
-				</div>
-			</section> 
+				<img src="{{ site.url }}/images/teasers-1080x600/{{ page.image.vteaser }}" class="img-responsive webfeedsFeaturedVisual" alt="{{ page.image.alt }}" /> 
 
 			{% elsif page.image.teaser %}
 
-			<section id="current-teaser">
-				<div class="current-teaser"> 
-					<img src="{{ site.url }}/images/teasers-1080x600/{{ page.image.teaser }}" class="img-responsive webfeedsFeaturedVisual" alt="{{ page.image.alt }}" /> 
-				</div>
-			</section> 
+				<img src="{{ site.url }}/images/teasers-1080x600/{{ page.image.teaser }}" class="img-responsive webfeedsFeaturedVisual" alt="{{ page.image.alt }}" />
 
 			{% endif %}
 
