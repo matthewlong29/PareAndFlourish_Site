@@ -55,32 +55,14 @@
 			width: 10.0%;
 		}
 	}
-	body {
-		padding: 40px;
-		font-size: 12px;
-		line-height: 1;
-	}
-	h1 {
-		font-weight: bold;
-		text-transform: uppercase;
-		font-size: 20px;
-		margin: 0 0 5px 0;
-	}
-	h2 {
-		font-size: 10px;
-		color: $colorWhite;
-		margin: 0 0 20px 0;
-	}
-	a {
-		text-decoration: none;
-	}
 	ol, ul {
 		list-style: none;
 	}
 	#home {
 		display: block;
 		float: none;
-		background: $colorWhite url('../../images/other/slickmap/L1-left.png') center bottom no-repeat;
+		background: url('../../images/other/slickmap/L1-left.png') center bottom no-repeat;
+		background-color: $colorWhite;
 		position: relative;
 		z-index: 2;
 		padding: 0 0 30px 0;
@@ -92,21 +74,17 @@
 		margin-top: -30px;
 		a {
 			margin: 0 20px 0 0;
-			padding: 10px 0;
 			display: block;
-			font-size: 14px;
-			font-weight: bold;
 			text-align: center;
 			color: $colorWhite;
-			background: $colorBlack url('../../images/other/slickmap/white-highlight.png') top left repeat-x;
+			background: url('../../images/other/slickmap/white-highlight.png') top left repeat-x;
+			background-color: $colorBlack;
 			border: $commonBorder;
-			-moz-border-radius: 5px;
-			-webkit-border-radius: 5px;
-			-webkit-box-shadow: rgba(0, 0, 0, 0.5) 2px 2px 2px;
-			-moz-box-shadow: rgba(0, 0, 0, 0.5) 2px 2px 2px;
+			border-radius: $commonRadius;
+			box-shadow: $commonShadow;
+			@include transition($shortTransition);
 			&:hover {
-				background-color: $colorGray;
-				border-color: $colorBlack;
+				box-shadow: $commonShadowHover;
 			}
 		}
 		&:last-child {
@@ -114,11 +92,11 @@
 		}
 	}
 	a {
+		padding: .25em;
+		text-decoration: none;
 		&:link:before,
 		&:visited:before {
 			display: block;
-			text-transform: uppercase;
-			font-size: 10px;
 			margin-bottom: 5px;
 			word-wrap: break-word;
 		}
@@ -137,12 +115,8 @@
 			padding: 10px 0 0 0;
 			background: url('../../images/other/slickmap/vertical-line.png') center bottom repeat-y;
 			a {
-				background-color: $colorGray;
+				background-color: $colorBlack;
 				border-color: $colorBlack;
-				&:hover {
-					border-color: $colorBlack;
-					background-color: $colorGray;
-				}
 			}
 			&:first-child {
 				padding-top: 30px;
@@ -161,22 +135,18 @@
 				width: 100%;
 				float: right;
 				padding: 9px 0 10px 0;
-				background: $colorWhite url('../../images/other/slickmap/L3-ul-top.png') center top no-repeat;
+				background: url('../../images/other/slickmap/L3-ul-top.png') center top no-repeat;
+				background-color: $colorWhite;
 			}
 			li {
 				background: url('../../images/other/slickmap/L3-center.png') left center no-repeat;
 				padding: 5px 0;
 				a {
-					background-color: $colorGray;
+					background-color: $colorBlack;
 					border-color: $colorBlack;
-					font-size: 12px;
 					padding: 5px 0;
 					width: 80%;
 					float: right;
-					&:hover {
-						background-color: $colorGray;
-						border-color: $colorBlack;
-					}
 				}
 				&:first-child {
 					padding: 15px 0 5px 0;
@@ -189,7 +159,6 @@
 					&:link:before,
 					&:visited:before {
 						color: $colorWhite;
-						font-size: 9px;
 					}
 				}
 			}
@@ -207,23 +176,19 @@
 				padding: 5px 10px;
 				display: block;
 				border: $commonBorder;
-				font-size: 12px;
-				font-weight: bold;
 				text-align: center;
 				color: $colorWhite;
-				background: $colorWhite url('../../images/other/slickmap/white-highlight.png') top left repeat-x;
-				-moz-border-radius: 5px;
-				-webkit-border-radius: 5px;
-				-webkit-box-shadow: rgba(0, 0, 0, 0.5) 2px 2px 2px;
-				-moz-box-shadow: rgba(0, 0, 0, 0.5) 2px 2px 2px;
+				background: url('../../images/other/slickmap/white-highlight.png') top left repeat-x;
+				background-color: $colorWhite;
+				border-radius: $commonRadius;
+				box-shadow: $commonShadow;
+				@include transition($shortTransition);
 				&:hover {
-					background-color: $colorGray;
-					border-color: $colorBlack;
+					box-shadow: $commonShadowHover;
 				}
 				&:link:before,
 				&:visited:before {
 					color: $colorWhite;
-					font-size: 9px;
 					margin-bottom: 3px;
 				}
 			}
