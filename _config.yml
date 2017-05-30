@@ -1,10 +1,17 @@
 url: http://www.pareandflourish.com
+
 title: Pare and Flourish
+
 description: A professional development blog teaching you how to pitch your brand in your career. Come read the latest millennial career advice from the job search, to career development, and everything in between.
+
 owner: Pare and Flourish
+
 first_published: 2016-10-03
+
 email: contact@pareandflourish.com
+
 keywords: pare, flourish, authenticity, personal development, professional development
+
 links:
   twitter: https://twitter.com/pareandflourish/
   facebook: https://www.facebook.com/pareandflourish/
@@ -13,8 +20,6 @@ links:
   pinterest: https://www.pinterest.com/pareandflourish/
   paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5JHZTSRZ52BZ6
   rss: http://www.pareandflourish.com/feed.xml
-
-team: Skylar Wooden, Katie Butler, and Matthew Long
 
 paginate: 6
 paginate_path: "/blog/page:num/"
@@ -31,6 +36,17 @@ assets:
 sass:
   sass_dir: assets/stylesheets
   style: compressed
+
+include:
+  - _pages
+exclude:
+  - Gemfile
+  - LICENSE.txt
+  - README.md
+  - .asset-cache
+  - .sass-cache
+  - .gitattributes
+  - .gitignore
 
 gems:
   - jekyll
