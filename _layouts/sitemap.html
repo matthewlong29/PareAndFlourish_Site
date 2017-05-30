@@ -1,0 +1,27 @@
+--- 
+layout: default 
+---
+
+<!-- Feature image -->
+{% include featureImage.html %}
+
+<!-- Navigation bar -->
+{% include nav.html %}
+
+<!-- Page container (bootstrap). -->
+<div class="container">
+	
+	{% include socialFront.html %} 
+	
+	<hr class="secondary">
+
+	<div class="row">
+		<div class="post-content">
+
+			{{ content }}
+
+		</div>
+
+	</div>
+
+</div>
