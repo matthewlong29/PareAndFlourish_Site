@@ -9,12 +9,6 @@
 			<img src="{{site.url}}/images/header/startHere.jpg" class="img-responsive" data-pin-nopin="true">
 		</div>
 
-		{% elsif page.url == "/tags/" %}
-
-		<div class="feature-image">
-			<img src="{{site.url}}/images/header/startHere.jpg" class="img-responsive" data-pin-nopin="true">
-		</div>
-
 		{% elsif page.url == "/work-with-us/" %}
 
 		<div class="feature-image">
@@ -27,7 +21,7 @@
 			<img src="{{site.url}}/images/header/readingList.jpg" class="img-responsive" data-pin-nopin="true">
 		</div>
 
-		{% elsif page.url == "/join-pare-and-flourish/" %}
+		{% elsif page.url == "/join-pare-and-flourish/" or page.url == "/sitemap/" or page.url == "/tags/" %}
 
 		<div class="feature-image">
 			<img src="{{site.url}}/images/header/joinPareAndFlourish.jpg" class="img-responsive" data-pin-nopin="true">
@@ -38,7 +32,7 @@
 		<div class="feature-image">
 			<img src="{{site.url}}/images/header/404.jpg" class="img-responsive" data-pin-nopin="true">
 		</div>
-		
+				
 		{% else %}
 
 		<div class="feature-image">
