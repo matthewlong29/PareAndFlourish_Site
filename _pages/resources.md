@@ -4,10 +4,9 @@ layout: content-page
 title: Reading List
 
 permalink: /resources/
-
 ---
 
-<h2>Reading List</h2>
+## Reading List
 
 <p>If we ever mention an item or quote a book that sparks your interest, you'll find a link for it here! This page contains affiliate linking. If you would like to support our blog, and you choose to buy something from this page, we receive a portion of the revenue from your purchase. We’ll use that support to bring you more content. So, we owe you one!</p>
 

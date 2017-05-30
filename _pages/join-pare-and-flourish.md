@@ -1,13 +1,15 @@
 ---
 layout: content-page
+
 title: Join Pare and Flourish
+
 permalink: /join-pare-and-flourish/
 ---
 
 
-<h2>Join Pare and Flourish</h2>
+## Join Pare and Flourish
 
-<h3>The 5-Part Job Search Package</h3>
+### The 5-Part Job Search Package
 
 <p>Are you prepared for your job search? Let us help you!</p>
 

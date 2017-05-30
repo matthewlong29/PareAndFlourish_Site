@@ -4,10 +4,10 @@ layout: content-page
 title: Start Here
 
 permalink: /start-here/
-
 ---
 
-<h2>Flourish with us!</h2>
+## Flourish with us!
+
 <p>This unique blog is written by two very different people, living very different lives.</p>
 
 <p class="script">Skylar</p><p class="script-inline">, the creative one, the Writer.</p><br>

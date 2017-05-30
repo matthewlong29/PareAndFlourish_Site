@@ -4,10 +4,9 @@ layout: content-page
 title: Work With Us
 
 permalink: /work-with-us/
-
 ---
 
-<h2>Increase Traffic with Minimal Effort</h2>
+## Increase Traffic with Minimal Effort
 
 <p>Pare and Flourish is brought to you by a team with writing, editing, web designing, and business consultation skills. We’re compiling these skills to create a product that reflects our 12 years of combined education and field experience. Our blog serves as a testament to our writing and web design skills, and we’re happy to discuss our business consultation skills at length.</p>
 
