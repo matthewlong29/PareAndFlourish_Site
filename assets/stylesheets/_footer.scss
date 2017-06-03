@@ -1,21 +1,22 @@
-.social-section {
+#footer {
 	min-height: 7.5vh;
-	background-color: transparentize($colorGray, 0.15);
 	text-align: center;
-	border-radius: $commonRadius;
-	box-shadow: $commonShadow;
+	margin-top: 2em;
+	img {
+		border: 0;
+		box-shadow: none;
+		max-width: 200px;
+	}
 	p {
-		color: darken($colorWhite, 35%);
-		font-size: .9em;
+		font-size: .85em;
 	}
 	a {
 		text-decoration: none;
-		color: $colorWhite;
+		color: $colorBlack;
 		border-bottom: 1px solid;
 		@include transition($shortTransition);
 		&:hover {
 			border-bottom: 2px solid;
-			color: darken($colorWhite, 0.5);
 		}
 	}
 	a.socialLinks {
