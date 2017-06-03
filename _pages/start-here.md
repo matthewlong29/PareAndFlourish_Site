@@ -25,7 +25,7 @@ permalink: /start-here/
 
 <p>Finally, we can’t forget our Executive Web Developer, Matthew Long. Without him, none of this is possible. Check out the additional services that he offers in the <a href="../work-with-us/index.html">Work With Us</a> page.</p>
 
-<br><hr class="secondary"><br>
+<hr class="secondary">
 
 <div class="row about-us">
     <div class="col-lg-4 col-sm-4">
@@ -48,4 +48,4 @@ permalink: /start-here/
   
 </div>
 
-<br><hr class="secondary"><br>
+<hr class="secondary">
