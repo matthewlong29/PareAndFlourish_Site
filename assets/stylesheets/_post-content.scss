@@ -40,10 +40,11 @@
 .subscribeBottom {
 	margin-bottom: 1em;
 	.download {
+		font-family: $primaryFont;
 		color: $colorWhite;
 		text-align: center;
 		background-color: $colorPrimary;
-		margin: 1em;
+//		margin: 1em;
 		padding: .25em;
 		border-radius: $commonRadius;
 		box-shadow: $commonShadow;
