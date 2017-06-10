@@ -35,9 +35,7 @@
 				
 		{% else %}
 
-		<div class="feature-image">
-			<img src="{{site.url}}/images/header/{{page.image.ftlarge}}" class="img-responsive" data-pin-nopin="true">
-		</div>
+			{% include carousel.html %}
 
 		{% endif %}
 
