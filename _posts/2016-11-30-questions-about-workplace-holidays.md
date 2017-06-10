@@ -16,8 +16,6 @@ excerpt: "Holidays are possibly the best time of the year—maybe theoretically 
 categories: blog
 
 image:
-  ftsmall: bonu-small.jpg
-  ftlarge: bonu-large.jpg
   teaser: workplace-holidays.jpg
   alt: "Your Questions About Workplace Holidays, Answered"
 

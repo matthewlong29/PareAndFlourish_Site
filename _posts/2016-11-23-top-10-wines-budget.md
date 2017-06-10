@@ -16,8 +16,6 @@ excerpt: "It’s that time of year again! No, not Christmas. The time of year wh
 categories: blog
 
 image:
-  ftsmall: bonu-small.jpg
-  ftlarge: bonu-large.jpg
   teaser: top-ten-wines.jpg
   alt: "Top 10 Wines on a Budget"
 

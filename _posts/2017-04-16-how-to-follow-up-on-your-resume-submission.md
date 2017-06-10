@@ -16,8 +16,6 @@ excerpt: "You’ve filled out your resume and submitted the application. Congrat
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: resume-follow-up.jpg
   vteaser: resume-follow-up-v.jpg
   alt: "How to Follow up on Your Resume Submission"

@@ -16,8 +16,6 @@ excerpt: "Imagine your work day without email. It’s nearly impossible. How wou
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: email-ruins-conversations.jpg
   vteaser: email-ruins-conversations-v.jpg
   alt: "Why Email Ruins our Conversations"

@@ -16,8 +16,6 @@ excerpt: "As a young professional, it can be difficult to find your own voice. E
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: effortlessConversation.jpg
   alt: "How to Have an Effortless Conversation"
 

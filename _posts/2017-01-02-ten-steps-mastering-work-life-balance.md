@@ -16,8 +16,6 @@ excerpt: "Technology allows you to work anywhere any time. Laptops, smartphones,
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: work-life-balance.jpg
   vteaser: work-life-balance-v.jpg
   alt: "Ten Steps to Mastering Work-Life Balance"

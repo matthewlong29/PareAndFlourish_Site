@@ -16,8 +16,6 @@ excerpt: "If a last minute trip to the mall—arms full of socks—feels familia
 categories: blog
 
 image:
-  ftsmall: pers-small.jpg
-  ftlarge: pers-large.jpg
   teaser: gift-giving-purpose.jpg
   alt: "A Guide to Gift Giving with Purpose"
 

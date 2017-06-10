@@ -16,8 +16,6 @@ excerpt: "If you write the blog that you always wanted to write, but no one read
 categories: blog
 
 image:
-  ftsmall: pers-small.jpg
-  ftlarge: pers-large.jpg
   teaser: introducing.jpg
   alt: "Introducing Pare and Flourish"
 

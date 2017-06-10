@@ -16,8 +16,6 @@ excerpt: "Unlike face-to-face networking events, LinkedIn lets you make connecti
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: use-linkedin.jpg
   vteaser: use-linkedin-v.jpg
   alt: "5 Steps to Use LinkedIn Effectively"

@@ -16,8 +16,6 @@ excerpt: "Professional boundaries are subjective. They aren’t set in stone. Th
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: howToCreateProfessionalBoundaries.jpg
   alt: "How to Create Professional Boundaries"
 

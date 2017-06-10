@@ -16,8 +16,6 @@ excerpt: "Networking can be challenge-ing (see what we did there?). Bad jokes as
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: networking-challenge-new-year.jpg
   vteaser: networking-challenge-infographic.jpg
   alt: "New Year New Netork: Networking Challenge"

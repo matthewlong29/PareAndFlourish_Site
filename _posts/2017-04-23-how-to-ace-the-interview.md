@@ -16,8 +16,6 @@ excerpt: "If you’re at this part of the process, you have submitted a fantasti
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: ace-interview.jpg
   alt: "How to Ace the Interview"
 

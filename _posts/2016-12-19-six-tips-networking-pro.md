@@ -16,8 +16,6 @@ excerpt: "Even for those of us who don’t struggle with communication, networki
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: networking-tips.jpg
   vteaser: networking-tips-v.jpg
   alt: "Six Tips to Networking Like a Pro"

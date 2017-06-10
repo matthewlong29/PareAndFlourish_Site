@@ -16,8 +16,6 @@ excerpt: "Job interviews are scary. We can all agree on this, right? Even if you
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: introvert-interview-tips.jpg
   vteaser: introvert-interview-tips-v.jpg
   alt: "Interview Tips from an Introvert"

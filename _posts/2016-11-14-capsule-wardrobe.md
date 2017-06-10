@@ -16,8 +16,6 @@ excerpt: "What’s a capsule wardrobe and why do you care? A capsule wardrobe is
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: capsule-wardrobe.jpg
   alt: "Capsule Wardrobe for the Young Professional: A Beginner’s Guide"
 

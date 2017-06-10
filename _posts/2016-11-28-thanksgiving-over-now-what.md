@@ -16,8 +16,6 @@ excerpt: "It’s Monday. You spent all of your “vacation” time driving out o
 categories: blog
 
 image:
-  ftsmall: pers-small.jpg
-  ftlarge: pers-large.jpg
   teaser: thanksgiving-over.jpg
   alt: "Thanksgiving is Over. Now What?"
 

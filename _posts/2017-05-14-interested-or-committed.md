@@ -16,8 +16,6 @@ excerpt: "Are you interested or committed? No, this isn’t a question about you
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: interestedOrCommitted.jpg
   alt: "Interested or Committed"
 

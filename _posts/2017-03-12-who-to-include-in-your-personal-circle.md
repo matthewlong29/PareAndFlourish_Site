@@ -16,8 +16,6 @@ excerpt: "In a time of need, you want people you can run to with your questions.
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: professional-circle.jpg
   vteaser: professional-circle-v.jpg
   alt: "Who to Include in Your Professional Circle"

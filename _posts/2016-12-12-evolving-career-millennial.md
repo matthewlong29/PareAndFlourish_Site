@@ -16,8 +16,6 @@ excerpt: "As millennials, we often hear ourselves described as entitled by older
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: evolving-millennial.jpg
   alt: "The Evolving Career of the Millennial"
 
