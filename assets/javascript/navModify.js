@@ -11,3 +11,9 @@ $(document).ready(function () {
 	});
 
 });
+
+$(document).click(function (e) {
+	if (!$(e.target).is('a') && !$(e.target).is('input')) {
+		$('.collapse').collapse('hide');
+	}
+});
