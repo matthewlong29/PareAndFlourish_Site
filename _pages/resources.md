@@ -91,5 +91,3 @@ permalink: /resources/
 </section>
 
 <hr class="secondary">
-
-<hr class="primary">
