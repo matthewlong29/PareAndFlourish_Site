@@ -16,8 +16,6 @@ excerpt: "We’re all guilty of working through our lunch breaks. The intention 
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: lunch-break.jpg
   vteaser: lunch-break-v.jpg
   alt: "What You Should Actually Do on Your Lunch Break"

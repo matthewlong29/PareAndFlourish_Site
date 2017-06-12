@@ -16,8 +16,6 @@ excerpt: "When was the last time that you did nothing? Really think about that. 
 categories: blog
 
 image:
-  ftsmall: pers-small.jpg
-  ftlarge: pers-large.jpg
   teaser: self-care.jpg
   alt: "Three Ways to Implement Self-Care. Now."
 

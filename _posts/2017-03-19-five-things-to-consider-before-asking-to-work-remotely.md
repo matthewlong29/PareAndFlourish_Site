@@ -16,8 +16,6 @@ excerpt: "For some, working from home is the dream. For others, working from hom
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: work-remotely.jpg
   vteaser: work-remotely-v.jpg
   alt: "5 Things to Consider Before Asking to Work Remotely"

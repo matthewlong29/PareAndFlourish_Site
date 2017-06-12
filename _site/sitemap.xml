@@ -157,7 +157,15 @@
 <lastmod>2017-06-04T00:00:00-04:00</lastmod>
 </url>
 <url>
+<<<<<<< HEAD
 <loc>http://localhost:4000/404/</loc>
+=======
+<loc>http://www.pareandflourish.com/blog/networking-why-you-should-never-stop/</loc>
+<lastmod>2017-06-11T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://www.pareandflourish.com/404/</loc>
+>>>>>>> cdae00e13b45d7ea0d99fcd0dba9970d71e780ff
 </url>
 <url>
 <loc>http://localhost:4000/</loc>

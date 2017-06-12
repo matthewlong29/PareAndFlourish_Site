@@ -16,8 +16,6 @@ excerpt: "What does it mean to live authentically? Authenticity, as it relates t
 categories: blog
 
 image:
-  ftsmall: pers-small.jpg
-  ftlarge: pers-large.jpg
   teaser: authenticity-what-it-means.jpg
   alt: "Authenticity: What it Means to You"
 

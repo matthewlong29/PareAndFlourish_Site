@@ -16,8 +16,6 @@ excerpt: "You may have seen an advertisement on Facebook, or another platform, f
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: shapr.jpg
   alt: "Why You Should be Using the Shapr Networking App"
 

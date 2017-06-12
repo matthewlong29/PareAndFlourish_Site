@@ -16,8 +16,6 @@ excerpt: "At 10AM, we’re alert and ready for anything the day throws at us. If
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: how-to-be-productive.jpg
   vteaser: how-to-be-productive-v.jpg
   alt: "How to be Productive (When You’d Rather Just Go Home)"

@@ -16,8 +16,6 @@ excerpt: "It’s no secret that the playing field is uneven. Women are seen thro
 categories: blog
 
 image:
-  ftsmall: bonu-small.jpg
-  ftlarge: bonu-large.jpg
   teaser: review-lean-in.jpg
   alt: "Review of Lean In"
 

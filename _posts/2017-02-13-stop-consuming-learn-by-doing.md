@@ -16,8 +16,6 @@ excerpt: "As I started my sophomore year of chemical engineering, I thought I ha
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: learn-by-doing.jpg
   vteaser: learn-by-doing-v.jpg
   alt: "Stop Consuming: Learn by Doing!"

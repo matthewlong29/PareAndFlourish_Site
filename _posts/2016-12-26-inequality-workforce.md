@@ -16,8 +16,6 @@ excerpt: "People love to say, or blindly believe, that sexism in the workplace i
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: inequality-workforce.jpg
   vteaser: inequality-workforce-v.jpg
   alt: "Work Like a Girl: Inequality in the Workforce"

@@ -16,8 +16,6 @@ excerpt: "When you’re finishing up your third episode on Netflix and it asks i
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: effectively-set-goals.jpg
   alt: "How to Effectively Set Goals"
 

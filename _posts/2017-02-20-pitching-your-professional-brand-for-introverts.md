@@ -16,8 +16,6 @@ excerpt: "If you identify as an introvert, it can be challenging to get your nam
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: branding-for-introverts.jpg
   vteaser: branding-for-introverts-v.jpg
   alt: "Stop Consuming: Learn by Doing!"

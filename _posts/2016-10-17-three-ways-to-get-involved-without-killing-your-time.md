@@ -16,8 +16,6 @@ excerpt: "Do your best at your day job, but don’t give it all of yourself. Giv
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: three-ways-involved.jpg
   alt: "Three Ways to Get Involved Without Killing Your Time"
 

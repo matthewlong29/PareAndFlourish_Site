@@ -16,8 +16,6 @@ excerpt: "Women are faced with these issues subtly, and otherwise, frequently th
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: mens-reaction-inequality.jpg
   alt: "Men's Reactions to Work Like a Girl: Inequality in the Workforce"
 

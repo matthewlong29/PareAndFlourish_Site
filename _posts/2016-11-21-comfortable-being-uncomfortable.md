@@ -16,8 +16,6 @@ excerpt: "Humans love comfort. While itâ€™s not always a conscious decision, weâ
 categories: blog
 
 image:
-  ftsmall: pers-small.jpg
-  ftlarge: pers-large.jpg
   teaser: comfortable-uncomfortable.jpg
   alt: "Being Comfortable with Being Uncomfortable"
 

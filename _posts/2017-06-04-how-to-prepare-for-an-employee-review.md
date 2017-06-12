@@ -16,8 +16,6 @@ excerpt: "You don’t always have your employer’s undivided attention, so now 
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: howToPrepareForAnEmployeeReview.jpg
   alt: "How to Prepare for an Employee Review"
 

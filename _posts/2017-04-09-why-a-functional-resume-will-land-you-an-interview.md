@@ -16,8 +16,6 @@ excerpt: "Your traditional resume focuses on your work history in reverse chrono
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: functional-resume.jpg
   vteaser: functional-resume-v.jpg
   alt: "Why a “Functional Resume” Will Land you an Interview"

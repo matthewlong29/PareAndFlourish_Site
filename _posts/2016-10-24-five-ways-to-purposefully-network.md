@@ -16,8 +16,6 @@ excerpt: "It’s never about how many people you meet, it’s about who you meet
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: five-ways-to-network.jpg
   alt: "Five Ways to Purposefully Network"
 

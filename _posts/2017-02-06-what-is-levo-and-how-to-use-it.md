@@ -16,8 +16,6 @@ excerpt: "Levo is like LinkedIn’s fun sibling. Its platform is professional at
 categories: blog
 
 image:
-  ftsmall: prof-small.jpg
-  ftlarge: prof-large.jpg
   teaser: levo.jpg
   alt: "Levo: What Is It and What Can It Do for You?"
 
