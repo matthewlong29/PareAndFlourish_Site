@@ -17,13 +17,13 @@ permalink: /start-here/
 
 <p>This blog has constantly evolved as we learned more about our readers...and ourselves. This is a professional development blog focused on learning how to pitch your professional brand. </p>
 
-<p>If you enjoy books like <a href="{{site.url}}/resources/">Lean In</a>, Yes Please, and Bossypants, or podcasts like Millennial and The Lively Show, we think that you’ll feel right at home here. After all, they inspired this blog and gave us the courage to finally put it together.</p>
+<p>If you enjoy books like <a href="{{site.url}}/reading-list/">Lean In</a>, Yes Please, and Bossypants, or podcasts like Millennial and The Lively Show, we think that you’ll feel right at home here. After all, they inspired this blog and gave us the courage to finally put it together.</p>
 
 <p>We dedicate our time to this blog to inspire and encourage our readers to grow personally and professionally. It is our hope that we add authenticity to your week. Topics will range from networking, to mastering LinkedIn, to our favorite professional help books, and everything in between.</p>
 
 <p>Check us out on <a href="{{ site.links.pinterest }}" target="_blank">Pinterest</a>, <a href="{{ site.links.twitter }}" target="_blank">Twitter</a>, or subscribe to our mailing list. Also, we love our readers! You can email us at: <a href="mailto:{{ site.email }}" target="_blank">contact@pareandflourish.com</a> with any comments or blog post ideas. Would you like to write a guest blog post on Pare and Flourish? Send us your pitch!</p>
 
-<p>Finally, we can’t forget our Executive Web Developer, Matthew Long. Without him, none of this is possible. Check out the additional services that he offers in the <a href="../work-with-us/index.html">Work With Us</a> page.</p>
+<p>Finally, we can’t forget our Executive Web Developer, Matthew Long. Without him, none of this is possible. Check out the additional services that he offers in the <a href="../lets-collaborate/index.html">Work With Us</a> page.</p>
 
 <hr class="secondary">
 

@@ -14,9 +14,9 @@ permalink: /sitemap/
     
 		<li><a href="{{site.url}}/start-here/">Start Here</a></li>
     
-		<li><a href="{{site.url}}/work-with-us/">Work With Us</a></li>
+		<li><a href="{{site.url}}/lets-collaborate/">Work With Us</a></li>
     
-		<li><a href="{{site.url}}/resources/">Reading List</a></li>
+		<li><a href="{{site.url}}/reading-list/">Reading List</a></li>
     
 		<li><a href="{{site.url}}/join-pare-and-flourish/">Join Pare and Flourish</a></li>
 		

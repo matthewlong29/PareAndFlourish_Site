@@ -27,7 +27,7 @@ comments: true
 ## Being Comfortable with Being Uncomfortable
 
 >“The number-one thing that you will have to sacrifice to be great, to achieve what you are capable of, and to execute your plans, is your comfort.<br />
-><cite><a href="{{site.url}}/resources/">The 12 Week Year by Brian P. Moran</a></cite>
+><cite><a href="{{site.url}}/reading-list/">The 12 Week Year by Brian P. Moran</a></cite>
 
 Humans love comfort. While it’s not always a conscious decision, we’re always looking to make an uncomfortable feeling go away. The feeling comes out of nowhere—suddenly something feels “off.” Often, you’re not able to pinpoint the cause. It could be anything: your job or social life or relationship or physical health. Anything.  
 

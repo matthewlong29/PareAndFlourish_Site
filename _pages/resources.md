@@ -3,7 +3,7 @@ layout: content-page
 
 title: Reading List
 
-permalink: /resources/
+permalink: /reading-list/
 ---
 
 ## Reading List
@@ -76,7 +76,7 @@ permalink: /resources/
 
 <hr class="secondary">
 
-<section id="The Energy Bus"> <!-- the energy bus -->
+<section id="the-energy-bus"> <!-- the energy bus -->
 	<div class="row">
 		<div class="col-sm-9">
 			<h4>The Energy Bus: 10 Rules to Fuel Your Life, Work, and Team with Positive Energy by John Sutherland</h4>
@@ -85,6 +85,22 @@ permalink: /resources/
 		<div class="col-sm-3">
 			<div class="">
 				<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=pareandflouri-20&marketplace=amazon&region=US&placement=0470100281&asins=0470100281&linkId=8877aa942e8203b5dcd39cb83696736a&show_border=true&link_opens_in_new_window=false&price_color=2e3842&title_color=981a00&bg_color=fdfdfd"></iframe>
+			</div>
+		</div>
+	</div>
+</section>
+
+<hr class="secondary">
+
+<section id="drop-the-ball"> <!-- Drop The Ball by Tiffany Dufu -->
+	<div class="row">
+		<div class="col-sm-9">
+			<h4>Drop The Ball by Tiffany Dufu</h4>
+			<p>Tiffany Dufu, Chief Leadership Officer of Levo, knows the struggle of being a woman who wants to do it all. She also knows it's impossible, or at the very least exhausting, to attempt to do everything in all aspects of our lives. Dufu offers her stories and realizations to help women learn to drop the ball, leaving time for the bigger priorities. You'll find that this book is as witty as it is informational.</p>
+		</div>
+		<div class="col-sm-3">
+			<div class="">
+				<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://www.google.com/url?q=https://www.amazon.com/gp/product/1250071739/ref%3Das_li_tl?ie%3DUTF8%26tag%3Dpareandflouri-20%26camp%3D1789%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3D1250071739%26linkId%3D511719fee662ac991a73297c972f4f96&sa=D&ust=1498253603549000&usg=AFQjCNGpXnylwLT_PQFexIVR5dscE243iQ"></iframe>
 			</div>
 		</div>
 	</div>
