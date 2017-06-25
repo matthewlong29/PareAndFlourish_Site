@@ -4,7 +4,7 @@ h3,
 h4,
 h5,
 h6 {
-	@include transition($shortTransition);
+	@include transition(.2s, ease, all);
 	font-family: $primaryFont;
 	color: darken($colorGray, 25%);
 	padding: .25em 0;
@@ -12,7 +12,7 @@ h6 {
 }
 
 p {
-	@include transition($shortTransition);
+	@include transition(.2s, ease, all);
 	font-family: $secondaryFont;
 	color: $colorPrimaryLighten;
 	padding: .25em 0;

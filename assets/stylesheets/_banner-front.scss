@@ -4,14 +4,14 @@
 	color: $colorWhite;
 	margin: $autoMargin;
 	position: relative;
-	@include transition($shortTransition);
+	@include transition(.2s, ease, all);
 	.banner-overlay {
 		top: 55%;
 		right: 0%;
 		bottom: 4%;
 		left: 0%;
 		position: absolute;
-		@include transition($shortTransition);
+		@include transition(.2s, ease, all);
 		@media (max-width: 758px) {
 			display: none;
 		}
@@ -19,7 +19,7 @@
 			text-shadow: 1px 1px 4px $colorGray;
 			color: $colorGray;
 			font-size: 1.5em;
-			@include transition($shortTransition);
+			@include transition(.2s, ease, all);
 			@media (max-width: 1163px) {
 				font-size: 1.4em;
 			}
@@ -52,7 +52,7 @@
 			border: $commonBorder;
 			background-color: $colorPrimary;
 			margin: $autoMargin;
-			@include transition($shortTransition);
+			@include transition(.2s, ease, all);
 			&:hover,
 			&:focus {
 				background-color: $colorPrimaryLighten;
@@ -66,7 +66,7 @@
 		padding-bottom: 1em;
 		border-radius: $commonRadius;
 		box-shadow: $commonShadow;
-		@include transition($shortTransition);
+		@include transition(.2s, ease, all);
 		@media (min-width: 758px) {
 			display: none;
 		}
@@ -74,7 +74,7 @@
 			color: darken($colorWhite, 35%);
 			margin: $zeroMargin;
 			font-size: 1.2em;
-			@include transition($shortTransition);
+			@include transition(.2s, ease, all);
 			@media (max-width: 580px) {
 				font-size: 1.1em;
 			}
@@ -92,7 +92,7 @@
 			border: $commonBorder;
 			background-color: $colorPrimary;
 			margin: $autoMargin;
-			@include transition($shortTransition);
+			@include transition(.2s, ease, all);
 			&:hover,
 			&:focus {
 				background-color: $colorPrimaryLighten;

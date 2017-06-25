@@ -82,7 +82,7 @@
 			border: $commonBorder;
 			border-radius: $commonRadius;
 			box-shadow: $commonShadow;
-			@include transition($shortTransition);
+			@include transition(.2s, ease, all);
 			&:hover {
 				box-shadow: $commonShadowHover;
 			}
@@ -182,7 +182,7 @@
 				background-color: $colorWhite;
 				border-radius: $commonRadius;
 				box-shadow: $commonShadow;
-				@include transition($shortTransition);
+				@include transition(.2s, ease, all);
 				&:hover {
 					box-shadow: $commonShadowHover;
 				}

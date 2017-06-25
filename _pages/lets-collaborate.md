@@ -16,23 +16,37 @@ permalink: /lets-collaborate/
 
 ### Who have we collaborated with so far?
 
-<a href="{{site.url}}">
-	<img src="{{site.url}}" alt="" title="">
-</a>
-<a href="{{site.url}}">
-	<img src="{{site.url}}" alt="" title="">
-</a>
-<a href="{{site.url}}">
-	<img src="{{site.url}}" alt="" title="">
-</a>
+<ul class="collaborateList">
+	<li>
+		<a href="{{site.url}}/blog/interview-tips-from-an-introvert/">
+			<img class="img-responsive img-fluid" src="{{site.url}}/images/collaborate/saxon.jpg" alt="Saxon" title="Saxon" data-pin-nopin="true">
+		</a>
+	</li>
+	<li>
+		<a href="{{site.url}}/blog/your-questions-about-workplace-holidays-answered/">
+			<img class="img-responsive img-fluid" src="{{site.url}}/images/collaborate/spacePlaceAndSouthernGrace.jpg" alt="Space, Place, & Southern Grace" title="Space, Place, & Southern Grace" data-pin-nopin="true">
+		</a>
+	</li>
+	<li>
+		<a href="{{site.url}}/blog/stop-consuming-learn-by-doing/">
+			<img class="img-responsive img-fluid" src="{{site.url}}/images/collaborate/ashNorton.jpg" alt="Ash Norton" title="Ash Norton" data-pin-nopin="true">
+		</a>
+	</li>
+</ul>
 
 <hr class="secondary">
 
 ### What products have we reviewed?
 
-<a href="{{site.url}}">
-	<img src="{{site.url}}" alt="" title="">
-</a>
+<ul class="collaborateList">
+	<li>
+		<a href="{{site.url}}/blog/why-you-should-be-using-the-shapr-networking-app/">
+			<img class="img-responsive img-fluid" src="{{site.url}}/images/collaborate/shapr.jpg" alt="shapr" title="shapr" data-pin-nopin="true">
+		</a>
+	</li>
+</ul>
+
+<hr class="secondary">
 
 ### How Can We Work Together?
 

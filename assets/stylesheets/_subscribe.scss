@@ -44,7 +44,7 @@
 #mc_side input[type="submit"] {
 	margin: auto;
 	background: $colorPrimary;
-	@include transition($shortTransition);
+	@include transition(.2s, ease, all);
 	&:hover,
 	&:focus {
 		background-color: $colorPrimaryLighten;
@@ -90,7 +90,7 @@
 #mc_page input[type="submit"] {
 	margin: auto;
 	background: $colorPrimary;
-	@include transition($shortTransition);
+	@include transition(.2s, ease, all);
 	&:hover,
 	&:focus {
 		background-color: $colorPrimaryLighten;

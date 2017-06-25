@@ -14,14 +14,14 @@
 		font-size: 1.5em;
 		text-decoration: none;
 		padding: $zeroPadding;
-		@include transition($shortTransition);
+		@include transition(.2s, ease, all);
 		&:hover,
 		&:focus {
 			color: $colorWhite;
 			text-decoration: none;
 		}
 	}
-	@include transition($shortTransition);
+	@include transition(.2s, ease, all);
 	&:hover,
 	&:focus {
 		background-color: $colorPrimaryLighten;

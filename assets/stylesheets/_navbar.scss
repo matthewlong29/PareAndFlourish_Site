@@ -28,7 +28,7 @@
 			color: $colorWhite;
 			background-color: $colorPrimary;
 			text-decoration: none;
-			@include transition($shortTransition);
+			@include transition(.2s, ease, all);
 			&:hover {
 				outline: none;
 				color: $colorPrimary;

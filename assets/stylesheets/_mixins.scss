@@ -1,6 +1,6 @@
-@mixin transition($shortTransition...) {
-	-webkit-transition: $shortTransition;
-	-moz-transition: $shortTransition;
-	-o-transition: $shortTransition;
-	transition: $shortTransition;
+@mixin transition($time, $type, $selector) {
+  -webkit-transition: $time $type $selector;
+  -moz-transition: $time $type $selector;
+  -o-transition: $time $type $selector;
+  transition: $time $type $selector;
 }

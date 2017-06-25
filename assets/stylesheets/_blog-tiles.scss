@@ -8,7 +8,7 @@
 		margin: $zeroMargin;
 		img {
 			margin: 1em 0;
-			@include transition($shortTransition);
+			@include transition(.2s, ease, all);
 			&:hover,
 			&:focus {
 				box-shadow: $commonShadowHover;

@@ -4,7 +4,7 @@
 
 body {
 	background-color: $colorWhite;
-	@include transition($shortTransition);
+	@include transition(.2s, ease, all);
 }
 
 img {

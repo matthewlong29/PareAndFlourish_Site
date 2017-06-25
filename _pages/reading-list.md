@@ -100,7 +100,7 @@ permalink: /reading-list/
 		</div>
 		<div class="col-sm-3">
 			<div class="">
-				<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://www.google.com/url?q=https://www.amazon.com/gp/product/1250071739/ref%3Das_li_tl?ie%3DUTF8%26tag%3Dpareandflouri-20%26camp%3D1789%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3D1250071739%26linkId%3D511719fee662ac991a73297c972f4f96&sa=D&ust=1498253603549000&usg=AFQjCNGpXnylwLT_PQFexIVR5dscE243iQ"></iframe>
+				<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=pareandflouri-20&marketplace=amazon&region=US&placement=1250071739&asins=1250071739&linkId=94b34d9c6f73a329c489fde2ff686528&show_border=true&link_opens_in_new_window=false&price_color=2e3842&title_color=981a00&bg_color=fdfdfd"></iframe>
 			</div>
 		</div>
 	</div>

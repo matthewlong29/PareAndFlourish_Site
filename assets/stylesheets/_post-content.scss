@@ -26,7 +26,7 @@
 		text-decoration: none;
 		color: $colorGray;
 		border-bottom: 1px solid;
-		@include transition($shortTransition);
+		@include transition(.2s, ease, all);
 		&:hover {
 			border-bottom: 2px solid;
 			color: darken($colorGray, 0.5);
@@ -49,7 +49,7 @@
 		border-radius: $commonRadius;
 		box-shadow: $commonShadow;
 		border: $commonBorder;
-		@include transition($shortTransition);
+		@include transition(.2s, ease, all);
 		&:hover,
 		&:focus {
 			background-color: $colorPrimaryLighten;

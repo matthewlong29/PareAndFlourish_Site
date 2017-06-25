@@ -16,7 +16,7 @@
 		padding: .25em;
 		border-radius: $commonRadius;
 		box-shadow: $commonShadow;
-		@include transition($shortTransition);
+		@include transition(.2s, ease, all);
 		&:hover,
 		&:focus {
 			background-color: $colorPrimaryLighten;

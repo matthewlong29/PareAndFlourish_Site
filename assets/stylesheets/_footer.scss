@@ -18,7 +18,7 @@
 		text-decoration: none;
 		color: $colorBlack;
 		border-bottom: 1px solid;
-		@include transition($shortTransition);
+		@include transition(.2s, ease, all);
 		&:hover {
 			border-bottom: 2px solid;
 		}
