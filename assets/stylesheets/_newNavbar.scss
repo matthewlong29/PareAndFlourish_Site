@@ -1,9 +1,9 @@
 .hamburgerButton {
 	position: fixed;
-	top: 5%;
-	right: 2%;
-	height: 27px;
-	width: 35px;
+	top: 2em;
+	right: 2em;
+	height: 3em;
+	width: 3.25em;
 	cursor: pointer;
 	z-index: 8675313;
 	@include transition(.25s, ease, opacity);
@@ -27,7 +27,7 @@
 	span {
 		background: $colorPrimary;
 		border: none;
-		height: 5px;
+		height: .35em;
 		width: 100%;
 		position: absolute;
 		top: 0;
@@ -63,15 +63,18 @@
 		height: 100%;
 		li {
 			animation: fadeInRight .5s ease forwards;
-			animation-delay: .35s;
+			animation-delay: .30s;
 			&:nth-of-type(2) {
-				animation-delay: .4s;
+				animation-delay: .35s;
 			}
 			&:nth-of-type(3) {
-				animation-delay: .45s;
+				animation-delay: .40s;
 			}
 			&:nth-of-type(4) {
-				animation-delay: .50s;
+				animation-delay: .45s;
+			}
+			&:nth-of-type(5) {
+				animation-delay: .5s;
 			}
 		}
 	}
@@ -80,8 +83,7 @@
 		height: 70%;
 		top: 50%;
 		transform: translateY(-50%);
-		font-size: 30px;
-		font-weight: 400;
+		font-size: 2em;
 		text-align: center;
 	}
 	ul {
@@ -98,19 +100,18 @@
 			min-height: 50px;
 			position: relative;
 			opacity: 0;
+			font-family: $primaryFont;
 			a {
 				display: block;
 				position: relative;
 				color: $colorWhite;
 				text-decoration: none;
 				overflow: hidden;
-				@include transition(.35s, ease, all);
-				border-radius: $commonRadius;
+				font-weight: normal;
 				&:hover,
 				&:focus,
 				&:active {
-					color: $colorBlack;
-					background-color: $colorWhite;
+					font-weight: bold;
 				}
 			}
 		}
