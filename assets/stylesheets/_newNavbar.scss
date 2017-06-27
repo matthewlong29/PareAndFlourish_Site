@@ -1,0 +1,129 @@
+.hamburgerButton {
+	position: fixed;
+	top: 5%;
+	right: 2%;
+	height: 27px;
+	width: 35px;
+	cursor: pointer;
+	z-index: 8675313;
+	@include transition(.25s, ease, opacity);
+	&:hover {
+		opacity: .7;
+	}
+	&.active {
+		.top {
+			transform: translateY(11px) translateX(0) rotate(45deg);
+			background: $colorWhite;
+		}
+		.middle {
+			opacity: 0;
+			background: $colorWhite;
+		}
+		.bottom {
+			transform: translateY(-11px) translateX(0) rotate(-45deg);
+			background: $colorWhite;
+		}
+	}
+	span {
+		background: $colorPrimary;
+		border: none;
+		height: 5px;
+		width: 100%;
+		position: absolute;
+		top: 0;
+		left: 0;
+		@include transition(.35s, ease, all);
+		cursor: pointer;
+		&:nth-of-type(2) {
+			top: 11px;
+		}
+		&:nth-of-type(3) {
+			top: 22px;
+		}
+	}
+}
+
+.overlay {
+	position: fixed;
+	background: $colorPrimary;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 0%;
+	opacity: 0;
+	z-index: 8675312;
+	visibility: hidden;
+	@include transition(.35s, ease, opacity);
+	@include transition(.35s, ease, visibility);
+	@include transition(.35s, ease, height);
+	overflow: hidden;
+	&.open {
+		opacity: .9;
+		visibility: visible;
+		height: 100%;
+		li {
+			animation: fadeInRight .5s ease forwards;
+			animation-delay: .35s;
+			&:nth-of-type(2) {
+				animation-delay: .4s;
+			}
+			&:nth-of-type(3) {
+				animation-delay: .45s;
+			}
+			&:nth-of-type(4) {
+				animation-delay: .50s;
+			}
+		}
+	}
+	nav {
+		position: relative;
+		height: 70%;
+		top: 50%;
+		transform: translateY(-50%);
+		font-size: 30px;
+		font-weight: 400;
+		text-align: center;
+	}
+	ul {
+		list-style: none;
+		padding: 0;
+		margin: 0 auto;
+		display: inline-block;
+		position: relative;
+		height: 100%;
+		width: 90%;
+		li {
+			display: block;
+			height: calc(100% / 5);
+			min-height: 50px;
+			position: relative;
+			opacity: 0;
+			a {
+				display: block;
+				position: relative;
+				color: $colorWhite;
+				text-decoration: none;
+				overflow: hidden;
+				@include transition(.35s, ease, all);
+				border-radius: $commonRadius;
+				&:hover,
+				&:focus,
+				&:active {
+					color: $colorBlack;
+					background-color: $colorWhite;
+				}
+			}
+		}
+	}
+}
+
+@keyframes fadeInRight {
+	0% {
+		opacity: 0;
+		left: 20%;
+	}
+	100% {
+		opacity: 1;
+		left: 0;
+	}
+}

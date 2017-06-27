@@ -96,36 +96,23 @@
 
 
 <!-- Navigation bar -->
-<nav class="navbar navbar-custom" role="navigation">
-	<div class="container">
-		
-		<div class="navbar-header">
-			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-        <i class="fa fa-bars"></i>
-      </button>
-			<a class="navbar-brand" href="http://localhost:4000/">Pare and Flourish</a>
-		</div>
+<div class="hamburgerButton" id="toggle">
+  <span class="top"></span>
+  <span class="middle"></span>
+  <span class="bottom"></span>
+</div>
 
-		<div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-			<ul class="nav navbar-nav">
-				<li>
-					<a href="/start-here/">Start Here</a>
-				</li>
-				<li>
-					<a href="/lets-collaborate/">Let's Collaborate</a>
-				</li>
-				<li>
-					<a href="/reading-list/">Reading List</a>
-				</li>
-				<li>
-					<a href="/join-pare-and-flourish/">Join Pare and Flourish</a>
-				</li>
-			</ul>
-		</div>
-
-	</div>
-</nav>
-
+<div class="overlay" id="overlay">
+  <nav class="overlay-menu">
+    <ul>
+      <li><a href="http://localhost:4000">Home</a></li>
+			<li><a href="http://localhost:4000">Start Here</a></li>
+      <li><a href="http://localhost:4000">Join Pare and Flourish</a></li>
+      <li><a href="http://localhost:4000">Let's Collaborate</a></li>
+      <li><a href="http://localhost:4000">Reading List</a></li>
+    </ul>
+  </nav>
+</div>
 
 <!-- Page container (bootstrap). -->
 <div class="container">
@@ -393,6 +380,9 @@
 
 <!-- Google Analytics. More information can be found at https://developers.google.com/analytics/. -->
 <script type="text/javascript" src="http://localhost:4000/assets/javascript/googleScripts.js"></script>
+
+<!-- Main -->
+<script type="text/javascript" src="http://localhost:4000/assets/javascript/main.js"></script>
 	</body>
 
 </html>
