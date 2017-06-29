@@ -12,10 +12,12 @@
 					</div>
 					<div class="blog-text col-lg-8 col-md-8 col-sm-6">
 						<a href="{{ site.url }}{{ post.url }}">
-							<h3>{{ post.title }}</h3>
-							<p class="date">{{ post.modified }}</p>
-							<p class="author">Written by: {{ post.author }}</p>
-							<p class="">{{ post.excerpt }}</p>
+							<h3>{{post.title}}</h3>
+							<p class="date">{{post.modified}}</p>
+							{% if post.author != "Skylar Wooden and Katie Butler" %}
+							<p class="author">Written by Guest Author: {{post.author}}</p>
+							{% endif %}
+							<p class="">{{post.excerpt | strip_html | truncatewords: 30}}</p>
 						</a>
 					</div>
 				</div>
