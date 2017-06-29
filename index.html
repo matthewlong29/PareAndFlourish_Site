@@ -2,13 +2,11 @@
 layout: default 
 --- 
 
-{% include banner.html %}
+{% include newBanner.html %}
 
 {% include newNavbar.html %}
 
 <div class="container">
-
-	{% include socialFront.html %} 
 	
 	{% if paginator.page %} 
 		{% assign offset = paginator.page | minus:1 | times:paginator.per_page %} 
