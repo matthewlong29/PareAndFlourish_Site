@@ -1,130 +1,146 @@
+
+.siteLogo {
+  position: fixed;
+  top: 20px;
+  left: 20px;  
+  z-index: 8675313;
+  img {
+    @include userSelect(none);
+    height: 60px;
+		width: auto;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-shadow: none;
+  }
+}
+
 .hamburgerButton {
-	position: fixed;
-	top: 2em;
-	right: 2em;
-	height: 3em;
-	width: 3.25em;
-	cursor: pointer;
-	z-index: 8675313;
-	@include transition(.25s, ease, opacity);
-	&:hover {
-		opacity: .7;
-	}
-	&.active {
-		.top {
-			transform: translateY(11px) translateX(0) rotate(45deg);
-			background: $colorWhite;
-		}
-		.middle {
-			opacity: 0;
-			background: $colorWhite;
-		}
-		.bottom {
-			transform: translateY(-11px) translateX(0) rotate(-45deg);
-			background: $colorWhite;
-		}
-	}
-	span {
-		background: $colorPrimary;
-		border: none;
-		height: .35em;
-		width: 100%;
-		position: absolute;
-		top: 0;
-		left: 0;
-		@include transition(.35s, ease, all);
-		cursor: pointer;
-		&:nth-of-type(2) {
-			top: 11px;
-		}
-		&:nth-of-type(3) {
-			top: 22px;
-		}
-	}
+  position: fixed;
+  top: 45px;
+  right: 20px;
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+  z-index: 8675313;
+  @include transition(.25s, ease, opacity);
+  &:hover {
+    opacity: .7;
+  }
+  &.active {
+    .top {
+      transform: translateY(11px) translateX(0) rotate(45deg);
+      background: $colorWhite;
+    }
+    .middle {
+      opacity: 0;
+      background: $colorWhite;
+    }
+    .bottom {
+      transform: translateY(-11px) translateX(0) rotate(-45deg);
+      background: $colorWhite;
+    }
+  }
+  span {
+    background: $colorPrimary;
+    border: none;
+    height: .35em;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    @include transition(.35s, ease, all);
+    cursor: pointer;
+    &:nth-of-type(2) {
+      top: 11px;
+    }
+    &:nth-of-type(3) {
+      top: 22px;
+    }
+  }
 }
 
 .overlay {
-	position: fixed;
-	background: $colorPrimary;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 0%;
-	opacity: 0;
-	z-index: 8675312;
-	visibility: hidden;
-	@include transition(.35s, ease, opacity);
-	@include transition(.35s, ease, visibility);
-	@include transition(.35s, ease, height);
-	overflow: hidden;
-	&.open {
-		opacity: .9;
-		visibility: visible;
-		height: 100%;
-		li {
-			animation: fadeInRight .5s ease forwards;
-			animation-delay: .30s;
-			&:nth-of-type(2) {
-				animation-delay: .35s;
-			}
-			&:nth-of-type(3) {
-				animation-delay: .40s;
-			}
-			&:nth-of-type(4) {
-				animation-delay: .45s;
-			}
-			&:nth-of-type(5) {
-				animation-delay: .5s;
-			}
-		}
-	}
-	nav {
-		position: relative;
-		height: 70%;
-		top: 50%;
-		transform: translateY(-50%);
-		font-size: 2em;
-		text-align: center;
-	}
-	ul {
-		list-style: none;
-		padding: 0;
-		margin: 0 auto;
-		display: inline-block;
-		position: relative;
-		height: 100%;
-		width: 90%;
-		li {
-			display: block;
-			height: calc(100% / 5);
-			min-height: 50px;
-			position: relative;
-			opacity: 0;
-			font-family: $primaryFont;
-			a {
-				display: block;
-				position: relative;
-				color: $colorWhite;
-				text-decoration: none;
-				overflow: hidden;
-				font-weight: normal;
-				&:hover,
-				&:focus,
-				&:active {
-					font-weight: bold;
-				}
-			}
-		}
-	}
+  position: fixed;
+  background: $colorPrimary;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0%;
+  opacity: 0;
+  z-index: 8675312;
+  visibility: hidden;
+  @include transition(.35s, ease, opacity);
+  @include transition(.35s, ease, visibility);
+  @include transition(.35s, ease, height);
+  overflow: hidden;
+  &.open {
+    opacity: .9;
+    visibility: visible;
+    height: 100%;
+    li {
+      animation: fadeInRight .5s ease forwards;
+      animation-delay: .30s;
+      &:nth-of-type(2) {
+        animation-delay: .35s;
+      }
+      &:nth-of-type(3) {
+        animation-delay: .40s;
+      }
+      &:nth-of-type(4) {
+        animation-delay: .45s;
+      }
+      &:nth-of-type(5) {
+        animation-delay: .5s;
+      }
+    }
+  }
+  nav {
+    position: relative;
+    height: 70%;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 2em;
+    text-align: center;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    display: inline-block;
+    position: relative;
+    height: 100%;
+    width: 90%;
+    li {
+      display: block;
+      height: calc(100% / 5);
+      min-height: 50px;
+      position: relative;
+      opacity: 0;
+      font-family: $primaryFont;
+      a {
+        display: block;
+        position: relative;
+        color: $colorWhite;
+        text-decoration: none;
+        overflow: hidden;
+        font-weight: normal;
+        @include userSelect(none);
+        &:hover, &:focus, &:active {
+          font-weight: bold;
+        }
+      }
+    }
+  }
 }
 
 @keyframes fadeInRight {
-	0% {
-		opacity: 0;
-		left: 20%;
-	}
-	100% {
-		opacity: 1;
-		left: 0;
-	}
+  0% {
+    opacity: 0;
+    left: 20%;
+  }
+  100% {
+    opacity: 1;
+    left: 0;
+  }
 }
