@@ -24,8 +24,6 @@ tags: pare, flourish
 comments: true
 ---
 
-## Introducing Pare and Flourish
-
 This is the first of hopefully many blog entries to come - co-written by yours truly: Katie Butler and Skylar Wooden.
 We’ve discussed writing a blog for some time now. This came about after listening to some of our favorite podcasts: [Millennial](http://www.millennialpodcast.org/), [The Lively Show](http://jesslively.com/livelyshow/), and [Love Me](http://www.cbc.ca/radio/loveme). Inspired by their insight, we realized something: we, too, have valuable experiences to share.
 

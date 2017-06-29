@@ -25,8 +25,6 @@ tags: Why Email Ruins Conversation, Business Email, Networking Tips, Communicati
 comments: true
 ---
 
-## Why Email Ruins our Conversations
-
 Imagine your work day without email. It’s nearly impossible. How would the business run? How would people communicate? We would be on the phone or walking around the office for nearly our entire day. Email is the center of our business communication, and rightfully so. But is it sometimes too much of a good thing? Absolutely. 
 
 Typing our conversations is efficient because we’re able to think through exactly what we need to say. We have the time to consider the tone, appropriate language, and main points. The ultimate benefit? The ability to review a message before it’s sent into the abyss. 

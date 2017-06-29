@@ -23,7 +23,6 @@ tags: thoughtfullness, gift, giving, christmas, ideas, presents, gifts, merry ch
 
 comments: true
 ---
-## A Guide to Gift Giving with Purpose
 
 Disclaimer: We’ve linked some of our suggested gifts to make it easy for you to click and buy. These are affiliate links; therefore, we receive a portion of the profits. Thanks for your support!
 

@@ -24,8 +24,6 @@ tags: intuition, mindfulness
 comments: true
 ---
 
-## Being Comfortable with Being Uncomfortable
-
 >“The number-one thing that you will have to sacrifice to be great, to achieve what you are capable of, and to execute your plans, is your comfort.<br />
 ><cite><a href="{{site.url}}/reading-list/">The 12 Week Year by Brian P. Moran</a></cite>
 

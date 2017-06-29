@@ -24,7 +24,6 @@ tags: employee review, what to ask in a review, questions to expect in a review,
 comments: true
 ---
 
-## How to Prepare for an Employee Review
 If you’ve found yourself either:
 <p class="indent">A. Hoping that your boss sees how awesome you are and rewards you with a huge raise</p>
 <p class="indentMore">Or</p>

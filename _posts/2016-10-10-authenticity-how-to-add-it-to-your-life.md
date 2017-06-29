@@ -24,8 +24,6 @@ tags: authenticity
 comments: true
 ---
 
-## Authenticity: What it Means to You
-
 What does it mean to live authentically? Authenticity, as it relates to everyday living, means something different to everyone. Our idea of living authentically brought you this blog. We know your time is limited by work, working out, significant others, your pets, and your social life. It’s easy to come home, throw on sweatpants, and curl up on the couch to binge watch Gilmore Girls. We love it, too. 
 
 At times, that type of life is just what you need. It’s important to realize, though, that your goals are something that are worked toward almost every day. If every day is your 9-to-5 and then relaxing/house cleaning/dog walking, where did you put all of your creativity? Was it stuffed into your job? If so, is your job the only place in your life where you want to make progress? 

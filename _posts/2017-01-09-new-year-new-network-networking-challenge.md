@@ -25,7 +25,6 @@ tags: networking tips, conference tips, linkedin tips, levo tips
 comments: true
 ---
 
-## New Year New Network: Networking Challenge
 Networking can be challenge-ing (see what we did there?). Bad jokes aside, it’s difficult to actively network. Not because the activity is difficult, but because it feels like something that should always happen organically. Organic interactions are ideal of course, but situations aren’t always going to present themselves. 
 
 This year, let’s start our professional development out right. Here’s our 10-step networking challenge! We’ll be following you every step of the way. Follow our upcoming posts to conquer this challenge. So, if you’d like to join, we invite you to do one step per week. Totally manageable, right? 

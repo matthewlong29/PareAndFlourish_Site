@@ -23,8 +23,6 @@ tags: creating boundaries, professional boundaries, how to create boundaries
 comments: true
 ---
 
-## How to Create Professional Boundaries
-
 Professional boundaries are subjective. They aren’t set in stone. They aren’t black and white. It is all according to your needs, which are always changing. While we usually support the fake-it-til-you-make-it technique, millennials are notorious for taking on whatever they’re asked to because they don’t want to be branded as the stereotypical millennial. We’re all working hard; we don’t have to prove ourselves by over committing.  
 
 There is an ebb and flow to the work day, week, and year. In an effort to stay sane, and keep your reputation, we hope that take these practices to heart.

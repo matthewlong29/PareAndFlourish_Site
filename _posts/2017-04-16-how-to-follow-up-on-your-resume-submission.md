@@ -25,8 +25,6 @@ tags: resume follow up, how to follow up on a resume, follow up email template, 
 comments: true
 ---
 
-## Millennial Professional Pt. 2: How to Follow up on Your Resume Submission
-
 You’ve filled out your resume and submitted the application. Congrats! You’re ahead of your competition already by using a clean, easy-to-read resume. Now, it’s time to stay ahead of your competition—the follow up. 
 
 “Give them space,” you’ll think. While you’re giving the employer space, there are other applicants making themselves known. 

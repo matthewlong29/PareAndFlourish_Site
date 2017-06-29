@@ -24,7 +24,6 @@ tags: giving thanks, mindfulness, holidays, being thankful, thanksgiving
 comments: true
 ---
 
-## Thanksgiving is Over. Now What?
 It’s Monday. You spent all of your “vacation” time driving out of town to listen to your grandparents talk about politics you don’t agree with. Your pants don’t quite fit the way they did before. And now, you’re back at work, wondering where the time went. While you’re battling feelings of exhaustion, it’s easy to be resentful and tough to be thankful.   
 
 

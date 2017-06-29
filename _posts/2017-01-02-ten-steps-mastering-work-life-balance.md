@@ -25,8 +25,6 @@ tags: Work life balance, self care methods, increase productivity, lower stress
 comments: true
 ---
 
-## 10 Steps to Mastering Work-Life Balance
-
 Technology allows you to work anywhere any time. Laptops, smartphones, and hotspots blur the line between work and home. We never have to be in one place at one time thanks to the internet. 
 
 Work is no longer just work now that you have access to social media, news articles, blogs, etc. Maybe you’re reading this at work right now.  

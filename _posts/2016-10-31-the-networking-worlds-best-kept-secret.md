@@ -24,8 +24,6 @@ tags: networking, informational interview
 comments: true
 ---
 
-## The Networking World’s Best-Kept Secret
-
 Networking should not be a superficial way to meet as many people as possible. You’re looking for a genuine connection. When an opportunity arises, you want the person you network with to think “Oh, he/she would be perfect for this.” Without that genuine connection, they might look back and wonder whatever happened to that “girl with brown hair that was in...marketing…?” The informational interview is a great way to achieve the former. 
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr"><a href="https://t.co/dyYOPktG8H">https://t.co/dyYOPktG8H</a> Networking should not be a superficial way to meet people. You’re looking for a genuine connection. <a href="https://twitter.com/hashtag/networking?src=hash">#networking</a></p>&mdash; PareandFlourish (@pareandflourish) <a href="https://twitter.com/pareandflourish/status/793112909979222017">October 31, 2016</a></blockquote>

@@ -25,8 +25,6 @@ tags: sexism at work, feminist business, inequality in the workforce, business w
 comments: true
 ---
 
-## Work Like a Girl: Inequality in the Workforce
-
 People love to say, or blindly believe, that sexism in the workplace is no longer relevant. When people around you believe that, you start believing it yourself...until you ask a handful of your female friends about how they’ve experienced workplace inequality. When these situations are happening, they seem like normal occurrences that aren’t worth mentioning. In hindsight, they’re incredibly offensive.
 
 You would like to think that if you were in an openly discriminatory situation, you’d defend yourself. Hopefully, you do, but you’ll rarely be prepared. If we hope to be the solution to workplace sexism, it takes more than research. We have to fight the issue from the inside. When women are made to feel inferior, it’s up to us to push back if we’re looking for change.

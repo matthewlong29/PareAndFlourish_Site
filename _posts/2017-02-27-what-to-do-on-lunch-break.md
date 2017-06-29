@@ -25,8 +25,6 @@ tags: lunch break activities, what to do on your lunch, self-care on lunch break
 comments: true
 ---
 
-## What You Should Actually Do on Your Lunch Break
-
 We’re all guilty of working through our lunch breaks. The intention is to get a few more things done. You tell yourself you’re getting ahead. You may be right, but in terms of your mental and physical health, you aren’t doing anyone any favors. Not only are you ignoring what your body and mind need to stay healthy, you’re setting an unrealistic  standard for what your employer expects from you. 
 
 It’s understandable that you want to use all of the time you can to be productive. The answer to this problem is as simple as changing the way you think about being productive. You want to walk away from your workplace satisfied with the amount of work you did. The eight hours you work in a day are enough. Your lunch hour is yours, not your company’s. 

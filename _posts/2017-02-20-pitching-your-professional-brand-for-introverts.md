@@ -25,8 +25,6 @@ tags: Introvert, Networking, Professional Branding
 comments: true
 ---
 
-## Pitching Your Professional Brand: A Guide for Introverts
-
 If you identify as an introvert, it can be challenging to get your name out there and pitch your brand. You have the potential to be a serious asset to an organization. Unfortunately, they won’t discover you if they can’t find you (because you’re on the couch in a blanket fort watching a series you’ve already seen 20 times). We’ve all been there...and are still there often, if we’re being honest. Everything in moderation, right? 
 
 You may not like actively pitching yourself to professionals around you. Many people don’t. We’ve found a few ways that seem less intimidating:

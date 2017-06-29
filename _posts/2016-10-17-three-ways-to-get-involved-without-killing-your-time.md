@@ -24,8 +24,6 @@ tags: involved, time
 comments: true
 ---
 
-## Three Ways To Get Involved Without Killing Your Time
-
 We’ve been searching for our potential, as 20 somethings do. Not knowing what you’re capable of is both exhilarating and unsettling. We know. We’re right there with you. We have steady jobs that pay the bills, but we’re uncomfortably aware that there is more. But how do you find the ‘more’? 
 
 Do your best at your day job, but don’t give it all of yourself. Give back. Find out which fires generosity can ignite in your motivation.  

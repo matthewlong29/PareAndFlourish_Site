@@ -24,8 +24,6 @@ tags: Levo, How to Use Levo, What is Levo, Networking Site
 comments: true
 ---
 
-## Levo: What is it and What Can it do for You?
-
 Levo is like LinkedIn’s fun sibling. Its platform is professional at heart, while emphasizing your personal flare. Relatable. Helpful. Attractive. It’s everything you didn’t know you wanted in a professional networking site. 
 
 <hr class="secondary">

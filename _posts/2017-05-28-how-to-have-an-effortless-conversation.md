@@ -24,7 +24,6 @@ tags: networking, networking conversation, how to network, listening skills
 comments: true
 ---
 
-## How to Have an Effortless Conversation
 As a young professional, it can be difficult to find your own voice. Every new conversation determines the impression you’re going to make and how that will define you as a professional. You’ll notice that you are attempting to listen while also trying not to forget what you want to say next. \*Cue Charlie Brown’s teacher\*
  
 If you’re reading this article, you have likely read articles like it that suggested:

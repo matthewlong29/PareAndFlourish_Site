@@ -24,8 +24,6 @@ tags: self-care, well-being, wellbeing, selfcare
 comments: true
 ---
 
-## Three Ways to Implement Self-Care. Now.
-
 You’ve networked, you’ve volunteered, you’ve conquered. So far, we’ve talked a lot about professional development. We’re taking a break from that to recognize the importance of self-care—just as you should take a break from the stress that comes from being a young professional, navigating life.
 
 If you're not taking care of yourself, you will undoubtedly lose steam and slowly burn out. We’re so focused on moving forward, that we’re afraid of losing precious time to be productive. But by practicing self-care, you’re fueling your ambition and increasing your mental and physical endurance.

@@ -24,8 +24,6 @@ tags: how to set goals, goal setting, setting goals
 comments: true
 ---
 
-## How to Effectively Set Goals
-
 When you’re finishing up your third episode on Netflix and it asks if you want to continue watching—that’s the moment when you realize there is no turning back. If only you had known what you wanted to achieve for the day, maybe you wouldn’t have gotten sucked into your newest binge show. 
 
 Setting daily goals can go a long way in keeping you accountable. On a small scale, goals for the day could be doing the dishes, folding the laundry, and making a trip to the grocery. On a bigger scale, goals for the week (or month) could be finishing your new website, writing a proposal for work, or applying to speak at conferences. The ritual of always knowing where you want to be and how you want to get there can directly contribute to your happiness.

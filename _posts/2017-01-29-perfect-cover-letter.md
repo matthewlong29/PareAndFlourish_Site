@@ -25,8 +25,6 @@ tags: Cover Letter Tips, How to Write a Cover Letter, Job Search Tips
 comments: true
 ---
 
-## How to Write the Perfect Cover Letter
-
 Does the thought of writing a cover letter exhaust you? 
 
 Your job search doesn’t have to be a grueling experience. Submitting a cover letter will put you ahead of the applicants who didn’t take the time to write one. But (there’s always a but) did it make you stand out from the others who DID submit cover letters? With the right tools and a little guidance, making your letter stand out can be a breeze.

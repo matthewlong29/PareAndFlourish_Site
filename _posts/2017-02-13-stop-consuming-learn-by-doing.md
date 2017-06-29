@@ -25,8 +25,6 @@ tags: Ash Norton Engineer, Learn by Doing, Young Engineer, Subject Matter Expert
 comments: true
 ---
 
-## Stop Consuming: Learn by Doing!
-
 <div class="row">
   <div class="col-sm-6">
     <img src="{{site.url}}/images/posts/learn-by-doing/ash-norton.jpg" class="img-responsive" alt="Ash Norton" title="Ash Norton" data-pin-nopin="true">

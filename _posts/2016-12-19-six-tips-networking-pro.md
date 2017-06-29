@@ -25,8 +25,6 @@ tags: career, millennial, stepping stone, job, job search, opportunity
 comments: true
 ---
 
-## Six Tips to Networking Like a Pro
-
 Even for those of us who don’t struggle with communication, networking conversations can be a shock to the senses. Suddenly all of your personality disappears and you have no idea what to fill the silence with. You’re bombarded with thoughts of all the things you should be saying, and nothing is coming naturally. In the midst of this metaphorical drowning, you are trying to put words together that make you sound interesting or intelligent or hardworking. 
 
 Because after all, you’re all of those things. Give it time. After a few networking situations, you’ll mellow out. When you gain the confidence to look the person in the eye and talk to them like they’re an old friend, you’ll command the room. 

@@ -24,8 +24,6 @@ tags: networking, volunteering, conference, informational interview, Pprofessors
 comments: true
 ---
 
-## Five Ways to Purposefully Network
-
 >I feel really grateful to the people who encouraged me and helped me develop. Nobody can succeed on their own.<br />
 ><cite><a href="{{site.url}}/reading-list/">Lean In, Sheryl Sandberg</a></cite>
 

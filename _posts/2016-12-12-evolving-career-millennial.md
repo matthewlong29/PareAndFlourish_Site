@@ -24,8 +24,6 @@ tags: career, millennial, stepping stone, job, job search, opportunity
 comments: true
 ---
 
-## The Evolving Career of the Millennial
-
 As millennials, we often hear ourselves described as entitled by older generations. Do we put off an air of entitlement? Possibly so. But, it’s not entitlement they’re seeing. Karl Moor, Forbes Contributor, writes, “Young people, as we are already aware, have voices. Their thoughts may not be as fine-tuned as their managers’, but their ideas are more innovative.” 
 
 Previous generations were taught to sit back and learn. Millennials are taught to contribute. If we don’t, we face the workforce leaving us behind. We have big ideas and we want our employers to hear them. We understand that simply because someone is older does not mean that their ideas are always better. While this may make us seem entitled, we feel it’s our duty to contribute what we can. So, why don’t people look up to us? We’re brilliant (how’s that for entitlement?).

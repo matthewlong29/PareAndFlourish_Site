@@ -24,8 +24,6 @@ tags: happy holidays, professionalism, new job, tips for work, professional, hol
 comments: true
 ---
 
-## Your Questions About Workplace Holidays, Answered
-
 We've teamed up with Sarah of [Space, Place & Southern Grace](http://www.spaceplaceandsoutherngrace.com) to bring you a post about professionalism during the holidays!
 
 

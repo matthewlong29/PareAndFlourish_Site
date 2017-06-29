@@ -24,7 +24,6 @@ tags: blog, passion, connections, networking, creative outlet
 comments: true
 ---
 
-## Why You Should Write Your Own Blog
 Disclaimer: We were terrified of writing this blog. We wanted to, but had a lot of hesitations. Namely, who are we to inform people about their careers? What if people don’t like it? What if we aren’t good at it? 
  
 The answers to those questions: People become experts through research and sharing info. Who cares if people don’t like something you are doing to help other people. We weren’t good at it, and it’s still an uphill battle. 

@@ -25,7 +25,6 @@ tags: LinkedIn Tips, LinkedIn Summary Examples, LinkedIn Photo Tips, How to Use 
 comments: true
 ---
 
-## 5 Steps to Use LinkedIn Effectively
 Unlike face-to-face networking events, LinkedIn lets you make connections with the click of a button. Not only can you quickly make connections, but you can craft your profile to make the perfect first impression. For those reasons, LinkedIn is the most useful tool for young professionals who want to build a network. 
 
 LinkedIn is unique because users are able to put in a very small amount of effort for a big return. The basic idea of using the site to connect with other professionals is clear, but the strategy is anything but. Just like any other platform, there are good and bad ways to use it. 

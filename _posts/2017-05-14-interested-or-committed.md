@@ -24,8 +24,6 @@ tags: sales tactics, sales techniques, selling products, how to sell
 comments: true
 ---
 
-## Interested or Committed? Sales’ Best-Kept Secret
-
 Are you interested or committed? No, this isn’t a question about your relationship.
 
 The answer to this question can tell you all you need to know about where someone stands. You can use this technique for traditional product sale or other situations where you can be unsure of someone’s intentions—for example, when you’re interviewing a candidate for a job.

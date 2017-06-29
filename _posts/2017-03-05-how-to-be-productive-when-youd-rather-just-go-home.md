@@ -25,8 +25,6 @@ tags: Productivity Tips, How to be Productive, How to be Motivated
 comments: true
 ---
 
-## How to be Productive (When You’d Rather Just Go Home)
-
 At 10AM, we’re alert and ready for anything the day throws at us. If only that feeling lasted until the last item on the to-do list was crossed off. Once 2PM rolls around, we’ve had a filling lunch, our necks are stiff from staring at the computer, and all we can think about it what to make for dinner. 
 
 How do we break away from the rut and use our last few hours to the fullest? 

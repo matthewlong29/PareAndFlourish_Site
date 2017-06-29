@@ -24,8 +24,6 @@ tags: shapr, shapr app, networking app, mobile networking
 comments: true
 ---
 
-## Why You Should be Using the Shapr Networking App
-
 You may have seen an advertisement on Facebook, or another platform, for the Shapr app. We did, and asked ourselves how this could impact our professional development. Staying ahead of the curve is important. It doesn’t always have to be difficult, out of reach, or costly. Thanks to technology, we can do most anything on the go. Shapr’s has made the same true for networking. 
 
 Launched in 2015, <a href="http://m.onelink.me/b9e940e7" target="_blank">Shapr</a> has gained users across the US, Great Britain, and France, largely through word of mouth. It’s no surprise that Shapr’s following continues to grow. It uses an algorithm to match professionals with the people that could potentially change the course of their professional life. The app is designed to help you find people for inspiring conversations, collaborations, or anything you might need to grow personally and professionally.

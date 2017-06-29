@@ -24,8 +24,6 @@ tags: Workplace Inequality, Wage Gap, Corporate Feminism, Corporate Sexism
 comments: true
 ---
 
-## Men’s Reactions to Work Like a Girl: Inequality in the Workforce
-
 In <a href="{{site.url}}/professional-development/inequality-in-workforce/">Work Like a Girl: Inequality in the Workforce</a> we asked three women to recount their experiences with workplace sexism. The stories did not go unnoticed. We received numerous responses from women who were relieved to see they were not alone. Women are faced with these issues subtly, and otherwise, frequently throughout their careers. Workplace sexism is terribly common for women, which begs the question: How familiar is the opposite sex with the issue?
 
 The following are excerpts from those experiences:

@@ -25,8 +25,6 @@ tags: Work from Home, How to Ask to Work From Home, How to Work from Home, Work 
 comments: true
 ---
 
-## 5 Things to Consider Before Asking to Work Remotely
-
 For some, working from home is the dream. For others, working from home is a necessity. Employees who decide to move cities, or states, or countries (a.k.a the real dream) must choose to do one of two things: quit their current job or convince their boss to let them work remotely. If you fall into the latter category, have you thought about that conversation with your boss? 
 
 Here are a few things to consider when asking to work from home:

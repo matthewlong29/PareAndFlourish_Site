@@ -24,8 +24,6 @@ tags: interview tips, interview advice, interview follow up, interview etiquette
 comments: true
 ---
 
-## Millennial Professional Pt. 3: How to Ace the Interview
-
 If you’re at this part of the process, you have submitted a fantastic resume and follow-up email. Congrats! You landed the interview. A popular reaction to this is excitement that slips into panic; now is not the time for panic. 
 
 Beware of thoughts like these: 
