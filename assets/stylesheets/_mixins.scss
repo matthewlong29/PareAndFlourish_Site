@@ -4,3 +4,10 @@
   -o-transition: $time $type $selector;
   transition: $time $type $selector;
 }
+
+@mixin userSelect ($arg) {
+  -webkit-user-select: $arg;
+  -moz-user-select: $arg;
+  -ms-user-select: $arg;
+  user-select: $arg;
+}
