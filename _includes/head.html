@@ -1,11 +1,73 @@
-<!-- The head tag contains meta data, website/page title, links to stylesheets, links to favicons, links to scrpts, as well as a couple small scripts (google analytics and google adsense). -->
+<!-- The head tag contains meta data, website/page title, links to stylesheets, links to favicons. -->
 
 <head>
     
-  {% include meta.html %}
+  <meta charset="utf-8">
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no">
+
+	<meta name="p:domain_verify" content="902b7d54021d7361708728fa135c5eed">
+
+	<!-- Pinterest Rich Pins (Article Pins) -->
+	<meta property="og:type" content="article">
+
+	<!-- Website/Post Title -->
+	<meta property="og:title" content="{% if page.title %}{{page.title}}{% else %}{{site.title}}{% endif %}">
+
+	<!-- Website/Post Description -->
+	<meta name="description" property="og:description" content="{% if page.excerpt %}{{page.excerpt | strip_html | strip_newlines | truncate: 160}}{% else %}{{site.description}}{% endif %}">
+
+	<!-- Website/Post URL -->
+	<meta property="og:url" content="{% if page.permalink %}{{site.url}}{{page.permalink}}{% else %}{{site.url}}{% endif %}">  
+
+	<!-- Site Name-->
+	<meta property="og:site_name" content="pareandflourish.com">
+
+	<!-- Article Publish Time -->
+	<meta property="article:published_time" content="{% if page.published %}{{page.published}}{% else %}{{site.first_published}}{% endif %}">
+
+	<!-- Website/Post Authors -->
+	<meta name="author" property="article:author" content="{% if page.author %}{{page.author}}{% else %}{{site.team}}{% endif %}">
+
+	<!-- Website/Post Keywords-->
+	<meta name="Keywords" property="" content="{% if page.keywords %}{{page.keywords}}{% else %}{{site.keywords}}{% endif %}">
+
+	<!-- Facebook App Moderation -->
+	<meta property="fb:app_id" content="174295113036712">
   
-	{% include links.html %}
+	<!-- RSS. Link to rss feed. -->
+	<link rel="alternate" type="application/rss+xml" title="Pare and Flourish - All Posts" href="/feed.xml">
+
+	<!-- Google Fonts. more information can be found at https://fonts.google.com/. -->
+	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Playfair+Display+SC|Open+Sans">
+
+	<!-- Animate.css. More information can be found at https://github.com/daneden/animate.css. -->
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+
+	<!-- Mailchimp. This is the subscriber tool css link. Custom css overrides can be found in subscribe.scss. More information can be found at https://mailchimp.com/resources/guides/getting-started-with-mailchimp/html/. -->
+	<link rel="stylesheet" type="text/css" href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css">
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+	<!-- Main CSS. This includes bootstrap overrides, mailchimp overrides, scss partial, and more. -->
+	<link rel="stylesheet" type="text/css" href="{{site.url}}/assets/stylesheets/main.css">
+
+	<!-- Favicons.  -->
+	<link rel="apple-touch-icon" sizes="180x180" href="{{site.url}}/images/icons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="{{site.url}}/images/icons/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="{{site.url}}/images/icons/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="{{site.url}}/images/icons/manifest.json">
+	<link rel="mask-icon" href="{{site.url}}/images/icons/safari-pinned-tab.svg" color="#fdfdfd">
+	
   <!-- Website Title -->
-  <title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
+  <title>
+		{% if page.title %}
+			{{page.title}} - {{site.title}}
+		{% else %}
+			{{site.title}}
+		{% endif %}
+	</title>
 
 </head>
