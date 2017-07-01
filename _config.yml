@@ -48,7 +48,7 @@ exclude:
   - .gitattributes
   - .gitignore
 
-gems:
+plugins:
   - jekyll
   - jekyll-assets
   - jekyll-sitemap
