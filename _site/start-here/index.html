@@ -96,23 +96,36 @@
 
 
 <!-- Navigation bar -->
-<div class="hamburgerButton" id="toggle">
-  <span class="top"></span>
-  <span class="middle"></span>
-  <span class="bottom"></span>
-</div>
+<nav class="navbar navbar-custom" role="navigation">
+	<div class="container">
+		
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+        <i class="fa fa-bars"></i>
+      </button>
+			<a class="navbar-brand" href="http://localhost:4000/">Pare and Flourish</a>
+		</div>
 
-<div class="overlay" id="overlay">
-  <nav class="overlay-menu">
-    <ul>
-      <li><a href="http://localhost:4000">Home</a></li>
-			<li><a href="http://localhost:4000">Start Here</a></li>
-      <li><a href="http://localhost:4000">Join Pare and Flourish</a></li>
-      <li><a href="http://localhost:4000">Let's Collaborate</a></li>
-      <li><a href="http://localhost:4000">Reading List</a></li>
-    </ul>
-  </nav>
-</div>
+		<div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+			<ul class="nav navbar-nav">
+				<li>
+					<a href="/start-here/">Start Here</a>
+				</li>
+				<li>
+					<a href="/lets-collaborate/">Let's Collaborate</a>
+				</li>
+				<li>
+					<a href="/reading-list/">Reading List</a>
+				</li>
+				<li>
+					<a href="/join-pare-and-flourish/">Join Pare and Flourish</a>
+				</li>
+			</ul>
+		</div>
+
+	</div>
+</nav>
+
 
 <!-- Page container (bootstrap). -->
 <div class="container">
@@ -144,7 +157,8 @@
 	<div class="row">
 		<div class="col-lg-8 col-md-8 col-sm-12">
 			<div class="post-content">
-
+				<h1>Start Here</h1>
+				
 				<!-- Post content (written in markdown and html.. see "_posts"). -->
 				<h2 id="flourish-with-us">Flourish with us!</h2>
 
