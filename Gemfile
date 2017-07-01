@@ -12,3 +12,8 @@ gem "jekyll-sitemap"
 gem "jekyll-paginate"
 
 gem "kramdown"
+
+
+
+# Temporary Fix For Server ------ Delete Soon
+gem "rb-fsevent", "0.9.8"
