@@ -41,7 +41,9 @@ layout: default
 	{% endif %}
 
 	<script>
-		$(".loadMore").click(loadMorePosts);
+		$(document).ready(function(){
+			$(".loadMore").click(loadMorePosts);
+		})
 	</script>
 
 </div>
