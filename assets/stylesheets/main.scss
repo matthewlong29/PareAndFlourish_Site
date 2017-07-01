@@ -10,6 +10,7 @@
 
 // Mixins
 @import "mixins";
+@import "animate";
 
 // Base
 @import "base";
@@ -24,8 +25,8 @@
 @import "footer";
 @import "horizontalrules";
 @import "loadMore";
-//@import "navbar";
-@import "newNavbar";
+@import "navbar";
+//@import "newNavbar";
 @import "paginate";
 @import "post-content";
 @import "side-panel";
