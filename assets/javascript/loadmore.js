@@ -16,8 +16,7 @@ $(document).ready(function () {
 			$blogContainer.attr("data-page", nextPage).append($articles);
 
 			if ($blogContainer.attr("data-totalPages") == nextPage) {
-				$(".loadMore").remove();
-				$(".loadingHR").remove();
+				$(".loading").remove();
 			}
 
 			$(_this).removeClass("loading");

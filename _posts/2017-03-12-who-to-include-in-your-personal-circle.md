@@ -27,7 +27,7 @@ comments: true
 
 In a time of need, you want people you can run to with your questions. It’s time to add those people to your professional circle. 
 
-You can easily start a <a href="{{ site.url }}/professional-development/pitching-your-professional-brand-for-introverts/">networking or referral group (see “Join a Referral Group”)</a>  that fits your needs. The question is, who should you ask?  
+You can easily start a <a href="{{site.url}}/professional-development/pitching-your-professional-brand-for-introverts/">networking or referral group (see “Join a Referral Group”)</a>  that fits your needs. The question is, who should you ask?  
 
 <hr class="secondary">
 

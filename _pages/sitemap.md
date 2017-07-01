@@ -24,7 +24,7 @@ permalink: /sitemap/
       <ul>
         {% assign tags_list = site.tags | sort %}  
         {% for tag in tags_list %} 
-          <li><a href="{{site.url}}/tag/{{ tag[0] | replace:' ','-' | downcase }}/">{{tag[0]}}</a></li>
+          <li><a href="{{site.url}}/tag/{{tag[0] | replace:' ','-' | downcase}}/">{{tag[0]}}</a></li>
         {% endfor %}
       </ul>
     </li>
@@ -32,7 +32,7 @@ permalink: /sitemap/
     <li><a href="{{site.url}}/blog/">Blog</a>
       <ul>
         {% for post in site.categories.blog %}
-					<li><a href="{{ site.url }}{{ post.url }}">{{post.title}}</a></li>
+					<li><a href="{{site.url}}{{post.url}}">{{post.title}}</a></li>
         {% endfor %}
       </ul>
     </li>

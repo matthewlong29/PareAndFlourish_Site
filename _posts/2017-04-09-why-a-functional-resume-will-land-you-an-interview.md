@@ -39,7 +39,7 @@ A functional resume highlights your experience and skills, rather than simply li
 
 The best part of this format? Anything applicable to the job is fair game. Your experience is so much more than your work history. The functional resume gives you the opportunity to organize what you love most about your experience. You get to create your own first impression. Not unlike your LinkedIn profile.
 
-Also, see: <a href="{{ site.url}}/blog/five-steps-to-use-linkedin-effectively/">5 Steps to Use LinkedIn Effectively</a>
+Also, see: <a href="{{site.url}}/blog/five-steps-to-use-linkedin-effectively/">5 Steps to Use LinkedIn Effectively</a>
 
 ### What information do I need?
 
@@ -105,7 +105,7 @@ Others believe that having your references on your resume only helps you. Your p
 
 ### How do I format a functional resume? 
 
-We have created a basic resume template with a guide to get you started. Subscribe to our community to receive the functional resume template, writing guide, and (as an added bonus) a cover letter template. You can click <a href="{{ site.url }}/join-pare-and-flourish/">here</a> to fill out the subscribe form, or you can locate it on this page (to the right or to the bottom, depending on desktop or mobile browsers).
+We have created a basic resume template with a guide to get you started. Subscribe to our community to receive the functional resume template, writing guide, and (as an added bonus) a cover letter template. You can click <a href="{{site.url}}/join-pare-and-flourish/">here</a> to fill out the subscribe form, or you can locate it on this page (to the right or to the bottom, depending on desktop or mobile browsers).
 
 <hr class="secondary">
 

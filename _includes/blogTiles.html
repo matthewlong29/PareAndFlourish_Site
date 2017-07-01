@@ -1,17 +1,17 @@
 <div class="blog-tiles">
-	<div id="blogContainer" class="postContainer" data-page="{{ currentPage }}" data-totalPages="{{ paginator.total_pages }}">
+	<div id="blogContainer" class="postContainer" data-page="{{currentPage}}" data-totalPages="{{paginator.total_pages}}">
 		{% for post in paginator.posts %}
 		<article class="post list">
 			<div class="blog-content">
 				<div class="row">
 					<hr class="secondary">
 					<div class="col-lg-4 col-md-4 col-sm-6">
-						<a href="{{ site.url }}{{ post.url }}">
-							<img src="{{ site.url }}/images/teasers-1080x600/{{ post.image.teaser }}" class="img-responsive" alt="{{ post.image.alt }}" />
+						<a href="{{site.url}}{{post.url}}">
+							<img src="{{site.url}}/images/teasers-1080x600/{{post.image.teaser}}" class="img-responsive" alt="{{post.image.alt}}" />
 						</a>
 					</div>
 					<div class="blog-text col-lg-8 col-md-8 col-sm-6">
-						<a href="{{ site.url }}{{ post.url }}">
+						<a href="{{site.url}}{{post.url}}">
 							<h3>{{post.title}}</h3>
 							<p class="date">{{post.modified}}</p>
 							{% if post.author != "Skylar Wooden and Katie Butler" %}

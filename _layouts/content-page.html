@@ -25,7 +25,7 @@ layout: default
 					<h4>Written by: {{page.author}}</h4>
 				{% endif %}
 				<!-- Post content (written in markdown and html.. see "_posts"). -->
-				{{ content }}
+				{{content}}
 
 				<!-- Subscription incentive at bottom of posts. Download button links to join-pare-and-flourish page -->
 				{% if page.path contains '_posts' %}
@@ -61,7 +61,7 @@ layout: default
 			
 			<!-- Comments. Powered by facebook. -->
 			{% if page.comments %}
-			<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="3" data-width="100%"></div>
+			<div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-numposts="3" data-width="100%"></div>
 			{% endif %}
 
 		</div>

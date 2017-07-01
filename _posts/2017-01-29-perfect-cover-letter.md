@@ -83,4 +83,4 @@ This is not the time to discuss, at length:
 
 <i>My experience in the study abroad program changed my life…</i>
 
-Cover letters are the most underestimated and misunderstood job materials. We hope we’ve uncovered some of the mystery for you, but if you need some help getting the bare bones and formatting, we’ve created a [cover letter template]({{ site.url }}/join-pare-and-flourish/) for you. Join our community to download your template and receive weekly tips on pitching your professional brand. 
+Cover letters are the most underestimated and misunderstood job materials. We hope we’ve uncovered some of the mystery for you, but if you need some help getting the bare bones and formatting, we’ve created a [cover letter template]({{site.url}}/join-pare-and-flourish/) for you. Join our community to download your template and receive weekly tips on pitching your professional brand. 
