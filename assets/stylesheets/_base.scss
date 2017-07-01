@@ -36,3 +36,7 @@ img.noImageStyling {
 ::selection {
 	background: $accentLighten;
 }
+
+::-moz-selection {
+  background: $accentLighten;
+}
