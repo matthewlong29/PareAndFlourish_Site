@@ -24,12 +24,12 @@
 	}
 	a {
 		text-decoration: none;
-		color: $colorGray;
+		color: $gray;
 		border-bottom: 1px solid;
 		@include transition(.2s, ease, all);
 		&:hover {
 			border-bottom: 2px solid;
-			color: darken($colorGray, 0.5);
+			color: darken($gray, 0.5);
 		}
 	}
 	hr.secondary {
@@ -41,9 +41,9 @@
 	margin-bottom: 1em;
 	.download {
 		font-family: $primaryFont;
-		color: $colorWhite;
+		color: $white;
 		text-align: center;
-		background-color: $colorPrimary;
+		background-color: $accent;
 //		margin: 1em;
 		padding: .25em;
 		border-radius: $commonRadius;
@@ -52,7 +52,7 @@
 		@include transition(.2s, ease, all);
 		&:hover,
 		&:focus {
-			background-color: $colorPrimaryLighten;
+			background-color: $accentLighten;
 			box-shadow: $commonShadowHover;
 		}
 	}

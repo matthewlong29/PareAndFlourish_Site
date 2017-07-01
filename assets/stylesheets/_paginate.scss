@@ -8,9 +8,9 @@
 		padding: $zeroPadding;
 	}
 	.arrow {
-		color: $colorWhite;
+		color: $white;
 		text-align: center;
-		background-color: $colorPrimary;
+		background-color: $accent;
 		border: $commonBorder;
 		margin: 1em 0;
 		padding: .25em;
@@ -19,7 +19,7 @@
 		@include transition(.2s, ease, all);
 		&:hover,
 		&:focus {
-			background-color: $colorPrimaryLighten;
+			background-color: $accentLighten;
 			box-shadow: $commonShadowHover;
 		}
 	}
@@ -27,7 +27,7 @@
 		text-align: center;
 		h3 {
 			font-family: $primaryFont;
-			color: darken($colorGray, 25%);
+			color: darken($gray, 25%);
 			margin: 0 0 1em 0;
 		}
 	}

@@ -62,7 +62,7 @@
 		display: block;
 		float: none;
 		background: url('../../images/other/slickmap/L1-left.png') center bottom no-repeat;
-		background-color: $colorWhite;
+		background-color: $white;
 		position: relative;
 		z-index: 2;
 		padding: 0 0 30px 0;
@@ -76,9 +76,9 @@
 			margin: 0 20px 0 0;
 			display: block;
 			text-align: center;
-			color: $colorWhite;
+			color: $white;
 			background: url('../../images/other/slickmap/white-highlight.png') top left repeat-x;
-			background-color: $colorBlack;
+			background-color: $black;
 			border: $commonBorder;
 			border-radius: $commonRadius;
 			box-shadow: $commonShadow;
@@ -105,7 +105,7 @@
 		a {
 			&:link:before,
 			&:visited:before {
-				color: $colorWhite;
+				color: $white;
 			}
 		}
 		li {
@@ -115,8 +115,8 @@
 			padding: 10px 0 0 0;
 			background: url('../../images/other/slickmap/vertical-line.png') center bottom repeat-y;
 			a {
-				background-color: $colorBlack;
-				border-color: $colorBlack;
+				background-color: $black;
+				border-color: $black;
 			}
 			&:first-child {
 				padding-top: 30px;
@@ -127,7 +127,7 @@
 			a {
 				&:link:before,
 				&:visited:before {
-					color: $colorWhite;
+					color: $white;
 				}
 			}
 			ul {
@@ -136,14 +136,14 @@
 				float: right;
 				padding: 9px 0 10px 0;
 				background: url('../../images/other/slickmap/L3-ul-top.png') center top no-repeat;
-				background-color: $colorWhite;
+				background-color: $white;
 			}
 			li {
 				background: url('../../images/other/slickmap/L3-center.png') left center no-repeat;
 				padding: 5px 0;
 				a {
-					background-color: $colorBlack;
-					border-color: $colorBlack;
+					background-color: $black;
+					border-color: $black;
 					padding: 5px 0;
 					width: 80%;
 					float: right;
@@ -158,7 +158,7 @@
 				a {
 					&:link:before,
 					&:visited:before {
-						color: $colorWhite;
+						color: $white;
 					}
 				}
 			}
@@ -177,9 +177,9 @@
 				display: block;
 				border: $commonBorder;
 				text-align: center;
-				color: $colorWhite;
+				color: $white;
 				background: url('../../images/other/slickmap/white-highlight.png') top left repeat-x;
-				background-color: $colorWhite;
+				background-color: $white;
 				border-radius: $commonRadius;
 				box-shadow: $commonShadow;
 				@include transition(.2s, ease, all);
@@ -188,7 +188,7 @@
 				}
 				&:link:before,
 				&:visited:before {
-					color: $colorWhite;
+					color: $white;
 					margin-bottom: 3px;
 				}
 			}

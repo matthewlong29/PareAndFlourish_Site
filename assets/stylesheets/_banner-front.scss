@@ -1,7 +1,7 @@
 .banner-front {
 	visibility: hidden;
 	text-align: center;
-	color: $colorWhite;
+	color: $white;
 	margin: $autoMargin;
 	position: relative;
 	@include transition(.2s, ease, all);
@@ -16,8 +16,8 @@
 			display: none;
 		}
 		p {
-			text-shadow: 1px 1px 4px $colorGray;
-			color: $colorGray;
+			text-shadow: 1px 1px 4px $gray;
+			color: $gray;
 			font-size: 1.5em;
 			@include transition(.2s, ease, all);
 			@media (max-width: 1163px) {
@@ -44,23 +44,23 @@
 		}
 		a {
 			text-decoration: none;
-			color: $colorWhite;
+			color: $white;
 			font-size: 1.75em;
 			font-family: $primaryFont
 		}
 		.sub-button {
 			border: $commonBorder;
-			background-color: $colorPrimary;
+			background-color: $accent;
 			margin: $autoMargin;
 			@include transition(.2s, ease, all);
 			&:hover,
 			&:focus {
-				background-color: $colorPrimaryLighten;
+				background-color: $accentLighten;
 			}
 		}
 	}
 	.banner-under {
-		background-color: transparentize($colorGray, 0.15);
+		background-color: transparentize($gray, 0.15);
 		padding-top: 0;
 		margin-top: 0;
 		padding-bottom: 1em;
@@ -71,7 +71,7 @@
 			display: none;
 		}
 		p {
-			color: darken($colorWhite, 35%);
+			color: darken($white, 35%);
 			margin: $zeroMargin;
 			font-size: 1.2em;
 			@include transition(.2s, ease, all);
@@ -84,18 +84,18 @@
 		}
 		a {
 			text-decoration: none;
-			color: $colorWhite;
+			color: $white;
 			font-size: 1.75em;
 			font-family: $primaryFont
 		}
 		.sub-button {
 			border: $commonBorder;
-			background-color: $colorPrimary;
+			background-color: $accent;
 			margin: $autoMargin;
 			@include transition(.2s, ease, all);
 			&:hover,
 			&:focus {
-				background-color: $colorPrimaryLighten;
+				background-color: $accentLighten;
 			}
 		}
 	}

@@ -1,6 +1,6 @@
 #mc_side {
-	background: transparentize($colorGray, .95);
-	color: $colorPrimary;
+	background: transparentize($gray, .95);
+	color: $accent;
 	padding: 1em;
 	margin: 1em 0;
 	text-align: center;
@@ -10,14 +10,14 @@
 	p.title {
 		font-size: 1.25em;
 		font-family: $secondaryFont;
-		color: $colorGray;
+		color: $gray;
 		margin: $zeroMargin;
 		padding: $zeroPadding;
 	}
 	p.text {
 		font-size: 1em;
 		font-family: $secondaryFont;
-		color: $colorGray;
+		color: $gray;
 		margin: 0 0 1em 0;
 		padding: $zeroPadding;
 	}
@@ -26,7 +26,7 @@
 #mc_side input {
 	border: $commonBorder;
 	border-radius: $commonRadius;
-	color: $colorGray;
+	color: $gray;
 	margin: auto;
 	margin-bottom: 10px;
 	padding: 8px 10px;
@@ -34,34 +34,34 @@
 }
 
 #mc_side input.email {
-	background: $colorWhite;
+	background: $white;
 }
 
 #mc_side input.name {
-	background: $colorWhite;
+	background: $white;
 }
 
 #mc_side input[type="submit"] {
 	margin: auto;
-	background: $colorPrimary;
+	background: $accent;
 	@include transition(.2s, ease, all);
 	&:hover,
 	&:focus {
-		background-color: $colorPrimaryLighten;
+		background-color: $accentLighten;
 	}
-	color: $colorWhite;
+	color: $white;
 	cursor: pointer;
 	width: 100%;
 	padding: 8px 0;
 }
 
 #mc_side input[type="submit"]:hover {
-	color: $colorWhite;
+	color: $white;
 }
 
 #mc_page {
-	background: transparentize($colorGray, .95);
-	color: $colorPrimary;
+	background: transparentize($gray, .95);
+	color: $accent;
 	padding: 20px;
 	text-align: center;
 	border: $commonBorder;
@@ -71,7 +71,7 @@
 
 #mc_page input {
 	border: $commonBorder;
-	color: $colorGray;
+	color: $gray;
 	margin: auto;
 	margin-bottom: 10px;
 	padding: 8px 10px;
@@ -80,27 +80,27 @@
 }
 
 #mc_page input.email {
-	background: $colorWhite;
+	background: $white;
 }
 
 #mc_page input.name {
-	background: $colorWhite;
+	background: $white;
 }
 
 #mc_page input[type="submit"] {
 	margin: auto;
-	background: $colorPrimary;
+	background: $accent;
 	@include transition(.2s, ease, all);
 	&:hover,
 	&:focus {
-		background-color: $colorPrimaryLighten;
+		background-color: $accentLighten;
 	}
-	color: $colorWhite;
+	color: $white;
 	cursor: pointer;
 	width: 100%;
 	padding: 8px 0;
 }
 
 #mc_page input[type="submit"]:hover {
-	color: $colorWhite;
+	color: $white;
 }

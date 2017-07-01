@@ -3,7 +3,7 @@
 }
 
 body {
-	background-color: $colorWhite;
+	background-color: $white;
 	@include transition(.2s, ease, all);
 }
 
@@ -34,5 +34,5 @@ img.noImageStyling {
 }
 
 ::selection {
-	background: $colorPrimaryLighten;
+	background: $accentLighten;
 }

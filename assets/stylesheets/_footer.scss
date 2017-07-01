@@ -16,7 +16,7 @@
 	}
 	a {
 		text-decoration: none;
-		color: $colorBlack;
+		color: $black;
 		border-bottom: 1px solid;
 		@include transition(.2s, ease, all);
 		&:hover {

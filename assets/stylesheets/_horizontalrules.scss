@@ -2,7 +2,7 @@ hr.primary {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 2.5px solid $colorGray;
+  border-top: 2.5px solid $gray;
   margin: $zeroMargin;
   padding: $zeroPadding;
 }
@@ -10,9 +10,9 @@ hr.primary {
 hr.secondary {
   display: block;
   border: none;
-  color: $colorWhite;
+  color: $white;
   margin: $zeroMargin;
   padding: $zeroPadding;
   height: 1px;
-  background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 425, from($colorGray), to($colorWhite));
+  background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 425, from($gray), to($white));
 }

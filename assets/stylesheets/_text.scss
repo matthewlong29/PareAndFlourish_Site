@@ -6,7 +6,7 @@ h5,
 h6 {
 	@include transition(.2s, ease, all);
 	font-family: $primaryFont;
-	color: darken($colorGray, 25%);
+	color: darken($gray, 25%);
 	padding: .25em 0;
 	margin: .25em 0;
 }
@@ -14,7 +14,7 @@ h6 {
 p {
 	@include transition(.2s, ease, all);
 	font-family: $secondaryFont;
-	color: $colorPrimaryLighten;
+	color: $black;
 	padding: .25em 0;
 	margin: .25em 0;
 }
@@ -39,14 +39,14 @@ p.indentMore {
 }
 
 a {
-	color: $colorWhite;
+	color: $white;
 	text-decoration: solid;
 	padding: $zeroPadding;
 	margin: $zeroMargin;
 }
 
 li {
-	color: $colorGray;
+	color: $gray;
 	font-family: $secondaryFont;
 }
 

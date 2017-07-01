@@ -1,18 +1,18 @@
 .side-panel {
 	margin: 1em 0 1em 0;
 	padding: $zeroPadding;
-	background-color: $colorWhite;
+	background-color: $white;
 	h3 {
-		color: $colorWhite;
+		color: $white;
 		text-align: center;
-		background-color: $colorPrimary;
+		background-color: $accent;
 		margin: 0 0 1em 0;
 		border-radius: $commonRadius;
 		box-shadow: $commonShadow;
 		@include transition(.2s, ease, all);
 		&:hover,
 		&:focus {
-			background-color: $colorPrimaryLighten;
+			background-color: $accentLighten;
 			box-shadow: $commonShadowHover;
 		}
 	}

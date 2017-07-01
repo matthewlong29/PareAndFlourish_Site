@@ -1,11 +1,11 @@
 // Website Colors
-$colorPrimary: #000;
-$colorWhite: #fff;
-$colorGray: #080808;
-$colorBlack: #000;
+$accent: #f44;
+$white: #fff;
+$gray: #080808;
+$black: #000;
 
 // Transition Colors
-$colorPrimaryLighten: lighten($colorPrimary, 15%);
+$accentLighten: lighten($accent, 15%);
 
 // Social Media Colors
 $colorTwitter: #00aced;
@@ -17,12 +17,12 @@ $colorFacebook: #3b5998;
 $colorRSS: #f26522;
 
 // Borders
-$commonBorder: 2px solid $colorGray;
+$commonBorder: 2px solid $gray;
 $commonRadius: 2px;
 
 // Box Shadows
-$commonShadow: 2px 2px 4px $colorGray;
-$commonShadowHover: 1px 1px 2px $colorGray;
+$commonShadow: 2px 2px 4px $gray;
+$commonShadowHover: 1px 1px 2px $gray;
 
 // Font for Headings
 $primaryFont: "Playfair Display SC", serif;
