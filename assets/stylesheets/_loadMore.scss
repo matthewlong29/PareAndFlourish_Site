@@ -8,18 +8,18 @@
 		height: 2px;
 		background: $colorBlack;
 	}
-	.loadMore {
-		text-align: center;
-		width: 100%;
-		font-family: $primaryFont;
-		background-color: $colorPrimary;
-		color: $colorWhite;
-		border: $commonBorder;
-		border-radius: $commonRadius;
-		box-shadow: $commonShadow;
-		@include transition(.2s, ease, all);
-		&:hover{
-			box-shadow: $commonShadowHover;
-		}
-	}
+//	.loadMore {
+//		text-align: center;
+//		width: 100%;
+//		font-family: $primaryFont;
+//		background-color: $colorPrimary;
+//		color: $colorWhite;
+//		border: $commonBorder;
+//		border-radius: $commonRadius;
+//		box-shadow: $commonShadow;
+//		@include transition(.2s, ease, all);
+//		&:hover{
+//			box-shadow: $commonShadowHover;
+//		}
+//	}
 }
