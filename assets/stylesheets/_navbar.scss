@@ -1,4 +1,5 @@
 .navbar-custom {
+	@include userSelect(none);
 	margin-bottom: 0;
 	border-bottom: 1px $gray;
 	font-family: $primaryFont;
