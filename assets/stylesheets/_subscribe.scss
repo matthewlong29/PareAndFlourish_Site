@@ -42,9 +42,9 @@
 }
 
 #mc_side input[type="submit"] {
+	@include transition(.2s, ease, all);
 	margin: auto;
 	background: $accent;
-	@include transition(.2s, ease, all);
 	&:hover,
 	&:focus {
 		background-color: $accentLighten;
@@ -88,9 +88,9 @@
 }
 
 #mc_page input[type="submit"] {
+	@include transition(.2s, ease, all);
 	margin: auto;
 	background: $accent;
-	@include transition(.2s, ease, all);
 	&:hover,
 	&:focus {
 		background-color: $accentLighten;

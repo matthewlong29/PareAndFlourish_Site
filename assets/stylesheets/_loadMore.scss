@@ -9,6 +9,7 @@
 		background: $black;
 	}
 //	.loadMore {
+//		@include transition(.2s, ease, all);
 //		text-align: center;
 //		width: 100%;
 //		font-family: $primaryFont;
@@ -17,7 +18,6 @@
 //		border: $commonBorder;
 //		border-radius: $commonRadius;
 //		box-shadow: $commonShadow;
-//		@include transition(.2s, ease, all);
 //		&:hover{
 //			box-shadow: $commonShadowHover;
 //		}

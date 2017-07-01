@@ -7,8 +7,9 @@
 		padding: $zeroPadding;
 		margin: $zeroMargin;
 		img {
-			margin: 1em 0;
 			@include transition(.2s, ease, all);
+			@include userSelect(none);
+			margin: 1em 0;
 			&:hover,
 			&:focus {
 				box-shadow: $commonShadowHover;

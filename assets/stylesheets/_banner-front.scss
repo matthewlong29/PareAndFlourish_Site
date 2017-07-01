@@ -1,25 +1,25 @@
 .banner-front {
+	@include transition(.2s, ease, all);
 	visibility: hidden;
 	text-align: center;
 	color: $white;
 	margin: $autoMargin;
 	position: relative;
-	@include transition(.2s, ease, all);
 	.banner-overlay {
+		@include transition(.2s, ease, all);
 		top: 55%;
 		right: 0%;
 		bottom: 4%;
 		left: 0%;
 		position: absolute;
-		@include transition(.2s, ease, all);
 		@media (max-width: 758px) {
 			display: none;
 		}
 		p {
+			@include transition(.2s, ease, all);
 			text-shadow: 1px 1px 4px $gray;
 			color: $gray;
 			font-size: 1.5em;
-			@include transition(.2s, ease, all);
 			@media (max-width: 1163px) {
 				font-size: 1.4em;
 			}
@@ -49,10 +49,10 @@
 			font-family: $primaryFont
 		}
 		.sub-button {
+			@include transition(.2s, ease, all);
 			border: $commonBorder;
 			background-color: $accent;
 			margin: $autoMargin;
-			@include transition(.2s, ease, all);
 			&:hover,
 			&:focus {
 				background-color: $accentLighten;
@@ -60,21 +60,21 @@
 		}
 	}
 	.banner-under {
+		@include transition(.2s, ease, all);
 		background-color: transparentize($gray, 0.15);
 		padding-top: 0;
 		margin-top: 0;
 		padding-bottom: 1em;
 		border-radius: $commonRadius;
 		box-shadow: $commonShadow;
-		@include transition(.2s, ease, all);
 		@media (min-width: 758px) {
 			display: none;
 		}
 		p {
+			@include transition(.2s, ease, all);
 			color: darken($white, 35%);
 			margin: $zeroMargin;
 			font-size: 1.2em;
-			@include transition(.2s, ease, all);
 			@media (max-width: 580px) {
 				font-size: 1.1em;
 			}
@@ -89,10 +89,10 @@
 			font-family: $primaryFont
 		}
 		.sub-button {
+			@include transition(.2s, ease, all);
 			border: $commonBorder;
 			background-color: $accent;
 			margin: $autoMargin;
-			@include transition(.2s, ease, all);
 			&:hover,
 			&:focus {
 				background-color: $accentLighten;

@@ -8,6 +8,7 @@
 		padding: $zeroPadding;
 	}
 	.arrow {
+		@include transition(.2s, ease, all);
 		color: $white;
 		text-align: center;
 		background-color: $accent;
@@ -16,7 +17,6 @@
 		padding: .25em;
 		border-radius: $commonRadius;
 		box-shadow: $commonShadow;
-		@include transition(.2s, ease, all);
 		&:hover,
 		&:focus {
 			background-color: $accentLighten;

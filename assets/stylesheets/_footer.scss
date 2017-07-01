@@ -7,6 +7,7 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 	img {
+		@include userSelect(none);
 		border: 0;
 		box-shadow: none;
 		max-width: 200px;
@@ -15,10 +16,10 @@
 		font-size: .85em;
 	}
 	a {
+		@include transition(.2s, ease, all);
 		text-decoration: none;
 		color: $black;
 		border-bottom: 1px solid;
-		@include transition(.2s, ease, all);
 		&:hover {
 			border-bottom: 2px solid;
 		}

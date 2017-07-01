@@ -1,7 +1,7 @@
 .about-us {
+	@include transition(.2s, ease, all);
   margin: $zeroMargin;
   padding: $zeroPadding;
-	@include transition(.2s, ease, all);
   p {
     margin: 0 0 1em 0;
     padding: $zeroPadding;

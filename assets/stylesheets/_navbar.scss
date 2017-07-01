@@ -25,10 +25,10 @@
 	}
 	.nav li {
 		a {
+			@include transition(.2s, ease, all);
 			color: $white;
 			background-color: $accent;
 			text-decoration: none;
-			@include transition(.2s, ease, all);
 			&:hover {
 				outline: none;
 				color: $accent;

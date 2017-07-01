@@ -23,10 +23,10 @@
 		font-family: $secondaryFont;
 	}
 	a {
+		@include transition(.2s, ease, all);
 		text-decoration: none;
 		color: $gray;
 		border-bottom: 1px solid;
-		@include transition(.2s, ease, all);
 		&:hover {
 			border-bottom: 2px solid;
 			color: darken($gray, 0.5);
@@ -40,6 +40,7 @@
 .subscribeBottom {
 	margin-bottom: 1em;
 	.download {
+		@include transition(.2s, ease, all);
 		font-family: $primaryFont;
 		color: $white;
 		text-align: center;
@@ -49,7 +50,6 @@
 		border-radius: $commonRadius;
 		box-shadow: $commonShadow;
 		border: $commonBorder;
-		@include transition(.2s, ease, all);
 		&:hover,
 		&:focus {
 			background-color: $accentLighten;
