@@ -1,59 +1,90 @@
 .post-content {
-	font-size: 1.25em;
-	p {
-		line-height: 1.75em;
-	}
-	li {
-		line-height: 1.75em;
-	}
-	h2 {
-		font-family: $primaryFont;
-		line-height: 1em;
-	}
-	h2.alt {
-		font-family: $primaryFont;
-		font-size: 1.25em;
-	}
-	h3 {
-		line-height: 1em;
-		margin: $zeroMargin;
-		padding-top: 1em;
-	}
-	h4 {
-		font-family: $secondaryFont;
-	}
-	a {
-		@include transition(.2s, ease, all);
-		text-decoration: none;
-		color: $gray;
-		border-bottom: 1px solid;
-		&:hover {
-			border-bottom: 2px solid;
-			color: darken($gray, 0.5);
-		}
-	}
-	hr.secondary {
-		margin: 1em 0;
-	}
+  font-size: 1.25em;
+  p {
+    line-height: 1.75em;
+  }
+  li {
+    line-height: 1.75em;
+  }
+  h1 {
+    &.title {
+      text-align: center;
+    }
+  }
+  h2 {
+    font-family: $primaryFont;
+    line-height: 1em;
+  }
+  h2.alt {
+    font-family: $primaryFont;
+    font-size: 1.25em;
+  }
+  h3 {
+    line-height: 1em;
+    margin: $zeroMargin;
+    &.author {
+      margin-top: -10px;
+      margin-bottom: 10px;
+      text-align: center;
+      color: $gray;
+      font-size: 1em;
+      line-height: 2em;
+      &:before {
+        content: "";
+        line-height: 1em;
+        display: block;
+        margin: 0 auto;
+        border-bottom: 2px solid $gray;
+        width: 15%;
+      }
+      &:after {
+        content: "";
+        line-height: 1em;
+        display: block;
+        margin: 0 auto;
+        border-top: 2px solid $gray;
+        width: 15%;
+      }
+    }
+    &.date {
+      text-align: center;
+      font-size: 1em;
+      margin-top: -10px;
+      margin-bottom: 10px;
+    }
+  }
+  a {
+    @include transition(.2s, ease, all);
+    text-decoration: none;
+    color: $gray;
+    border-bottom: 1px solid;
+    &:hover {
+      border-bottom: 2px solid;
+      color: darken($gray, 0.5);
+    }
+  }
+  hr.secondary {
+    margin: 1em 0;
+  }
 }
 
 .subscribeBottom {
-	margin-bottom: 1em;
-	.download {
-		@include transition(.2s, ease, all);
-		font-family: $primaryFont;
-		color: $white;
-		text-align: center;
-		background-color: $accent;
-//		margin: 1em;
-		padding: .25em;
-		border-radius: $commonRadius;
-		box-shadow: $commonShadow;
-		border: $commonBorder;
-		&:hover,
-		&:focus {
-			background-color: $accentLighten;
-			box-shadow: $commonShadowHover;
-		}
-	}
+  margin-bottom: 1em;
+  .download {
+    @include transition(.2s, ease, all);
+    font-family: $primaryFont;
+    color: $white;
+    text-align: center;
+    background-color: $accent;
+    //		margin: 1em;
+    padding: .25em;
+    border-radius: $commonRadius;
+    box-shadow: $commonShadow;
+    border: $commonBorder;
+    &:hover,
+    &:focus {
+      background-color: $accentLighten;
+      box-shadow: $commonShadowHover;
+    }
+  }
 }
