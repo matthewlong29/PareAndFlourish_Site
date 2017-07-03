@@ -2,6 +2,13 @@
   font-size: 1.25em;
   p {
     line-height: 1.75em;
+    &:first-of-type:first-letter {
+      display: inline-block;
+      font-size: 5em;
+      float: left;
+      font-family: $primaryFont;
+      line-height: 1em;
+    }
   }
   li {
     line-height: 1.75em;
