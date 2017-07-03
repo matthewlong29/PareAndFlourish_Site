@@ -8,10 +8,7 @@ permalink: /start-here/
 
 ## Flourish with us!
 
-<p>This unique blog is written by two very different people, living very different lives.</p>
-
-<p class="script">Skylar</p><p class="script-inline">, the creative one, the Writer.</p><br>
-<p class="script">Katie</p><p class="script-inline">, the logical thinker, the Accountant.</p>
+<p>This unique blog is written by two very different people, living very different lives. <span class="startHereNames">Skylar</span>, the creative one, the Writer. <span class="startHereNames">Katie</span>, the logical thinker, the Accountant.</p>
 
 <p>For the sake of our partnership, we meld our ideas—every post is a product of our combined points of view...and a lot of editing.</p>
 

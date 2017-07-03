@@ -6,31 +6,29 @@ title: Join Pare and Flourish
 permalink: /join-pare-and-flourish/
 ---
 
+## The 5-Part Job Search Package
 
-## Join Pare and Flourish
+<p>Are you prepared for your job search? Let us help you! You’ve found the perfect opportunity for you, but aren’t sure where to start. There are many moving parts in the job application process. <strong>To pitch your professional brand and make a good first impression, you need the right tools.</strong> We can help you gain the confidence you need by helping you prepare. We’ll give you the tools you need to wow them.</p>
 
-### The 5-Part Job Search Package
-
-<p>Are you prepared for your job search? Let us help you!</p>
-
-<p>You’ve found the perfect opportunity for you, but aren’t sure where to start. There are many moving parts in the job application process. <strong>To pitch your professional brand and make a good first impression, you need the right tools.</strong> We can help you gain the confidence you need by helping you prepare. We’ll give you the tools you need to wow them.</p>
-
-<div class="subscribeBottom">
-	<div class="row">
-		<div class="col-md-6 col-sm-12">
-			<img src="{{site.url}}/images/other/subscriptionGraphic.jpg" class="img-responsive" alt="subscribe here" title="Subscribe here!" data-pin-nopin="true">
-		</div>
-		<div class="col-md-6 col-sm-12">
-			<p>Download our <strong>free job search package</strong> that includes our:</p>
-			<ul>
-				<li>Resume Template</li>
-				<li>Resume Writing Guide</li>
-				<li>Cover Letter Template</li>
-				<li>Resume Follow-Up Template</li>
-				<li>Interview Follow-Up Template</li>
-			</ul>
-		</div>
-	</div>
+<div class="subscribeIncintive">
+  <hr class="primary">
+  <div class="row">
+    <div class="col-sm-12">
+      Are you prepared for your job search? Let us help you. Download our free job search package, including:
+    </div>
+    <div class="col-md-6 col-sm-12">
+      <img src="{{site.url}}/images/other/subscriptionGraphic.jpg" class="img-responsive" alt="subscribe here" title="Subscribe here!" data-pin-nopin="true">
+    </div>
+    <div class="col-md-6 col-sm-12">
+      <ol>
+        <li>Resume Template</li>
+        <li>Resume Writing Guide</li>
+        <li>Cover Letter Template</li>
+        <li>Resume Follow-Up Template</li>
+        <li>Interview Follow-Up Template</li>
+      </ol>
+    </div>
+  </div>
 </div>
 
 <!-- Begin MailChimp Signup Form -->
