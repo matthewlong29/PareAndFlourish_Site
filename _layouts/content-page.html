@@ -32,35 +32,35 @@ layout: default
         
 				<!-- Post content (written in markdown and html.. see "_posts"). -->
 				{{content}}
-
+        
+      </div>
+      
 				<!-- Subscription incentive at bottom of posts. Download button links to join-pare-and-flourish page -->
-				{% if page.path contains '_posts' %}
-				<div class="subscribeBottom">
-					<hr class="primary">
-					<div class="row">
-						<div class="col-sm-12">
-							<p>Are you prepared for your job search? Let us help you. Download our free job search package, including:</p>
-						</div>
-						<div class="col-md-6 col-sm-12">
-							<img src="{{site.url}}/images/other/subscriptionGraphic.jpg" class="img-responsive" alt="subscribe here" title="Subscribe here!" data-pin-nopin="true">
-						</div>
-						<div class="col-md-6 col-sm-12">
-							<ul>
-								<li>Resume Template</li>
-								<li>Resume Writing Guide</li>
-								<li>Cover Letter Template</li>
-								<li>Resume Follow-Up Template</li>
-								<li>Interview Follow-Up Template</li>
-							</ul>
-							<a href="{{site.url}}/join-pare-and-flourish/">
-								<div class="download">Download</div>
-							</a>
-						</div>
-					</div>
-				</div>
-				{% endif %}
-
-			</div>
+      {% if page.path contains '_posts' %}
+      <div class="subscribeBottom">
+        <hr class="primary">
+        <div class="row">
+          <div class="col-sm-12">
+            <p>Are you prepared for your job search? Let us help you. Download our free job search package, including:</p>
+          </div>
+          <div class="col-md-6 col-sm-12">
+            <img src="{{site.url}}/images/other/subscriptionGraphic.jpg" class="img-responsive" alt="subscribe here" title="Subscribe here!" data-pin-nopin="true">
+          </div>
+          <div class="col-md-6 col-sm-12">
+            <ol>
+              <li>Resume Template</li>
+              <li>Resume Writing Guide</li>
+              <li>Cover Letter Template</li>
+              <li>Resume Follow-Up Template</li>
+              <li>Interview Follow-Up Template</li>
+            </ol>
+            <a href="{{site.url}}/join-pare-and-flourish/">
+              <button class="commonButton">Download</button>
+            </a>
+          </div>
+        </div>
+      </div>
+      {% endif %}
 
 			<!-- Pagination -->
 			{% include nextOrPreviousPost.html %} 
