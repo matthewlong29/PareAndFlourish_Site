@@ -4,10 +4,12 @@
     line-height: 1.75em;
     &:first-of-type:first-letter {
       display: inline-block;
-      font-size: 5em;
+      font-size: 5.8em;
       float: left;
       font-family: $primaryFont;
-      line-height: 1em;
+      line-height: 1.75em;
+      padding-top: 11px;
+      color: $accent;
     }
   }
   li {
