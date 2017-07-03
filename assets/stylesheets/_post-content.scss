@@ -1,5 +1,5 @@
 .post-content {
-  font-size: 1.25em;
+  font-size: 1.35em;
   p {
     line-height: 1.75em;
     &:first-of-type:first-letter {
@@ -79,21 +79,25 @@
 
 .subscribeBottom {
   margin-bottom: 1em;
-  .download {
-    @include transition(.2s, ease, all);
+  font-size: 1.25em;
+  img {
+    margin-bottom: 1em;
+  }
+  p {
+    line-height: 1.75em;
     font-family: $primaryFont;
-    color: $white;
-    text-align: center;
-    background-color: $accent;
-    //		margin: 1em;
-    padding: .25em;
-    border-radius: $commonRadius;
-    box-shadow: $commonShadow;
-    border: $commonBorder;
-    &:hover,
-    &:focus {
-      background-color: $accentLighten;
-      box-shadow: $commonShadowHover;
+  }
+  ol {
+    padding-left: 1em;
+    li {
+      font-size: 1.22em;
+      font-family: $primaryFont;
+      margin: 0;
+      padding: 0;
     }
+  }
+  button {
+    margin: .5em 0 0 0;
+    width: 100%;
   }
 }
