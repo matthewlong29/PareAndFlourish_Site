@@ -36,7 +36,7 @@ Networking can give you a more diverse perspective of your world. It gives you t
 You can use networking as a way to meet professionals of other backgrounds. Everyone has a story; they’re all different from yours, and you have everything to learn from each of them. 
 
 <blockquote>
-	<p><span class="boldText">Pro tip</span>: Look outside of your circle to find the inspiration you need to meet your next goal.</p>
+	<span class="boldText">Pro tip</span>: Look outside of your circle to find the inspiration you need to meet your next goal.
 </blockquote>
 
 ### Opening the Door to Getting Involved

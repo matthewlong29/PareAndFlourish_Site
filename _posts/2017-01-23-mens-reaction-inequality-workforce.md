@@ -30,16 +30,16 @@ The following are excerpts from those experiences:
 
 <div class="row">
   <div class="col-sm-4">
-    <p>“As the meeting began, all of the employees were split into groups to play various board games as an icebreaker. Seated at a small table, with the game of Life in between us, we all took turns introducing ourselves—name, age, hometown, etc. After I introduced myself, I instantly received the following comment from the man next to me: “Saxon, does your mommy and daddy know you’re here?”</p>
-    <p>– Saxon M., 26</p>
+    “As the meeting began, all of the employees were split into groups to play various board games as an icebreaker. Seated at a small table, with the game of Life in between us, we all took turns introducing ourselves—name, age, hometown, etc. After I introduced myself, I instantly received the following comment from the man next to me: “Saxon, does your mommy and daddy know you’re here?”
+    – Saxon M., 26
   </div>
   <div class="col-sm-4">
-    <p>“I was extremely uncomfortable. They talked about their girlfriends in a derogatory and demeaning way. Every other word was offensive. In business, it’s hard to feel like you’re supposed to roll with the punches and “be one of the guys.” I shouldn’t feel like I have to let them be degrading in front of me just so I’m not singled out as the bitchy prude who’s left behind.”</p>
-    <p>– Elizabeth B., 24</p>
+    “I was extremely uncomfortable. They talked about their girlfriends in a derogatory and demeaning way. Every other word was offensive. In business, it’s hard to feel like you’re supposed to roll with the punches and “be one of the guys.” I shouldn’t feel like I have to let them be degrading in front of me just so I’m not singled out as the bitchy prude who’s left behind.”
+    – Elizabeth B., 24
   </div>
   <div class="col-sm-4">
-    <p>“I was told by my manager that I was the most "bangable" hostess on more than one occasion, and a few of the cooks would ask me every day if I was still with my boyfriend, waiting for the day when I was no longer under a man's protection so they could start their pursuit.”</p>
-    <p>– Sarah S., 25</p>
+    “I was told by my manager that I was the most "bangable" hostess on more than one occasion, and a few of the cooks would ask me every day if I was still with my boyfriend, waiting for the day when I was no longer under a man's protection so they could start their pursuit.”
+    – Sarah S., 25
   </div>
 </div>
 

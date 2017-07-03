@@ -41,8 +41,7 @@ This is a life saver. It’s best use is when you’re in a meeting where severa
 If you find yourself here, stay quiet, listen intently to everyone, understand their common points, then say “So what I’m hearing is…” and then summarize the main points. The other people in the meeting will see that as a cue to reach a resolution and hearing their points come together will move the conversation in that direction. 
 
 <blockquote>
-	<p><span class="boldText">Pro tip</span>: Forget ‘what you were going to say next’ and just listen. Being a good conversationalist only requires that you take a true interest in what is being said, the person saying it, and what they’re telling you. 
-	</p>
+	<span class="boldText">Pro tip</span>: Forget ‘what you were going to say next’ and just listen. Being a good conversationalist only requires that you take a true interest in what is being said, the person saying it, and what they’re telling you.
 </blockquote>
 
 ### Ask Follow Up Questions

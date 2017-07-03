@@ -11,7 +11,7 @@ modified: July 02, 2017
 
 author: "Skylar Wooden and Katie Butler"
 
-excerpt: "The best time to invest in yourself was yesterday; the next best time is right now. By investing in yourself, we mean taking responsibility your personal and professional development."
+excerpt: "The best time to invest in yourself was yesterday; the next best time is right now. By investing in yourself, we mean taking in responsibility your personal and professional development."
 
 categories: blog
 
@@ -28,7 +28,7 @@ comments: true
 “Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.” <cite>Henry Ford</cite>
 </blockquote>
 
-The best time to invest in yourself was yesterday; the next best time is right now. By investing in yourself, we mean taking responsibility your personal and professional development. This could mean investing time in reading about your field or about workplace improvement. This could also mean spending money on a course or a conference that would help you in your field. Maybe, investing in yourself means taking time to read a book you enjoy before work. 
+The best time to invest in yourself was yesterday; the next best time is right now. By investing in yourself, we mean taking responsibility in your personal and professional development. This could mean investing time in reading about your field or about workplace improvement. This could also mean spending money on a course or a conference that would help you in your field. Maybe, investing in yourself means taking time to read a book you enjoy before work. 
  
  Investing in yourself and your career can seem like too much. You spend forty (plus) hours of your week at work, and you don’t want to spend any time outside of work thinking about your career, much less spending money on it. Or maybe, you feel that it’s your employer’s responsibility to provide you with the professional development tools you’re looking for. The beauty of investing in yourself is that you can do as little or as much as you want, and it all benefits <span class="boldText">you</span>...and your employers, but first and foremost, you.
 
