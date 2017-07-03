@@ -19,15 +19,10 @@ p {
 	margin: .25em 0;
 }
 
-p.script {
-	font-family: $primaryFont;
-	display: inline;
-	font-size: 1.5em;
-}
-
-p.script-inline {
-	font-family: $secondaryFont;
-	display: inline;
+.startHereNames {
+  font-family: $primaryFont;
+  font-weight: bold;
+  font-size: 1.2em;
 }
 
 p.indent {
