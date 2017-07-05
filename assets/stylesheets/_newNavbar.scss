@@ -1,79 +1,187 @@
-.siteLogo {
-  position: fixed;
-  top: 20px;
-  left: 20px;  
-  z-index: 8675313;
-  img {
-    @include userSelect(none);
-    height: 60px;
-		width: auto;
-    padding: 0;
-    margin: 0;
-    border: 0;
-    box-shadow: none;
+// Begin Demo Only
+$accent: #ff632f;
+$white: #f8f8f8;
+$gray: #6e3a2d;
+$black: #101010;
+
+@mixin transition($time, $type, $selector) {
+  -webkit-transition: $time $type $selector;
+  -moz-transition: $time $type $selector;
+  -o-transition: $time $type $selector;
+  transition: $time $type $selector;
+}
+
+@mixin userSelect ($arg) {
+  -webkit-user-select: $arg;
+  -moz-user-select: $arg;
+  -ms-user-select: $arg;
+  user-select: $arg;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC');
+
+$primaryFont: "Playfair Display SC", serif;
+
+.demoContent {
+  background: $gray;
+  text-align: center;
+  padding: 0 2em;
+  font-family: $primaryFont;
+  h1 {
+    color: $white;
+    padding: 1em 0 0;
+    text-shadow: 1px 1px 2px $black;
+  }
+  h3 {
+    color: $white;
+    margin-top: -15px;
+    opacity: 0.6;
+    text-shadow: 1px 1px 2px $black;
+    a {
+      text-decoration: none;
+      color: $white;
+      @include transition(0.25s, ease, font-weight);
+      &:hover {
+        font-weight: bold;
+      }
+    }
+  }
+  .top {
+    height: 100vh;
+    color: $white;
+    font-size: 3em;
+  }
+  .bottom {
+    height: 100vh;
+    h1 {
+      font-size: 4em;
+      padding-top: 2em;
+    }
   }
 }
 
-.hamburgerButton {
-	@include transition(.25s, ease, opacity);
-  position: fixed;
-  top: 45px;
-  right: 20px;
-  height: 30px;
-  width: 30px;
-  cursor: pointer;
-  z-index: 8675313;
-  &:hover {
-    opacity: .7;
-  }
-  &.active {
-    .top {
-      transform: translateY(11px) translateX(0) rotate(45deg);
-      background: $white;
-    }
-    .middle {
-      opacity: 0;
-      background: $white;
-    }
-    .bottom {
-      transform: translateY(-11px) translateX(0) rotate(-45deg);
-      background: $white;
-    }
-  }
-  span {
-		@include transition(.35s, ease, all);
-    background: $accent;
-    border: none;
-    height: .35em;
-    width: 100%;
-    position: absolute;
+// End Demo Only
+
+.menuTabs {
+  @include userSelect(none);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: $gray;
+  text-align: center;
+  padding: 0 2em;
+}
+
+.menuTabsContainer {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 70px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  background: $white;
+  z-index: 8675310;
+  &--top {
+    position: fixed;
     top: 0;
-    left: 0;
-    cursor: pointer;
-    &:nth-of-type(2) {
-      top: 11px;
-    }
-    &:nth-of-type(3) {
-      top: 22px;
+  }
+}
+
+.menuTab {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  font-family: $primaryFont;
+  color: $black;
+  font-size: 1em;
+  img {
+    max-height: 70px;
+    padding: 6px;
+    border: none;
+    box-shadow: none;
+  }
+  &:hover {
+    color: $white;
+    text-decoration: none;
+    background: rgba($accent, 0.8);
+    img {
+      filter: invert(100%);
     }
   }
+  &:nth-of-type(6) {
+    display: none;
+  }
+}
+
+.menuTabSlider {
+  @include transition(0.3s, ease, left);
+  position: absolute;
+  bottom: 0;
+  width: 0;
+  height: 6px;
+  background: $accent;
 }
 
 .overlay {
-	@include transition(.35s, ease, opacity);
-  @include transition(.35s, ease, visibility);
-  @include transition(.35s, ease, height);
-  position: fixed;
-  background: $accent;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 0%;
-  opacity: 0;
-  z-index: 8675312;
-  visibility: hidden;
-  overflow: hidden;
-  &.open {
+  display: none;
+}
+
+@media screen and (max-width: 800px) {
+  .menuTabSlider {
+    display: none;
+  }
+  .menuTab {
+    &:nth-of-type(2), &:nth-of-type(3), &:nth-of-type(4), &:nth-of-type(5) {
+      display: none;
+    }
+    &:nth-of-type(6) {
+      cursor: pointer;
+      display: flex;
+    }
+    .overlayMenu {
+      width: 100%;
+      @include transition(.25s, ease, opacity);
+      cursor: pointer;
+      &:hover {
+        opacity: .7;
+      }
+    }
+  }
+  .overlay {
+    @include transition(.35s, ease, opacity);
+    @include transition(.35s, ease, visibility);
+    @include transition(.35s, ease, height);
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    align-content: center;
+    align-items: normal;
+    visibility: hidden;
+    background: $accent;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0%;
+    opacity: 0;
+    z-index: 8675311;
+    overflow: hidden;
+    .closeOverlay {
+      @include transition(0.25s, ease, font-weight);
+      @include userSelect(none);
+      cursor: pointer;
+      position: absolute;
+      top: 1em;
+      right: 1em;
+      color: $white;
+      padding: 1em;
+      &:hover {
+        font-weight: bold;
+      }
+    }
+    &.open {
     opacity: .9;
     visibility: visible;
     height: 100%;
@@ -94,15 +202,16 @@
       }
     }
   }
-  nav {
+   nav {
     position: relative;
     height: 70%;
     top: 50%;
     transform: translateY(-50%);
     font-size: 2em;
     text-align: center;
+     width: 100%;
   }
-  ul {
+    ul {
     list-style: none;
     padding: 0;
     margin: 0 auto;
@@ -118,28 +227,29 @@
       opacity: 0;
       font-family: $primaryFont;
       a {
-				@include userSelect(none);
         display: block;
         position: relative;
         color: $white;
         text-decoration: none;
         overflow: hidden;
         font-weight: normal;
+        @include userSelect(none);
         &:hover, &:focus, &:active {
           font-weight: bold;
         }
       }
     }
   }
-}
-
-@keyframes fadeInRight {
-  0% {
-    opacity: 0;
-    left: 20%;
   }
-  100% {
-    opacity: 1;
-    left: 0;
+
+  @keyframes fadeInRight {
+    0% {
+      opacity: 0;
+      left: 20%;
+    }
+    100% {
+      opacity: 1;
+      left: 0;
+    }
   }
 }
