@@ -2,9 +2,15 @@
 layout: default 
 --- 
 
-{% include newBanner.html %}
+<section id="banner">
+  {% include landingPage/banner.html %}
+</section>
 
 {% include newNavbar.html %}
+
+<section id="startHere">
+  {% include landingPage/startHere.html %}
+</section>
 
 <div class="container">
 	
@@ -37,8 +43,20 @@ layout: default
 			</div>
 		</div>
 	</div>
-		
+
 	{% endif %}
+
+  <section id="letsCollaborate">
+    {% include landingPage/letsCollaborate.html %}
+  </section>
+
+  <section id="readingList">
+    {% include landingPage/readingList.html %}
+  </section>
+
+  <section id="joinPareAndFlourish">
+    {% include landingPage/joinPareAndFlourish.html %}
+  </section>
 
 	<script>
 		$(document).ready(function(){
