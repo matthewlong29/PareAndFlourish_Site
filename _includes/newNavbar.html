@@ -1,26 +1,50 @@
-<section class="menuTabs">
-  <div class="menuTabsContainer">
-    <a class="menuTab" href="#menuDemo"><img src="https://raw.githubusercontent.com/mtlong29/images/master/fakeLogoBlack.png"></a>
-    <a class="menuTab" href="#mattStone">Matt Stone</a>
-    <a class="menuTab" href="#deathCount">103</a>
-    <a class="menuTab" href="#mysterion">Mysterion</a>
-    <a class="menuTab" href="#buttersStotch">Butters Stotch</a>
-    <a class="menuTab" href="#overlay">
-      <div class="overlayMenu" id="openMenu">Menu</div>
-    </a>
-    <span class="menuTabSlider"></span>
-  </div>
-</section>
+{% if page.url == "/" %}
+  <section class="menuTabs">
+<!--
+    <div class="latestPromotion">
+    Join our community and receive our FREE 5-part job search package.
+    </div>
+-->
+    <div class="menuTabsContainer">
+      <a class="menuTab" href="#banner"><img src="{{site.url}}/images/other/pareAndFlourishBannerLogo.png"></a>
+      <a class="menuTab" href="#startHere">Start Here</a>
+      <a class="menuTab" href="#latest-blogs">Blogs</a>
+      <a class="menuTab" href="#letsCollaborate">Let's Collaborate</a>
+      <a class="menuTab" href="#readingList">Reading List</a>
+      <a class="menuTab" href="#joinPareAndFlourish">Join Pare and Flourish</a>
+      <a class="menuTabOverlay" href="#overlay">
+        <div class="overlayMenu" id="openMenu">Menu</div>
+      </a>
+      <span class="menuTabSlider"></span>
+    </div>
+  </section>
+{% else %}
+  <section class="menuTabs">
+    <div class="menuTabsContainer">
+      <a class="menuTab" href="{{site.url}}"><img src="{{site.url}}/images/other/pareAndFlourishBannerLogo.png"></a>
+      <a class="menuTab" href="{{site.url}}/start-here/">Start Here</a>
+      <a class="menuTab" href="{{site.url}}/blogs/">Blogs</a>
+      <a class="menuTab" href="{{site.url}}/lets-collaborate/">Let's Collaborate</a>
+      <a class="menuTab" href="{{site.url}}/reading-list/">Reading List</a>
+      <a class="menuTab" href="{{site.url}}/join-pare-and-flourish/">Join Pare and Flourish</a>
+      <a class="menuTabOverlay" href="#overlay">
+        <div class="overlayMenu" id="openMenu">Menu</div>
+      </a>
+      <span class="menuTabSlider"></span>
+    </div>
+  </section>
+{% endif %}
 
 <div class="overlay" id="overlay">
   <div class="closeOverlay" id="closeMenu">Close</div>
   <nav class="overlay-menu">
     <ul>
-      <li><a href="https://codepen.io/mtlong29/pen/vZrExQ">Home</a></li>
-			<li><a href="#">Matt Stone</a></li>
-      <li><a href="#">Death Count</a></li>
-      <li><a href="#">Mysterion</a></li>
-      <li><a href="#">Butters Stotch</a></li>
+      <li><a href="{{site.url}}">Home</a></li>
+			<li><a href="{{site.url}}/start-here/">Start Here</a></li>
+			<li><a href="{{site.url}}/blogs/">Blogs</a></li>
+      <li><a href="{{site.url}}/lets-collaborate/">Let's Collaborate</a></li>
+      <li><a href="{{site.url}}/reading-list/">Reading List</a></li>
+      <li><a href="{{site.url}}/join-pare-and-flourish/">Join Pare and Flourish</a></li>
     </ul>
   </nav>
 </div>
