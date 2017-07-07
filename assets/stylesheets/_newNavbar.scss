@@ -95,6 +95,7 @@
       @include transition(.25s, ease, opacity);
       width: 100%;
       cursor: pointer;
+      padding: 23px 0;
       &:hover {
         opacity: .7;
       }
@@ -150,6 +151,12 @@
       &:nth-of-type(5) {
         animation-delay: .5s;
       }
+      &:nth-of-type(6) {
+        animation-delay: .55s;
+      }
+      &:nth-of-type(7) {
+        animation-delay: .60s;
+      }
     }
   }
    nav {
@@ -171,7 +178,7 @@
     width: 90%;
     li {
       display: block;
-      height: calc(100% / 5);
+      height: calc(100% / 7);
       min-height: 50px;
       position: relative;
       opacity: 0;
