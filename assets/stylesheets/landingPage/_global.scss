@@ -1,0 +1,22 @@
+section {
+  &#startHere,
+  &#latest-blogs,
+  &#letsCollaborate,
+  &#services,
+  &#readingList,
+  &#joinPareAndFlourish {
+    min-height: 100vh;
+    h1 {
+      margin: 0;
+      font-size: 4em;
+      text-align: center;
+      span {
+        &.secondWord {
+          color: $gray;
+          font-weight: bold;
+        }
+      }
+    }
+  }
+}
+

@@ -21,7 +21,9 @@
 // Partials
 @import "about-us";
 //@import "banner-front";
-@import "newBanner";
+
+//@import "newBanner";
+@import "services";
 @import "blockquote";
 @import "blog-tiles";
 @import "feature-images";
@@ -41,3 +43,11 @@
 @import "text";
 @import "collaborate";
 @impost "joinPareAndFlourish";
+
+// Landing Page Sections
+@import "landingPage/global";
+@import "landingPage/banner";
+@import "landingPage/about";
+@import "landingPage/blogs";
+@import "landingPage/readingList";
+@import "landingPage/joinPareAndFlourish";
