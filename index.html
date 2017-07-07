@@ -8,11 +8,12 @@ layout: default
 
 {% include newNavbar.html %}
 
+<div class="container">
+  
 <section id="startHere">
+  <h1>About <span class="secondWord">Us</span></h1>
   {% include landingPage/startHere.html %}
 </section>
-
-<div class="container">
 	
 	{% if paginator.page %} 
 		{% assign offset = paginator.page | minus:1 | times:paginator.per_page %} 
@@ -23,38 +24,47 @@ layout: default
 	{% endif %}
 
 	<section id="latest-blogs">
+    <h1>Latest <span class="secondWord">Blogs</span></h1>
 		{% include blogTiles.html %}
-	</section>
+	
 
-	{% assign postCount = site.posts | size %} 
-	{% assign postsCovered = site.paginate | plus:offset %} 
-	{% if postsCovered < postCount %} 
-			
-	<div class="row">
-		<div class="loading">
-			<div class="col-sm-4 col-xs-12">
-				<hr>
-			</div>
-			<div class="col-sm-4 col-xs-12">
-				<button class="commonButton loadMore">Click to Load More!</button>
-			</div>
-			<div class="col-sm-4 col-xs-12">
-				<hr>
-			</div>
-		</div>
-	</div>
+    {% assign postCount = site.posts | size %} 
+    {% assign postsCovered = site.paginate | plus:offset %} 
+    {% if postsCovered < postCount %} 
 
+    <div class="row">
+      <div class="loading">
+        <div class="col-sm-4 col-xs-12">
+          <hr>
+        </div>
+        <div class="col-sm-4 col-xs-12">
+          <button class="commonButton loadMore">Click to Load More!</button>
+        </div>
+        <div class="col-sm-4 col-xs-12">
+          <hr>
+        </div>
+      </div>
+    </div>
+  </section>
 	{% endif %}
 
   <section id="letsCollaborate">
+    <h1>Let's <span class="secondWord">Collaborate</span></h1>
     {% include landingPage/letsCollaborate.html %}
   </section>
 
+  <section id="services">
+    <h1>Services <span class="secondWord">Offered</span></h1>
+    {% include landingPage/services.html %}
+  </section>
+
   <section id="readingList">
+    <h1>Reading <span class="secondWord">List</span></h1>
     {% include landingPage/readingList.html %}
   </section>
 
   <section id="joinPareAndFlourish">
+    <h1>Join <span class="secondWord">Us</span></h1>
     {% include landingPage/joinPareAndFlourish.html %}
   </section>
 
