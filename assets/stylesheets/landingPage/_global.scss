@@ -10,10 +10,11 @@ section {
       margin: 0;
       font-size: 4em;
       text-align: center;
+      font-weight: normal;
       span {
         &.secondWord {
           color: $gray;
-          font-weight: bold;
+          font-weight: bolder;
         }
       }
     }
