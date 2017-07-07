@@ -2,35 +2,30 @@
 
 ---
 
-// Bootstrap
-//@import "bootstrap";
-
 // Normalize
-@import "normalize";
+@import "normalizeCSS/normalize";
 
-// Variables
-@import "variables";
-
-// Mixins
-@import "mixins";
-@import "animate";
+// Mixins and Variables
+@import "mixinsAndVariables/variables";
+@import "mixinsAndVariables/mixins";
+@import "mixinsAndVariables/animate";
 
 // Base
 @import "base";
 
+// Basic HTML Elements
+@import "basicElements/button";
+@import "basicElements/horizontalRules";
+@import "basicElements/text";
+
 // Partials
 @import "about-us";
-//@import "banner-front";
-
-//@import "newBanner";
 @import "services";
 @import "blockquote";
 @import "blog-tiles";
 @import "feature-images";
 @import "footer";
-@import "horizontalrules";
 @import "loadMore";
-//@import "navbar";
 @import "newNavbar";
 @import "paginate";
 @import "carousel";
@@ -38,11 +33,9 @@
 @import "side-panel";
 @import "slickmap";
 @import "social-buttons";
-@import "button";
 @import "subscribe";
-@import "text";
 @import "collaborate";
-@impost "joinPareAndFlourish";
+@import "joinPareAndFlourish";
 
 // Landing Page Sections
 @import "landingPage/global";
