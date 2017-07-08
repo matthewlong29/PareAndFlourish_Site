@@ -17,6 +17,7 @@
 @import "basicElements/button";
 @import "basicElements/horizontalRules";
 @import "basicElements/text";
+@import "basicElements/blockquote";
 
 // Landing Page Sections
 @import "landingPage/global";
@@ -31,8 +32,9 @@
 // Other Pages
 @import "otherPages/aboutUs";
 
+// Globally Used Elements
+
 // Partials
-@import "blockquote";
 @import "blog-tiles";
 @import "feature-images";
 @import "footer";
