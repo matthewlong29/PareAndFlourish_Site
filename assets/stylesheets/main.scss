@@ -18,8 +18,18 @@
 @import "basicElements/horizontalRules";
 @import "basicElements/text";
 
+// Landing Page Sections
+@import "landingPage/global";
+@import "landingPage/banner";
+@import "landingPage/about";
+@import "landingPage/blogs";
+@import "landingPage/readingList";
+@import "landingPage/joinPareAndFlourish";
+
+// Other Pages
+@import "otherPages/aboutUs";
+
 // Partials
-@import "about-us";
 @import "services";
 @import "blockquote";
 @import "blog-tiles";
@@ -36,11 +46,3 @@
 @import "subscribe";
 @import "collaborate";
 @import "joinPareAndFlourish";
-
-// Landing Page Sections
-@import "landingPage/global";
-@import "landingPage/banner";
-@import "landingPage/about";
-@import "landingPage/blogs";
-@import "landingPage/readingList";
-@import "landingPage/joinPareAndFlourish";
