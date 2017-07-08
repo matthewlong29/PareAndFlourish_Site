@@ -10,5 +10,7 @@ $(document).ready(function () {
 	$("img").mousedown(function () {
 		return false;
 	});
-
+  
+  $(".loadMore").click(loadMorePosts);
+  
 });
