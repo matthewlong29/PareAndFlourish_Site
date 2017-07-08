@@ -138,4 +138,10 @@ $(document).ready(function() {
     $(this).toggleClass("active");
     $("#overlay").toggleClass("open");
   });
+  
+  $(".overlay ul li a").click(function() {
+    $(this).toggleClass("active");
+    $("#overlay").toggleClass("open");
+  });
+  
 });
