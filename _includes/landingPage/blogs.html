@@ -1,0 +1,29 @@
+{% if paginator.page %} 
+  {% assign offset = paginator.page | minus:1 | times:paginator.per_page %} 
+  {% assign currentPage = paginator.page %} 
+{% else %} 
+  {% assign offset = 0 %} 
+  {% assign currentPage = 1 %} 
+{% endif %}
+
+{% include blogTiles.html %}
+
+{% assign postCount = site.posts | size %} 
+{% assign postsCovered = site.paginate | plus:offset %} 
+{% if postsCovered < postCount %} 
+
+<div class="row">
+  <div class="loading">
+    <div class="col-sm-4 col-xs-12">
+      <hr>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <button class="commonButton loadMore">Click to Load More!</button>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <hr>
+    </div>
+  </div>
+</div>
+
+{% endif %}
