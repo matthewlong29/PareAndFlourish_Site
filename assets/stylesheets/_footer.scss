@@ -4,6 +4,7 @@
   .siteLogo {
     margin: 0 auto;
     img {
+      padding: 1em;
       @include userSelect(none);
       box-shadow: none;
       border: none;
@@ -11,10 +12,15 @@
       margin: 0 auto;
     }
     a {
-      @include transition(.25s, ease, font-weight);
-      padding: .25em;
+      @include transition(.25s, ease, border-bottom);
+      font-size: .85em;
+      padding: 0;
       margin: 0 auto;
       text-decoration: none;
+      border-bottom: 2px solid $gray;
+      &:hover {
+        border-bottom: 3px solid $black;
+      }
       color: $gray;
     }
   }
@@ -25,69 +31,36 @@
     .socialIcons {
       display: flex;
       padding: 0;
-      svg {
-        @include transition(.25s, ease, filter);
-        @include userSelect(none);
+      max-width: 420px;
+      padding: 1em;
+      a {
         padding: 2px;
-        filter: grayscale(100%);
-        &:hover {
-          filter: grayscale(0%);
+        svg {
+          @include transition(.25s, ease, filter);
+          @include userSelect(none);
+          filter: grayscale(100%);
+          &:hover {
+            filter: grayscale(0%);
+          }
         }
       }
     }
-    .footerSides {
-      display: flex;
-      justify-content: center;
-      flex-direction: column;
-      a {
-        @include transition(.1s, ease, border-bottom);
-        color: $gray;
-        text-decoration: none;
-        padding: 0;
+  }
+  .footerLinks {
+    font-size: .85em;
+    line-height: 0;
+    padding: 0;
+    p {
+      color: $black;
+    }
+    a {
+      @include transition(.25s, ease, border-bottom);
+      color: $black;
+      text-decoration: none;
+      border-bottom: 2px solid $gray;
+      &:hover {
+        border-bottom: 3px solid $black;
       }
     }
   }
 }
-
-//#footer {
-//	min-height: 7.5vh;
-//	text-align: center;
-//	padding-top: 2em;
-////	background: url("../../images/other/footerBrickBackground.png");
-//	background-position: bottom center;
-//	background-repeat: no-repeat;
-//	background-size: cover;
-//	img {
-//		@include userSelect(none);
-//		border: 0;
-//		box-shadow: none;
-//		max-width: 200px;
-//	}
-//	p {
-//		font-size: .85em;
-//	}
-//	a {
-//		@include transition(.2s, ease, all);
-//		text-decoration: none;
-//		color: $black;
-//		border-bottom: 1px solid;
-//		&:hover {
-//			border-bottom: 2px solid;
-//		}
-//	}
-//	a.socialLinks {
-//		border-bottom: none;
-//		&:hover {
-//			border-bottom: none;
-//		}
-//	}
-//	.footerLinks {
-//		display: flex;
-//		flex-wrap: wrap;
-//		justify-content: center;
-//		align-content: center;
-//		p {
-//			padding: 0 5px;
-//		}
-//	}
-//}
