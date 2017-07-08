@@ -1,42 +1,93 @@
 #footer {
-	min-height: 7.5vh;
-	text-align: center;
-	padding-top: 2em;
-//	background: url("../../images/other/footerBrickBackground.png");
-	background-position: bottom center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	img {
-		@include userSelect(none);
-		border: 0;
-		box-shadow: none;
-		max-width: 200px;
-	}
-	p {
-		font-size: .85em;
-	}
-	a {
-		@include transition(.2s, ease, all);
-		text-decoration: none;
-		color: $black;
-		border-bottom: 1px solid;
-		&:hover {
-			border-bottom: 2px solid;
-		}
-	}
-	a.socialLinks {
-		border-bottom: none;
-		&:hover {
-			border-bottom: none;
-		}
-	}
-	.footerLinks {
-		display: flex;
-		flex-wrap: wrap;
-		justify-content: center;
-		align-content: center;
-		p {
-			padding: 0 5px;
-		}
-	}
+  margin: 1.5em 0;
+  text-align: center;
+  .siteLogo {
+    margin: 0 auto;
+    img {
+      @include userSelect(none);
+      box-shadow: none;
+      border: none;
+      max-width: 200px;
+      margin: 0 auto;
+    }
+    a {
+      @include transition(.25s, ease, font-weight);
+      padding: .25em;
+      margin: 0 auto;
+      text-decoration: none;
+      color: $gray;
+    }
+  }
+  .siteInfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .socialIcons {
+      display: flex;
+      padding: 0;
+      svg {
+        @include transition(.25s, ease, filter);
+        @include userSelect(none);
+        padding: 2px;
+        filter: grayscale(100%);
+        &:hover {
+          filter: grayscale(0%);
+        }
+      }
+    }
+    .footerSides {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      a {
+        @include transition(.1s, ease, border-bottom);
+        color: $gray;
+        text-decoration: none;
+        padding: 0;
+      }
+    }
+  }
 }
+
+//#footer {
+//	min-height: 7.5vh;
+//	text-align: center;
+//	padding-top: 2em;
+////	background: url("../../images/other/footerBrickBackground.png");
+//	background-position: bottom center;
+//	background-repeat: no-repeat;
+//	background-size: cover;
+//	img {
+//		@include userSelect(none);
+//		border: 0;
+//		box-shadow: none;
+//		max-width: 200px;
+//	}
+//	p {
+//		font-size: .85em;
+//	}
+//	a {
+//		@include transition(.2s, ease, all);
+//		text-decoration: none;
+//		color: $black;
+//		border-bottom: 1px solid;
+//		&:hover {
+//			border-bottom: 2px solid;
+//		}
+//	}
+//	a.socialLinks {
+//		border-bottom: none;
+//		&:hover {
+//			border-bottom: none;
+//		}
+//	}
+//	.footerLinks {
+//		display: flex;
+//		flex-wrap: wrap;
+//		justify-content: center;
+//		align-content: center;
+//		p {
+//			padding: 0 5px;
+//		}
+//	}
+//}
