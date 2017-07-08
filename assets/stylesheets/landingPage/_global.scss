@@ -15,7 +15,18 @@ section {
         &.secondWord {
           color: $gray;
           font-weight: bolder;
+          font-size: 1.05em;
         }
+      }
+    }
+    p {
+      &:first-of-type {
+        text-align: center;
+        font-size: 1.75em;
+        color: $gray;
+        max-width: 1024px;
+        padding: 10px;
+        margin: -5px auto;
       }
     }
   }
