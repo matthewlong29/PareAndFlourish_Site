@@ -31,21 +31,23 @@
 
 // Other Pages
 @import "otherPages/aboutUs";
+@import "otherPages/collaborate";
+@import "otherPages/joinPareAndFlourish";
 
 // Globally Used Elements
-
-// Partials
-@import "blog-tiles";
-@import "feature-images";
 @import "footer";
-@import "loadMore";
+@import "feature-images";
 @import "newNavbar";
-@import "paginate";
-@import "carousel";
-@import "post-content";
-@import "side-panel";
+
+// Blog Post and Single Page Related Elements
+@import "blog-tiles"; // Horizontal style blog tiles
+@import "loadMore"; // "Load More" button below blog tiles 
+@import "paginate"; // Buttons at bottom of blog posts
+@import "carousel"; // Slider at top of blog posts
+@import "post-content"; // General styling of single pages
+@import "side-panel"; // Side panel styling
+@import "subscribe"; // Mailchimp
+
+// Other Partials
 @import "slickmap";
 @import "social-buttons";
-@import "subscribe";
-@import "collaborate";
-@import "joinPareAndFlourish";
