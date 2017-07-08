@@ -6,14 +6,11 @@
   align-items: center;
   background: $gray;
   text-align: center;
-  padding: 0 2em;
 }
 
 .menuTabsContainer {
   display: flex;
   flex-direction: row;
-  position: absolute;
-  bottom: 0;
   width: 100%;
   height: 70px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
