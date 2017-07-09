@@ -3,7 +3,7 @@
   display: flex;
   width: 100%;
   .primaryImage {
-    width: 85%;
+    width: 75%;
     display: flex;
     justify-content: center;
     align-content: center;
@@ -23,22 +23,25 @@
   }
   .secondaryImage {
     @include userSelect(none);
-    width: 15%;
+    width: 25%;
+    text-align: center;
     display: flex;
     justify-content: center;
     align-content: center;
     align-items: center;
-    background-color: $black;
+    flex-wrap: wrap;
+    background-color: $accent;
     color: $white;
     box-shadow: -5px 0px 10px -2px $gray;
     h1 {
       color: $white;
       margin: 5px;
-      word-spacing: 20000px;
-      font-size: 3.5em;
-      line-height: 1.5em;
+//      word-spacing: 20000px;
+      font-size: 2.8em;
+      line-height: 1em;
       font-family: $primaryFont;
       overflow: hidden;
+      text-shadow: 2px 2px 4px $black;
     }
   }
   @media only screen and (max-width: 1200px) {
