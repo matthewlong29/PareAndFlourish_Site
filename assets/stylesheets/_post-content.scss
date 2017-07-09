@@ -59,12 +59,12 @@
     }
   }
   a {
-    @include transition(.2s, ease, all);
+    @include transition(.2s, ease-in-out, border-bottom);
     text-decoration: none;
     color: $gray;
-    border-bottom: 1px solid;
+    border-bottom: 2px solid $gray;
     &:hover {
-      border-bottom: 2px solid;
+      border-bottom: 3px solid $accent;
       color: darken($gray, 0.5);
     }
   }
