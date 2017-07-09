@@ -1,3 +1,4 @@
 .feature-image {
+  @include userSelect(none);
   margin: $autoMargin;
 }

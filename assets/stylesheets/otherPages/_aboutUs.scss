@@ -11,4 +11,7 @@
     margin: 1em 0 0 0;
     padding: $zeroPadding;
   }
+  img {
+    @include userSelect(none);
+  }
 }
