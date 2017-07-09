@@ -1,7 +1,10 @@
 .social-buttons {
 	width: 100%;
 	margin: $autoMargin;
-	display: flex;
+	display: -webkit-box; 
+  display: -ms-flexbox; 
+  display: -webkit-flex; 
+  display: flex;
 	justify-content: center;
 	a {
 		color: $gray;

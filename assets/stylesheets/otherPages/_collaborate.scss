@@ -1,5 +1,8 @@
 .collaborateList {
-	display: flex;
+	display: -webkit-box; 
+  display: -ms-flexbox; 
+  display: -webkit-flex; 
+  display: flex;
 	list-style: none;
 	padding: 0;
 	align-content: center;
@@ -8,6 +11,7 @@
 		flex-wrap: wrap;
 	}
 	img {
+    @include userSelect(none);
 		border: 0;
 		box-shadow: none;
 		padding: 1em;

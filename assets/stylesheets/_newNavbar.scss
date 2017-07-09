@@ -1,5 +1,8 @@
 .menuTabs {
   @include userSelect(none);
+  display: -webkit-box; 
+  display: -ms-flexbox; 
+  display: -webkit-flex; 
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -9,6 +12,9 @@
 }
 
 .menuTabsContainer {
+  display: -webkit-box; 
+  display: -ms-flexbox; 
+  display: -webkit-flex; 
   display: flex;
   flex-direction: row;
   width: 100%;
@@ -24,6 +30,9 @@
 
 .menuTab,
 .menuTabOverlay {
+  display: -webkit-box; 
+  display: -ms-flexbox; 
+  display: -webkit-flex; 
   display: flex;
   justify-content: center;
   align-items: center;
@@ -86,7 +95,7 @@
     }
   }
   .menuTabOverlay {
-    display: flex;
+    display: -webkit-box; display: -ms-flexbox; display: -webkit-flex; display: flex;
     cursor: pointer;
     .overlayMenu {
       @include transition(.25s, ease, opacity);
@@ -102,7 +111,7 @@
     @include transition(.35s, ease, opacity);
     @include transition(.35s, ease, visibility);
     @include transition(.35s, ease, height);
-    display: flex;
+    display: -webkit-box; display: -ms-flexbox; display: -webkit-flex; display: flex;
     position: fixed;
     justify-content: center;
     align-content: center;
