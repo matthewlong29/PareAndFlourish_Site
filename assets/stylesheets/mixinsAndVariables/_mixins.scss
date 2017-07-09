@@ -5,6 +5,11 @@
   transition: $time $type $selector;
 }
 
+@mixin transitionDelay($time) {
+	-webkit-transition-delay: $time;
+	transition-delay: $time;
+}
+
 @mixin userSelect ($arg) {
   -webkit-user-select: $arg;
   -moz-user-select: $arg;
