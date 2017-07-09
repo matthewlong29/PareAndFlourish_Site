@@ -1,5 +1,5 @@
 .commonButton {
-  background-color: $accent;
+  background-color: $black;
   border: none;
   color: $white;
   cursor: pointer;
@@ -38,7 +38,7 @@
   }
   &:hover,
   &.hover {
-    background-color: $accent;
+    background-color: $black;
   }
   &:hover:before,
   &.hover:before,
