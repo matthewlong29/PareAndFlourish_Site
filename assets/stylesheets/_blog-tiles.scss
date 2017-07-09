@@ -1,19 +1,38 @@
 .blogTiles {
   padding-bottom: 50px;
-  background: url("") no-repeat fixed center center;
-  background-size: 100% auto;
-  background-color: $white;
-  h2 {
-    text-align: center;
-    margin-bottom: 30px;
-    font-size: 44px;
-    margin-top: 70px;
-    span {
-      color: $accent;
+  .outsideTile {
+    background: $accent;
+    height: 400px;
+    width: 100%;
+    display: -webkit-box; 
+    display: -ms-flexbox; 
+    display: -webkit-flex; 
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    text-decoration: none;
+    border-radius: $commonRadius;
+    &.second {
+      @include transition(0.15s, ease, box-shadow);
+      cursor: pointer;
+      box-shadow: $commonShadow;
+      &:hover {
+        box-shadow: $commonShadowHover;
+      }
+    }
+    h2 {
+      font-family: $primaryFont;
+      text-shadow: 2px 2px 4px $black;
+      color: $white;
       font-weight: bold;
+      font-size: 2em;
+      text-align: center;
     }
   }
   .tile {
+    @include transition(0.4s, ease-in-out, color);
     background: $white;
     border-radius: $commonRadius;
     overflow: hidden;
@@ -28,48 +47,15 @@
         color: $accent;
       }
       .tileOverlay {
-        height: 400px;
+        @include transition(0.4s, ease-out, all);
+        @include transitionDelay(0.1s);
+        height: 100%;
         width: 100%;
         color: $gray;
         background-color: $accent;
         position: absolute;
         top: 0;
         opacity: 0.95;
-        @include transition(0.4s,
-        ease-out,
-        all);
-        @include transitionDelay(0s);
-      }
-    }
-  }
-  .black {
-    background: $accent;
-  }
-  .tile {
-    .tileImageFirst {
-      display: inline-block;
-      width: 50%;
-      overflow: hidden;
-      height: 100%;
-      img {
-        height: 100%;
-        width: auto;
-      }
-    }
-    .tileContentFirst {
-      display: inline-block;
-      vertical-align: top;
-      width: 49%;
-      padding: 0 10px;
-      h3 {
-        font-weight: bold;
-        color: $white;
-        text-transform: uppercase;
-        font-size: 30px;
-      }
-      p {
-        color: $white;
-        font-size: 16px;
       }
     }
     .tileContent {
@@ -82,28 +68,41 @@
     }
     .tileImage {
       overflow: hidden;
-      max-height: 180px;
+      max-height: 100%;
+      img {
+        @include userSelect(none);
+        border: 1px solid $gray;
+        border-radius: 2px;
+      }
     }
   }
 }
 
 .tileOverlay {
-  height: 400px;
+  @include transition(0.4s, ease-out, all);
+  @include transitionDelay(0s);
+  height: 100%;
   width: 0%;
   color: $gray;
   background-color: $accent;
   position: absolute;
   top: 0;
   opacity: 0.0;
-  @include transition(0.4s,
-  ease-out,
-  all);
-  @include transitionDelay(0s);
   text-align: center;
-  padding-top: 180px;
+  display: -webkit-box; 
+  display: -ms-flexbox; 
+  display: -webkit-flex; 
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-flow: wrap;
+  align-items: center;
   span {
+    @include userSelect(none);
+    white-space: nowrap;
+    font-family: $primaryFont;
     text-align: center;
-    max-height: 400px;
+    max-height: 100%;
     border: 2px solid $white;
     display: inline-block;
     padding: 10px 30px;
@@ -114,131 +113,26 @@
   }
 }
 
-.blogTiles .tileLast {
-  background: $accent;
-  height: 400px;
-  width: 100%;
-  display: inline-block;
-  padding: 20px;
-  text-decoration: none;
-  border-radius: $commonRadius;
-  span {
-    color: $white;
-    font-weight: bold;
-    text-transform: uppercase;
-    font-size: 25px;
-    line-height: 26px;
-  }
-}
-
-@media (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .blogTiles {
-    h2 {
-      text-align: center;
-      font-weight: bold;
-      margin-bottom: 30px;
-      font-size: 34px;
-      margin-top: 70px;
-    }
     .tile {
       background: $white;
       border-radius: $commonRadius;
       overflow: hidden;
-      height: inherit;
+      height: 100%;
       margin-bottom: 20px;
       display: block;
       color: inherit;
       text-decoration: none;
       position: relative;
-      .tileImageFirst {
-        display: inline-block;
-        width: 100%;
-        overflow: hidden;
-        height: auto;
-        img {
-          height: auto;
-          width: 100%;
-        }
-      }
     }
-    .black {
-      background: $white;
-    }
-    .tile .tileContentFirst {
-      display: inline-block;
-      vertical-align: top;
-      width: 100%;
-      padding: 0 10px;
-      h3 {
-        font-weight: bold;
-        color: $gray;
-        text-transform: uppercase;
-        font-size: 20px;
-      }
-      p {
-        color: $gray;
-        font-size: 14px;
-        font-weight: 400;
-      }
-    }
-    .tileLast {
+    .outsideTile {
       background: $accent;
       height: 100%;
       width: 100%;
-      display: inline-block;
       padding: 20px;
-      text-decoration: none;
+      margin-bottom: 20px;
       border-radius: $commonRadius;
     }
   }
 }
-
-// OLD STYLE
-//.blog-tiles {
-//	min-height: 33.3vh;
-//	text-align: left;
-//	margin: 0 0 1em 0;
-//	background-color: $white;
-//	.blog-content {
-//		padding: $zeroPadding;
-//		margin: $zeroMargin;
-//		img {
-//			@include transition(.2s, ease, all);
-//			@include userSelect(none);
-//			margin: 1em 0;
-//			&:hover,
-//			&:focus {
-//				box-shadow: $commonShadowHover;
-//			}
-//		}
-//		h3 {
-//			margin: 0 0 .25em 0;
-//			font-size: 2.25em;
-//		}
-//		p {
-//			font-size: 1.2em;
-//			text-align: left;
-//			margin: $zeroMargin;
-//		}
-//		p.date {
-//			margin: $zeroMargin;
-//			padding: $zeroPadding;
-//			color: $gray;
-//			font-size: 1.25em;
-//		}
-//		p.author {
-//			margin: $zeroMargin;
-//			padding: $zeroPadding;
-//			color: $gray;
-//			font-size: 1.25em;
-//		}
-//		a {
-//			text-decoration: none;
-//			text-align: left;
-//		}
-//	}
-//}
-//
-//.blog-text {
-//	padding: 1em;
-//}
