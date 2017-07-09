@@ -6,24 +6,88 @@
   {% assign currentPage = 1 %} 
 {% endif %}
 
-{% include blogTiles.html %}
 
-{% assign postCount = site.posts | size %} 
-{% assign postsCovered = site.paginate | plus:offset %} 
-{% if postsCovered < postCount %} 
+    
+<section class="blogTiles">
+  <div class="container">
+    <div class="">
+      <div class="row">
+        {% for post in site.posts limit:1%}
+        <div class="col-sm-8 col-md-6">
+          <a href="#" class="black tile">
+            <div class="tileImageFirst">
+              <img class="img-responsive img-fluid" src="{{site.url}}/images/teasers-1080x600/{{post.image.teaser}}" alt="">
+            </div>
+            <div class="tileContentFirst">
+              <h3>{{post.title}}</h3>
+              <p>{{post.excerpt | strip_html | truncatewords: 40}}</p>
+            </div>
+            <div class="tileOverlay">
+              <span>Read More</span>
+            </div>
+          </a>
+        </div>
+        {% endfor %}
+        <div class="blog-tiles">
+          <div id="blogContainer" class="postContainer" data-page="{{currentPage}}" data-totalPages="{{paginator.total_pages}}">
+            {% for post in paginator.posts offset:1 %}
+            <article class="post list">
+              <div class="col-sm-4 col-md-3">
+                <a href="#" class="tile">
+                  <div class="tileImage">
+                    <img class="img-responsive img-fluid" src="{{site.url}}/images/teasers-1080x600/{{post.image.teaser}}" alt="">
+                  </div>
+                  <div class="tileContent">
+                    <h3>{{post.title}}</h3>
+                    <p>{{post.excerpt | strip_html | truncatewords: 30}}</p>
+                  </div>
+                  <div class="tileOverlay">
+                    <span>Read More</span>
+                  </div>
+                </a>
+              </div>
+            </article>
+            {% endfor %}
+          </div>
+        </div>
+        
+        {% assign postCount = site.posts | size %} 
+        {% assign postsCovered = site.paginate | plus:offset %}
 
-<div class="row">
-  <div class="loading">
-    <div class="col-sm-4 hidden-xs">
-      <hr>
-    </div>
-    <div class="col-sm-4">
-      <button class="commonButton loadMore">Load More!</button>
-    </div>
-    <div class="col-sm-4 hidden-xs">
-      <hr>
+        {% if postsCovered < postCount %} 
+                                       
+          <div class="col-sm-4 col-md-3">
+            <div class="tileLast loadMore">
+              Click here to load more blogs! <span>“Always pass on what you have learned.”</span>
+            </div>
+          </div>
+      
+        {% endif %}
+      
+      </div>
     </div>
   </div>
-</div>
+</section>
 
-{% endif %}
+
+<!--
+{% assign postCount = site.posts | size %} 
+{% assign postsCovered = site.paginate | plus:offset %}
+
+{% if postsCovered < postCount %} 
+
+  <div class="row">
+    <div class="loading">
+      <div class="col-sm-4 hidden-xs">
+        <hr>
+      </div>
+      <div class="col-sm-4">
+        <button class="commonButton loadMore">Load More!</button>
+      </div>
+      <div class="col-sm-4 hidden-xs">
+        <hr>
+      </div>
+    </div>
+  </div>
+
+{% endif %}-->
