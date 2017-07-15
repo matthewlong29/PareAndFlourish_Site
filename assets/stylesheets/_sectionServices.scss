@@ -1,414 +1,147 @@
 #services {
-  .servicesIcons {
-    h1 {
-      text-align: center;
+  max-width: 100%;
+  margin: 40px auto;
+  font-family: 'Open Sans', Helvetica;
+  .pricing-table {
+    text-align: center;
+    padding: 10px;
+    padding-right: 0;
+    margin: 0;
+    .title,
+    .pt-footer {
+      font-size: 4rem;
+      color: $white;
+      text-transform: capitalize;
+      padding: 1rem;
+      position: relative;
+      margin: 0;
     }
-    h2 {
-      text-align: center;
-      color: $black;
+    .content {
+      position: relative;
+      color: $white;
+      &:after,
+      &:before {
+        top: 100%;
+        left: 50%;
+        border: solid transparent;
+        content: "";
+        height: 0;
+        width: 0;
+        position: absolute;
+        pointer-events: none;
+      }
     }
-    h3 {
+    .pt-footer {
+      &:before {
+        top: 100%;
+        left: 50%;
+        border: solid transparent;
+        content: "";
+        height: 0;
+        width: 0;
+        position: absolute;
+        pointer-events: none;
+      }
+      &:after {
+        top: 100%;
+        left: 50%;
+        border: solid transparent;
+        content: "";
+        height: 0;
+        width: 0;
+        position: absolute;
+        pointer-events: none;
+        top: 0;
+      }
+      &:before {
+        top: 0;
+      }
+    }
+    .content:after,
+    .pt-footer:after {
+      border-width: 10px;
+      margin-left: -10px;
+    }
+    .price {
+      font-family: $secondaryFont;
+      color: $white;
+      position: relative;
+      font-size: 10rem;
+      letter-spacing: 8px;
+      font-weight: bold;
+      margin: 0;
+      padding: 0;
+    }
+    .features {
+      list-style-type: none;
+      background: $white;
       text-align: center;
-      margin: -10px 0 10px 0;
-      font-size: 1em;
       color: $gray;
+      padding: 15px;
+      margin: 0;
     }
-    p {
-      text-align: center;
-      color: $gray;
-      max-width: 85%;
-      margin: 0 auto;
-    }
-    .wrapper {
-      margin: 100px auto;
-      width: 600px;
-      overflow: hidden;
-      text-align: center;
-    }
-    .icon1,
-    .icon2,
-    .icon3,
-    .icon4,
-    .icon5,
-    .icon6 {
-      width: 220px;
-      height: 220px;
-      display: block;
-      margin: 0 auto;
-    }
-    @keyframes fadeInLeft {
-      0% {
-        opacity: 0;
-        transform: translateX(-20px);
+    a {
+      color: $white;
+      text-decoration: none;
+      margin: 0;
+      &:hover {
+        text-decoration: none;
+        .pt-footer {
+          box-shadow: inset 0 0 4px $gray;
+        }
       }
-      100% {
-        opacity: 1;
-        transform: translateX(0);
+      .pt-footer {
+        box-shadow: inset 0 0 2px $gray;
+        cursor: pointer;
+        padding: 1rem;
+        margin: 0;
+        font-size: 0.95rem;
+        text-transform: capitalize;
       }
     }
-    .fadeInLeft {
-      animation-name: fadeInLeft;
-    }
-    .animated {
-      animation-duration: 1s;
-      animation-fill-mode: both;
-    }
-    /************* ICON1 *****************/
-    .section1 {
-      animation: setblue ease 6s 5s infinite;
-    }
-    .section2 {
-      fill: #cccccc;
-      animation: setblue ease 6s 1s infinite;
-    }
-    .section3 {
-      animation: setblue ease 6s 3.2s infinite;
-    }
-    @keyframes setblue {
-      0% {
-        fill: #cccccc;
+    .personal {
+      .title {
+        background: darken($accent, 20%);
       }
-      15% {
-        fill: #DACEE8;
+      .content,
+      .pt-footer {
+        background: darken($accent, 10%);
       }
-      30% {
-        fill: #cccccc;
+      .content:after {
+        border-top-color: darken($accent, 10%);
+      }
+      .pt-footer:after {
+        border-top-color: $white;
       }
     }
-    .stick {
-      animation: fadeInLeft both 1s 0.8s, stick ease 6s 2s infinite;
-      transition: all 1s cubic-bezier(.1, .8, .2, 1);
-    }
-    @keyframes stick {
-      0% {
-        transform: translate(0, 0);
+    .professional {
+      .title {
+        background: darken($accent, 25%);
       }
-      15% {
-        transform: translate(0, 0);
+      .content,
+      .pt-footer {
+        background: darken($accent, 15%);
       }
-      30% {
-        transform: translate(40px, 0);
+      .content:after {
+        border-top-color: darken($accent, 15%);
       }
-      45% {
-        transform: translate(40px, 0);
-      }
-      60% {
-        transform: translate(0, -20px);
-      }
-      75% {
-        transform: translate(0, -20px);
-      }
-      100% {
-        transform: translate(0, 0);
+      .pt-footer:after {
+        border-top-color: $white;
       }
     }
-    /************* ICON4 *****************/
-    .line1 {
-      opacity: 0;
-      animation: fadeInLeft both 1s 0.4s, coding1 ease 6s 4s infinite;
-    }
-    .line2 {
-      opacity: 0;
-      animation: fadeInLeft both 1s 0.6s, coding2 ease 6s 4s infinite;
-    }
-    .line3 {
-      opacity: 0;
-      animation: fadeInLeft both 1s 0.8s, coding3 ease 6s 4s infinite;
-    }
-    .line4 {
-      opacity: 0;
-      animation: fadeInLeft both 1s 1.0s, coding4 ease 6s 4s infinite;
-    }
-    .line5 {
-      opacity: 0;
-      animation: fadeInLeft both 1s 1.2s, coding5 ease 6s 4s infinite;
-    }
-    .line6 {
-      opacity: 0;
-      animation: fadeInLeft both 1s 1.4s, coding6 ease 6s 4s infinite;
-    }
-    .line7 {
-      opacity: 0;
-      animation: fadeInLeft both 1s 1.6s, coding6 ease 6s 4s infinite;
-    }
-    @keyframes coding1 {
-      0% {
-        transform: translate(0, 0);
-        opacity: 1;
-      }
-      14% {
-        transform: translate(0, -10px);
-        opacity: 0;
-      }
-      15% {
-        transform: translate(0, 45px);
-      }
-      30% {
-        transform: translate(0, 40px);
-        opacity: 1;
-      }
-      45% {
-        transform: translate(0, 30px);
-      }
-      60% {
-        transform: translate(0, 20px);
-      }
-      75% {
-        transform: translate(0, 10px);
-      }
-      90% {
-        transform: translate(0, 5px);
-      }
-      100% {
-        transform: translate(0, 0);
-        opacity: 1;
-      }
-    }
-    @keyframes coding2 {
-      0% {
-        transform: translate(0, 0);
-        opacity: 1;
-      }
-      15% {
-        transform: translate(0, -5px);
-        opacity: 1;
-      }
-      29% {
-        transform: translate(0, -10px);
-        opacity: 0;
-      }
-      30% {
-        transform: translate(0, 40px);
-      }
-      45% {
-        transform: translate(0, 30px);
-        opacity: 1;
-      }
-      60% {
-        transform: translate(0, 20px);
-      }
-      75% {
-        transform: translate(0, 10px);
-      }
-      90% {
-        transform: translate(0, 5px);
-      }
-      100% {
-        transform: translate(0, 0);
-        opacity: 1;
-      }
-    }
-    @keyframes coding3 {
-      0% {
-        transform: translate(0, 0);
-        opacity: 1;
-      }
-      15% {
-        transform: translate(0, -5px);
-      }
-      30% {
-        transform: translate(0, -10px);
-        opacity: 1;
-      }
-      44% {
-        transform: translate(0, -20px);
-        opacity: 0;
-      }
-      45% {
-        transform: translate(0, 30px);
-      }
-      60% {
-        transform: translate(0, 20px);
-        opacity: 1;
-      }
-      75% {
-        transform: translate(0, 10px);
-      }
-      90% {
-        transform: translate(0, 5px);
-      }
-      100% {
-        transform: translate(0, 0);
-        opacity: 1;
-      }
-    }
-    @keyframes coding4 {
-      0% {
-        transform: translate(0, 0);
-        opacity: 1;
-      }
-      15% {
-        transform: translate(0, -5px);
-      }
-      30% {
-        transform: translate(0, -10px);
-      }
-      45% {
-        transform: translate(0, -20px);
-        opacity: 1;
-      }
-      59% {
-        transform: translate(0, -30px);
-        opacity: 0;
-      }
-      60% {
-        transform: translate(0, 20px);
-      }
-      75% {
-        transform: translate(0, 10px);
-        opacity: 1;
-      }
-      90% {
-        transform: translate(0, 5px);
-      }
-      100% {
-        transform: translate(0, 0);
-        opacity: 1;
-      }
-    }
-    @keyframes coding5 {
-      0% {
-        transform: translate(0, 0);
-        opacity: 1;
-      }
-      15% {
-        transform: translate(0, -5px);
-      }
-      30% {
-        transform: translate(0, -10px);
-      }
-      45% {
-        transform: translate(0, -20px);
-      }
-      60% {
-        transform: translate(0, -30px);
-        opacity: 1;
-      }
-      74% {
-        transform: translate(0, -40px);
-        opacity: 0;
-      }
-      75% {
-        transform: translate(0, 10px);
-      }
-      90% {
-        transform: translate(0, 5px);
-        opacity: 1;
-      }
-      100% {
-        transform: translate(0, 0);
-        opacity: 1;
-      }
-    }
-    @keyframes coding6 {
-      0% {
-        transform: translate(0, 0);
-        opacity: 1;
-      }
-      15% {
-        transform: translate(0, -5px);
-      }
-      30% {
-        transform: translate(0, -10px);
-      }
-      45% {
-        transform: translate(0, -20px);
-      }
-      60% {
-        transform: translate(0, -30px);
-      }
-      75% {
-        transform: translate(0, -40px);
-        opacity: 1;
-      }
-      89% {
-        transform: translate(0, -50px);
-        opacity: 0;
-      }
-      90% {
-        transform: translate(0, 10px);
-      }
-      100% {
-        transform: translate(0, 0);
-        opacity: 1;
-      }
-    }
-    .file1 {
-      opacity: 0;
-      animation: fadeInLeft both 1s 1s, file ease 6s 2.6s infinite;
-    }
-    .file2 {
-      opacity: 0;
-      animation: fadeInLeft both 1s 1.2s, file2 ease 6s 2.6s infinite;
-    }
-    .file3 {
-      opacity: 0;
-      animation: fadeInLeft both 1s 1.4s, file3 ease 6s 2.6s infinite;
-    }
-    @keyframes file {
-      0% {
-        transform: translate(0, 0);
-        opacity: 1;
-      }
-      70% {
-        transform: translate(0, -25px);
-        opacity: 0;
-      }
-      71% {
-        transform: translate(0, 30px);
-        opacity: 0;
-      }
-      72% {
-        transform: translate(0, 30px);
-        opacity: 1;
-      }
-      100% {
-        transform: translate(0, 0);
-        opacity: 1;
-      }
-    }
-    @keyframes file2 {
-      0% {
-        transform: translate(0, 0);
-        opacity: 1;
-      }
-      50% {
-        transform: translate(0, -20px);
-        opacity: 0;
-      }
-      51% {
-        transform: translate(0, 40px);
-        opacity: 0;
-      }
-      52% {
-        transform: translate(0, 40px);
-        opacity: 1;
-      }
-      100% {
-        transform: translate(0, 0);
-        opacity: 1;
-      }
-    }
-    @keyframes file3 {
-      0% {
-        transform: translate(0, 0);
-        opacity: 1;
-      }
-      20% {
-        transform: translate(0, -15px);
-        opacity: 0;
-      }
-      21% {
-        transform: translate(0, 70px);
-        opacity: 0;
-      }
-      22% {
-        transform: translate(0, 70px);
-        opacity: 1;
-      }
-      100% {
-        transform: translate(0, 0);
-        opacity: 1;
+    .business {
+      .title {
+        background: darken($accent, 30%);
+      }
+      .content,
+      .pt-footer {
+        background: darken($accent, 20%);
+      }
+      .content:after {
+        border-top-color: darken($accent, 20%);
+      }
+      .pt-footer:after {
+        border-top-color: $white;
       }
     }
   }
