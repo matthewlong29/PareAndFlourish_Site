@@ -6,8 +6,8 @@
 }
 
 @mixin transitionDelay($time) {
-	-webkit-transition-delay: $time;
-	transition-delay: $time;
+  -webkit-transition-delay: $time;
+  transition-delay: $time;
 }
 
 @mixin userSelect ($arg) {
@@ -15,4 +15,12 @@
   -moz-user-select: $arg;
   -ms-user-select: $arg;
   user-select: $arg;
+}
+
+@mixin rotate($degrees) {
+  -webkit-transform: rotate($degrees);
+  -moz-transform: rotate($degrees);
+  -ms-transform: rotate($degrees);
+  -o-transform: rotate($degrees);
+  transform: rotate($degrees);
 }

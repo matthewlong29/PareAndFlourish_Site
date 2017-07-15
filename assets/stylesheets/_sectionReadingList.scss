@@ -1,5 +1,35 @@
-#readingList {
-  h2 {
-    text-align: center;
+#amReading {
+  .bookRow {
+    display: flex;
+    justify-content: center;
+    @media screen and (max-width: 987px) {
+      flex-flow: column;
+      align-content: center;
+      align-items: center;
+    }
+    width: 100%;
+    .bookTile {
+      display: flex;
+      flex-flow: column;
+      justify-content: center;
+      align-content: center;
+      align-items: center;
+      width: calc(20%);
+      margin: 1rem 0;
+      img {
+        @include rotate(-10deg);
+        @include userSelect(none);
+        @include transition(0.25s, ease-in-out, all);
+        border: none;
+        box-shadow: none;
+        height: 200px;
+        margin: 0 auto;
+        filter: grayscale(100%);
+        &:hover {
+          @include rotate(0deg);
+          filter: grayscale(0%);
+        }
+      }
+    }
   }
 }
