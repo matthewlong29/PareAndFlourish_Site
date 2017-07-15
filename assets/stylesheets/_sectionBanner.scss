@@ -23,7 +23,8 @@
       @include userSelect(none);
       border: none;
       box-shadow: none;
-      max-width: 500px;
+      width: 500px;
+      max-width: 90%;
       margin: 0 auto;
     }
   }
@@ -45,7 +46,6 @@
     h1 {
       color: $white;
       margin: 5px;
-//      word-spacing: 20000px;
       font-size: 2.8em;
       line-height: 1em;
       font-family: $primaryFont;

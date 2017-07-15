@@ -3,36 +3,34 @@
 ---
 
 // Normalize
-@import "normalizeCSS/normalize";
+@import "normalize";
 
 // Mixins and Variables
-@import "mixinsAndVariables/variables";
-@import "mixinsAndVariables/mixins";
-@import "mixinsAndVariables/animate";
+@import "variables";
+@import "mixins";
+@import "animate";
 
 // Base
 @import "base";
-
-// Basic HTML Elements
-@import "basicElements/button";
-@import "basicElements/horizontalRules";
-@import "basicElements/text";
-@import "basicElements/blockquote";
+@import "baseButton";
+@import "baseHorizontalRules";
+@import "baseText";
+@import "baseBlockquote";
 
 // Landing Page Sections
-@import "landingPage/global";
-@import "landingPage/banner";
-@import "landingPage/about";
-@import "landingPage/blogs";
-@import "landingPage/collaborate";
-@import "landingPage/services";
-@import "landingPage/readingList";
-@import "landingPage/joinPareAndFlourish";
+@import "sectionGlobal";
+@import "sectionBanner";
+@import "sectionAbout";
+@import "sectionBlogs";
+@import "sectionCollaborate";
+@import "sectionServices";
+@import "sectionReadingList";
+@import "sectionJoinPareAndFlourish";
 
 // Other Pages
-@import "otherPages/aboutUs";
-@import "otherPages/collaborate";
-@import "otherPages/joinPareAndFlourish";
+@import "pageAbout";
+@import "pageCollaborate";
+@import "pageJoinPareAndFlourish";
 
 // Globally Used Elements
 @import "footer";

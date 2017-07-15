@@ -169,6 +169,14 @@
 <lastmod>2017-06-25T00:00:00-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/blog/three-ways-to-invest-in-yourself/</loc>
+<lastmod>2017-07-02T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/how-to-embrace-change-in-the-workplace/</loc>
+<lastmod>2017-07-09T00:00:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/404/</loc>
 </url>
 <url>
@@ -209,5 +217,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/page7/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/page8/</loc>
 </url>
 </urlset>
