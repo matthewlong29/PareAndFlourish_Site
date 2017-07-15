@@ -1,5 +1,8 @@
 #latest-blogs {
   .blogTiles {
+    a {
+      border: none;
+    }
     .outsideTile {
       background: $accent;
       height: 400px;

@@ -58,16 +58,6 @@
       margin-bottom: 10px;
     }
   }
-  a {
-    @include transition(.2s, ease-in-out, border-bottom);
-    text-decoration: none;
-    color: $gray;
-    border-bottom: 2px solid $accent;
-    &:hover {
-      background-color: lighten($accent, 10%);
-      color: darken($gray, 0.5);
-    }
-  }
   hr.secondary {
     margin: 1em 0;
   }
