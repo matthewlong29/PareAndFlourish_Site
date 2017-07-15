@@ -62,9 +62,9 @@
     @include transition(.2s, ease-in-out, border-bottom);
     text-decoration: none;
     color: $gray;
-    border-bottom: 2px solid $gray;
+    border-bottom: 2px solid $accent;
     &:hover {
-      border-bottom: 3px solid $accent;
+      background-color: lighten($accent, 10%);
       color: darken($gray, 0.5);
     }
   }
