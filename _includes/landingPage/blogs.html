@@ -13,14 +13,14 @@
     <div class="row">
       <div class="col-md-3 col-sm-4">
         <div class="outsideTile">
-          <h2>“Blogging is a conversation, not a code.”</h2>
+          <span>“Blogging is a conversation, not a code.”</span>
         </div>
       </div>
       <div class="blog-tiles">
         <div id="blogContainer" class="postContainer" data-page="{{currentPage}}" data-totalPages="{{paginator.total_pages}}">
           {% for post in paginator.posts %}
           <article class="post list">
-            <div class="col-md-3 col-sm-4 ">
+            <div class="col-md-3 col-sm-4">
               <a href="{{post.url}}" class="tile">
                 <div class="tileImage">
                   <img class="img-responsive img-fluid" src="{{site.url}}/images/teasers-1080x600/{{post.image.teaser}}" alt="" data-pin-nopin="true">
@@ -46,7 +46,7 @@
 
         <div class="col-md-3 col-sm-4">
           <div class="outsideTile second loadMore">
-            <h2>Click here to load more blogs!</h2>
+            <span>Click here to load more blogs!</span>
           </div>
         </div>
 
