@@ -20,6 +20,11 @@ section {
         }
       }
     }
+    @media screen and (max-width: $medium) {
+      h2 {
+        font-size: 3em;
+      }
+    }
     p {
       &.firstParagraph {
         text-align: center;
