@@ -5,7 +5,6 @@
   .pricing-table {
     text-align: center;
     padding: 10px;
-    padding-right: 0;
     margin: 0;
     .title,
     .pt-footer {
@@ -66,16 +65,20 @@
       font-family: $secondaryFont;
       color: $white;
       position: relative;
-      font-size: 10rem;
-      letter-spacing: 8px;
+//      font-size: 10rem;
+      font-size: 3.5rem;
+//      letter-spacing: 8px;
+      font-family: $primaryFont;
+      line-height: 1;
       font-weight: bold;
       margin: 0;
-      padding: 0;
+      padding: 1rem;
     }
     .features {
       list-style-type: none;
       background: $white;
       text-align: center;
+      font-size: 1.35rem;
       color: $gray;
       padding: 15px;
       margin: 0;
@@ -100,6 +103,7 @@
       }
     }
     .personal {
+      box-shadow: 0 0 4px $black;
       .title {
         background: darken($accent, 20%);
       }
@@ -115,6 +119,7 @@
       }
     }
     .professional {
+      box-shadow: 0 0 4px $black;
       .title {
         background: darken($accent, 25%);
       }
@@ -130,6 +135,7 @@
       }
     }
     .business {
+      box-shadow: 0 0 4px $black;
       .title {
         background: darken($accent, 30%);
       }
