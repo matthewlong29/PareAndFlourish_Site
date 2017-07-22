@@ -1,53 +1,44 @@
----
-
----
-
-// Normalize
-@import "normalize";
-
 // Mixins and Variables
-@import "variables";
-@import "mixins";
-@import "animate";
+@import "variablesMixins/variables";
+@import "variablesMixins/mixins";
+@import "variablesMixins/animate";
 
 // Base
-@import "base";
-@import "baseButton";
-@import "baseHorizontalRules";
-@import "baseText";
-@import "baseBlockquote";
+@import "base/normalize";
+@import "base/base";
+
+// Atoms
+@import "atoms/button";
+@import "atoms/horizontalRules";
+@import "atoms/text";
+@import "atoms/blockquote";
+
+// Molecules
+@import "molecules/footer";
+@import "molecules/featureImages";
+@import "molecules/navbar";
+@import "molecules/blogTiles"; // Horizontal style blog tiles
+@import "molecules/postCarousel"; // Slider at top of blog posts
+@import "molecules/postContent"; // General styling
+@import "molecules/postPaginate"; // Buttons at bottom of blog posts
+@import "molecules/sidePanel"; // Side panel styling
+@import "molecules/subscribe"; // Mailchimp Subscription Styling
 
 // Landing Page Sections
-@import "sectionGlobal";
-@import "sectionBanner";
-@import "sectionAbout";
-@import "sectionBlogs";
-@import "sectionCollaborate";
-@import "sectionServices";
-@import "sectionReadingList";
-@import "sectionJoinPareAndFlourish";
+@import "landingPage/global";
+@import "landingPage/banner";
+@import "landingPage/about";
+@import "landingPage/blogs";
+@import "landingPage/collaborate";
+@import "landingPage/services";
+@import "landingPage/readingList";
+@import "landingPage/joinPareAndFlourish";
 
 // Other Pages
-@import "pageAbout";
-@import "pageCollaborate";
-@import "pageJoinPareAndFlourish";
-
-// Globally Used Elements
-@import "footer";
-@import "feature-images";
-@import "newNavbar";
-
-// Blog Post and Single Page Related Elements
-@import "blog-tiles"; // Horizontal style blog tiles
-@import "paginate"; // Buttons at bottom of blog posts
-@import "carousel"; // Slider at top of blog posts
-@import "post-content"; // General styling
-@import "side-panel"; // Side panel styling
-@import "subscribe"; // Mailchimp
-
-// Other Partials
-@import "slickmap";
-@import "social-buttons";
+@import "subPages/about";
+@import "subPages/collaborate";
+@import "subPages/joinPareAndFlourish";
+@import "subPages/sitemap";
 
 // Hard Overrides
-@import "hardOverrides";
+@import "hardOverrides/universalSelector";
