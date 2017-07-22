@@ -6,6 +6,7 @@ gem "sass"
 #gem "bootstrap-sass"
 
 # Jekyll
+gem "bundler"
 gem "jekyll"
 gem "jekyll-assets"
 gem "jekyll-sitemap"
