@@ -8,7 +8,7 @@
     margin: 0;
     .title,
     .pt-footer {
-      font-size: 3.6rem;
+      font-size: 3rem;
       color: $white;
       text-transform: capitalize;
       padding: 1rem;
@@ -65,14 +65,19 @@
       font-family: $secondaryFont;
       color: $white;
       position: relative;
-//      font-size: 10rem;
-      font-size: 3.5rem;
-//      letter-spacing: 8px;
-      font-family: $primaryFont;
+      font-size: 7rem;
+      letter-spacing: 8px;
       line-height: 1;
       font-weight: bold;
       margin: 0;
       padding: 1rem;
+      span {
+        &.startingAt {
+          font-size: 0.95rem;
+          letter-spacing: 0;
+          font-weight: normal;
+        }
+      }
     }
     .features {
       list-style-type: none;
@@ -82,6 +87,15 @@
       color: $gray;
       padding: 15px;
       margin: 0;
+    }
+    p {
+      &.additionalInfo {
+        text-align: left;
+        font-size: 0.95rem;
+        a {
+          color: $black;
+        }
+      }
     }
     a {
       color: $white;
