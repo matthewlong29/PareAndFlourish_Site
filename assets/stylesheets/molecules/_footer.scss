@@ -20,6 +20,7 @@
 	a.socialLinks {
     @include userSelect(none);
 		border-bottom: none;
+    background-color: transparent;
 		&:hover {
 			border-bottom: none;
 		}
