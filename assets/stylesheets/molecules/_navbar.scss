@@ -196,8 +196,10 @@
         text-decoration: none;
         overflow: hidden;
         font-weight: normal;
+        border: none;
         @include userSelect(none);
         &:hover, &:focus, &:active {
+          border: none;
           font-weight: bold;
           text-decoration: none;
         }
