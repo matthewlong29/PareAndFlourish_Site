@@ -1,3 +1,11 @@
+#postsCarousel {
+  a {
+    &.carousel-control {
+      background-color: transparent;
+    }
+  }
+}
+
 @media (max-width: 660px) {
   #postsCarousel {
     display: none;
