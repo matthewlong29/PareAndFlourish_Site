@@ -1,32 +1,28 @@
 #amReading {
   padding-bottom: 10%;
-  h2 {
-    font-style: italic;
-  }
-  a {
-    text-decoration: none;
-  }
   .bookRow {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
     .bookTile {
+      margin: 1rem;
+      flex: 1 150px;
       display: flex;
       justify-content: center;
-      margin: 1rem 0;
       a {
-        background-color: transparent;
         border-bottom: none;
-      }
-      img {
-        @include rotate(-10deg);
-        @include userSelect(none);
-        @include transition(0.25s, ease-in-out, all);
-        border: none;
-        box-shadow: none;
-        height: 200px;
-        margin: 0;
-        filter: grayscale(100%);
-        &:hover {
-          @include rotate(0deg);
-          filter: grayscale(0%);
+        background: transparent;
+        img {
+          @include rotate(-10deg);
+          @include userSelect(none);
+          @include transition(0.25s, ease-in-out, all);
+          border: none;
+          max-height: 200px;
+          filter: grayscale(100%);
+          &:hover {
+            @include rotate(0deg);
+            filter: grayscale(0%);
+          }
         }
       }
     }
