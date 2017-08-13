@@ -1,4 +1,4 @@
-#amReading {
+#amReadingPage {
   padding-bottom: 10%;
   .bookRow {
     display: flex;
@@ -6,6 +6,7 @@
     flex-wrap: wrap;
     .bookTile {
       margin: 1rem;
+      padding-top: 4rem;
       flex: 1 150px;
       display: flex;
       justify-content: center;
