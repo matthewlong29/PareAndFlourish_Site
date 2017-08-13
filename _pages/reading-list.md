@@ -34,18 +34,33 @@ permalink: /reading-list/
         </a>
       </div>
       <div class="bookTile">
-        <a href="http://amzn.to/2vozHaR" target="_blank">
-          <img src="{{site.url}}/images/other/amReading/theConfidenceCode.jpg" alt="The Confidence Code: The Science and Art of Self-Assurance---What Women Should Know" data-pin-nopin="true">
+        <a href="http://amzn.to/2hRFUKJ" target="_blank">
+          <img src="{{site.url}}/images/other/amReading/leanIn.jpg" alt="Lean In" data-pin-nopin="true">
         </a>
       </div>
       <div class="bookTile">
-        <a href="http://amzn.to/2vozHaR" target="_blank">
-          <img src="{{site.url}}/images/other/amReading/theConfidenceCode.jpg" alt="The Confidence Code: The Science and Art of Self-Assurance---What Women Should Know" data-pin-nopin="true">
+        <a href="http://amzn.to/2hQUPob" target="_blank">
+          <img src="{{site.url}}/images/other/amReading/dropTheBall.jpg" alt="Drop The Ball" data-pin-nopin="true">
         </a>
       </div>
       <div class="bookTile">
-        <a href="http://amzn.to/2vozHaR" target="_blank">
-          <img src="{{site.url}}/images/other/amReading/theConfidenceCode.jpg" alt="The Confidence Code: The Science and Art of Self-Assurance---What Women Should Know" data-pin-nopin="true">
+        <a href="http://amzn.to/2fy3kDP" target="_blank">
+          <img src="{{site.url}}/images/other/amReading/bossypants.jpg" alt="Bossypants" data-pin-nopin="true">
+        </a>
+      </div>
+      <div class="bookTile">
+        <a href="http://amzn.to/2fy8QXe" target="_blank">
+          <img src="{{site.url}}/images/other/amReading/the12WeekYear.jpg" alt="The 12 Week Year" data-pin-nopin="true">
+        </a>
+      </div>
+      <div class="bookTile">
+        <a href="http://amzn.to/2vM5sOY" target="_blank">
+          <img src="{{site.url}}/images/other/amReading/yesPlease.jpg" alt="Yes Please" data-pin-nopin="true">
+        </a>
+      </div>
+      <div class="bookTile">
+        <a href="http://amzn.to/2uvqi5a" target="_blank">
+          <img src="{{site.url}}/images/other/amReading/theEnergyBus.jpg" alt="The Energy Bus" data-pin-nopin="true">
         </a>
       </div>
     </div>
