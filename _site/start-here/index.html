@@ -2,7 +2,8 @@
 
 <!-- This default layout basically acts as the "container" around everything for the site. By that container i'm not talking about bootstrap, but instead the opening and closing html, head, body tags. This layout will be used as the layout for other layouts. -->
 
-<html lang="en"> <!-- English language -->
+<html lang="en">
+<!-- English language -->
 
 <!-- The head tag contains meta data, website/page title, links to stylesheets, links to favicons. -->
 
@@ -73,11 +74,13 @@
 
 </head>
 
-	<body id="page-top" data-target=".navbar-fixed-top"> <!-- Opening body tag. -->
+<body id="page-top" data-target=".navbar-fixed-top">
+  <!-- Opening body tag. -->
 
-		<div class="container-fluid"> <!-- Fluid container (bootstrap). -->
+  <div class="container-fluid">
+    <!-- Fluid container (bootstrap). -->
 
-			<!-- This is the layout for all content pages. -->
+    <!-- This is the layout for all content pages. -->
 
 <!-- Feature image -->
 <!-- Feature image section. The feature images are the images that appear at the top of ever page. Except the front page. The front page image is referred to as the banner image. In the future the feature image should be different for the start here, various blog category, work with us, resources, and join us pages. -->
@@ -109,8 +112,8 @@
     <a class="menuTab" href="http://localhost:4000/#latest-blogs">Blogs</a>
     <a class="menuTab" href="http://localhost:4000/lets-collaborate/">Collaborate</a>
     <a class="menuTab" href="http://localhost:4000#services">Services</a>
+    <a class="menuTab" href="http://localhost:4000/events/">Events</a>
     <a class="menuTab" href="http://localhost:4000/reading-list/">#amReading</a>
-    <a class="menuTab" href="http://localhost:4000/join-pare-and-flourish/">Join</a>
     <a class="menuTabOverlay" href="#overlay">
       <div class="overlayMenu" id="openMenu">Menu</div>
     </a>
@@ -123,12 +126,12 @@
   <nav class="overlay-menu">
     <ul>
       <li><a href="http://localhost:4000">Home</a></li>
-			<li><a href="http://localhost:4000/start-here/">About</a></li>
+      <li><a href="http://localhost:4000/start-here/">About</a></li>
       <li><a href="http://localhost:4000#latest-blogs">Blogs</a></li>
       <li><a href="http://localhost:4000/lets-collaborate/">Collaborate</a></li>
       <li><a href="http://localhost:4000#services">Services</a></li>
+      <li><a class="menuTab" href="http://localhost:4000/events/">Events</a></li>
       <li><a href="http://localhost:4000/reading-list/">#amReading</a></li>
-      <li><a href="http://localhost:4000/join-pare-and-flourish/">Join</a></li>
     </ul>
   </nav>
 </div>
@@ -261,9 +264,19 @@
 	</div>
 
 </div>
- <!-- Website content. -->
-		
-			<section id="footer">
+
+    <!-- Website content. -->
+
+    <!-- Html Elements for Search -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="search...">
+<ul id="results-container"></ul>
+</div>
+
+<!-- Script pointing to jekyll-search.js -->
+<script src="/bower_components/simple-jekyll-search/dest/jekyll-search.js" type="text/javascript"></script>
+    
+    <section id="footer">
 	<div class="container">
 
 		<div class="row">
@@ -660,11 +673,12 @@
     </div>
   </div>
 </section>
---> <!-- Footer section. Containing copyright, links to social media, email, site/logo designers, affiliate disclosure. -->
+-->
+    <!-- Footer section. Containing copyright, links to social media, email, site/logo designers, affiliate disclosure. -->
 
-		</div>
+  </div>
 
-		<!-- jQuery. More information can be found at https://jquery.com/. -->
+  <!-- jQuery. More information can be found at https://jquery.com/. -->
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
 <!-- Font Awesome. More information can be found at http://fontawesome.io/. -->
@@ -707,8 +721,25 @@
 <!-- newNavbar.js -->
 <script type="text/javascript" src="http://localhost:4000/assets/javascript/newNavbar.js"></script>
 
+<!-- Search Function -->
+<script type="text/javascript" src="http://localhost:4000/assets/javascript/search.js"></script>
+
 <!-- Main -->
 <script type="text/javascript" src="http://localhost:4000/assets/javascript/main.js"></script>
-	</body>
+
+  <script type="text/javascript">
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json',
+      searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+      noResultsText: 'No results found',
+      limit: 10,
+      fuzzy: false,
+      exclude: ['Welcome']
+    })
+  </script>
+
+</body>
 
 </html>

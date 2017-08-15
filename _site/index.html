@@ -2,7 +2,8 @@
 
 <!-- This default layout basically acts as the "container" around everything for the site. By that container i'm not talking about bootstrap, but instead the opening and closing html, head, body tags. This layout will be used as the layout for other layouts. -->
 
-<html lang="en"> <!-- English language -->
+<html lang="en">
+<!-- English language -->
 
 <!-- The head tag contains meta data, website/page title, links to stylesheets, links to favicons. -->
 
@@ -73,11 +74,13 @@
 
 </head>
 
-	<body id="page-top" data-target=".navbar-fixed-top"> <!-- Opening body tag. -->
+<body id="page-top" data-target=".navbar-fixed-top">
+  <!-- Opening body tag. -->
 
-		<div class="container-fluid"> <!-- Fluid container (bootstrap). -->
+  <div class="container-fluid">
+    <!-- Fluid container (bootstrap). -->
 
-			<section id="banner">
+    <section id="banner">
   <section id="banner">
   <div class="primaryImage">
     <img class="img-fluid img-responsive" src="http://localhost:4000/images/other/pareAndFlourishBannerLogo.png" alt="Site Logo" data-pin-nopin="true"> 
@@ -91,39 +94,53 @@
 
 
 
-<section class="menuTabs">
-  <div class="menuTabsContainer">
-    <a class="menuTab" href="#banner">
-      <img src="http://localhost:4000/images/other/pareAndFlourishBannerLogo.png">
-    </a>
-    <a class="menuTab" href="http://localhost:4000/start-here/">About</a>
-    <a class="menuTab" href="#latest-blogs">Blogs</a>
-    <a class="menuTab" href="http://localhost:4000/lets-collaborate/">Collaborate</a>
-    <a class="menuTab" href="#services">Services</a>
-    <a class="menuTab" href="#amReading">#amReading</a>
-    <a class="menuTab" href="http://localhost:4000/join-pare-and-flourish/">Join</a>
-    <a class="menuTabOverlay" href="#overlay">
-      <div class="overlayMenu" id="openMenu">Menu</div>
-    </a>
-    <span class="menuTabSlider"></span>
+<div class="nav-container">
+
+  <section class="menuTabs">
+    <div class="menuTabsContainer">
+      <a class="menuTab" href="#banner">
+        <img src="http://localhost:4000/images/other/pareAndFlourishBannerLogo.png">
+      </a>
+      <a class="menuTab" href="http://localhost:4000/start-here/">About</a>
+      <a class="menuTab" href="#latest-blogs">Blogs</a>
+      <a class="menuTab" href="http://localhost:4000/lets-collaborate/">Collaborate</a>
+      <a class="menuTab" href="#services">Services</a>
+      <a class="menuTab" href="http://localhost:4000/events/">Events</a>
+      <a class="menuTab" href="#amReading">#amReading</a>
+      <a class="menuTabOverlay" href="#overlay">
+        <div class="overlayMenu" id="openMenu">Menu</div>
+      </a>
+      <span class="menuTabSlider"></span>
+    </div>
+  </section>
+
+  <div class="overlay" id="overlay">
+    <div class="closeOverlay" id="closeMenu">Close</div>
+    <nav class="overlay-menu">
+      <ul>
+        <li><a href="http://localhost:4000">Home</a></li>
+        <li><a href="http://localhost:4000/start-here/">About</a></li>
+        <li><a href="http://localhost:4000#latest-blogs">Blogs</a></li>
+        <li><a href="http://localhost:4000/lets-collaborate/">Collaborate</a></li>
+        <li><a href="http://localhost:4000#services">Services</a></li>
+        <li><a class="menuTab" href="http://localhost:4000/events/">Events</a></li>
+        <li><a href="http://localhost:4000#amReading">#amReading</a></li>
+      </ul>
+    </nav>
   </div>
-</section>
 
-<div class="overlay" id="overlay">
-  <div class="closeOverlay" id="closeMenu">Close</div>
-  <nav class="overlay-menu">
+  <div class="join-and-search-container">
     <ul>
-      <li><a href="http://localhost:4000">Home</a></li>
-      <li><a href="http://localhost:4000/start-here/">About</a></li>
-      <li><a href="http://localhost:4000#latest-blogs">Blogs</a></li>
-      <li><a href="http://localhost:4000/lets-collaborate/">Collaborate</a></li>
-      <li><a href="http://localhost:4000#services">Services</a></li>
-      <li><a href="http://localhost:4000#amReading">#amReading</a></li>
-      <li><a href="http://localhost:4000/join-pare-and-flourish/">Join</a></li>
+      <a href="http://localhost:4000/join-pare-and-flourish/"><li>Join Pare and Flourish Now!</li></a>
+      <!-- Html Elements for Search -->
+  <div id="search-container">
+    <input type="text" id="search-input" placeholder="search...">
+    <ul id="results-container"></ul>
+  </div>
     </ul>
-  </nav>
-</div>
+  </div>
 
+</div>
 
 
   
@@ -161,11 +178,28 @@
     <div class="row">
       <div class="col-md-3 col-sm-4">
         <div class="outsideTile">
-          <span>“Each time a woman stands up for herself, without know it possibly, without claiming it, she stands up for all women.”</span>
+          <span>“Each time a woman stands up for herself, without knowing it possibly, without claiming it, she stands up for all women.”</span>
         </div>
       </div>
       <div class="blog-tiles">
-        <div id="blogContainer" class="postContainer" data-page="1" data-totalPages="8">
+        <div id="blogContainer" class="postContainer" data-page="1" data-totalPages="9">
+          
+          <article class="post list">
+            <div class="col-md-3 col-sm-4">
+              <a href="/blog/three-ways-a-conference-benefits-you/" class="tile">
+                <div class="tileImage">
+                  <img class="img-responsive img-fluid" src="http://localhost:4000/images/teasers-1080x600/three-ways-a-conference-benefits-you.jpg" alt="" data-pin-nopin="true">
+                </div>
+                <div class="tileContent">
+                  <h3>Three Ways a Conference Benefits You</h3>
+                  <p>This month, challenge yourself to register for a conference in your field, or maybe even a field you’re interested in.</p>
+                </div>
+                <div class="tileOverlay">
+                  <span>Read More</span>
+                </div>
+              </a>
+            </div>
+          </article>
           
           <article class="post list">
             <div class="col-md-3 col-sm-4">
@@ -244,23 +278,6 @@
                 <div class="tileContent">
                   <h3>How to Embrace Change in the Workplace</h3>
                   <p>HR departments have changed the way they reach new applicants, and teach new hires, all because of our generation. Pretty crazy, right?</p>
-                </div>
-                <div class="tileOverlay">
-                  <span>Read More</span>
-                </div>
-              </a>
-            </div>
-          </article>
-          
-          <article class="post list">
-            <div class="col-md-3 col-sm-4">
-              <a href="/blog/three-ways-to-invest-in-yourself/" class="tile">
-                <div class="tileImage">
-                  <img class="img-responsive img-fluid" src="http://localhost:4000/images/teasers-1080x600/threeWaysToInvestInYourself.jpg" alt="" data-pin-nopin="true">
-                </div>
-                <div class="tileContent">
-                  <h3>3 Ways to Invest in Yourself</h3>
-                  <p>The best time to invest in yourself was yesterday; the next best time is right now. By investing in yourself, we mean taking in responsibility...</p>
                 </div>
                 <div class="tileOverlay">
                   <span>Read More</span>
@@ -430,9 +447,19 @@
   </div>
 </div>
   </section>
---> <!-- Website content. -->
-		
-			<section id="footer">
+-->
+    <!-- Website content. -->
+
+    <!-- Html Elements for Search -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="search...">
+<ul id="results-container"></ul>
+</div>
+
+<!-- Script pointing to jekyll-search.js -->
+<script src="/bower_components/simple-jekyll-search/dest/jekyll-search.js" type="text/javascript"></script>
+    
+    <section id="footer">
 	<div class="container">
 
 		<div class="row">
@@ -829,11 +856,12 @@
     </div>
   </div>
 </section>
---> <!-- Footer section. Containing copyright, links to social media, email, site/logo designers, affiliate disclosure. -->
+-->
+    <!-- Footer section. Containing copyright, links to social media, email, site/logo designers, affiliate disclosure. -->
 
-		</div>
+  </div>
 
-		<!-- jQuery. More information can be found at https://jquery.com/. -->
+  <!-- jQuery. More information can be found at https://jquery.com/. -->
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
 <!-- Font Awesome. More information can be found at http://fontawesome.io/. -->
@@ -876,8 +904,25 @@
 <!-- newNavbar.js -->
 <script type="text/javascript" src="http://localhost:4000/assets/javascript/newNavbar.js"></script>
 
+<!-- Search Function -->
+<script type="text/javascript" src="http://localhost:4000/assets/javascript/search.js"></script>
+
 <!-- Main -->
 <script type="text/javascript" src="http://localhost:4000/assets/javascript/main.js"></script>
-	</body>
+
+  <script type="text/javascript">
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json',
+      searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+      noResultsText: 'No results found',
+      limit: 10,
+      fuzzy: false,
+      exclude: ['Welcome']
+    })
+  </script>
+
+</body>
 
 </html>
