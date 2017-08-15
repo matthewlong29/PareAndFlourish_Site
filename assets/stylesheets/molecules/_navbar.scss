@@ -3,39 +3,56 @@ nav-container {
 }
 
 .join-and-search-container {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
   width: 100%;
   z-index: 8675311;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
   border-bottom: 2px solid $accent;
-  ul {
+  .join {
     display: flex;
-    justify-content: space-between;
-    align-content: center;
+    flex: 1;
     margin: 0;
     padding: 0;
     a {
       border-bottom: none;
-      background: transparent;
-      li {
-        @include transition(0.3s, ease, box-shadow);
-        font-family: $primaryFont;
-        flex: 1;
-        list-style: none;
-        padding: .85rem 5rem;
-        box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.15);
-        cursor: pointer;
-        background: $accent;
-        font-weight: bold;
-        &:hover {
-          box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.25);
-          color: $white;
-        }
+      @include transition(0.3s, ease, box-shadow);
+      font-family: $primaryFont;
+      list-style: none;
+      padding: .85rem 5rem;
+      box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.15);
+      cursor: pointer;
+      background: $accent;
+      font-weight: bold;
+      &:hover {
+        box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.25);
+        color: $white;
       }
     }
-    input {
+  }
+  .search {
+    display: flex;
+    justify-content: space-between;
+    form {
       width: 100%;
-      flex: 4;
-      padding: 0 5rem;
+      input {
+        font-family: $primaryFont;
+        margin: auto;
+        padding: .85rem 5rem;
+        &[type="submit"] {
+          flex: 1;
+          background: $accent;
+          box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.15);
+          &:hover {
+            box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.25);
+            color: $white;
+          }
+        }
+        &[type="text"] {
+          flex: 4;
+        }
+      }
     }
   }
 }
