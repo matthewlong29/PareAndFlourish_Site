@@ -1,31 +1,30 @@
-$(document).ready(function() {
+$(document).ready(function () {
   // Smooth Scrolling Function
   $('a[href*="#"]')
     // Remove links that don't actually link to anything
     .not('[href="#"]')
     .not('[href="#0"]')
-    .click(function(event) {
+    .click(function (event) {
       // On-page links
       if (
         location.pathname.replace(/^\//, "") ==
-          this.pathname.replace(/^\//, "") &&
+        this.pathname.replace(/^\//, "") &&
         location.hostname == this.hostname
       ) {
         // Figure out element to scroll to
         var target = $(this.hash);
-        target = target.length
-          ? target
-          : $("[name=" + this.hash.slice(1) + "]");
+        target = target.length ?
+          target :
+          $("[name=" + this.hash.slice(1) + "]");
         // Does a scroll target exist?
         if (target.length) {
           // Only prevent default if animation is actually gonna happen
           event.preventDefault();
-          $("html, body").animate(
-            {
+          $("html, body").animate({
               scrollTop: target.offset().top
             },
             1000,
-            function() {
+            function () {
               // Callback after animation
               // Must change focus!
               var $target = $(target);
@@ -49,7 +48,7 @@ $(document).ready(function() {
       this.currentTab = null;
       this.tabContainerHeight = 70;
       let self = this;
-      $(".menuTab").click(function() {
+      $(".menuTab").click(function () {
         self.onTabClick(event, $(this));
       });
       $(window).scroll(() => {
@@ -59,14 +58,7 @@ $(document).ready(function() {
         this.onResize();
       });
     }
-
-    // onTabClick(event, element) {
-    //   event.preventDefault();
-    //   let scrollTop =
-    //     $(element.attr("href")).offset().top - this.tabContainerHeight + 1;
-    //   $("html, body").animate({ scrollTop: scrollTop }, 600);
-    // }
-
+    
     onScroll() {
       this.checkTabContainerPosition();
       this.findCurrentTabSelector();
@@ -78,23 +70,11 @@ $(document).ready(function() {
       }
     }
 
-    checkTabContainerPosition() {
-      let offset =
-        $(".menuTabs").offset().top +
-        $(".menuTabs").height() -
-        this.tabContainerHeight;
-      if ($(window).scrollTop() > offset) {
-        $(".menuTabsContainer").addClass("menuTabsContainer--top");
-      } else {
-        $(".menuTabsContainer").removeClass("menuTabsContainer--top");
-      }
-    }
-
     findCurrentTabSelector(element) {
       let newCurrentId;
       let newCurrentTab;
       let self = this;
-      $(".menuTab").each(function() {
+      $(".menuTab").each(function () {
         let id = $(this).attr("href");
         let offsetTop = $(id).offset().top - self.tabContainerHeight;
         let offsetBottom =
@@ -126,22 +106,40 @@ $(document).ready(function() {
     }
   }
 
-  new StickyNavigation();
+//  new StickyNavigation();
+
+
+  // Add or remove class based on height of banner or heading image
+  $(window).scroll(function () {
+    // Banner height (homepage)
+    var $bannerHeight = $("#banner").height();
+    // Feature image height (subpages)
+    var $featureHeight = $("#feature-image").height();
+    // Vertical location of navbar
+    var $offset = $(".nav-container").offset().top;
+    if ($(this).scrollTop() > $bannerHeight) {
+      $(".nav-container").addClass("nav-container--top");
+    } else if ($(this).scrollTop() > $featureHeight) {
+      $(".nav-container").addClass("nav-container--top");
+    } else {
+      $(".nav-container").removeClass("nav-container--top");
+    }
+  });
 
   // Toggle for menu overlay - see media query
-  $("#openMenu").click(function() {
+  $("#openMenu").click(function () {
     $(this).toggleClass("active");
     $("#overlay").toggleClass("open");
   });
 
-  $("#closeMenu").click(function() {
+  $("#closeMenu").click(function () {
     $(this).toggleClass("active");
     $("#overlay").toggleClass("open");
   });
-  
-  $(".overlay ul li a").click(function() {
+
+  $(".overlay ul li a").click(function () {
     $(this).toggleClass("active");
     $("#overlay").toggleClass("open");
   });
-  
+
 });
