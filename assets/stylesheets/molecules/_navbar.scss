@@ -4,7 +4,7 @@ nav-container {
 
 .join-and-search-container {
   display: flex;
-  justify-content: space-between;
+//  justify-content: space-between;
   align-content: center;
   width: 100%;
   z-index: 8675311;
@@ -12,7 +12,7 @@ nav-container {
   border-bottom: 2px solid $accent;
   .join {
     display: flex;
-    flex: 1;
+    flex: 4;
     margin: 0;
     padding: 0;
     a {
@@ -33,17 +33,21 @@ nav-container {
   }
   .search {
     display: flex;
-    justify-content: space-between;
+    flex: 5;
     form {
+      display: flex;
       width: 100%;
       input {
         font-family: $primaryFont;
         margin: auto;
-        padding: .85rem 5rem;
+        
         &[type="submit"] {
           flex: 1;
+          padding: .85rem 5rem;
           background: $accent;
           box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.15);
+          border: none;
+          margin: 0;
           &:hover {
             box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.25);
             color: $white;
@@ -51,6 +55,8 @@ nav-container {
         }
         &[type="text"] {
           flex: 4;
+          padding: .85rem 0;
+          text-align: right;
         }
       }
     }
