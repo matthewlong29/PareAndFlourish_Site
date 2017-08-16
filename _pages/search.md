@@ -1,7 +1,7 @@
 ---
 layout: search
 
-title: search
+title: Search
 
 permalink: /search/
 ---
