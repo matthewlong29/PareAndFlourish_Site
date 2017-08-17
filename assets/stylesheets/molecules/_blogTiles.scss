@@ -74,7 +74,7 @@
         max-height: 100%;
         img {
           @include userSelect(none);
-          border: 1px solid $gray;
+          border: 1px solid rgba($gray, .66);
           border-radius: 2px;
         }
       }
