@@ -1,6 +1,8 @@
 #postsCarousel {
+  @include userSelect(none);
   a {
     &.carousel-control {
+      @include userSelect(none);
       background-color: transparent;
       border-bottom: none;
     }
