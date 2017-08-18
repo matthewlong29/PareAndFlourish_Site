@@ -37,23 +37,14 @@ A Flourish Roundtable is a small casual networking event for female professional
 
 What should you do to prepare? Nothing. Your moderator will be prepared with a broad topic, that is disclosed beforehand, ready to guide the conversation with follow-up questions and inspiration. All attendees are encouraged to participate and are given a safe environment to do so.
 
-Discussions are centered around topics such as our perfect day, our goals, and our passion for life, career and otherwise. 
-
-After attending an event, Pare and Flourish will invite you to join the closed Facebook group. This is your way to connect with the other women who attended your roundtable or previous events. You are free to use the group to post resources, ask someone out to lunch, talk about your achievements, etc. 
-
-If you’re looking for a path to self-discovery, look out for our next Flourish Roundtable. Upcoming events are listed below.  
-
-*Events are currently being held in Bowling Green, KY. Wan’t these events to be hosted in your city? Let us know. 
+<img src="{{site.url}}/images/events/book-a-seat.jpg" alt="Image advertisement saying book a seat at the next flourish roundtable." data-pin-nopin="true">
 
 When asked “What was your favorite part of this Flourish Roundtable?” this is what past participants had to say: 
 
 <ul>
   <li>“Getting connected with other women in the area.”</li>
-  <li>“Connecting with other women in the community.”</li>
-  <li>“The honesty of all of the women.”</li>
   <li>“I love a structured networking event. The ones where you show up and are forced to rely on your mingling skills are awful and intimidating.”</li>
   <li>“Talking to other women about goals and empowerment, also knowing that we all are working toward something bigger.”</li>
-  <li>“Talking to women about our similarities and differences.”</li>
 </ul>
 
 <hr class="secondary">
