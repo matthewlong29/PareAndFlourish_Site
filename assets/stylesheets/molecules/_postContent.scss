@@ -2,11 +2,6 @@
   font-size: 1.35em;
   p {
     line-height: 1.75em;
-    &:first-of-type:first-letter {
-      font-family: $primaryFont;
-      font-weight: bold;
-      color: $accent;
-    }
   }
   li {
     line-height: 1.75em;
@@ -60,6 +55,10 @@
   }
   hr.secondary {
     margin: 1em 0;
+  }
+  img {
+    @include userSelect(none);
+    max-width: 100%;
   }
 }
 
