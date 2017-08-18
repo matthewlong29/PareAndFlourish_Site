@@ -27,7 +27,7 @@
 	img {
 		@include userSelect(none);
 		border: $commonBorder;
-		margin: auto 0;
+		margin: 1em auto;
 	}
 	.twitter-section {
 		margin: 1em 0 0 0;
