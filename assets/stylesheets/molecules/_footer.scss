@@ -95,6 +95,14 @@ footer {
     #footerPrimary {
       .content {
         display: flex;
+        .footerLogo,
+        .footerPageLinks,
+        .footerContact {
+          flex: 1;
+        }
+        .footerSupportUs {
+          flex: 2;
+        }
         .footerPageLinks {
           ul {
             columns: 2;
