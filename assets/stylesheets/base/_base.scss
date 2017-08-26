@@ -1,40 +1,40 @@
 .container-fluid {
-	padding: $zeroPadding;
+  padding: $zeroPadding;
 }
 
 body {
-	@include transition(.2s, ease, all);
-	background-color: $white;
+  @include transition(.2s, ease, all);
+  background: $white;
 }
 
 img {
-	margin: $autoMargin;
-	border: $commonBorder;
-	border-radius: $commonRadius;
-	box-shadow: $commonShadow;
+  margin: $autoMargin;
+  border: $commonBorder;
+  border-radius: $commonRadius;
+  box-shadow: $commonShadow;
 }
 
 img.noImageStyling {
-	border: 0;
-	border-radius: 0;
-	box-shadow: none;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
 }
 
 .no-gutter>[class*='col-'] {
-	padding-right: 0;
-	padding-left: 0;
+  padding-right: 0;
+  padding-left: 0;
 }
 
 .temp-pag {
-	text-align: center;
+  text-align: center;
 }
 
 .mc-modal {
-	z-index: 8675311 !important;
+  z-index: 8675311 !important;
 }
 
 ::selection {
-	background: $accentLighten;
+  background: $accentLighten;
 }
 
 ::-moz-selection {
