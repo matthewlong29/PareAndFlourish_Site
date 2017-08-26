@@ -1,110 +1,116 @@
-#footer {
-	min-height: 7.5vh;
-	text-align: center;
-	padding-top: 2em;
-	background-position: bottom center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	img {
-		@include userSelect(none);
-		border: 0;
-		box-shadow: none;
-		max-width: 200px;
-	}
-	p {
-		font-size: .85em;
-	}
-  a {
-    text-decoration: none;
+footer {
+  max-width: 100%;
+  overflow-x: hidden;
+  #footerPrimary {
+    display: flex;
+    padding: 2rem;
+    .content {
+      .footerLogo,
+      .footerPageLinks,
+      .footerSupportUs,
+      .footerContact {
+        font-size: 1.15rem;
+        text-align: center;
+        padding: 1rem 2rem;
+        h3 {
+          color: $gray;
+          border-bottom: 2px solid $accent;
+        }
+      }
+      .footerLogo {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        a {
+          border-bottom: none;
+          &:hover {
+            background: transparent;
+          }
+          img {
+            @include userSelect(none);
+            border: none;
+            box-shadow: none;
+            max-width: 125px;
+          }
+        }
+      }
+      .footerPageLinks {
+        ul {
+          padding: 0;
+          li {
+            padding: .25rem;
+            list-style: none;
+          }
+        }
+      }
+      .footerSupportUs {
+        span {
+          display: block;
+        }
+        a {
+          &.commonButton {
+            width: auto;
+            margin-top: 1rem;
+            padding: 1rem;
+            font-weight: normal;
+            background: $accent;
+          }
+          &:hover {
+            color: $white;
+          }
+        }
+      }
+      .footerContact {
+        span {
+          &.email {
+            display: block;
+          }
+        }
+        .socialLinks {
+          padding: .5rem;
+          a {
+            border-bottom: none;
+            &:hover {
+              background: transparent;
+            }
+          }
+        }
+      }
+    }
   }
-	a.socialLinks {
-    @include userSelect(none);
-		border-bottom: none;
-    background-color: transparent;
-		&:hover {
-			border-bottom: none;
-		}
-	}
-	.footerLinks {
-		display: flex;
-		flex-wrap: wrap;
-		justify-content: center;
-		align-content: center;
-		p {
-			padding: 0 5px;
-		}
-	}
+  #colophon {
+    background: lighten($accent, 7.5%);
+    padding: 2rem;
+    font-size: 1.15rem;
+    .content {
+      display: flex;
+      flex-direction: column-reverse;
+      text-align: center;
+      span {
+        padding: .5rem;
+      }
+    }
+  }
+  @media screen and (min-width: 787px) {
+    #footerPrimary {
+      .content {
+        display: flex;
+        .footerPageLinks {
+          ul {
+            columns: 2;
+          }
+        }
+      }
+    }
+    #colophon {
+      .content {
+        flex-direction: row;
+        span {
+          &:first-child {
+            margin-right: auto;
+          }
+        }
+      }
+    }
+  }
 }
-
-//#footer {
-//  margin: 1.5em 0;
-//  text-align: center;
-//  .siteLogo {
-//    margin: 0 auto;
-//    img {
-//      @include userSelect(none);
-//      padding: 1em;
-//      box-shadow: none;
-//      border: none;
-//      max-width: 200px;
-//      margin: 0 auto;
-//    }
-//    a {
-//      @include transition(.25s, ease-in-out, border-bottom);
-//      font-size: .85em;
-//      padding: 0;
-//      margin: 0 auto;
-//      text-decoration: none;
-//      border-bottom: 2px solid $gray;
-//      &:hover {
-//        border-bottom: 3px solid $accent;
-//      }
-//      color: $gray;
-//    }
-//  }
-//  .siteInfo {
-//    display: -webkit-box; 
-//    display: -ms-flexbox; 
-//    display: -webkit-flex; 
-//    display: flex;
-//    justify-content: center;
-//    align-items: center;
-//    .socialIcons {
-//      display: -webkit-box; 
-//      display: -ms-flexbox; 
-//      display: -webkit-flex; 
-//      display: flex;
-//      padding: 0;
-//      max-width: 420px;
-//      padding: 1em;
-//      a {
-//        padding: 2px;
-//        svg {
-//          @include transition(.25s, ease, filter);
-//          @include userSelect(none);
-//          filter: grayscale(100%);
-//          &:hover {
-//            filter: grayscale(0%);
-//          }
-//        }
-//      }
-//    }
-//  }
-//  .footerLinks {
-//    font-size: .85em;
-//    line-height: 0;
-//    padding: 0;
-//    p {
-//      color: $black;
-//    }
-//    a {
-//      @include transition(.25s, ease-in-out, border-bottom);
-//      color: $black;
-//      text-decoration: none;
-//      border-bottom: 2px solid $gray;
-//      &:hover {
-//        border-bottom: 3px solid $accent;
-//      }
-//    }
-//  }
-//}
