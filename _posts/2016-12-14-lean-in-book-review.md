@@ -16,7 +16,7 @@ excerpt: "It’s no secret that the playing field is uneven. Women are seen thro
 categories: blog
 
 image:
-  teaser: review-lean-in.jpg
+  teaser: lean-in-book-review.jpg
   alt: "Review of Lean In"
 
 tags: equality, wage gap, Lean In, Sheryl Sandberg, afraid, networking

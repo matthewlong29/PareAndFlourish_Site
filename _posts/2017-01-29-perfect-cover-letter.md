@@ -16,7 +16,7 @@ excerpt: "Each cover letter you write is a unique conversation between you and t
 categories: blog
 
 image:
-  teaser: perfect-cover-letter.jpg
+  teaser: how-to-write-the-perfect-cover-letter.jpg
   vteaser: cover-letter-infographic.jpg
   alt: "How to Write the Perfect Cover Letter"
 

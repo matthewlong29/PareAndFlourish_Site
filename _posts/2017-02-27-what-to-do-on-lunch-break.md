@@ -16,8 +16,7 @@ excerpt: "We’re all guilty of working through our lunch breaks. The intention 
 categories: blog
 
 image:
-  teaser: lunch-break.jpg
-  vteaser: lunch-break-v.jpg
+  teaser: what-you-should-actually-do-on-your-lunch-break.jpg
   alt: "What You Should Actually Do on Your Lunch Break"
 
 tags: lunch break activities, what to do on your lunch, self-care on lunch break
