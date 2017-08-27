@@ -30,6 +30,8 @@
       cursor: pointer;
       background: $accent;
       font-weight: bold;
+      text-align: center;
+      width: 100%;
       &:hover {
         box-shadow: inset 0 0 4px rgba($black, 0.25);
         color: $white;
@@ -59,7 +61,7 @@
         }
         &[type="text"] {
           flex: 4;
-          padding: .85rem 0;
+          padding: .85rem;
         }
       }
     }
