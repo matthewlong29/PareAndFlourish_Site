@@ -63,4 +63,4 @@ Are you interested in collaborating with Pare and Flourish? Let us <a href="{{si
 
 We promote collaborations (sponsored blog posts, guest blogs, etc.) on all of our social media platforms: Twitter, Facebook, Pinterest, and our personal LinkedIn accounts. The collaboration material will also be promoted in our weekly newsletter. 
 
-Do you have a collaboration idea in mind or just want to make a connection? <a href="{{site.email}}">Contact us</a>! We’d love to hear from you. 
+Do you have a collaboration idea in mind or just want to make a connection? <a href="mailto:{{site.email}}">Contact us</a>! We’d love to hear from you. 
