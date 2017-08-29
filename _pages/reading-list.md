@@ -9,6 +9,11 @@ permalink: /reading-list/
 <section id="amReadingPage">
     <div class="bookRow">
       <div class="bookTile">
+        <a href="http://amzn.to/2gmphGk" target="_blank">
+          <img src="{{site.url}}/images/other/amReading/theHappinessAdvantage.jpg" alt="The Happiness Advantage" data-pin-nopin="true">
+        </a>
+      </div>
+      <div class="bookTile">
         <a href="http://amzn.to/2t2eDpL" target="_blank">
           <img src="{{site.url}}/images/other/amReading/youAreABadass.jpg" alt="You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life" data-pin-nopin="true">
         </a>
