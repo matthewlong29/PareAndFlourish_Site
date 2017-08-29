@@ -24,7 +24,7 @@ tags: drop the ball, tiffany dufu, review of drop the ball
 comments: true
 ---
 
-If you enjoyed Lean In by Sheryl Sandberg, you’ll want Drop the Ball on your summer reading list. Tiffany Dufu pulls you in with a relatable and witty story of her struggle as a working, new mother who realizes the deck is stacked against her. Societal expectations took their toll, but the author recounts her realization that she may also be stacking the deck against herself. 
+If you enjoyed Lean In by Sheryl Sandberg, you’ll want <a href="http://amzn.to/2wlunqt" target="_blank">Drop the Ball</a> on your summer reading list. Tiffany Dufu pulls you in with a relatable and witty story of her struggle as a working, new mother who realizes the deck is stacked against her. Societal expectations took their toll, but the author recounts her realization that she may also be stacking the deck against herself. 
  
 Drop the Ball takes you through Dufu’s personal struggles and epiphanies that she could not juggle all of the balls—the balls being metaphors for her responsibilities—nor did she have to. This book isn’t solely for millennials, or solely for women; this book is for anyone who is attempting to enter, or re-enter, the workforce and balance a social life, family, and/or volunteer obligations. Or, for anyone who wants to better understand those who are.
  

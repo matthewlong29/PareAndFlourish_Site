@@ -9,7 +9,7 @@ published: Sun, 27 August 2017 10:00:00 EST
 
 modified: August 27, 2017
 
-author: "Skylar Wooden and Katie Butler"
+author: "Katie Butler"
 
 excerpt: "The stories told in this book weren’t all about happiness. In fact, the stories centered around very realistic, not idealistic, ordinary days."
 
@@ -26,7 +26,7 @@ comments: true
 
 ## The Seven Principles of Positive Psychology That Fuel Success and Performance at Work 
 
-The Happiness Advantage is arguably one of the most insightful books I’ve ever read. That includes both fiction and nonfiction, both the Harry Potter series and Tina Fey’s: Bossypants. I mention those titles because I hold them dear to my heart, but also to explain my level enthusiasm for this book.
+<a href="http://amzn.to/2gmphGk" target="_blank">The Happiness Advantage</a> is arguably one of the most insightful books I’ve ever read. That includes both fiction and nonfiction, both the Harry Potter series and Tina Fey’s: Bossypants. I mention those titles because I hold them dear to my heart, but also to explain my level enthusiasm for this book.
 
 You may dread the idea of reading a nonfiction, self-help book about happiness. But, you shouldn’t. Why? Because the stories told in this book weren’t all about happiness. In fact, the stories centered around very realistic, not idealistic, ordinary days. They were relevant and relatable because they tell a story not so far fetched from our own.
 

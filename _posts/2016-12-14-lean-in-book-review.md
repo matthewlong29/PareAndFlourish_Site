@@ -26,7 +26,7 @@ comments: true
 
 <h2 class="alt">What Would You Do If You Weren't Afraid?</h2>
 
-Sheryl Sandberg’s book, <a href="{{site.url}}/reading-list/">Lean In: Women, Work, and the Will to Lead</a>, is a favorite of ours. Sandberg’s mission is to empower women in the workplace to identify and overcome gender inequality. 
+Sheryl Sandberg’s book, <a href="http://amzn.to/2wm89of" target="_blank">Lean In: Women, Work, and the Will to Lead</a>, is a favorite of ours. Sandberg’s mission is to empower women in the workplace to identify and overcome gender inequality. 
 
 It’s no secret that the playing field is uneven. Women are seen through a different set of eyes—as if estrogen will wilt the growth of business. The author discusses the obstacles women face in a positive light, rather than presenting them as a never-ending struggle. Sandberg believes that women and men who recognize workplace inequality can do the most to stop it. We agree. So, go ahead, lean in. It’s  a good feeling. 
 
