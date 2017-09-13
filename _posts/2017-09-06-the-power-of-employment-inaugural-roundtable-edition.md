@@ -28,10 +28,10 @@ comments: true
 
 <div class="row">
   <div class="col-sm-6">
-    <img class="img-fluid" src="{{site.url}}/images/posts/power-of-empowerment/roundtable-event1.jpg" alt="Image from August Roundtable Event" data-pin-nopin="true">
+    <img class="img-fluid" src="{{site.url}}/images/posts/power-of-empowerment/roundtable-event1.jpg" alt="Image from August Roundtable Event">
   </div>
   <div class="col-sm-6">
-    <img class="img-fluid" src="{{site.url}}/images/posts/power-of-empowerment/roundtable-event2.jpg" alt="Image from August Roundtable Event" data-pin-nopin="true">
+    <img class="img-fluid" src="{{site.url}}/images/posts/power-of-empowerment/roundtable-event2.jpg" alt="Image from August Roundtable Event">
   </div>
 </div>
 
@@ -42,10 +42,10 @@ We spent the rest of the discussion talking about what they loved and didn’t l
 
 <div class="row">
   <div class="col-sm-6">
-    <img class="img-fluid" src="{{site.url}}/images/posts/power-of-empowerment/roundtable-event3.jpg" alt="Image from August Roundtable Event" data-pin-nopin="true">
+    <img class="img-fluid" src="{{site.url}}/images/posts/power-of-empowerment/roundtable-event3.jpg" alt="Image from August Roundtable Event">
   </div>
   <div class="col-sm-6">
-    <img class="img-fluid" src="{{site.url}}/images/posts/power-of-empowerment/roundtable-event4.jpg" alt="Image from August Roundtable Event" data-pin-nopin="true">
+    <img class="img-fluid" src="{{site.url}}/images/posts/power-of-empowerment/roundtable-event4.jpg" alt="Image from August Roundtable Event">
   </div>
 </div>
 

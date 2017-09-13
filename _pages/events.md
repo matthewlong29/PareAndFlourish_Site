@@ -37,7 +37,7 @@ A Flourish Roundtable is a small casual networking event for female professional
 
 What should you do to prepare? Nothing. Your moderator will be prepared with a broad topic, that is disclosed beforehand, ready to guide the conversation with follow-up questions and inspiration. All attendees are encouraged to participate and are given a safe environment to do so.
 
-<img src="{{site.url}}/images/events/book-a-seat.jpg" alt="Image advertisement saying book a seat at the next flourish roundtable." data-pin-nopin="true">
+<img src="{{site.url}}/images/events/book-a-seat.jpg" alt="Image advertisement saying book a seat at the next flourish roundtable.">
 
 When asked “What was your favorite part of this Flourish Roundtable?” this is what past participants had to say: 
 

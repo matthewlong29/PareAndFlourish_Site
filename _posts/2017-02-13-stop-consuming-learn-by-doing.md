@@ -27,7 +27,7 @@ comments: true
 
 <div class="row">
   <div class="col-sm-6">
-    <img src="{{site.url}}/images/posts/learn-by-doing/ash-norton.jpg" class="img-responsive" alt="Ash Norton" title="Ash Norton" data-pin-nopin="true">
+    <img src="{{site.url}}/images/posts/learn-by-doing/ash-norton.jpg" class="img-responsive" alt="Ash Norton" title="Ash Norton">
   </div>
   <div class="col-sm-6">
     We’ve teamed up with <a href="http://www.ashnorton.com" target="_blank">Ash Norton</a>, an Engineering Subject Matter Expert, to bring you a post about her experience with learning by doing.
@@ -107,7 +107,7 @@ Here are a couple of ways to <b>learn by doing today</b>:
 
 <div class="row">
   <div class="col-sm-4">
-    <img src="{{site.url}}/images/posts/learn-by-doing/ash-norton1.jpg" class="img-responsive" alt="Ash Norton" title="Ash Norton" data-pin-nopin="true">
+    <img src="{{site.url}}/images/posts/learn-by-doing/ash-norton1.jpg" class="img-responsive" alt="Ash Norton" title="Ash Norton">
   </div>
   <div class="col-sm-8">
     To learn more about how to take initiative in your career today - check out the <a href="http://www.ashnorton.com/sme" target="_blank">step-by-step process</a> that helped Ash become an Engineering Subject Matter Expert at the young age of 25.

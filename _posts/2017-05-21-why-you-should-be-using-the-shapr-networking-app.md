@@ -28,7 +28,7 @@ You may have seen an advertisement on Facebook, or another platform, for the Sha
 
 Launched in 2015, <a href="http://m.onelink.me/b9e940e7" target="_blank">Shapr</a> has gained users across the US, Great Britain, and France, largely through word of mouth. It’s no surprise that Shapr’s following continues to grow. It uses an algorithm to match professionals with the people that could potentially change the course of their professional life. The app is designed to help you find people for inspiring conversations, collaborations, or anything you might need to grow personally and professionally.
 
-<img class="img-fluid img-responsive" src="{{site.url}}/images/posts/shapr/usingShapr.jpg" alt="Using Shapr on the Go" data-pin-nopin="true">
+<img class="img-fluid img-responsive" src="{{site.url}}/images/posts/shapr/usingShapr.jpg" alt="Using Shapr on the Go">
 
 ### How does it work? 
 
@@ -37,13 +37,13 @@ Shapr shows you a picture, location, and brief profile of a person near you that
 When you have swiped right on a person to meet them and they have also swiped right on you, you can start messaging in the app. For the past month, we’ve been using Shapr to test it out. The results are in. It’s a match! 
 
 <div class="col-sm-4">
-	<img class="img-fluid img-responsive noImageStyling" src="{{site.url}}/images/posts/shapr/iphone1.png" alt="Using the Shapr App - swipe to pass or meet" data-pin-nopin="true">
+	<img class="img-fluid img-responsive noImageStyling" src="{{site.url}}/images/posts/shapr/iphone1.png" alt="Using the Shapr App - swipe to pass or meet">
 </div>
 <div class="col-sm-4">
-	<img class="img-fluid img-responsive noImageStyling" src="{{site.url}}/images/posts/shapr/iphone2.png" alt="Using the Shapr App - swipe to pass or meet" data-pin-nopin="true">
+	<img class="img-fluid img-responsive noImageStyling" src="{{site.url}}/images/posts/shapr/iphone2.png" alt="Using the Shapr App - swipe to pass or meet">
 </div>
 <div class="col-sm-4">
-	<img class="img-fluid img-responsive noImageStyling" src="{{site.url}}/images/posts/shapr/iphone3.png" alt="Using the Shapr App - swipe to pass or meet" data-pin-nopin="true">
+	<img class="img-fluid img-responsive noImageStyling" src="{{site.url}}/images/posts/shapr/iphone3.png" alt="Using the Shapr App - swipe to pass or meet">
 </div>
 
 ### Skylar’s Thoughts 
@@ -64,7 +64,7 @@ We had a brief conversation about possibly meeting up when I was in town (he’s
 
 Noah was a master of networking. He knew all the right questions to ask and before I knew it, half an hour had gone by. We exchanged information and will hopefully have an opportunity to work together in the future. I feel like I made a solid professional connection, all thanks to Shapr. 
 
-<img class="img-fluid img-responsive" src="{{site.url}}/images/posts/shapr/shaprMeeting.jpg" alt="Using Shapr on the Go" data-pin-nopin="true">
+<img class="img-fluid img-responsive" src="{{site.url}}/images/posts/shapr/shaprMeeting.jpg" alt="Using Shapr on the Go">
 
 ### What You Should Know About Shapr
 

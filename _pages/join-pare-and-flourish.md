@@ -17,7 +17,7 @@ permalink: /join-pare-and-flourish/
       Are you prepared for your job search? Let us help you. Download our free job search package, including:
     </div>
     <div class="col-md-6 col-sm-12">
-      <img src="{{site.url}}/images/other/subscriptionGraphic.jpg" class="img-responsive" alt="subscribe here" title="Subscribe here!" data-pin-nopin="true">
+      <img src="{{site.url}}/images/other/subscriptionGraphic.jpg" class="img-responsive" alt="subscribe here" title="Subscribe here!">
     </div>
     <div class="col-md-6 col-sm-12">
       <ol>
