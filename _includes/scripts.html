@@ -7,8 +7,10 @@
 <!-- Bootstrap. Core JavaScript for Bootstrap. The latest can be seen at http://getbootstrap.com/getting-started/#download. -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
+{% unless page.url == "/" %}
 <!-- Twitter. Displays twitter feed on each post. More information can be found at https://dev.twitter.com/web/overview. -->
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{% endunless %}
 
 <!-- Mailchimp. Subscribe tool. More information can be found at http://kb.mailchimp.com/lists/signup-forms/add-a-signup-form-to-your-website. -->
 <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
@@ -16,8 +18,10 @@
 <!-- Mailchimp. Subscribe here popup.  -->
 <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us14.list-manage.com","uuid":"21b3326a4d3b41c8b98c42507","lid":"32335e5912"}) })</script>
 
+{% unless page.url == "/" %}
 <!-- Share buttons -->
 <script type="text/javascript" data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" data-shr-siteid="f993a1a4a41234c0ed699a797d7e918b" async="async"></script>
+{% endunless %}
 
 <!-- Main -->
 <script type="text/javascript" src="{{site.url}}/assets/javascript/main.min.js"></script>

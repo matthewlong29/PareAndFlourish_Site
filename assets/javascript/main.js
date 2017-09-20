@@ -276,4 +276,30 @@ $(document).ready(function () {
   var emailY = 'pareandflourish';
   $('.footerContact .email').html('Email: <a href="mailto:' + emailX + '@' + emailY + '.com">' + emailX + '@' + emailY + '.com</a>'); // End add email to footer
 
+  /********************************************************
+  Toggle Resume, Cover Letter, and LinkedIn Facts
+  ********************************************************/
+  
+  $('.resume .fact').show();
+  $('.linkedIn .fact').hide();
+  $('.coverLetter .fact').hide();
+
+  $('.resume').on('click', () => {
+    $('.linkedIn .fact').hide();
+    $('.coverLetter .fact').hide();
+    $('.resume .fact').fadeToggle();
+  });
+
+  $('.coverLetter').on('click', () => {
+    $('.linkedIn .fact').hide();
+    $('.coverLetter .fact').fadeToggle();
+    $('.resume .fact').hide();
+  });
+
+  $('.linkedIn').on('click', () => {
+    $('.linkedIn .fact').fadeToggle();
+    $('.coverLetter .fact').hide();
+    $('.resume .fact').hide();
+  });
+  
 });
