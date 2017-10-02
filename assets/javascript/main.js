@@ -1,14 +1,14 @@
-$(document).ready(function () {
+jQuery(document).ready(function () {
 
   "use strict";
 
   /********************************************************
-  Load More Posts Function
+  load more posts function
   ********************************************************/
 
-  // Call Load more posts on click
+  // call Load more posts on click
   $(".loadMore").click(loadMorePosts);
-  // Load more posts function
+  // load more posts function
   function loadMorePosts() {
     var _this = this;
     var $blogContainer = $("#blogContainer");
@@ -29,10 +29,10 @@ $(document).ready(function () {
 
       $(_this).removeClass("loading");
     });
-  } // End load more posts function
+  } // end load more posts function
 
   /********************************************************
-  Facebook Comments
+  facebook comments
   ********************************************************/
 
   (function (d, s, id) {
@@ -45,23 +45,7 @@ $(document).ready(function () {
   }(document, 'script', 'facebook-jssdk'));
 
   /********************************************************
-  MailChimp Form Names
-  ********************************************************/
-
-  (function ($) {
-    window.fnames = new Array();
-    window.ftypes = new Array();
-    fnames[0] = 'EMAIL';
-    ftypes[0] = 'email';
-    fnames[1] = 'FNAME';
-    ftypes[1] = 'text';
-    fnames[2] = 'LNAME';
-    ftypes[2] = 'text';
-  }(jQuery));
-  var $mcj = jQuery.noConflict(true);
-
-  /********************************************************
-  Hide MailChimp Popup
+  hide mailchimp popup
   ********************************************************/
 
   $("body").on("touchstart click", function () {
@@ -69,7 +53,7 @@ $(document).ready(function () {
   });
 
   /********************************************************
-  Google Analytics
+  google analytics
   ********************************************************/
 
   (function (i, s, o, g, r, a, m) {
@@ -88,45 +72,45 @@ $(document).ready(function () {
   ga('send', 'pageview');
 
   /********************************************************
-  Navigation Bar
+  navigation bar
   ********************************************************/
   
-  // Smooth Scrolling Function
+  // smooth Scrolling Function
   $('a[href*="#"]')
-    // Remove links that don't actually link to anything
+    // remove links that don't actually link to anything
     .not('[href="#"]')
     .not('[href="#0"]')
     .click(function (event) {
-      // On-page links
+      // on-page links
       if (
         location.pathname.replace(/^\//, "") ==
         this.pathname.replace(/^\//, "") &&
         location.hostname == this.hostname
       ) {
-        // Figure out element to scroll to
+        // figure out element to scroll to
         var target = $(this.hash);
         target = target.length ?
           target :
           $("[name=" + this.hash.slice(1) + "]");
-        // Does a scroll target exist?
+        // does a scroll target exist?
         if (target.length) {
-          // Only prevent default if animation is actually gonna happen
+          // only prevent default if animation is actually gonna happen
           event.preventDefault();
           $("html, body").animate({
               scrollTop: target.offset().top
             },
             1000,
             function () {
-              // Callback after animation
-              // Must change focus!
+              // callback after animation
+              // must change focus!
               var $target = $(target);
               $target.focus();
               if ($target.is(":focus")) {
-                // Checking if the target was focused
+                // checking if the target was focused
                 return false;
               } else {
-                $target.attr("tabindex", "-1"); // Adding tabindex for elements not focusable
-                $target.focus(); // Set focus again
+                $target.attr("tabindex", "-1"); // adding tabindex for elements not focusable
+                $target.focus(); // set focus again
               }
             }
           );
@@ -201,13 +185,13 @@ $(document).ready(function () {
 //  new StickyNavigation();
 
 
-  // Add or remove class based on height of banner or heading image
+  // add or remove class based on height of banner or heading image
   $(window).scroll(function () {
-    // Banner height (homepage)
+    // banner height (homepage)
     var $bannerHeight = $("#banner").height();
-    // Feature image height (subpages)
+    // feature image height (subpages)
     var $featureHeight = $("#feature-image").height();
-    // Vertical location of navbar
+    // vertical location of navbar
     var $offset = $(".nav-container").offset().top;
     if ($(this).scrollTop() > $bannerHeight) {
       $(".nav-container").addClass("nav-container--top");
@@ -218,7 +202,7 @@ $(document).ready(function () {
     }
   });
 
-  // Toggle for menu overlay - see media query
+  // toggle for menu overlay - see media query
   $("#openMenu").click(function () {
     $(this).toggleClass("active");
     $("#overlay").toggleClass("open");
@@ -235,7 +219,7 @@ $(document).ready(function () {
   });
   
   /********************************************************
-  Remove Image Tag Dragability
+  remove image tag dragability
   ********************************************************/
 
   $("img").mousedown(function () {
@@ -243,32 +227,32 @@ $(document).ready(function () {
   });
 
   /********************************************************
-  Calculate Height of Header/Banner Images
+  calculate height of header/banner images
   ********************************************************/
 
-  // Calculate height of banner image minus navigation on homepage
+  // calculate height of banner image minus navigation on homepage
   function headerHeight() {
-    // Get height of navigation container, banner (landing page), and feature images (sub pages)
+    // get height of navigation container, banner (landing page), and feature images (sub pages)
     var $navHeight = $(".nav-container").height();
     var $bannerHeight = $("#banner").height();
     var $featureImageHeight = $("#feature-image").height();
-    // Set height of banner (landing page)
+    // set height of banner (landing page)
     $("#banner").css("min-height", "calc(100vh - " + $navHeight + "px)");
     // Set height of header tags (landing page and sub pages)
     $("#landingPageHeader").css("min-height", "calc(100vh)");
     $("#subPageHeader").css("min-height", "calc(" + $navHeight + "px + " + $featureImageHeight + "px)");
-  } // End headerHeight()
+  } // end headerHeight()
 
-  // Call headerHeight function
+  // call headerHeight function
   headerHeight();
 
-  // Call functions when window is resized
+  // call functions when window is resized
   $(window).resize(function () {
     headerHeight();
   });
 
   /********************************************************
-  Add Email to Footer
+  add email to footer
   ********************************************************/
 
   // Add email to footer
@@ -277,7 +261,7 @@ $(document).ready(function () {
   $('.footerContact .email').html('Email: <a href="mailto:' + emailX + '@' + emailY + '.com">' + emailX + '@' + emailY + '.com</a>'); // End add email to footer
 
   /********************************************************
-  Toggle Resume, Cover Letter, and LinkedIn Facts
+  toggle resume, cover letter, and linkedin facts
   ********************************************************/
   
   $('.resume .fact').show();
@@ -302,4 +286,57 @@ $(document).ready(function () {
     $('.resume .fact').hide();
   });
   
+  /********************************************************
+  events carousel on homepage
+  ********************************************************/
+
+  const eventImage = {
+    1: 'https://raw.githubusercontent.com/mtlong29/images/master/stock/1.jpg',
+    2: 'https://raw.githubusercontent.com/mtlong29/images/master/stock/2.jpg',
+    3: 'https://raw.githubusercontent.com/mtlong29/images/master/stock/3.jpg',
+    4: 'https://raw.githubusercontent.com/mtlong29/images/master/stock/4.jpg',
+    5: 'https://raw.githubusercontent.com/mtlong29/images/master/stock/5.jpg',
+    6: 'https://raw.githubusercontent.com/mtlong29/images/master/stock/6.jpg',
+    7: 'https://raw.githubusercontent.com/mtlong29/images/master/stock/7.jpg',
+    8: 'https://raw.githubusercontent.com/mtlong29/images/master/stock/8.jpg',
+    9: 'https://raw.githubusercontent.com/mtlong29/images/master/stock/9.jpg',
+    10: 'https://raw.githubusercontent.com/mtlong29/images/master/stock/10.jpg'
+  }
+    
+  let eventImages = '';
+  
+  for (let i = 1; i < 10; i++) {
+    eventImages += '<div class="eventImage" style="background: url(' + eventImage[i] + ')"></div>';
+  }
+  
+  $('.eventGallery').append(eventImages);
+  
+  $('.eventGallery').slick({
+    centerMode: true,
+    centerPadding: '3rem',
+    slidesToShow: 3,
+    arrows: false,
+    dots: true,
+    autoplay: true,
+    swipeToSlide: true,
+    responsive: [
+      {
+        breakpoint: 768,
+        settings: {
+          centerMode: true,
+          centerPadding: '2rem',
+          slidesToShow: 2
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          centerMode: true,
+          centerPadding: '2rem',
+          slidesToShow: 1
+        }
+      }
+    ]
+  });
+
 });
