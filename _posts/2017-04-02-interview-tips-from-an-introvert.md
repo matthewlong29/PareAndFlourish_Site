@@ -27,7 +27,7 @@ comments: true
 
 <div class="row">
   <div class="col-md-6 col-sm-7">
-    <img src="{{site.url}}/images/posts/introvert-interview-tips/saxon.jpeg" class="img-responsive img-fluid" alt="Saxon McCullough Reynolds" title="Saxon McCullough Reynolds">
+    <img src="/images/posts/introvert-interview-tips/saxon.jpeg" class="img-responsive img-fluid" alt="Saxon McCullough Reynolds" title="Saxon McCullough Reynolds">
   </div>
   <div class="col-md-6 col-sm-5">
     Saxon is a professional writer who graduated with a BA in English. She is a mother of two, a full-time writer, and loves all things baking. After taking time out of the workforce to spend with her youngest child, she recently got back to the job hunt and landed a writing position thanks to her spectacular interviewing skills.
@@ -44,7 +44,7 @@ Yep, walk around the house talking to yourself for a couple of days. I promise t
 
 Please, oh, please, do not memorize a script for each question, rather, just practice hitting the key points you feel are necessary. Remember: this is a conversation, not a foreign language exam.
 
-Also see: <a href="{{site.url}}/blog/pitching-your-professional-brand-a-guide-for-introverts/">Pitching Your Professional Brand: A Guide for Introverts</a>
+Also see: <a href="/blog/pitching-your-professional-brand-a-guide-for-introverts/">Pitching Your Professional Brand: A Guide for Introverts</a>
 
 <h4>2. Cling to the Familiar (on interview day)</h4>
 

@@ -58,8 +58,8 @@ At this point you can choose your counterfact. You can can create a positive cou
 
 You may also like:
 <ul>
-  <li><a href="{{site.url}}/blog/drop-the-ball-by-tiffany-dufu-book-review/">Book Review: Drop the Ball by Tiffany Dufu</a></li>
-  <li><a href="{{site.url}}/blog/review-of-lean-in/">Book Review: Lean In by Sheryl Sandberg</a></li>
+  <li><a href="/blog/drop-the-ball-by-tiffany-dufu-book-review/">Book Review: Drop the Ball by Tiffany Dufu</a></li>
+  <li><a href="/blog/review-of-lean-in/">Book Review: Lean In by Sheryl Sandberg</a></li>
 </ul>
 
 <hr class="secondary">

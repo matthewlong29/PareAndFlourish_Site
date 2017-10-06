@@ -34,7 +34,7 @@ Here’s the problem with saying the words “stepping stone”: you’re sugges
 
 It’s okay to entertain the idea that you won’t stay at your current job forever. Take comfort in the fact that your employer has realistic expectations. They’ve been exactly where you are, and most are not still working for the company that gave them their first job. 
 
-In a previous post, [Being Comfortable with Being Uncomfortable]({{site.url}}/blog/being-comfortable-with-being-uncomfortable/), we discuss what feelings of discomfort can teach you. In this instance, you may feel that this job might not be one you stick with. While you’re trying to understand those feelings, here are four things you can do in the meantime:
+In a previous post, <a href="/blog/being-comfortable-with-being-uncomfortable/">Being Comfortable with Being Uncomfortable</a>, we discuss what feelings of discomfort can teach you. In this instance, you may feel that this job might not be one you stick with. While you’re trying to understand those feelings, here are four things you can do in the meantime:
 
 <hr class="secondary">
 

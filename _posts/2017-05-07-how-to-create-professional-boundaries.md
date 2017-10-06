@@ -45,7 +45,7 @@ Here are some alternatives to “no”  you could try instead of accepting addit
 
 At times, putting in extra effort to help the team is important, and necessary. If you want to be your boss’ go-to person, stay organized. Schedule out your work for the week first thing on Monday. If you know what you anticipate to work on for the week then you have set an expectation for yourself and others.
 
-See also <a href="{{site.url}}/blog/2017-04-30-how-to-effectively-set-goals.md">How to Effectively Set Goals</a>
+See also <a href="/blog/2017-04-30-how-to-effectively-set-goals.md">How to Effectively Set Goals</a>
 
 When you’ve scheduled your week, you may find that you are free for half a day on Thursday. Here is your time to shine. Ask your manager if there is anything you can help them with for that block of time. You can still go above and beyond without over scheduling.
 

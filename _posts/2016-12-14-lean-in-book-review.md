@@ -82,6 +82,6 @@ Not being honest will get you nowhere. If an employer asks you in a performance 
 
 <hr class="secondary">
 
-These are the lessons that stuck with us the most. We guarantee that you’ll have your own favorite lessons. Tell us about them! Leave a comment below. We hope you buy the book! Find it on our <a href="{{site.url}}/reading-list/">resource page</a>. This is a list of our favorites. Any purchase from that page supports Pare and Flourish so that we can bring you more content, just like this. Look out for our next article on how to navigate networking conversations! 
+These are the lessons that stuck with us the most. We guarantee that you’ll have your own favorite lessons. Tell us about them! Leave a comment below. We hope you buy the book! Find it on our <a href="/reading-list/">resource page</a>. This is a list of our favorites. Any purchase from that page supports Pare and Flourish so that we can bring you more content, just like this. Look out for our next article on how to navigate networking conversations! 
 
 *We have <strong>not</strong> been paid to write this review. We feel strongly about its message and want to share it with you.

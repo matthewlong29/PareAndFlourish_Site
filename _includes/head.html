@@ -20,7 +20,7 @@
 	<meta name="description" property="og:description" content="{% if page.excerpt %}{{page.excerpt | strip_html | strip_newlines | truncate: 160}}{% else %}{{site.description}}{% endif %}">
 
 	<!-- Website/Post URL -->
-	<meta property="og:url" content="{% if page.permalink %}{{site.url}}{{page.permalink}}{% else %}{{site.url}}{% endif %}">  
+	<meta property="og:url" content="{% if page.permalink %}{{page.permalink}}{% else %}/{% endif %}">  
 
 	<!-- Site Name-->
 	<meta property="og:site_name" content="pareandflourish.com">
@@ -40,26 +40,21 @@
 	<!-- RSS. Link to rss feed. -->
 	<link rel="alternate" type="application/rss+xml" title="Pare and Flourish - All Posts" href="/feed.xml">
 
-	<!-- Google Fonts. more information can be found at https://fonts.google.com/. -->
-	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Playfair+Display+SC|Open+Sans">
-
 	<!-- Mailchimp. This is the subscriber tool css link. Custom css overrides can be found in subscribe.scss. More information can be found at https://mailchimp.com/resources/guides/getting-started-with-mailchimp/html/. -->
 	<link rel="stylesheet" type="text/css" href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css">
 
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
 	<!-- Main CSS. This includes bootstrap overrides, mailchimp overrides, scss partial, and more. -->
-	<link rel="stylesheet" type="text/css" href="{{site.url}}/assets/stylesheets/main.css">
+	<link rel="stylesheet" type="text/css" href="/assets/stylesheets/all.css">
 
 	<!-- Favicons.  -->
-	<link rel="apple-touch-icon" sizes="180x180" href="{{site.url}}/images/icons/apple-touch-icon.png">
-	<link rel="icon" type="image/png" href="{{site.url}}/images/icons/favicon-32x32.png" sizes="32x32">
-	<link rel="icon" type="image/png" href="{{site.url}}/images/icons/favicon-16x16.png" sizes="16x16">
-	<link rel="manifest" href="{{site.url}}/images/icons/manifest.json">
-	<link rel="mask-icon" href="{{site.url}}/images/icons/safari-pinned-tab.svg" color="#fdfdfd">
+	<link rel="apple-touch-icon" sizes="180x180" href="/images/icons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="/images/icons/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/images/icons/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/images/icons/manifest.json">
+	<link rel="mask-icon" href="/images/icons/safari-pinned-tab.svg" color="#fdfdfd">
 	
   <!-- Website Title -->
-  <title>
+	<title>
 		{% if page.title %}
 			{{page.title}} - {{site.title}}
 		{% else %}

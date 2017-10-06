@@ -27,7 +27,7 @@ comments: true
 
 <div class="row">
   <div class="col-sm-6">
-    <img src="{{site.url}}/images/posts/learn-by-doing/ash-norton.jpg" class="img-responsive" alt="Ash Norton" title="Ash Norton">
+    <img src="/images/posts/learn-by-doing/ash-norton.jpg" class="img-responsive" alt="Ash Norton">
   </div>
   <div class="col-sm-6">
     We’ve teamed up with <a href="http://www.ashnorton.com" target="_blank">Ash Norton</a>, an Engineering Subject Matter Expert, to bring you a post about her experience with learning by doing.
@@ -60,17 +60,17 @@ Learning by doing will engrain the skills and knowledge in a way that reading ab
 
 I know. I know. This is all good and well for your hobbies. But what about for your career? You cannot always just start doing. If you want to learn more about nuclear energy, you can’t walk into the control room of a nuclear power station and start pressing buttons. (PS - In reality, you probably wouldn’t make it past the security gate without getting detained or shot!)
 
-Here are a couple of ways to <b>learn by doing today</b>:
+Here are a couple of ways to <span class="boldText">learn by doing today</span>:
 
 <hr class="secondary">
 
-<p class="indent"><b>Get a Mentor</b></p>
+<p class="indent"><span class="boldText">Get a Mentor</span></p>
 
 <p class="indent">As I mentioned, I worked very closely with an experienced engineer. Hands-on experience is wildly valuable. Great mentors and managers, ones who really care about your development, will allow you to learn on your own with just enough freedom to make some mistakes (just not career-ending ones)!</p>
 
 <hr class="secondary">
 
-<p class="indent"><b>Volunteer</b></p>
+<p class="indent"><span class="boldText">Volunteer</span></p>
 
 <p class="indent">My first experience with running a website came from coaching a high school girls soccer team.  My first experience with marketing came from organizing and promoting a poker night for the Cystic Fibrosis Foundation. My first experience with branding came from helping develop a logo for a technical conference that the company I worked for was hosting.</p>
 
@@ -80,7 +80,7 @@ Here are a couple of ways to <b>learn by doing today</b>:
 
 <hr class="secondary">
 
-<p class="indent"><b>Temporary Assignments</b></p>
+<p class="indent"><span class="boldText">Temporary Assignments</span></p>
 
 <p class="indent">Some of the most valuable experiences I’ve had were temporary assignments.</p>
 
@@ -95,7 +95,7 @@ Here are a couple of ways to <b>learn by doing today</b>:
 
 <hr class="secondary">
 
-<p class="indent"><b>Apply What You’ve Read/Heard</b></p>
+<p class="indent"><span class="boldText">Apply What You’ve Read/Heard</span></p>
 
 <p class="indent">How many times have you read an article or heard a talk and were super energized and inspired by its message, only to get back to your desk and NEVER apply it?! Stop it. Stop it right now!</p>
 
@@ -107,7 +107,7 @@ Here are a couple of ways to <b>learn by doing today</b>:
 
 <div class="row">
   <div class="col-sm-4">
-    <img src="{{site.url}}/images/posts/learn-by-doing/ash-norton1.jpg" class="img-responsive" alt="Ash Norton" title="Ash Norton">
+    <img src="/images/posts/learn-by-doing/ash-norton1.jpg" class="img-responsive" alt="Ash Norton">
   </div>
   <div class="col-sm-8">
     To learn more about how to take initiative in your career today - check out the <a href="http://www.ashnorton.com/sme" target="_blank">step-by-step process</a> that helped Ash become an Engineering Subject Matter Expert at the young age of 25.

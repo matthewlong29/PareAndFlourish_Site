@@ -8,7 +8,7 @@ permalink: /terms-and-conditions/
 
 ## Event Disclaimer
 
-Please find our event disclaimer <a href="{{site.url}}/assets/docs/Event_Disclaimer_2017.pdf" target="_blank">here</a>.
+Please find our event disclaimer <a href="/assets/docs/Event_Disclaimer_2017.pdf" target="_blank">here</a>.
 
 ## Copyright
 

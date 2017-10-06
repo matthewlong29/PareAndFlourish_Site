@@ -42,7 +42,7 @@ You spend over half of your day staring at a screen under fluorescent lighting. 
 
 ### Self Care
 
-Your lunch hour gives you a mental break you don’t always allow yourself to have. Blow off steam by exercising. Go to a yoga class or play a quick game of basketball. Or use your time to unwind with a haircut or massage. The fear sometimes lies in worry that people will think you’re less of a hard worker if you take time for yourself. On the contrary, any form of <a href="{{site.url}}/personal-development/three-ways-to-implement-self-care-now/">self-care</a> will dramatically improve your work quality. Because, really, if you push through instead, you’ll just end up staring at your screen. It happens to the best of us. Give yourself a break.
+Your lunch hour gives you a mental break you don’t always allow yourself to have. Blow off steam by exercising. Go to a yoga class or play a quick game of basketball. Or use your time to unwind with a haircut or massage. The fear sometimes lies in worry that people will think you’re less of a hard worker if you take time for yourself. On the contrary, any form of <a href="/personal-development/three-ways-to-implement-self-care-now/">self-care</a> will dramatically improve your work quality. Because, really, if you push through instead, you’ll just end up staring at your screen. It happens to the best of us. Give yourself a break.
 
 No matter what you choose, when you look back on the day, you won't regret taking care of yourself.
 

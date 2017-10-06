@@ -36,7 +36,7 @@ Beware of thoughts like these:
 
 It is not time to adapt toxic, self-deprecating thoughts. It’s time to kick ass. But, where to start?
 
-Also see <a href="{{site.url}}/blog/review-of-lean-in/">Review of Lean In</a>
+Also see <a href="/blog/review-of-lean-in/">Review of Lean In</a>
 
 ### Before
 
@@ -47,7 +47,7 @@ Also see <a href="{{site.url}}/blog/review-of-lean-in/">Review of Lean In</a>
 <p class="indent">“This interview will go well.”</p>
 <p class="indent">“I breathe in confidence and breathe out all fear.”</p>
 <p class="indent">The more you visualize the interview going well, the less apprehensive you will be about preparing. Whether you believe you can do it or not, you’re right.</p>
-<p class="indent">Also see <a href="{{site.url}}/blog/interview-tips-from-an-introvert/">Interview Tips from an Introvert</a></p>
+<p class="indent">Also see <a href="/blog/interview-tips-from-an-introvert/">Interview Tips from an Introvert</a></p>
 
 
 #### 2. Practice, Practice, Practice
@@ -93,4 +93,4 @@ Also see <a href="{{site.url}}/blog/review-of-lean-in/">Review of Lean In</a>
 <p class="indent">Always follow your interview with a thank-you email <b>within 24 hours</b>. The fear of the unknown tends to get to us when we’re writing these. This fear usually comes from one daunting question: What is the interviewer expecting?</p>
 <p class="indent">Email vs. Snail Mail: This widely depends on the company. You can usually get a feel during the interview for what the employer would appreciate. It is not wise to only use snail mail. This can take up to two days, assuming you mail it within the same city. The employer may think you forgot to send anything at all.</p>
 <p class="indent">If you do send a handwritten card (as long as your handwriting is good!), send an email as well. There are many old souls out there who will appreciate the genuine card. There are just as many who are very busy and who want to see your email writing skills in action.</p>
-<p class="indent">Download our free Thank-You Email Template by subscribing <a href="{{site.url}}/join-pare-and-flourish/">here</a> or the subscription section of this page.</p>
+<p class="indent">Download our free Thank-You Email Template by subscribing <a href="/join-pare-and-flourish/">here</a> or the subscription section of this page.</p>

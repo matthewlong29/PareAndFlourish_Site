@@ -44,7 +44,7 @@ When you have less time work on your business, your partner may have more, and v
 
 The same concept applies at home. A spouse or partner can have a major impact on how you handle the day to day. When you have less time to clean or do laundry, your partner may have more, meaning your house won’t be overtaken by dirty dishes while you’re needed elsewhere. 
 
-See also: <a href="{{site.url}}/blog/drop-the-ball-by-tiffany-dufu-book-review/">Book Review: Drop the Ball by Tiffany Dufu</a>
+See also: <a href="/blog/drop-the-ball-by-tiffany-dufu-book-review/">Book Review: Drop the Ball by Tiffany Dufu</a>
 
 ## You Can Divide and Conquer
 

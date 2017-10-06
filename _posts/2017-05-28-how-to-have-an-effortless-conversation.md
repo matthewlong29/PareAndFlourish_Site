@@ -53,7 +53,7 @@ Thoughtful follow-up questions will tell the person that you’re actively liste
 	<li>They mentioned they went to/worked for a particular organization that you haven’t heard of.</li>
 </ul>
 
-Also see <a href="{{site.url}}/blog/six-tips-to-networking-like-a-pro/">Six Tips to Networking Like a Pro</a>.
+Also see <a href="/blog/six-tips-to-networking-like-a-pro/">Six Tips to Networking Like a Pro</a>.
 
 ### Don’t Underestimate the Power of a Conversation
 Every conversation could be the ticket to the perfect career, volunteer event, or potential network contact. You never know what one conversation can provide you with. Assume that this conversation is going to be life changing and you will never run out of things to say or questions to ask.

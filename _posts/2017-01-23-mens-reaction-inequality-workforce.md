@@ -24,7 +24,7 @@ tags: Workplace Inequality, Wage Gap, Corporate Feminism, Corporate Sexism
 comments: true
 ---
 
-In <a href="{{site.url}}/professional-development/inequality-in-workforce/">Work Like a Girl: Inequality in the Workforce</a> we asked three women to recount their experiences with workplace sexism. The stories did not go unnoticed. We received numerous responses from women who were relieved to see they were not alone. Women are faced with these issues subtly, and otherwise, frequently throughout their careers. Workplace sexism is terribly common for women, which begs the question: How familiar is the opposite sex with the issue?
+In <a href="/blog/work-like-a-girl-inequality-in-the-workforce/">Work Like a Girl: Inequality in the Workforce</a> we asked three women to recount their experiences with workplace sexism. The stories did not go unnoticed. We received numerous responses from women who were relieved to see they were not alone. Women are faced with these issues subtly, and otherwise, frequently throughout their careers. Workplace sexism is terribly common for women, which begs the question: How familiar is the opposite sex with the issue?
 
 The following are excerpts from those experiences:
 
@@ -43,7 +43,7 @@ The following are excerpts from those experiences:
   </div>
 </div>
 
-It’s unfair to assume that all men are unaware of workplace inequality. So, we asked five men to provide us with their reactions to the <a href="{{site.url}}/blog/work-like-a-girl-inequality-in-the-workforce/">stories</a>:
+It’s unfair to assume that all men are unaware of workplace inequality. So, we asked five men to provide us with their reactions to the <a href="/blog/work-like-a-girl-inequality-in-the-workforce/">stories</a>:
 
 <p class="indent">Matt L., 26</p>
 

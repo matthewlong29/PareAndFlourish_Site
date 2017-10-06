@@ -28,10 +28,10 @@ comments: true
 
 <div class="row">
   <div class="col-sm-6">
-    <img class="img-fluid" src="{{site.url}}/images/posts/power-of-empowerment/roundtable-event1.jpg" alt="Image from August Roundtable Event">
+    <img class="img-fluid" src="/images/posts/power-of-empowerment/roundtable-event1.jpg" alt="Image from August Roundtable Event">
   </div>
   <div class="col-sm-6">
-    <img class="img-fluid" src="{{site.url}}/images/posts/power-of-empowerment/roundtable-event2.jpg" alt="Image from August Roundtable Event">
+    <img class="img-fluid" src="/images/posts/power-of-empowerment/roundtable-event2.jpg" alt="Image from August Roundtable Event">
   </div>
 </div>
 
@@ -39,13 +39,12 @@ One by one, each woman gave us a version of their “perfect day.” They ranged
 
 We spent the rest of the discussion talking about what they loved and didn’t love about their lives or careers. Exploring the highs and lows of being a millennial woman in the modern workforce was eye opening. We were all able to see that some of what we were dealing with in our own lives, others were going through the same. We also realized that some of the women had similar interests that brought the group closer.
 
-
 <div class="row">
   <div class="col-sm-6">
-    <img class="img-fluid" src="{{site.url}}/images/posts/power-of-empowerment/roundtable-event3.jpg" alt="Image from August Roundtable Event">
+    <img class="img-fluid" src="/images/posts/power-of-empowerment/roundtable-event3.jpg" alt="Image from August Roundtable Event">
   </div>
   <div class="col-sm-6">
-    <img class="img-fluid" src="{{site.url}}/images/posts/power-of-empowerment/roundtable-event4.jpg" alt="Image from August Roundtable Event">
+    <img class="img-fluid" src="/images/posts/power-of-empowerment/roundtable-event4.jpg" alt="Image from August Roundtable Event">
   </div>
 </div>
 

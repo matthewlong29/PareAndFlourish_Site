@@ -24,16 +24,13 @@ tags: self-care, how to invest in yourself, investing in yourself, training, lea
 comments: true
 ---
 
-<blockquote>
-“Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.” <cite>Henry Ford</cite>
-</blockquote>
+<blockquote>“Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.” <cite>Henry Ford</cite></blockquote>
 
 The best time to invest in yourself was yesterday; the next best time is right now. By investing in yourself, we mean taking responsibility in your personal and professional development. This could mean investing time in reading about your field or about workplace improvement. This could also mean spending money on a course or a conference that would help you in your field. Maybe, investing in yourself means taking time to read a book you enjoy before work. 
  
  Investing in yourself and your career can seem like too much. You spend forty (plus) hours of your week at work, and you don’t want to spend any time outside of work thinking about your career, much less spending money on it. Or maybe, you feel that it’s your employer’s responsibility to provide you with the professional development tools you’re looking for. The beauty of investing in yourself is that you can do as little or as much as you want, and it all benefits <span class="boldText">you</span>...and your employers, but first and foremost, you.
 
-<blockquote>
-<span class="boldText">Pro Tip</span>: You’re never too old, educated, or busy to stop learning. Whether you’re improving on a current skill or learning a new one, it’s time to put yourself first.</blockquote>
+<blockquote><span class="boldText">Pro Tip</span>: You’re never too old, educated, or busy to stop learning. Whether you’re improving on a current skill or learning a new one, it’s time to put yourself first.</blockquote>
 
 Read on to discover three ways that you can invest in yourself:
 
@@ -58,7 +55,7 @@ A hobby is a good way to do something for yourself. You're investing in your men
 
 <blockquote><span class="boldText">Pro tip</span>: Take an hour of your morning for yourself. Use that hour to read, knit, whatever it is that helps you self-actualize to start your day.</blockquote>
 
-See also: <a href="{{site.url}}/blog/three-ways-to-implement-self-care-now/">3 Ways To Implement Self-Care. Now.</a>
+See also: <a href="/blog/three-ways-to-implement-self-care-now/">3 Ways To Implement Self-Care. Now.</a>
 
 <hr class="secondary">
 

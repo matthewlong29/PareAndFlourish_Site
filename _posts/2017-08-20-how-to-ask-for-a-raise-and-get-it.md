@@ -65,7 +65,7 @@ The act of confidence, is just that, an act. At least to start with. The phrase 
 
 Ask any interviewer what makes a candidate stand out and the answer will revolve around confidence. It is often less about the technical skills and more about the ability to sell yourself. You can have all the smarts and abilities, but if you can’t pitch your own personal brand, how will anyone know?
 
-You may also enjoy <a href="{{site.url}}/blog/pitching-your-professional-brand-a-guide-for-introverts/">Pitching Your Professional Brand: A Guide for Introverts</a>.
+You may also enjoy <a href="/blog/pitching-your-professional-brand-a-guide-for-introverts/">Pitching Your Professional Brand: A Guide for Introverts</a>.
 
 <hr class="secondary">
 

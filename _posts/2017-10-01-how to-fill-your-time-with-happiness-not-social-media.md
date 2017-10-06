@@ -40,7 +40,7 @@ What other things could you focus on to bring you happiness?
 
 Are you an avid reader? Do you enjoy gardening? Or, maybe you’re a gamer? If these hobbies bring you happiness, maybe it’s time to incorporate them into your daily life. Having a hobby can be the creative outlet you need to unwind from the week, and put a smile on your face. 
 
-Here at Pare and Flourish, we <a href="{{site.url}}/reading-list/">enjoy reading</a> and creative nonfiction writing; it’s what helps get us through the week. <span class="boldText">When we begin to feel like we haven’t spent enough time listening to our own needs, we delve into our hobbies.</span> Centering with what we love helps us catch up on much-needed relaxation time.
+Here at Pare and Flourish, we <a href="/reading-list/">enjoy reading</a> and creative nonfiction writing; it’s what helps get us through the week. <span class="boldText">When we begin to feel like we haven’t spent enough time listening to our own needs, we delve into our hobbies.</span> Centering with what we love helps us catch up on much-needed relaxation time.
 
 ### Your Side Project
 

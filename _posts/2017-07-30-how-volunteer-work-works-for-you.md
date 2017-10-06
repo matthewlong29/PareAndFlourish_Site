@@ -33,7 +33,7 @@ Here at Pare and Flourish, we are strong advocates for donating your time and sk
   <li>I don’t have time.</li>
 </ul>
 
-See also <a href="{{site.url}}/blog/three-ways-to-get-involved-without-killing-your-time/">Three Ways to Get Involved Without Killing Your Time</a>
+See also <a href="/blog/three-ways-to-get-involved-without-killing-your-time/">Three Ways to Get Involved Without Killing Your Time</a>
 
 You easily can, and should, conquer any of these obstacles rather quickly. Giving back is important, after all. Why? We’re happy you asked...
 

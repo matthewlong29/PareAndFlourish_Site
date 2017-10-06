@@ -31,7 +31,7 @@ Your job search doesn’t have to be a grueling experience. Submitting a cover l
 
 Each cover letter you write is a unique conversation between you and the recruiter. No one likes to be in a boring conversation; for the same reasons, no one wants to read a boring cover letter—much less hire the person to have future conversations. 
 
-Psst! We’ve written a [cover letter template](http://pareandflourish.com/join-pare-and-flourish/) if you need a place to start.
+Psst! We’ve written a <a href="/join-pare-and-flourish/">cover letter template</a> if you need a place to start.
 
 Here we have tips to writing the perfect cover letter that no recruiter can overlook: 
 
@@ -57,9 +57,9 @@ Choose keywords in the job ad to illustrate that you fit the role.
 
 If you were to see a job ad that lists requirements like these:
 
-<i>“Dedication to providing exceptional customer service. Exceptional team building capability. Excellent time management and organizational skills.”</i>
+<span class="italicizeText">“Dedication to providing exceptional customer service. Exceptional team building capability. Excellent time management and organizational skills.”</span>
 
-Your cover letter should emphasize the words <i>Customer Service, Team Building, and Organizational Skills</i>.
+Your cover letter should emphasize the words <span class="italicizeText">Customer Service, Team Building, and Organizational Skills</span>.
 
 ### Keep an Eye on Your “I”s
 
@@ -67,20 +67,20 @@ After you’ve written your letter, go back through it and circle or highlight y
 
 While a cover letter is essentially all about you, you should focus more on what you can do for them. It is perfectly okay to say, “I attended XYZ University,” but don't overuse it. For example, if you go back through your cover letter and see the sentence: 
 	
-<i>I have experience with…</i>
+<span class="italicizeText">I have experience with…</span>
 
 Try replacing it with:
 	
-<i>My experience in…has taught me…</i>
+<span class="italicizeText">My experience in…has taught me…</span>
 
 ### Stay on track
 
 Tangents can get you in trouble. Stay on topic and don’t lose focus of what you want to highlight. You have one page; use it to the fullest. This is a time to briefly mention:
 
-<i>My experience in the study abroad program will…</i>
+<span class="italicizeText">My experience in the study abroad program will…</span>
 
 This is not the time to discuss, at length:
 
-<i>My experience in the study abroad program changed my life…</i>
+<span class="italicizeText">My experience in the study abroad program changed my life…</span>
 
-Cover letters are the most underestimated and misunderstood job materials. We hope we’ve uncovered some of the mystery for you, but if you need some help getting the bare bones and formatting, we’ve created a [cover letter template]({{site.url}}/join-pare-and-flourish/) for you. Join our community to download your template and receive weekly tips on pitching your professional brand. 
+Cover letters are the most underestimated and misunderstood job materials. We hope we’ve uncovered some of the mystery for you, but if you need some help getting the bare bones and formatting, we’ve created a <a href="/join-pare-and-flourish/">cover letter template</a> for you. Join our community to download your template and receive weekly tips on pitching your professional brand. 

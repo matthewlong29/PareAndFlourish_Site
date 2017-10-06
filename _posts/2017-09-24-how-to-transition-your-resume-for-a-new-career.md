@@ -69,7 +69,7 @@ We constantly preach the functional resume. The reason for that is because you a
 
 It is your job to identify what skills and abilities the position needs and to present yourself in the best way possible. Unless you’ve been in the same industry for 10+ years, your reverse-chronological work history won’t show you at your best. 
 
-See also: <a href="{{site.url}}/blog/why-a-functional-resume-will-land-you-an-interview">Why a Functional Resume Will Land You the Interview</a>
+See also: <a href="/blog/why-a-functional-resume-will-land-you-an-interview">Why a Functional Resume Will Land You the Interview</a>
 
 ### Add relevant courses under education
 

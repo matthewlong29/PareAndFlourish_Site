@@ -30,7 +30,7 @@ The answer to this question can tell you all you need to know about where someon
 
 It’s frustrating to walk away from a conversation where the person says “I’ll be sure to call you,” and you aren’t sure if they actually will. Asking “are you interested or committed?” will redefine that moment.
 
-See also <a href="{{site.url}}/blog/pitching-your-professional-brand-a-guide-for-introverts/">Pitching Your Professional Brand</a>.
+See also <a href="/blog/pitching-your-professional-brand-a-guide-for-introverts/">Pitching Your Professional Brand</a>.
 
 ### Scenario
 
