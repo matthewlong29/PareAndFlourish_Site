@@ -2,6 +2,9 @@
 .sass-cache/
 _site
 
+# node 
+node_modules
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
