@@ -1,8 +1,0 @@
-.feature-image {
-  @include userSelect(none);
-  margin: $autoMargin;
-  img {
-    border: none;
-    border-radius: 0;
-  }
-}
