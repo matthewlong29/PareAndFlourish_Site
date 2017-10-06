@@ -1,0 +1,13 @@
+blockquote {
+  border-left: 0.3em solid $accent;
+	border-radius: $commonRadius;
+  background-color: transparentize($gray, .95);
+  position: relative;
+  cite {
+    font-size: 0.8em;
+    &:before {
+      content: "\2014";
+      padding-right: 5px;
+    }
+  }
+}

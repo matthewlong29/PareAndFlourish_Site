@@ -1,0 +1,6 @@
+.subscribeIncintive {
+  img {
+    @include userSelect(none);
+    margin-bottom: 1em;
+  }
+}

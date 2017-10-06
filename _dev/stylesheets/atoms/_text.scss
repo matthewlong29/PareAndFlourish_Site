@@ -1,0 +1,71 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @include transition(.2s, ease, all);
+  font-family: $primaryFont;
+  color: darken($gray, 25%);
+  padding: .25em 0;
+  margin: .25em 0;
+}
+
+p {
+  @include transition(.2s, ease, all);
+  font-family: $secondaryFont;
+  color: $black;
+  padding: .25em 0;
+  margin: .25em 0;
+}
+
+.startHereNames {
+  font-family: $primaryFont;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+p.indent {
+  margin-left: 2.5em;
+}
+
+p.indentMore {
+  margin-left: 3.5em;
+}
+
+a {
+  @include transition(.15s, ease-in-out, background-color);
+  text-decoration: none;
+  color: $gray;
+  border-bottom: 2px solid darken($accent, 5%);
+  &:hover {
+    text-decoration: none;
+    color: darken($gray, 25%);
+    background-color: lighten($accent, 5%);
+  }
+}
+
+li {
+  color: $gray;
+  font-family: $secondaryFont;
+}
+
+li.extra-indent {
+  margin-left: 2.5em;
+}
+
+ul.indent {
+  margin-left: 2.5em;
+}
+
+.boldText {
+  font-weight: bold;
+}
+
+.underlineText {
+  text-decoration: underline;
+}
+
+.italicizeText {
+  font-style: italic;
+}

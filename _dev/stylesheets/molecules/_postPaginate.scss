@@ -1,0 +1,21 @@
+.paginate {
+  a {
+    text-decoration: none;
+  }
+  .img {
+    border: $commonBorder;
+    margin: 1em 0 0 0;
+    padding: $zeroPadding;
+  }
+  button {
+    @include transition(.2s, ease, all);
+    width: 100%;
+    margin: 1em 0 0 0;
+  }
+  h3 {
+    font-family: $primaryFont;
+    color: darken($gray, 25%);
+    margin: 0 0 1em 0;
+    text-align: center;
+  }
+}

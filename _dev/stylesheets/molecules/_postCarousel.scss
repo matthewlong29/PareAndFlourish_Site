@@ -1,0 +1,16 @@
+#postsCarousel {
+  @include userSelect(none);
+  a {
+    &.carousel-control {
+      @include userSelect(none);
+      background-color: transparent;
+      border-bottom: none;
+    }
+  }
+}
+
+@media (max-width: 660px) {
+  #postsCarousel {
+    display: none;
+  }
+}

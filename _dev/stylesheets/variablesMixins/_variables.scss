@@ -1,0 +1,44 @@
+// Media Query Breakpoints (Same as Bootstrap)
+$small: 576px;
+$medium: 768px;
+$large: 992px;
+$xlarge: 1200px;
+
+// Website Colors
+$accent: #DACEE8;
+$white: #fdfdfd;
+$gray: #333;
+$black: #080808;
+
+// Transition Colors
+$accentLighten: lighten($accent, 5%);
+
+// Social Media Colors
+$colorTwitter: #00aced;
+$colorGithub: #171516;
+$colorPinterest: #bd081c;
+$colorInstagram: #c13584;
+$colorPaypal: #009cde;
+$colorFacebook: #3b5998;
+$colorRSS: #f26522;
+
+// Borders
+$commonBorder: 2px solid rgba($gray, .66);
+$commonRadius: 2px;
+
+// Box Shadows
+$commonShadow: 0 0 8px rgba($gray, .33);
+$commonShadowHover: 0 0 12px rgba($gray, 0.5);
+
+// Font for Headings
+$primaryFont: "Playfair Display SC", serif;
+
+// Font for Everything Else
+$secondaryFont: "Open Sans", sans-serif;
+
+// Margins
+$zeroMargin: 0;
+$autoMargin: 0 auto;
+
+// Paddings
+$zeroPadding: 0;

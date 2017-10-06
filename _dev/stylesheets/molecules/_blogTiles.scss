@@ -1,0 +1,143 @@
+#latest-blogs {
+  .blogTiles {
+    a {
+      border: none;
+    }
+    .outsideTile {
+      background: $accent;
+      height: 400px;
+      width: 100%;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      flex-flow: column;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+      text-decoration: none;
+      border-radius: $commonRadius;
+      &.second {
+        @include transition(0.15s, ease, box-shadow);
+        cursor: pointer;
+        box-shadow: $commonShadow;
+        &:hover {
+          box-shadow: $commonShadowHover;
+        }
+      }
+      span {
+        font-family: $primaryFont;
+        text-shadow: 1px 1px 2px $black;
+        color: $white;
+        font-weight: bold;
+        font-size: 2rem;
+        text-align: center;
+      }
+    }
+    .tile {
+      @include transition(0.4s, ease-in-out, color);
+      background: $white;
+      border-radius: $commonRadius;
+      overflow: hidden;
+      height: 400px;
+      margin-bottom: 20px;
+      display: block;
+      color: inherit;
+      text-decoration: none;
+      position: relative;
+      &:hover {
+        h3 {
+          color: $accent;
+        }
+        .tileOverlay {
+          @include transition(0.4s, ease-out, all);
+          @include transitionDelay(0.1s);
+          height: 100%;
+          width: 100%;
+          color: $gray;
+          background-color: $accent;
+          position: absolute;
+          top: 0;
+          opacity: 0.95;
+        }
+      }
+      .tileContent {
+        padding: 0 10px;
+        h3 {
+          font-weight: bold;
+          font-size: 20px;
+          text-transform: uppercase;
+        }
+      }
+      .tileImage {
+        overflow: hidden;
+        max-height: 100%;
+        img {
+          @include userSelect(none);
+          border: 1px solid rgba($gray, .66);
+          border-radius: 2px;
+        }
+      }
+    }
+  }
+  .tileOverlay {
+    @include transition(0.4s, ease-out, all);
+    @include transitionDelay(0s);
+    height: 100%;
+    width: 0%;
+    color: $gray;
+    background-color: $accent;
+    position: absolute;
+    top: 0;
+    opacity: 0.0;
+    text-align: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-flow: wrap;
+    align-items: center;
+    span {
+      @include userSelect(none);
+      white-space: nowrap;
+      font-family: $primaryFont;
+      text-align: center;
+      max-height: 100%;
+      border: 2px solid $white;
+      display: inline-block;
+      padding: 10px 30px;
+      border-radius: $commonRadius;
+      color: $white;
+      font-weight: bold;
+      font-size: 16px;
+    }
+  }
+  @media screen and (max-width: 767px) {
+    .blogTiles {
+      .tile {
+        background: $white;
+        border-radius: $commonRadius;
+        overflow: hidden;
+        height: 100%;
+        margin-bottom: 20px;
+        display: block;
+        color: inherit;
+        text-decoration: none;
+        position: relative;
+      }
+      .outsideTile {
+        background: $accent;
+        height: 100%;
+        width: 100%;
+        padding: 20px;
+        margin-bottom: 20px;
+        border-radius: $commonRadius;
+      }
+    }
+    .tileOverlay {
+      display: none;
+    }
+  }
+}

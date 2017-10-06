@@ -1,0 +1,17 @@
+.about-us {
+	@include transition(.2s, ease, all);
+  margin: $zeroMargin;
+  padding: $zeroPadding;
+  p {
+    margin: 0 0 1em 0;
+    padding: $zeroPadding;
+    color: $gray;
+  }
+  h3 {
+    margin: 1em 0 0 0;
+    padding: $zeroPadding;
+  }
+  img {
+    @include userSelect(none);
+  }
+}

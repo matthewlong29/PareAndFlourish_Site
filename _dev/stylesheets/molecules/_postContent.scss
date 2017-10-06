@@ -1,0 +1,88 @@
+.post-content {
+  font-size: 1.35em;
+  p {
+    line-height: 1.75em;
+  }
+  li {
+    line-height: 1.75em;
+  }
+  h1 {
+    &.title {
+      text-align: center;
+    }
+  }
+  h2 {
+    font-family: $primaryFont;
+    line-height: 1em;
+  }
+  h2.alt {
+    font-family: $primaryFont;
+    font-size: 1.25em;
+  }
+  h3 {
+    line-height: 1em;
+    margin: $zeroMargin;
+    &.author {
+      margin-top: -10px;
+      margin-bottom: 10px;
+      text-align: center;
+      color: $gray;
+      font-size: 1em;
+      line-height: 2em;
+      &:before {
+        content: "";
+        line-height: 1em;
+        display: block;
+        margin: 0 auto;
+        border-bottom: 2px solid $gray;
+        width: 15%;
+      }
+      &:after {
+        content: "";
+        line-height: 1em;
+        display: block;
+        margin: 0 auto;
+        border-top: 2px solid $gray;
+        width: 15%;
+      }
+    }
+    &.date {
+      text-align: center;
+      font-size: 1em;
+      margin-top: -10px;
+      margin-bottom: 10px;
+    }
+  }
+  hr.secondary {
+    margin: 1em 0;
+  }
+  img {
+    @include userSelect(none);
+    max-width: 100%;
+  }
+}
+
+.subscribeBottom {
+  margin-bottom: 1em;
+  font-size: 1.25em;
+  img {
+    margin-bottom: 1em;
+  }
+  p {
+    line-height: 1.75em;
+    font-family: $primaryFont;
+  }
+  ol {
+    padding-left: 1em;
+    li {
+      font-size: 1.22em;
+      font-family: $primaryFont;
+      margin: 0;
+      padding: 0;
+    }
+  }
+  button {
+    margin: .5em 0 0 0;
+    width: 100%;
+  }
+}
