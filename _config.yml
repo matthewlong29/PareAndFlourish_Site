@@ -27,17 +27,6 @@ paginate_path: "/blog/page:num/"
 
 markdown: kramdown
 
-assets:
-  sources:
-    - assets/javascripts
-    - assets/stylesheets
-  autoprefixer:
-    browsers: ["last 2 versions","> 5%","IE 9"]
-
-sass:
-  sass_dir: assets/stylesheets
-  style: compressed
-
 include:
   - _pages
 exclude:
@@ -48,6 +37,10 @@ exclude:
   - .sass-cache
   - .gitattributes
   - .gitignore
+  - package.json
+  - package-lock.json
+  - node_modules
+  - gulpfile.js
 
 plugins:
   - jekyll
