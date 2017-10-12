@@ -79,7 +79,7 @@ footer {
     }
   }
   #colophon {
-    background: lighten($accent, 7.5%);
+    background: $accentGradient;
     padding: 2rem;
     font-size: 1.15rem;
     .content {

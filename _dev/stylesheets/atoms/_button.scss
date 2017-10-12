@@ -1,5 +1,5 @@
 .commonButton {
-  background-color: $accent;
+  background: $accent;
   border: none;
   color: $white;
   cursor: pointer;
@@ -12,7 +12,6 @@
   padding: 12px 40px 10px;
   position: relative;
   text-transform: uppercase;
-  font-weight: 700;
   &:before,
   &:after {
     @include transition(0.25s, ease-in-out, all);

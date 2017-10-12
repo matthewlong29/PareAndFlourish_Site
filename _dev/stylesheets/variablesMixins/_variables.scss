@@ -9,6 +9,7 @@ $accent: #DACEE8;
 $white: #fdfdfd;
 $gray: #333;
 $black: #080808;
+$accentGradient: linear-gradient(45deg, $accent, darken($white, 10%));
 
 // Transition Colors
 $accentLighten: lighten($accent, 5%);
