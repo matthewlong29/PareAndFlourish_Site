@@ -6,6 +6,10 @@ _site
 # node 
 node_modules
 
+# gulp built assets
+assets/javascript/all.js
+assets/stylesheets/all.css
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
