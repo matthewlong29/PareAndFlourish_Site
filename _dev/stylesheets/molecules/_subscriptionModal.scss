@@ -1,0 +1,123 @@
+%modalBox {
+  z-index: 8675314;
+  max-width: 500px;
+  margin: 2rem;
+  box-shadow: 0 0 4px rgba($black, 0.75);
+  border-radius: 4px;
+  background: linear-gradient(45deg, $accent, $white);
+  font-size: 1.15rem;
+  display: none;
+  top: 2rem;
+  align-self: center;
+  position: relative;
+}
+
+%close {
+  content: 'close';
+  position: absolute;
+  font-size: 1.15rem;
+  top: 10px;
+  right: 10px;
+  padding: 0.25rem;
+  border: 1px solid rgba($white, 0.75);
+  border-radius: 2px;
+  background: $accent;
+  color: $white;
+  cursor: pointer;
+  font-family: $secondaryFont;
+}
+
+%divider {
+  border-bottom: 1px solid lighten($gray, 40%);
+}
+
+.darkness {
+  display: none;
+  z-index: 8675313;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: rgba($black, 0.25);
+}
+
+#signUpModal {
+  @extend %modalBox;
+  .signUpFlexContainer {
+    display: flex;
+    .signUpModalImage {
+      @media screen and (min-width: 500px) {
+        background: url('/images/other/modal-image.jpg');
+        background-position: right;
+        background-size: cover;
+        border-radius: 4px 0 0 4px;
+        width: 250px;
+      }
+    }
+    .signUpClose {
+      &:after {
+        @extend %close;
+      }
+    }
+    .signUpModalContent {
+        padding: 2rem;
+      h1 {
+        text-align: center;
+        font-family: $primaryFont;
+      }
+      .divider {
+        @extend %divider;
+      }
+      p {
+        font-family: $secondaryFont;
+        text-align: left;
+      }
+      form {
+        &#mc-embedded-subscribe-form {
+          display: flex;
+          flex-direction: column;
+          margin-top: 15%;
+          #mce-FNAME,
+          #mce-LNAME,
+          #mce-EMAIL {
+            font-family: $secondaryFont;
+            padding: .5rem;
+            margin: .25rem;
+            border-radius: 2px;
+            border: 0;
+            box-shadow: 0 0 2px rgba($black, 0.75);
+            width: 100%;
+          }
+          #mc-embedded-subscribe {
+            background: $accent;
+            border: 1px solid rgba($white, 0.75);
+            cursor: pointer;
+            width: 100%;
+            padding: .5rem;
+            margin: .25rem;
+          }
+        }
+      }
+    }
+  }
+}
+
+#thankYouModal {
+  @extend %modalBox;
+  padding: 2rem;
+  h1 {
+    text-align: center;
+  }
+  .divider {
+    @extend %divider;
+  }
+  p {
+    text-align: left;
+  }
+  .thankYouClose {
+    &:after {
+      @extend %close;
+    }
+  }
+}
