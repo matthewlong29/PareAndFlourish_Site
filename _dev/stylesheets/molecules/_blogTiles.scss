@@ -34,7 +34,7 @@
     }
     .tile {
       @include transition(0.4s, ease-in-out, color);
-      background: $white;
+      background: transparent;
       border-radius: $commonRadius;
       overflow: hidden;
       height: 400px;
@@ -103,7 +103,7 @@
       font-family: $primaryFont;
       text-align: center;
       max-height: 100%;
-      border: 2px solid $black;
+      border: 2px solid $gray;
       display: inline-block;
       padding: 10px 30px;
       border-radius: $commonRadius;
@@ -114,7 +114,7 @@
   @media screen and (max-width: 767px) {
     .blogTiles {
       .tile {
-        background: $white;
+        background: transparent;
         border-radius: $commonRadius;
         overflow: hidden;
         height: 100%;

@@ -1,7 +1,7 @@
 .side-panel {
 	margin: 1em 0 1em 0;
 	padding: $zeroPadding;
-	background-color: $white;
+	background: transparent;
 	h3 {
 		@include transition(.2s, ease, all);
 		color: $white;

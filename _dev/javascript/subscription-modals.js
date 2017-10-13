@@ -13,10 +13,10 @@ $(document).ready(function() {
   // dark overlay
   const $darkOverlay = $('.darkness');
   
-  // function for closing modal and return background color to transparent
+  // function for closing modal and return background back to original
   const closeModal = modal => {
     $("body").css({
-      background: "transparent",
+      background: "url('/images/other/background-pattern.png')",
       overflow: "auto"
     });
     $("html").css('overflow','auto');
