@@ -5,9 +5,9 @@ title: "How Changing Your Perspective Changes the Game"
 
 permalink: /blog/how-changing-your-perspective-changes-the-game/
 
-published: Sunday, 10 October 2017 10:00:00 EST
+published: Sunday, 15 October 2017 10:00:00 EST
 
-modified: October 10, 2017
+modified: October 15, 2017
 
 author: "Skylar Wooden and Katie Butler"
 
