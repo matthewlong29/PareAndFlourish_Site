@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: three-day-weekend-benefits.jpg
+  feature: three-day-weekend-benefits.jpg
   alt: "The Unexpected Benefits of a Three-Day Weekend"
 
 tags: Three Day Weekend, Labor Day Weekend, Memorial Day Weekend

@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: fill-time-with-happiness.jpg
+  feature: fill-time-with-happiness.jpg
   alt: "How to Fill Your Time with Happiness (Not Social Media)"
 
 tags: how to be happy, how to spend time, why you need hobbies
