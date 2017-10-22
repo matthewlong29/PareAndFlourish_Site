@@ -1,12 +1,10 @@
-<!-- Feature image section. The feature images are the images that appear at the top of ever page. Except the front page. The front page image is referred to as the banner image. In the future the feature image should be different for the start here, various blog category, work with us, resources, and join us pages. -->
-
 <section id="feature-image">
   <div class="container-fluid">
 
     {% if page.url == "/start-here/" %}
 
       <div class="feature-image">
-        <img src="/images/header/startHere.jpg" class="img-responsive" data-alt="header image for about page" pin-nopin="true">
+        <img src="/images/header/startHere.jpg" class="img-responsive" data-alt="header image for about page">
       </div>
 
     {% elsif page.url == "/lets-collaborate/" %}
@@ -48,7 +46,15 @@
     {% elsif page.url == "/404/" %}
 
       <div class="feature-image">
-        <img src="/images/header/404.jpg" class="img-responsive" data-pin-alt="header image for the 404 page" nopin="true">
+        <img src="/images/header/404.jpg" class="img-responsive" data-pin-alt="header image for the 404 page">
+      </div>
+
+    {% elsif page.image.feature %}
+    
+      <div class="feature-image">
+        <div class="post-image" style="background-image:url('/images/feature/{{page.image.feature}}');">
+          <div class="post-image-content">{{page.title}}</div>
+        </div>
       </div>
 
     {% else %}
