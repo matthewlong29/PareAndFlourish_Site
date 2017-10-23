@@ -17,7 +17,7 @@ categories: blog
 
 image:
   teaser: work-remotely.jpg
-  vteaser: work-remotely-v.jpg
+  feature: work-remotely.jpg
   alt: "5 Things to Consider Before Asking to Work Remotely"
 
 tags: Work from Home, How to Ask to Work From Home, How to Work from Home, Work Remotely

@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: workplace-holidays.jpg
+  feature: workplace-holidays.jpg
   alt: "Your Questions About Workplace Holidays, Answered"
 
 tags: happy holidays, professionalism, new job, tips for work, professional, holiday etiquette, workplace, coworkers, team building

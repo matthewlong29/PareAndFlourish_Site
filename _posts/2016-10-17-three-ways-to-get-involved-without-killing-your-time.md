@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: three-ways-involved.jpg
+  feature: three-ways-involved.jpg
   alt: "Three Ways to Get Involved Without Killing Your Time"
 
 tags: involved, time

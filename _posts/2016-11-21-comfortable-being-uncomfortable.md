@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: comfortable-uncomfortable.jpg
+  feature: comfortable-uncomfortable.jpg
   alt: "Being Comfortable with Being Uncomfortable"
 
 tags: intuition, mindfulness

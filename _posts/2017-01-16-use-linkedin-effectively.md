@@ -17,7 +17,7 @@ categories: blog
 
 image:
   teaser: use-linkedin.jpg
-  vteaser: use-linkedin-v.jpg
+  feature: use-linkedin.jpg
   alt: "5 Steps to Use LinkedIn Effectively"
 
 tags: LinkedIn Tips, LinkedIn Summary Examples, LinkedIn Photo Tips, How to Use LinkedIn

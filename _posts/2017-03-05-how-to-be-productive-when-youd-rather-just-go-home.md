@@ -17,7 +17,7 @@ categories: blog
 
 image:
   teaser: how-to-be-productive.jpg
-  vteaser: how-to-be-productive-v.jpg
+  feature: how-to-be-productive.jpg
   alt: "How to be Productive (When You’d Rather Just Go Home)"
 
 tags: Productivity Tips, How to be Productive, How to be Motivated

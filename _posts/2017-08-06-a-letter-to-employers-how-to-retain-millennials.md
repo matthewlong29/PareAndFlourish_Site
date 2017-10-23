@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: howToRetainMillennials.jpg
+  feature: howToRetainMillennials.jpg
   alt: "Letter to Employers: How to Retain Millennials"
 
 tags: How to retain millennials, millennials in the workplace, what managers should know about millennials, working with millennials

@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: networkingNeverStop.jpg
+  feature: networkingNeverStop.jpg
   alt: "Networking: Why You Should Never Stop"
 
 tags: networking, career, inspiration, diverse perspective, connections

@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: effectively-set-goals.jpg
+  feature: effectively-set-goals.jpg
   alt: "How to Effectively Set Goals"
 
 tags: how to set goals, goal setting, setting goals

@@ -18,6 +18,7 @@ categories: blog
 image:
   teaser: work-life-balance.jpg
   vteaser: work-life-balance-v.jpg
+  feature: work-life-balance.jpg
   alt: "Ten Steps to Mastering Work-Life Balance"
 
 tags: Work life balance, self care methods, increase productivity, lower stress

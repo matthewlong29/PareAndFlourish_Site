@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: ask-for-raise-and-get-it.jpg
+  feature: ask-for-raise-and-get-it.jpg
   alt: "How to Ask for a Raise, and Get It"
 
 tags: How to ask for a raise, asking for a raise, how to get a raise, what to say to get a raise

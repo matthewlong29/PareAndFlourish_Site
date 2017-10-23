@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: capsule-wardrobe.jpg
+  feature: capsule-wardrobe.jpg
   alt: "Capsule Wardrobe for the Young Professional: A Beginner’s Guide"
 
 tags: capsule wardrobe, wardrobe, business casual

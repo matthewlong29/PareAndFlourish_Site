@@ -17,7 +17,7 @@ categories: blog
 
 image:
   teaser: email-ruins-conversations.jpg
-  vteaser: email-ruins-conversations-v.jpg
+  feature: email-ruins-conversations.jpg
   alt: "Why Email Ruins our Conversations"
 
 tags: Why Email Ruins Conversation, Business Email, Networking Tips, Communication Advice

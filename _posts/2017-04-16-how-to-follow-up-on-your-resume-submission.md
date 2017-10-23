@@ -17,7 +17,7 @@ categories: blog
 
 image:
   teaser: resume-follow-up.jpg
-  vteaser: resume-follow-up-v.jpg
+  feature: resume-follow-up.jpg
   alt: "How to Follow up on Your Resume Submission"
 
 tags: resume follow up, how to follow up on a resume, follow up email template, when to follow up

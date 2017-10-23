@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: evolving-millennial.jpg
+  feature: evolving-millennial.jpg
   alt: "The Evolving Career of the Millennial"
 
 tags: career, millennial, stepping stone, job, job search, opportunity

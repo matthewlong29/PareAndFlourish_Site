@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: lean-in-book-review.jpg
+  feature: lean-in-book-review.jpg
   alt: "Review of Lean In"
 
 tags: equality, wage gap, Lean In, Sheryl Sandberg, afraid, networking

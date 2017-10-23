@@ -17,7 +17,7 @@ categories: blog
 
 image:
   teaser: networking-tips.jpg
-  vteaser: networking-tips-v.jpg
+  feature: networking-tips.jpg
   alt: "Six Tips to Networking Like a Pro"
 
 tags: career, millennial, stepping stone, job, job search, opportunity

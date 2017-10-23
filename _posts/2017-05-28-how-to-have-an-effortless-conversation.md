@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: effortlessConversation.jpg
+  feature: effortlessConversation.jpg
   alt: "How to Have an Effortless Conversation"
 
 tags: networking, networking conversation, how to network, listening skills

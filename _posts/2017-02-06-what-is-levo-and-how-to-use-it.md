@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: levo.jpg
+  feature: levo.jpg
   alt: "Levo: What Is It and What Can It Do for You?"
 
 tags: Levo, How to Use Levo, What is Levo, Networking Site

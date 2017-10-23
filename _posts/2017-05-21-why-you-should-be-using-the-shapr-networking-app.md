@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: shapr.jpg
+  feature: shapr.jpg
   alt: "Why You Should be Using the Shapr Networking App"
 
 tags: shapr, shapr app, networking app, mobile networking

@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: howToCreateProfessionalBoundaries.jpg
+  feature: howToCreateProfessionalBoundaries.jpg
   alt: "How to Create Professional Boundaries"
 
 tags: creating boundaries, professional boundaries, how to create boundaries

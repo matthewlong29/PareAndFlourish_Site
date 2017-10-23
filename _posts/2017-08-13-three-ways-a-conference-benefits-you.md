@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: three-ways-a-conference-benefits-you.jpg
+  feature: three-ways-a-conference-benefits-you.jpg
   alt: "Three Ways a Conference Benefits You"
 
 tags: Networking, Conferences, Advantages of a Conference, Why Attend a Conference

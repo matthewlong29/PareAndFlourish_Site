@@ -17,7 +17,7 @@ categories: blog
 
 image:
   teaser: functional-resume.jpg
-  vteaser: functional-resume-v.jpg
+  feature: functional-resume.jpg
   alt: "Why a “Functional Resume” Will Land you an Interview"
 
 tags: Functional Resume, Functional Resume Template, How to Write a Functional Resume

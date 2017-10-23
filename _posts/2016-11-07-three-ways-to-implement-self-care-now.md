@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: self-care.jpg
+  feature: self-care.jpg
   alt: "Three Ways to Implement Self-Care. Now."
 
 tags: self-care, well-being, wellbeing, selfcare

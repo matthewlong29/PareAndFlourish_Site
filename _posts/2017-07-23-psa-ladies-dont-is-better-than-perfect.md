@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: doneNotPerfect.jpg
+  feature: doneNotPerfect.jpg
   alt: "PSA: Ladies, Done is Better than Perfect"
 
 tags: the confidence code, katty kay, perfection in the workplace, why done is better than perfect

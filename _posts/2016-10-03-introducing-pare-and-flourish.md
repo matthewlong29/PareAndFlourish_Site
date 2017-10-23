@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: introducing.jpg
+  feature: introducing.jpg
   alt: "Introducing Pare and Flourish"
 
 tags: pare, flourish

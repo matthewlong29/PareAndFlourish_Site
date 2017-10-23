@@ -17,7 +17,7 @@ categories: blog
 
 image:
   teaser: professional-circle.jpg
-  vteaser: professional-circle-v.jpg
+  feature: professional-circle.jpg
   alt: "Who to Include in Your Professional Circle"
 
 tags: Networking Tips, Referral Group, What is a referral group, Professional Development

@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: howToPrepareForAnEmployeeReview.jpg
+  feature: howToPrepareForAnEmployeeReview.jpg
   alt: "How to Prepare for an Employee Review"
 
 tags: employee review, what to ask in a review, questions to expect in a review, employee review advice, employee review tips

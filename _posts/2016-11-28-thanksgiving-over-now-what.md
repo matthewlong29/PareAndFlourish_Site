@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: thanksgiving-over.jpg
+  feature: thanksgiving-over.jpg
   alt: "Thanksgiving is Over. Now What?"
 
 tags: giving thanks, mindfulness, holidays, being thankful, thanksgiving

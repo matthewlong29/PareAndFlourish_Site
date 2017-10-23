@@ -17,7 +17,7 @@ categories: blog
 
 image:
   teaser: branding-for-introverts.jpg
-  vteaser: branding-for-introverts-v.jpg
+  feature: branding-for-introverts.jpg
   alt: "Stop Consuming: Learn by Doing!"
 
 tags: Introvert, Networking, Professional Branding

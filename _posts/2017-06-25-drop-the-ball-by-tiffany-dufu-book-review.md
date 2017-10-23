@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: dropTheBallBookReview.jpg
+  feature: dropTheBallBookReview.jpg
   alt: "Book Review: Drop the Ball by Tiffany Dufu"
 
 tags: drop the ball, tiffany dufu, review of drop the ball

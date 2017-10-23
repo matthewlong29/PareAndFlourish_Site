@@ -17,6 +17,7 @@ categories: blog
 
 image:
   teaser: writingProfessionalBio.jpg
+  feature: writingProfessionalBio.jpg
   alt: "Writing your Professional Bio: A How To"
 
 tags: how to write a bio, writing a professional bio, professional bio, what to put in a professional bio
