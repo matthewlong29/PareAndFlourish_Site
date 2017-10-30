@@ -18,7 +18,11 @@ layout: default
 <div class="container">
 	
 	<div class="row">
+    {% if page.path contains '_posts' %}
 		<div class="col-lg-8 col-md-8 col-sm-12">
+    {% else %}
+    <div class="col-lg-offset-1 col-lg-10 col-md-12 col-sm-12">
+    {% endif %}
 			<div class="post-content">
         
         {% if page.path contains '_posts' %}
@@ -35,7 +39,9 @@ layout: default
           <h3 class="date">{{page.date | date: "%B %d, %Y"}}</h3>
         {% endif %}
         
+        {% if page.path contains '_posts' %}
         <div class="shareaholic-canvas" data-app="share_buttons" data-app-id="27414158"></div>
+        {% endif %}
               
         <!-- Post content (written in markdown and html.. see "_posts"). -->
         {{content}}
@@ -45,9 +51,11 @@ layout: default
 				<!-- Advertisement at bottom of posts -->
       {% if page.path contains '_posts' %}
       <div class="row">
-        <a href="/events">
-          <img class="img-fluid img-responsive" src="/images/other/flourish-roundtable-advertisement.jpg" alt="Image advertisement for flourish roundtable events">
-        </a>
+        <div class="col-xs-12">
+          <a href="/events">
+            <img class="img-fluid img-responsive" src="/images/other/flourish-roundtable-advertisement.jpg" alt="Image advertisement for flourish roundtable events">
+          </a>
+        </div>
       </div>
       {% endif %}
 
@@ -62,12 +70,12 @@ layout: default
 
 		</div>
 
+    {% if page.path contains '_posts' %}
 		<div class="col-lg-4 col-md-4 col-sm-12">
-			
 			<!-- Side panel with subscribe form. -->
 			{% include sidePanel.html %}
-      
-		</div>
+    </div>
+    {% endif %}
 
 	</div>
 
