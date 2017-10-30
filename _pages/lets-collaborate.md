@@ -8,7 +8,7 @@ permalink: /lets-collaborate/
 
 <p>Some of the most valuable lessons are learned through teamwork. We’ve had the opportunity to work with great people to bring you content from different perspectives. </p>
 
-Are you interested in collaborating with Pare and Flourish? Let us <a href="{{site.email}}">know</a>!
+Are you interested in collaborating with Pare and Flourish? Let us <a href="mailto:{{site.email}}">know</a>!
 
 <hr class="secondary">
 
