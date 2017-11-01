@@ -2,14 +2,9 @@
 layout: default 
 ---
 
-<!-- This is the layout for all content pages. -->
-
 <header id="subPageHeader">
 
-  <!-- Feature image -->
   {% include featureImage.html %}
-
-  <!-- Navigation bar -->
   {% include newNavbar.html %}
   {% include subscriptionModal.html %}
 
@@ -42,13 +37,11 @@ layout: default
         {% if page.path contains '_posts' %}
         <div class="shareaholic-canvas" data-app="share_buttons" data-app-id="27414158"></div>
         {% endif %}
-              
-        <!-- Post content (written in markdown and html.. see "_posts"). -->
+        
         {{content}}
         
       </div>
       
-				<!-- Advertisement at bottom of posts -->
       {% if page.path contains '_posts' %}
       <div class="row">
         <div class="col-xs-12">
@@ -59,10 +52,9 @@ layout: default
       </div>
       {% endif %}
 
-			<!-- Pagination -->
 			{% include nextOrPreviousPost.html %} 
 			
-			<!-- Comments. Powered by facebook. -->
+			<!-- facebook comments -->
 			{% if page.comments %}
         <div id="fb-root"></div>
         <div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-numposts="3" data-width="100%"></div>
@@ -72,7 +64,6 @@ layout: default
 
     {% if page.path contains '_posts' %}
 		<div class="col-lg-4 col-md-4 col-sm-12">
-			<!-- Side panel with subscribe form. -->
 			{% include sidePanel.html %}
     </div>
     {% endif %}

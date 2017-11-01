@@ -1,25 +1,15 @@
 <!DOCTYPE html>
 
-<!-- This default layout basically acts as the "container" around everything for the site. By that container i'm not talking about bootstrap, but instead the opening and closing html, head, body tags. This layout will be used as the layout for other layouts. -->
-
 <html lang="en">
 
-{% include head.html %}
+  {% include head.html %}
 
-<body id="page-top" data-target=".navbar-fixed-top">
-
-  <div class="container-fluid">
-
-    <!-- Website content. -->
-    {{content}}
-    
-    <!-- Footer section. Containing copyright, links to social media, email, site/logo designers, affiliate disclosure. -->
-    {% include footer.html %}
-    
-  </div>
-
-  {% include scripts.html %}
-
-</body>
+  <body id="page-top" data-target=".navbar-fixed-top">
+    <div class="container-fluid"> 
+      {{content}}
+      {% include footer.html %}
+    </div>
+    {% include scripts.html %}
+  </body>
 
 </html>
