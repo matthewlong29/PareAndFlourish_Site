@@ -55,9 +55,9 @@ layout: default
 			{% include nextOrPreviousPost.html %} 
 			
 			<!-- facebook comments -->
-			{% if page.comments %}
+			{% if page.path contains '_posts' %}
         <div id="fb-root"></div>
-        <div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-numposts="3" data-width="100%"></div>
+        <div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-numposts="5" data-width="100%"></div>
 			{% endif %}
 
 		</div>
