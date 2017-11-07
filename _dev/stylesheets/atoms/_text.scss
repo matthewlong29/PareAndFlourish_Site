@@ -11,32 +11,29 @@ h6 {
   margin: .25em 0;
 }
 
-p {
-  @include transition(.2s, ease, all);
-  font-family: $secondaryFont;
-  color: $black;
-  padding: .25em 0;
-  margin: .25em 0;
-}
-
 .startHereNames {
   font-family: $primaryFont;
   font-weight: bold;
   font-size: 1.2em;
 }
 
-p.indent {
-  margin-left: 2.5em;
-}
-
-p.indentMore {
-  margin-left: 3.5em;
-}
-
-p.imageCaption {
-  font-size: 1.5rem;
-  color: lighten($gray, 10%);
-  line-height: 1.25;
+p {
+  @include transition(.2s, ease, all);
+  font-family: $secondaryFont;
+  color: $black;
+  padding: .25em 0;
+  margin: .25em 0;
+  &.indent {
+    margin-left: 2.5em;
+  }
+  &.indentMore {
+    margin-left: 3.5em;
+  }
+  &.imageCaption {
+    font-size: 1.5rem;
+    color: lighten($gray, 10%);
+    line-height: 1.25;
+  }
 }
 
 a {
@@ -54,24 +51,25 @@ a {
 li {
   color: $gray;
   font-family: $secondaryFont;
+  &.extra-indent {
+    margin-left: 2.5em;
+  }
 }
 
-li.extra-indent {
-  margin-left: 2.5em;
+ul {
+  &.indent {
+    margin-left: 2.5em;
+  }
 }
 
-ul.indent {
-  margin-left: 2.5em;
-}
-
-.boldText {
-  font-weight: bold;
-}
-
-.underlineText {
-  text-decoration: underline;
-}
-
-.italicizeText {
-  font-style: italic;
+span {
+  &.boldText {
+    font-weight: bold;
+  }
+  &.underlineText {
+    text-decoration: underline;
+  }
+  &.italicizeText {
+    font-style: italic;
+  }
 }
