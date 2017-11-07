@@ -5,9 +5,7 @@ title: "What You Should Actually Do on Your Lunch Break"
 
 permalink: /blog/what-you-should-actually-do-on-your-lunch-break/
 
-published: Mon, 27 Feb 2017 10:00:00 EST
-
-modified: February 27, 2017
+date: 2017-02-27
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -53,4 +51,4 @@ Chances are, you’ve thought at least once that you’d like to have more time 
 
 <hr class="secondary">
 
-Take advantage of your time. Your body, mind, and spirit will thank you for taking the time to be mindful of your needs. What’s your favorite lunch break activity? Let us know in the comments. Look for our next article on how to be productive when you lose motivation.  
+Take advantage of your time. Your body, mind, and spirit will thank you for taking the time to be mindful of your needs. What’s your favorite lunch break activity?

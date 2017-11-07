@@ -5,9 +5,7 @@ title: "3 Ways to Invest in Yourself"
 
 permalink: /blog/three-ways-to-invest-in-yourself/
 
-published: Sun, 02 July 2017 10:00:00 EST
-
-modified: July 02, 2017
+date: 2017-07-02
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -62,4 +60,4 @@ See also: <a href="/blog/three-ways-to-implement-self-care-now/">3 Ways To Imple
 
 Investing in yourself is something you’ll never regret doing. You’ll walk away with a new confidence that can go a long way in improving your career.  
  
-How do you invest in yourself? Have you attended a conference or class that you would like to share? Let us know in the comments or tweet us @pareandflourish! 
+How do you invest in yourself? Have you attended a conference or class that you would like to share?

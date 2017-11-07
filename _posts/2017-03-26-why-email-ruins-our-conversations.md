@@ -5,9 +5,7 @@ title: "Why Email Ruins our Conversations"
 
 permalink: /blog/why-email-ruins-our-conversations/
 
-published: Sun, 26 Mar 2017 10:00:00 EST
-
-modified: March 26, 2017
+date: 2017-03-26
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -61,4 +59,4 @@ To clarify, discussing work should not be negative. Complaining about work occas
 
 <hr class="secondary">
 
-You don’t want to be stuck in a conversation about your career and realize you don’t know what to say. We’ve been there, it’s embarrassing. You can’t always craft a perfect conversation, but you can always prepare. What do you do to keep your communication skills up to par? Let us know in the comments or tweet us @pareandflourish!
+You don’t want to be stuck in a conversation about your career and realize you don’t know what to say. We’ve been there, it’s embarrassing. You can’t always craft a perfect conversation, but you can always prepare. What do you do to keep your communication skills up to par?

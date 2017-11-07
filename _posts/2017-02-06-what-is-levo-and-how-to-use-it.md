@@ -5,9 +5,7 @@ title: "Levo: What is it and What Can it do for You?"
 
 permalink: /blog/levo-what-is-it-and-what-can-it-do-for-you/
 
-published: Mon, 06 Feb 2017 10:00:00 EST
-
-modified: February 06, 2017
+date: 2017-02-06
 
 author: "Skylar Wooden and Katie Butler"
 

@@ -5,9 +5,7 @@ title: "Three Ways a Conference Benefits You"
 
 permalink: /blog/three-ways-a-conference-benefits-you/
 
-published: Sun, 13 August 2017 10:00:00 EST
-
-modified: August 13, 2017
+date: 2017-08-13
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -63,4 +61,4 @@ You may also like:
   <li><a href="/blog/six-tips-to-networking-like-a-pro/">Six Tips to Networking Like a Pro</a></li>
 </ul>
 
-Do you have a conference coming up? Have tips you’d like to share about searching for or attending a conference? Let us know in the comments or tweet it @pareandflourish.
+Do you have a conference coming up? Have tips you’d like to share about searching for or attending a conference?

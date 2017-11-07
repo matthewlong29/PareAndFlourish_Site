@@ -5,9 +5,7 @@ title: "How to Have an Effortless Conversation"
 
 permalink: /blog/how-to-have-an-effortless-conversation/
 
-published: Sun, 28 May 2017 10:00:00 EST
-
-modified: May 28, 2017
+date: 2017-05-28
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -59,4 +57,4 @@ Also see <a href="/blog/six-tips-to-networking-like-a-pro/">Six Tips to Networki
 ### Don’t Underestimate the Power of a Conversation
 Every conversation could be the ticket to the perfect career, volunteer event, or potential network contact. You never know what one conversation can provide you with. Assume that this conversation is going to be life changing and you will never run out of things to say or questions to ask.
  
-Do you have tips on networking conversation? We’d love to hear them. Let us know in the comments or tweet them to @pareandflourish.
+Do you have tips on networking conversation?

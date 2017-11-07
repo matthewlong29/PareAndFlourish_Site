@@ -5,9 +5,7 @@ title: "The Evolving Career of the Millennial"
 
 permalink: /blog/the-evolving-career-of-the-millennial/
 
-published: Mon, 12 Dec 2016 10:00:00 EST
-
-modified: December 12, 2016
+date: 2016-12-12
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -63,4 +61,4 @@ It is more than acceptable to think about what your next step will be. You’ll 
 
 <hr class="secondary">
 
-It can be tough when you realize that you may not stay in your current job. You may feel like you’re hiding your search for opportunity from your friends, leadership, and coworkers. You’re not alone. It’s uncomfortable for everyone. What’s in your 5-year plan? Let us know in the comments! Lookout for our review of Sheryl Sandberg’s book Lean In: Women, Work, and the Will to Lead.
+It can be tough when you realize that you may not stay in your current job. You may feel like you’re hiding your search for opportunity from your friends, leadership, and coworkers. You’re not alone. It’s uncomfortable for everyone. What’s in your 5-year plan? Lookout for our review of Sheryl Sandberg’s book Lean In: Women, Work, and the Will to Lead.

@@ -5,9 +5,7 @@ title: "Do it, Delegate it, or Discard It"
 
 permalink: /blog/do-it-delegate-it-or-discard-it/
 
-published: Sunday, 05 November 2017 10:00:00 EST
-
-modified: November 05, 2017
+date: 2017-11-05
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -67,5 +65,5 @@ Lastly, if you find a to-do list item never being marked off, it is time to cons
 
 <hr class="secondary">
 
-What to-do items have you marked off your list? Let us know in the comments!
+What to-do items have you marked off your list?
 

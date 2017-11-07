@@ -5,9 +5,7 @@ title: "A Guide to Gift Giving with Purpose"
 
 permalink: /blog/a-guide-to-gift-giving-with-purpose/
 
-published: Mon, 05 Dec 2016 10:00:00 EST
-
-modified: December 05, 2016
+date: 2016-12-05
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -68,4 +66,4 @@ A book is the gift of knowledge, entertainment, and so much more. We love fictio
 
 <hr class="secondary">
 
-We hope we helped you set your gift giving anxiety aside! Revel in the Christmas spirit now that you’ve made progress on your gift list. Look for our next post about approaching your first job as a stepping stone. Did we miss any of your favorite gifts to give? Let us know in the comments!
+We hope we helped you set your gift giving anxiety aside! Revel in the Christmas spirit now that you’ve made progress on your gift list. Look for our next post about approaching your first job as a stepping stone. Did we miss any of your favorite gifts to give?

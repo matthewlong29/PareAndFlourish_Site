@@ -5,9 +5,7 @@ title: "The Power of Empowerment: Inaugural Roundtable Edition"
 
 permalink: /blog/the-power-of-empowerment-inaugural-roundtable-edition/
 
-published: Wednesday, 06 September 2017 10:00:00 EST
-
-modified: September 06, 2017
+date: 2017-09-06
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -53,4 +51,4 @@ This enlightening discussion about hope, ambition, strength, and weakness, helpe
 
 If you’ve ever wanted to be a part of something bigger than yourself, something that makes you feel connected to someone based on more than your common interests, but on your common beliefs and feelings, this is the place for you. A Flourish Roundtable events creates that connection. And we are so honored to facilitate that connection. We can’t wait to see you there. 
 
-We will be hosting our next roundtable on September 10th at 1pm at Mariah’s Restaurant in Bowling Green, KY. Purchase your seat <a href="https://10to8.com/book/ebokwa-free/282475/" target="_blank">here</a>.
+Purchase your seat <a href="https://10to8.com/book/ebokwa-free/282475/" target="_blank">here</a>.

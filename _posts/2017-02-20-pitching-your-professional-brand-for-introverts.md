@@ -5,9 +5,7 @@ title: "Pitching Your Professional Brand: A Guide for Introverts"
 
 permalink: /blog/pitching-your-professional-brand-a-guide-for-introverts/
 
-published: Mon, 20 Feb 2017 10:00:00 EST
-
-modified: February 20, 2017
+date: 2017-02-20
 
 author: "Skylar Wooden and Katie Butler"
 

@@ -5,9 +5,7 @@ title: "Why You Should Write Your Own Blog"
 
 permalink: /blog/why-you-should-write-your-own-blog/
 
-published: Sun, 18 June 2017 10:00:00 EST
-
-modified: June 18, 2017
+date: 2017-06-18
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -68,4 +66,4 @@ No matter how much you love your work, if you do, having an outlet to do somethi
 
 <hr class="secondary">
 
-You can use a blog to reach any goal. It’s a professional development tool, an accountability buddy, a practice-what-you-preach motivation, or anything you want it to be. Do you write a blog or do you think you’d like to? Tell us in the comments or tweet us at @pareandflourish! 
+You can use a blog to reach any goal. It’s a professional development tool, an accountability buddy, a practice-what-you-preach motivation, or anything you want it to be. Do you write a blog or do you think you’d like to?

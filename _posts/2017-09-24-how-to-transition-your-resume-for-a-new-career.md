@@ -5,9 +5,7 @@ title: "How to Transition Your Resume For Your New Career"
 
 permalink: /blog/how-to-transition-your-resume-for-your-new-career/
 
-published: Sunday, 24 September 2017 10:00:00 EST
-
-modified: September 24, 2017
+date: 2017-09-24
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -92,4 +90,4 @@ Your transition to your next career can be smooth. Your resume is the key to new
 
 <hr class="secondary">
 
-Did you recently transition your resume to a new career? Tell us what you learned. Leave and comment or tweet us @pareandflourish!
+Did you recently transition your resume to a new career? Tell us what you learned.

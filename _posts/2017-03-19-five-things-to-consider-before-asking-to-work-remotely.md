@@ -5,9 +5,7 @@ title: "Five Things to Consider Before Asking to Work Remotely"
 
 permalink: /blog/five-things-to-consider-before-asking-to-work-remotely/
 
-published: Sun, 19 Mar 2017 10:00:00 EST
-
-modified: March 19, 2017
+date: 2017-03-19
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -65,4 +63,4 @@ Once you’ve made your proposal to your boss, you will be ready to negotiate yo
 
 <hr class="secondary">
 
-Never assume your boss will deny your request to work from home. If you want to keep your job, your superiors will appreciate your dedication to their company. Have you ever asked a superior if you could work remotely? Was it successful? Let us know in the comments!  
+Never assume your boss will deny your request to work from home. If you want to keep your job, your superiors will appreciate your dedication to their company. Have you ever asked a superior if you could work remotely? Was it successful?

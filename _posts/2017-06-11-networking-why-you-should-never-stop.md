@@ -5,9 +5,7 @@ title: "Networking: Why You Should Never Stop"
 
 permalink: /blog/networking-why-you-should-never-stop/
 
-published: Sun, 11 June 2017 10:00:00 EST
-
-modified: June 11, 2017
+date: 2017-06-11
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -53,4 +51,4 @@ Networking allows you to pursue and develop your side hustle—maybe your main h
 
 <hr class="secondary">
 
-Keep up the networking, team! Let us know of other benefits you’ve received from networking by tweeting us at @pareandflourish or below in the comments!
+Keep up the networking, team! What other benefits have you received from networking?

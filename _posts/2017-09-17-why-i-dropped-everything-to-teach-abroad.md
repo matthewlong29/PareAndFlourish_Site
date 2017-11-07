@@ -5,9 +5,7 @@ title: "Why I Dropped Everything to Teach Abroad"
 
 permalink: /blog/why-i-dropped-everything-to-teach-abroad/
 
-published: Sunday, 17 September 2017 10:00:00 EST
-
-modified: September 17, 2017
+date: 2017-09-17
 
 author: "Skylar Wooden"
 
@@ -90,4 +88,4 @@ Keep trying until you feel that you’re exactly where you should be, doing exac
 
 <hr class="secondary">
 
-Have you ever had the feelings I described? How did you move away from those feelings and into a better headspace? Let us know in the comments or tweet us @pareandflourish. 
+Have you ever had the feelings I described? How did you move away from those feelings and into a better headspace?

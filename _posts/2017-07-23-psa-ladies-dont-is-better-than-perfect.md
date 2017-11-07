@@ -5,9 +5,7 @@ title: "PSA: Ladies, Done is Better than Perfect"
 
 permalink: /blog/psa-ladies-done-is-better-than-perfect/
 
-published: Sun, 23 July 2017 10:00:00 EST
-
-modified: July 23, 2017
+date: 2017-07-23
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -74,4 +72,4 @@ Changing the way that we think about our performance can change how well we perf
 
 <hr class="secondary">
 
-Have you read The Confidence Code? What was your biggest take away? Let us know in the comments or tweet to @pareandflourish.
+Have you read The Confidence Code? What was your biggest take away?

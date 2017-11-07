@@ -5,9 +5,7 @@ title: "New Year New Network: Networking Challenge"
 
 permalink: /blog/new-year-new-network-networking-challenge/
 
-published: Mon, 09 Jan 2017 10:00:00 EST
-
-modified: January 09, 2017
+date: 2017-01-09
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -43,4 +41,4 @@ This year, let’s start our professional development out right. Here’s our 10
   <li><a href="/join-pare-and-flourish/">Sign up</a> for our FREE cover letter template and submit it with your next resumé!</li>
 </ol>
 
-Do you think you can complete all 10 challenges? Let us know in the comments! Check out our next post on how to get the most out of your LinkedIn account. 
+Do you think you can complete all 10 challenges?

@@ -5,9 +5,7 @@ title: "Who to Include in Your Professional Circle"
 
 permalink: /blog/who-to-include-in-your-professional-circle/
 
-published: Sun, 12 Mar 2017 10:00:00 EST
-
-modified: March 12, 2017
+date: 2017-03-12
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -86,4 +84,4 @@ And then there’s your insurance agent, who is also keeping you out of legal is
 
 <hr class="secondary">
 
-Meeting and connecting with people in these specialized areas can go a long way. You are no longer at the mercy of customer service or overpaying for advice. Do you think we missed any? Let us know in the comments! 
+Meeting and connecting with people in these specialized areas can go a long way. You are no longer at the mercy of customer service or overpaying for advice. Do you think we missed any?

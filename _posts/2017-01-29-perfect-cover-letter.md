@@ -5,9 +5,7 @@ title: "How to Write the Perfect Cover Letter"
 
 permalink: /blog/how-to-write-the-perfect-cover-letter/
 
-published: Mon, 30 Jan 2017 10:00:00 EST
-
-modified: January 30, 2017
+date: 2017-01-29
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -84,4 +82,4 @@ This is not the time to discuss, at length:
 
 <span class="italicizeText">My experience in the study abroad program changed my life…</span>
 
-Cover letters are the most underestimated and misunderstood job materials. We hope we’ve uncovered some of the mystery for you, but if you need some help getting the bare bones and formatting, we’ve created a <a href="/join-pare-and-flourish/">cover letter template</a> for you. Join our community to download your template and receive weekly tips on pitching your professional brand. 
+Cover letters are the most underestimated and misunderstood job materials. We hope we’ve uncovered some of the mystery for you, but if you need some help getting the bare bones and formatting, we’ve created a <a href="/join-pare-and-flourish/">cover letter template</a> for you.

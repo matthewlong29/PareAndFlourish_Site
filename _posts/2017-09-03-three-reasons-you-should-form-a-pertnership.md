@@ -5,9 +5,7 @@ title: "3 Reasons You Should Form a Partnership"
 
 permalink: /blog/three-reasons-you-should-form-a-partnership/
 
-published: Sun, 03 September 2017 10:00:00 EST
-
-modified: August 20, 2017
+date: 2017-09-03
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -55,4 +53,4 @@ When choosing your partner, choose someone who complements you. If you’re both
 
 <hr class="secondary">
 
-Why do you form a partnership? Is it to maintain a sense of sanity? Or, maybe, so you can delegate your weaknesses? Let us know in the comments!
+Why do you form a partnership? Is it to maintain a sense of sanity? Or, maybe, so you can delegate your weaknesses?

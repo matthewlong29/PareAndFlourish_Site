@@ -5,9 +5,7 @@ title: "Your Questions About Workplace Holidays, Answered"
 
 permalink: /blog/your-questions-about-workplace-holidays-answered/
 
-published: Wed, 30 Nov 2016 10:00:00 EST
-
-modified: November 30, 2016
+date: 2016-11-30
 
 author: "Skylar Wooden, Katie Butler, and Sarah Caton"
 

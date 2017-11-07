@@ -5,9 +5,7 @@ title: "How to Prepare for an Employee Review"
 
 permalink: /blog/how-to-prepare-for-an-employee-review/
 
-published: Sun, 04 June 2017 10:00:00 EST
-
-modified: June 04, 2017
+date: 2017-06-04
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -62,4 +60,4 @@ We’re not perfect. There will always be things we could improve about our perf
 
 <hr class="secondary">
 
-What helps you prepare for employee reviews? Let us know in the comments or tweet us at @pareandflourish!
+What helps you prepare for employee reviews?

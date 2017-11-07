@@ -5,9 +5,7 @@ title: "Book Review: Drop the Ball by Tiffany Dufu"
 
 permalink: /blog/drop-the-ball-by-tiffany-dufu-book-review/
 
-published: Sun, 25 June 2017 10:00:00 EST
-
-modified: June 25, 2017
+date: 2017-06-25
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -70,4 +68,4 @@ Meeting goals make you dependable, not indispensable. Be indispensable. Be heard
 
 <hr class="secondary">
 
-Dufu’s book is full of awe-inspiring motivation, all while making you laugh about her oh-so relatable fail moments. We definitely recommend you give it a try! You can find it on Amazon <a href="https://www.google.com/url?q=https://www.amazon.com/gp/product/1250071739/ref%3Das_li_tl?ie%3DUTF8%26tag%3Dpareandflouri-20%26camp%3D1789%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3D1250071739%26linkId%3D511719fee662ac991a73297c972f4f96&sa=D&ust=1498406772794000&usg=AFQjCNHPjvxfbyqQXFqrt1tbiXR_wTgLbg" target="_blank">here</a>. What did you think about Drop the Ball? Let us know in the comments or tweet us @pareandflourish! 
+Dufu’s book is full of awe-inspiring motivation, all while making you laugh about her oh-so relatable fail moments. We definitely recommend you give it a try! You can find it on Amazon <a href="https://www.google.com/url?q=https://www.amazon.com/gp/product/1250071739/ref%3Das_li_tl?ie%3DUTF8%26tag%3Dpareandflouri-20%26camp%3D1789%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3D1250071739%26linkId%3D511719fee662ac991a73297c972f4f96&sa=D&ust=1498406772794000&usg=AFQjCNHPjvxfbyqQXFqrt1tbiXR_wTgLbg" target="_blank">here</a>. What did you think about Drop the Ball?

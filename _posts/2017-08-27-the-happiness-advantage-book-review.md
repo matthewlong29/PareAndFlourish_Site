@@ -5,9 +5,7 @@ title: "Book Review: The Happiness Advantage by Shawn Achor"
 
 permalink: /blog/the-happiness-advantage-by-shawn-achor-book-review/
 
-published: Sun, 27 August 2017 10:00:00 EST
-
-modified: August 27, 2017
+date: 2017-08-27
 
 author: "Katie Butler"
 
@@ -65,4 +63,4 @@ You may also like:
 
 <hr class="secondary">
 
-Shawn Achor has spent over a decade living, researching, and lecturing about happiness. He gives powerful insight like no one else. Did you love this book? What was your favorite story? Let us know in the comments or tweet @pareandflourish. Have a book recommendation? We’d love to hear it! Let us know!
+Shawn Achor has spent over a decade living, researching, and lecturing about happiness. He gives powerful insight like no one else. Did you love this book? What was your favorite story? Have a book recommendation? We’d love to hear it! Let us know!

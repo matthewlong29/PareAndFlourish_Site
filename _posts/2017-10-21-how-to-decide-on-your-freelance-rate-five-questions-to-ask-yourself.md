@@ -5,9 +5,7 @@ title: "How to Decide on Your Freelance Rate: Five Questions to Ask Yourself"
 
 permalink: /blog/how-to-decide-on-your-freelance-rate-five-questions-to-ask-yourself/
 
-published: Sunday, 21 October 2017 10:00:00 EST
-
-modified: October 21, 2017
+date: 2017-10-21
 
 author: "Skylar Wooden and Katie Butler"
 

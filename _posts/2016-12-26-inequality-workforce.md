@@ -5,9 +5,7 @@ title: "Work Like a Girl: Inequality in the Workforce"
 
 permalink: /blog/work-like-a-girl-inequality-in-the-workforce/
 
-published: Mon, 26 Dec 2016 10:00:00 EST
-
-modified: December 26, 2016
+date: 2016-12-26
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -69,4 +67,4 @@ Workplace sexism is alive and well, friends. Thinking otherwise is wildly unprod
 
 If any of these stories hit a nerve, take a look at Sheryl Sandberg’s book <a href="/reading-list">Lean In: Women, Work and the Will to Lead</a>. Sandberg has brought to light stories and facts that will shine a bright light on the sometimes dark side of women in business. If you’re looking for your next motivation to advance your career, Lean In will light a fire. Maybe you don’t have the time to devote to reading right now. You can skim our <a href="/blog/review-of-lean-in/">review</a> of her book. 
 
-Even if it takes decades, we’ll get there. We’ll get there a hell of a lot faster if we work together. Do you have a story about workplace sexism? Tell us about it in the comments. Check out our next post on mastering work-life balance!
+Even if it takes decades, we’ll get there. We’ll get there a hell of a lot faster if we work together. Do you have a story about workplace sexism? Check out our next post on mastering work-life balance!

@@ -5,9 +5,7 @@ title: "Interview Tips from an Introvert"
 
 permalink: /blog/interview-tips-from-an-introvert/
 
-published: Sun, 02 Apr 2017 10:00:00 EST
-
-modified: April 02, 2017
+date: 2017-04-02
 
 author: "Saxon McCullough Reynolds"
 
@@ -82,4 +80,4 @@ Last, but certainly not least: after the follow-up email is sent, let it go. As 
 
 *This resource was added by the authors of Pare and Flourish, not by the author of this article.
 
-I hope you find these tricks and tips helpful! I’ve really enjoyed reflecting on what did and did not work for me. What about you? Do you have any go-to tricks to help ease the job interview jitters? Leave a note in the comments or tweet this blog at @PareandFlourish! 
+I hope you find these tricks and tips helpful! I’ve really enjoyed reflecting on what did and did not work for me. What about you? Do you have any go-to tricks to help ease the job interview jitters?

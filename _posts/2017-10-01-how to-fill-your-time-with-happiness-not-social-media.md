@@ -5,9 +5,7 @@ title: "How to Fill Your Time with Happiness (Not Social Media)"
 
 permalink: /blog/how-to-fill-your-time-with-happiness-not-social-media/
 
-published: Sunday, 01 October 2017 10:00:00 EST
-
-modified: October 01, 2017
+date: 2017-10-01
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -73,5 +71,5 @@ We’ve learned that green tea cures most anything.
 
 <hr class="secondary">
 
-How do you create your own happiness? Let us know in the comments or tweet us @pareandflourish!
+How do you create your own happiness?
 

@@ -5,9 +5,7 @@ title: "Can this Planner Make You Happier?"
 
 permalink: /blog/can-this-planner-make-you-happier/
 
-published: Sunday, 29 October 2017 10:00:00 EST
-
-modified: October 29, 2017
+date: 2017-10-29
 
 author: "Skylar Wooden and Katie Butler"
 

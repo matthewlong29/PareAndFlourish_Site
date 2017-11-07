@@ -5,9 +5,7 @@ title: "Why a “Functional Resume” Will Land you an Interview"
 
 permalink: /blog/why-a-functional-resume-will-land-you-an-interview/
 
-published: Sun, 09 Apr 2017 10:00:00 EST
-
-modified: April 09, 2017
+date: 2017-04-09
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -109,4 +107,4 @@ We have created a basic resume template with a guide to get you started. Subscri
 
 <hr class="secondary">
 
-You’ll have an interview in no time with the functional resume. You now have the power to tell an employer exactly what you want them to know, not just what you think should be on a resume. We would love to hear your resume tips and tricks! Please comment below or tweet us @pareandflourish!
+You’ll have an interview in no time with the functional resume. You now have the power to tell an employer exactly what you want them to know, not just what you think should be on a resume. We would love to hear your resume tips and tricks!

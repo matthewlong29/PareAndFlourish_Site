@@ -5,9 +5,7 @@ title: "Ten Steps to Mastering Work-Life Balance"
 
 permalink: /blog/ten-steps-to-mastering-work-life-balance/
 
-published: Mon, 02 Jan 2017 10:00:00 EST
-
-modified: January 02, 2017
+date: 2017-01-02
 
 author: "Skylar Wooden and Katie Butler"
 

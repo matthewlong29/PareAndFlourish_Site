@@ -5,9 +5,7 @@ title: "Why You Should be Using the Shapr Networking App"
 
 permalink: /blog/why-you-should-be-using-the-shapr-networking-app/
 
-published: Sun, 21 May 2017 10:00:00 EST
-
-modified: May 21, 2017
+date: 2017-05-21
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -81,4 +79,4 @@ I have nothing but good things to say about Shapr. It has been the perfect way t
 
 You can use this app as casually or as diligently as you like. The more you put in, the more you will get out. Whatever your goal, Shapr can help you find people to make it happen. 
 
-You need Shapr. Trust us, it will not let you down. You can download Shapr for free <a href="http://m.onelink.me/b9e940e7" target="_blank">here</a>. Try it out and let us know what you think in the comments or tweet us at @pareandflourish. We can’t wait to hear about the connections you’ve made! 
+You need Shapr. Trust us, it will not let you down. You can download Shapr for free <a href="http://m.onelink.me/b9e940e7" target="_blank">here</a>. Try it out and let us know what you think. We can’t wait to hear about the connections you’ve made! 

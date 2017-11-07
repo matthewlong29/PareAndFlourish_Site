@@ -5,9 +5,7 @@ title: "How to Follow up on Your Resume Submission"
 
 permalink: /blog/how-to-follow-up-on-your-resume-submission/
 
-published: Sun, 16 Apr 2017 10:00:00 EST
-
-modified: April 16, 2017
+date: 2017-04-16
 
 author: "Skylar Wooden and Katie Butler"
 

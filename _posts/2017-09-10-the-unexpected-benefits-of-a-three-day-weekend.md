@@ -5,9 +5,7 @@ title: "The Unexpected Benefits of a Three-Day Weekend"
 
 permalink: /blog/the-unexpected-benefits-of-a-three-day-weekend/
 
-published: Sunday, 10 September 2017 10:00:00 EST
-
-modified: September 10, 2017
+date: 2017-09-10
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -55,5 +53,5 @@ Rest, perspective, and preparedness gave us the best gift: motivation. We get si
 
 <hr class="secondary">
 
-What did the three-day weekend do for you? We’d love to hear about it. Comment here or tweet us @pareandflourish! 
+What did the three-day weekend do for you?
 

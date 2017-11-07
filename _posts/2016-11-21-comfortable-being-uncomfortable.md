@@ -5,9 +5,7 @@ title: "Being Comfortable with Being Uncomfortable"
 
 permalink: /blog/being-comfortable-with-being-uncomfortable/
 
-published: Mon, 21 Nov 2016 10:00:00 EST
-
-modified: November 21, 2016
+date: 2016-11-21
 
 author: "Skylar Wooden and Katie Butler"
 

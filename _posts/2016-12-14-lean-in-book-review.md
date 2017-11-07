@@ -5,9 +5,7 @@ title: "Review of Lean In"
 
 permalink: /blog/review-of-lean-in/
 
-published: Wed, 14 Dec 2016 10:00:00 EST
-
-modified: December 14, 2016
+date: 2016-12-14
 
 author: "Skylar Wooden and Katie Butler"
 

@@ -5,9 +5,7 @@ title: "Stop Consuming: Learn by Doing!"
 
 permalink: /blog/stop-consuming-learn-by-doing/
 
-published: Mon, 13 Feb 2017 10:00:00 EST
-
-modified: February 13, 2017
+date: 2017-02-13
 
 author: "Ash Norton"
 

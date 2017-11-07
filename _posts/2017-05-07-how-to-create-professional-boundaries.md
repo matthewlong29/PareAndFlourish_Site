@@ -5,9 +5,7 @@ title: "How to Create Professional Boundaries"
 
 permalink: /blog/how-to-create-professional-boundaries/
 
-published: Sun, 07 May 2017 10:00:00 EST
-
-modified: May 07, 2017
+date: 2017-05-07
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -60,4 +58,4 @@ You just walked in the door from a stressful day. *Looks at phone* You have an e
 
 It’s tempting to want to be the person that they can depend on at all times, but if you find yourself stressing about work at home, resist! If it’s not an urgent matter, it can wait until the morning. Your boss is emailing you when it’s convenient for him/her. If you don’t respect your own boundaries, why should they? You have office hours for a reason. Draw the line. 
 
-Have you ever experienced a time when your managers did respect your professional boundaries? Have you found a better way to set expectations? Let us know in the comments! 
+Have you ever experienced a time when your managers did respect your professional boundaries? Have you found a better way to set expectations?

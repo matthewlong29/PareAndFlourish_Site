@@ -5,9 +5,7 @@ title: "How Changing Your Perspective Changes the Game"
 
 permalink: /blog/how-changing-your-perspective-changes-the-game/
 
-published: Sunday, 15 October 2017 10:00:00 EST
-
-modified: October 15, 2017
+date: 2017-10-15
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -59,6 +57,6 @@ See also <a href="/blog/the-happiness-advantage-by-shawn-achor-book-review/">A B
 
 As always, our advice is that if you look at a situation positively, you will receive a positive outcome. We will continue to preach that for the rest of forever; we all need to be reminded from time to time. 
 
-How do you stay positive? Let us know in the comments or tweet us @pareandflourish! 
+How do you stay positive?
 
 <hr class="secondary">

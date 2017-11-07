@@ -5,9 +5,7 @@ title: "It's Time to Say YES!"
 
 permalink: /blog/its-time-to-say-yes/
 
-published: Sunday, 08 October 2017 10:00:00 EST
-
-modified: October 08, 2017
+date: 2017-10-08
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -113,6 +111,6 @@ See also <a href="/blog/why-i-dropped-everything-to-teach-abroad/">Why I Dropped
 
 <hr class="secondary">
 
-The next opportunity that presents itself, say yes! See where it takes you. What have you said “yes” to recently? How did it go? Tell us in the comments or tweet us @pareandflourish!
+The next opportunity that presents itself, say yes! See where it takes you. What have you said “yes” to recently? How did it go?
 
 <hr class="secondary">

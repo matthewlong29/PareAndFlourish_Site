@@ -5,9 +5,7 @@ title: "How to be Productive (When You’d Rather Just Go Home)"
 
 permalink: /blog/how-to-be-productive-when-youd-rather-just-go-home/
 
-published: Sun, 05 Mar 2017 10:00:00 EST
-
-modified: March 05, 2017
+date: 2017-03-05
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -59,4 +57,4 @@ Some of our favorite motivational blogs:
 
 <hr class="secondary">
 
-How do you stay productive when all you want to do is go home and curl up on the couch? Tell us in the comments! Or join the conversation on Twitter (@pareandflourish).
+How do you stay productive when all you want to do is go home and curl up on the couch?

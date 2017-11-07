@@ -5,9 +5,7 @@ title: "How to Ace the Interview"
 
 permalink: /blog/how-to-ace-the-interview/
 
-published: Sun, 23 Apr 2017 10:00:00 EST
-
-modified: April 23, 2017
+date: 2017-04-23
 
 author: "Skylar Wooden and Katie Butler"
 

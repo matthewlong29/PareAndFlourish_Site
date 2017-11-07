@@ -5,9 +5,7 @@ title: "Three Ways to Implement Self-Care. Now."
 
 permalink: /blog/three-ways-to-implement-self-care-now/
 
-published: Mon, 07 Nov 2016 10:00:00 EST
-
-modified: November 7, 2016
+date: 2016-11-07
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -56,4 +54,4 @@ You need time to be alone, to reflect and let your mind wander. Sit outside with
 
 <hr class="secondary">
 
-Don’t let the stressors of the world blow out your candle. Spend this week trying to implement self-care at least once. What is your favorite self-care practice? Let us know in the comments! Look for our next post on building a capsule wardrobe.
+Don’t let the stressors of the world blow out your candle. Spend this week trying to implement self-care at least once. What is your favorite self-care practice?

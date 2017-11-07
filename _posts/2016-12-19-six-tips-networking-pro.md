@@ -5,9 +5,7 @@ title: "Six Tips to Networking Like a Pro"
 
 permalink: /blog/six-tips-to-networking-like-a-pro/
 
-published: Mon, 19 Dec 2016 10:00:00 EST
-
-modified: December 19, 2016
+date: 2016-12-19
 
 author: "Skylar Wooden and Katie Butler"
 

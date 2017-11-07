@@ -5,9 +5,7 @@ title: "Letter to Employers: How to Retain Millennials"
 
 permalink: /blog/letter-to-employers-how-to-retain-millennials/
 
-published: Sun, 06 August 2017 10:00:00 EST
-
-modified: August 06, 2017
+date: 2017-08-06
 
 author: "Skylar Wooden and Katie Butler"
 

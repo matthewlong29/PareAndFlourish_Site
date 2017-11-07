@@ -5,9 +5,7 @@ title: "How to Embrace Change in the Workplace"
 
 permalink: /blog/how-to-embrace-change-in-the-workplace/
 
-published: Sun, 09 July 2017 10:00:00 EST
-
-modified: July 09, 2017
+date: 2017-07-09
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -54,4 +52,4 @@ The best way to embrace change is to enjoy yourself. Everyone is adapting to som
 
 <hr class="secondary">
 
-Do you have another method to embrace change? Let us know about it in the comments or tweet us @pareandflourish.
+Do you have another method to embrace change?

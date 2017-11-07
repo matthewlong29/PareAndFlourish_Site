@@ -5,9 +5,7 @@ title: "How to Ask for a Raise, and Get It"
 
 permalink: /blog/how-to-ask-for-a-raise-and-get-it/
 
-published: Sun, 20 August 2017 10:00:00 EST
-
-modified: August 20, 2017
+date: 2017-08-20
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -70,4 +68,4 @@ You may also enjoy <a href="/blog/pitching-your-professional-brand-a-guide-for-i
 
 <hr class="secondary">
 
-Have some tips for negotiating a raise? Let us know in the comments or tweet @pareandflourish. 
+Have some tips for negotiating a raise?

@@ -5,9 +5,7 @@ title: "Interested or Committed?"
 
 permalink: /blog/interested-or-committed/
 
-published: Sun, 14 May 2017 10:00:00 EST
-
-modified: May 14, 2017
+date: 2017-05-14
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -55,4 +53,4 @@ Our culture is heavily based on etiquette. We are so wrapped up in being polite 
 
 This technique can be used in many circumstances in any field—nonprofit fundraising, project management, leadership. This question has endless possibilities, and a straightforward answer.
 
-Give it a try! Let us know how it works for you in the comments. Or tweet us at @pareandflourish.
+Give it a try!

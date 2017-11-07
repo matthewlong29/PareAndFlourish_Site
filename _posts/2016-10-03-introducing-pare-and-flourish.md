@@ -5,9 +5,7 @@ title: "Introducing Pare and Flourish"
 
 permalink: /blog/introducing-pare-and-flourish/
 
-published: Mon, 03 Oct 2016 10:00:00 EST
-
-modified: October 3, 2016
+date: 2016-10-03
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -26,7 +24,7 @@ comments: true
 ---
 
 This is the first of hopefully many blog entries to come - co-written by yours truly: Katie Butler and Skylar Wooden.
-We’ve discussed writing a blog for some time now. This came about after listening to some of our favorite podcasts: [Millennial](http://www.millennialpodcast.org/), [The Lively Show](http://jesslively.com/livelyshow/), and [Love Me](http://www.cbc.ca/radio/loveme). Inspired by their insight, we realized something: we, too, have valuable experiences to share.
+We’ve discussed writing a blog for some time now. This came about after listening to some of our favorite podcasts: <a href="http://www.millennialpodcast.org/">Millennial</a>, <a href="http://jesslively.com/livelyshow/">The Lively Show</a>, and <a href="http://www.cbc.ca/radio/loveme">Love Me</a>. Inspired by their insight, we realized something: we, too, have valuable experiences to share.
 
 Thanks to the internet, it’s fairly easy to find people you can relate to. We want to be those people for you. It is a personal mission of ours not to romanticize our lives, as is so often done in the age of social media.
 
@@ -42,4 +40,4 @@ In this blog, you can expect first-hand accounts of our daily life struggles, ho
 
 We want you, the reader, to know **it matters**. You have done something you have never done before, and each step in a direction that matters to you, matters.
 
-This is a year of firsts for us. You'll learn about plenty of our firsts in this blog. In fact, this blog is one of our big firsts for the year. We ask that you join us in our adventure. Try something new with us. If you have felt inspired by something new you’ve tried recently, we want to share that feeling of inspiration. Leave a link or an idea in the comments! 
+This is a year of firsts for us. You'll learn about plenty of our firsts in this blog. In fact, this blog is one of our big firsts for the year. We ask that you join us in our adventure. Try something new with us. If you have felt inspired by something new you’ve tried recently, we want to share that feeling of inspiration.

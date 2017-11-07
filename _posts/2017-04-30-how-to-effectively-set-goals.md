@@ -5,9 +5,7 @@ title: "How to Effectively Set Goals"
 
 permalink: /blog/how-to-effectively-set-goals/
 
-published: Sun, 30 Apr 2017 10:00:00 EST
-
-modified: April 30, 2017
+date: 2017-04-30
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -57,4 +55,4 @@ This is the most important action step. Put into words what you hope to achieve.
 
 <hr class="secondary">
 
-You have all the power. You can use these action steps to guide the direction of your life to the things you want most. Do you have any tips for setting goals? What works for you? Tell us in the comments or tweet it to @pareandflourish. 
+You have all the power. You can use these action steps to guide the direction of your life to the things you want most. Do you have any tips for setting goals? What works for you?

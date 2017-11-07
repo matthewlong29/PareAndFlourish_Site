@@ -5,9 +5,7 @@ title: "Thanksgiving is Over. Now What?"
 
 permalink: /blog/thanksgiving-is-over-now-what/
 
-published: Mon, 28 Nov 2016 10:00:00 EST
-
-modified: November 28, 2016
+date: 2016-11-28
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -59,4 +57,4 @@ It will get here. Promise. Cherish the time you have in between. Don’t spend i
 
 <hr class="secondary">
 
-In a holiday all about ‘giving thanks’ we so often forget to actually be thankful. Tweet @pareandflourish and tell us what you’ve done to be mindful this holiday season. Look for our next post on ideas for mindful gift giving!
+In a holiday all about ‘giving thanks’ we so often forget to actually be thankful. What are you thankful for this holiday season?

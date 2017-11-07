@@ -5,9 +5,7 @@ title: "Writing your Professional Bio: A How To"
 
 permalink: /blog/writing-your-professional-bio-a-how-to/
 
-published: Sun, 16 July 2017 10:00:00 EST
-
-modified: July 16, 2017
+date: 2017-07-16
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -67,4 +65,4 @@ As with any written content, proofread multiple times. Read the bio outloud and 
 
 Bios don’t have to be boring. They are as unique as the individuals writing them. Research bio examples for inspiration on what you may want to do with your own. 
 
-Do you have a bio you’re proud of? Leave it in the comments! 
+Do you have a bio you’re proud of?

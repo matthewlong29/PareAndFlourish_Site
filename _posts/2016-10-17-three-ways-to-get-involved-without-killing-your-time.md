@@ -5,9 +5,7 @@ title: "Three Ways to Get Involved Without Killing Your Time"
 
 permalink: /blog/three-ways-to-get-involved-without-killing-your-time/
 
-published: Mon, 17 Oct 2016 10:00:00 EST
-
-modified: October 17, 2016
+date: 2016-10-17
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -64,4 +62,4 @@ Ways that we’ve added nonprofit work to our lives include volunteering to serv
 
 Look for our next post where we will provide some helpful tips on networking and how you can use it to your advantage. 
 
-In the meantime, what are your favorite organizations and what cause do they support? Leave a comment below and tell us how you incorporate giving back to your community into your hectic schedule. 
+In the meantime, what are your favorite organizations and what cause do they support? How will you incorporate giving back to your community into your hectic schedule?

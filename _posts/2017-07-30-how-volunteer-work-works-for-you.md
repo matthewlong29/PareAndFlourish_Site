@@ -5,9 +5,7 @@ title: "How Volunteer Work Works for You"
 
 permalink: /blog/how-volunteer-work-works-for-you/
 
-published: Sun, 30 July 2017 10:00:00 EST
-
-modified: July 30, 2017
+date: 2017-07-30
 
 author: "Skylar Wooden and Katie Butler"
 
@@ -60,4 +58,4 @@ We don't love the idea of volunteering just for the resume line, but it is an ad
 
 <hr class="secondary">
 
-Why do you volunteer? Let us know in the comments or tweet us @pareandflourish. 
+Why do you volunteer?
