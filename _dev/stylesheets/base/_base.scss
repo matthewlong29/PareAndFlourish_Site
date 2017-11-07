@@ -13,12 +13,11 @@ img {
   border: $commonBorder;
   border-radius: $commonRadius;
   box-shadow: $commonShadow;
-}
-
-img.noImageStyling {
-  border: 0;
-  border-radius: 0;
-  box-shadow: none;
+  &.noImageStyling {
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
 }
 
 .no-gutter>[class*='col-'] {
