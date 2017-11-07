@@ -1,3 +1,12 @@
+%author-divider {
+  content: "";
+  line-height: 1em;
+  display: block;
+  margin: 0 auto;
+  border-bottom: 2px solid $gray;
+  width: 15%;
+}
+
 .post-content {
   font-size: 1.35em;
   p {
@@ -30,20 +39,10 @@
       font-size: 1em;
       line-height: 2em;
       &:before {
-        content: "";
-        line-height: 1em;
-        display: block;
-        margin: 0 auto;
-        border-bottom: 2px solid $gray;
-        width: 15%;
+        @extend %author-divider;
       }
       &:after {
-        content: "";
-        line-height: 1em;
-        display: block;
-        margin: 0 auto;
-        border-top: 2px solid $gray;
-        width: 15%;
+        @extend %author-divider;
       }
     }
     &.date {
@@ -60,29 +59,11 @@
     @include userSelect(none);
     max-width: 100%;
   }
-}
-
-.subscribeBottom {
-  margin-bottom: 1em;
-  font-size: 1.25em;
-  img {
-    margin-bottom: 1em;
-  }
-  p {
-    line-height: 1.75em;
-    font-family: $primaryFont;
-  }
-  ol {
-    padding-left: 1em;
-    li {
-      font-size: 1.22em;
-      font-family: $primaryFont;
-      margin: 0;
-      padding: 0;
+  .get-ad {
+    img {
+      &:first-of-type {
+        margin-bottom: 1rem;
+      }
     }
-  }
-  button {
-    margin: .5em 0 0 0;
-    width: 100%;
   }
 }
