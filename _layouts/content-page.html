@@ -3,35 +3,32 @@ layout: default
 ---
 
 <header id="subPageHeader">
-
   {% include featureImage.html %}
   {% include newNavbar.html %}
   {% include subscriptionModal.html %}
-
 </header>
 
 <div class="container">
-	
 	<div class="row">
     {% if page.path contains '_posts' %}
 		<div class="col-lg-8 col-md-8 col-sm-12">
     {% else %}
     <div class="col-lg-offset-1 col-lg-10 col-md-12 col-sm-12">
     {% endif %}
-			<div class="post-content">
-        
+      <div class="post-content">
+
         {% if page.path contains '_posts' %}
-          <h1 class="title">{{page.title}}</h1>
+        <h1 class="title">{{page.title}}</h1>
         {% else %}
-          <h1>{{page.title}}</h1>
+        <h1>{{page.title}}</h1>
         {% endif %}
         
         {% if page.author %}
-          <h3 class="author">{{page.author}}</h3>
+        <h3 class="author">{{page.author}}</h3>
         {% endif %}
         
         {% if page.date %}
-          <h3 class="date">{{page.date | date: "%B %d, %Y"}}</h3>
+        <h3 class="date">{{page.date | date: "%B %d, %Y"}}</h3>
         {% endif %}
         
         {% if page.path contains '_posts' %}
@@ -40,34 +37,38 @@ layout: default
         
         {{content}}
         
-      </div>
-      
-      {% if page.path contains '_posts' %}
-      <div class="row">
-        <div class="col-xs-12">
+        {% if page.path contains '_posts' %}
+        <p>We want to hear from you! Leave us a comment below. Stay up to date with all things Pare and Flourish by following us on <a href="https://www.facebook.com/pareandflourish/">Facebook</a>, <a href="https://twitter.com/intent/follow?screen_name=pareandflourish">Twitter</a>, and <a href="https://www.instagram.com/pareandflourish/">Instagram</a> now. You can also <a href="/join-pare-and-flourish/">subscribe to our newsletter</a> where we’ll keep you updated on upcoming events, books we’re reading, and products we love. Thanks for reading!</p>
+        <hr class="secondary">
+
+        {% endif %}
+
+        {% if page.path contains '_posts' %}
+        <div class="get-ad">
           <a href="/events">
             <img class="img-fluid img-responsive" src="/images/other/flourish-roundtable-advertisement.jpg" alt="Image advertisement for flourish roundtable events">
           </a>
+          <a href="/services">
+            <img class="img-fluid img-responsive" src="/images/other/get-services.jpg" alt="Image advertisement for flourish roundtable events">
+          </a>
         </div>
-      </div>
-      {% endif %}
-
-			{% include nextOrPreviousPost.html %} 
-			
-			<!-- facebook comments -->
-			{% if page.path contains '_posts' %}
+        {% endif %}
+      
+        {% include nextOrPreviousPost.html %} 
+      
+        {% if page.path contains '_posts' %}
         <div id="fb-root"></div>
         <div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-numposts="5" data-width="100%"></div>
-			{% endif %}
+        {% endif %}
 
-		</div>
+      </div>
+    </div>
 
     {% if page.path contains '_posts' %}
-		<div class="col-lg-4 col-md-4 col-sm-12">
-			{% include sidePanel.html %}
+    <div class="col-lg-4 col-md-4 col-sm-12">
+      {% include sidePanel.html %}
     </div>
     {% endif %}
 
 	</div>
-
 </div>
