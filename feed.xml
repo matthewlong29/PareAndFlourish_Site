@@ -38,7 +38,7 @@ layout: null
         </description>
         <media:thumbnail url="{{site.url}}/images/teasers-1080x600/{{post.image.teaser}}"/>
         <media:content url="{{site.url}}/images/teasers-1080x600/{{post.image.teaser}}" type="image/jpeg" />
-        <pubDate>{{post.published}}</pubDate>
+        <pubDate>{{post.date}}</pubDate>
         <link>{{post.url | prepend: site.url}}</link>
         <guid isPermaLink="true">{{post.url | prepend: site.url}}</guid>
       </item>
