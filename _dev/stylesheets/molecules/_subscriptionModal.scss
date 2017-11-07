@@ -5,7 +5,7 @@
   box-shadow: 0 0 4px rgba($black, 0.75);
   border-radius: 4px;
   background: linear-gradient(45deg, $accent, $white);
-  font-size: 1.15rem;
+  font-size: 1rem;
   display: none;
   top: 2rem;
   align-self: center;
@@ -15,7 +15,7 @@
 %close {
   content: 'close';
   position: absolute;
-  font-size: 1.15rem;
+  font-size: 1rem;
   top: 10px;
   right: 10px;
   padding: 0.25rem;
@@ -62,7 +62,8 @@
     }
     .signUpModalContent {
         padding: 2rem;
-      h1 {
+      h2 {
+        font-size: 1.5rem;
         text-align: center;
         font-family: $primaryFont;
       }
@@ -106,7 +107,8 @@
 #thankYouModal {
   @extend %modalBox;
   padding: 2rem;
-  h1 {
+  h2 {
+    font-size: 1.5rem;
     text-align: center;
   }
   .divider {
