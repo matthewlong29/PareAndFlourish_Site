@@ -7,7 +7,7 @@
   <meta name="description" content="{% if page.path contains '_posts' %}{{page.excerpt}}{% else %}{{site.description}}{% endif %}" />
   {% if page.path contains '_posts' %}
   <meta property="article:published_time" content="{% if page.date %}{{page.date}}{% else %}{{site.first_published}}{% endif %}" />
-  <meta name="author" property="article:author" content="{{page.author}}">
+  <meta name="author" property="article:author" content="{% if page.author %}{{page.author}}{% else %}Skylar Wooden and Katie Butler{% endif %}">
   {% endif %}
   <meta name="keywords" content="{% if page.tags %}{{page.tags}}{% else %}{{site.keywords}}{% endif %}" />
   <!-- twitter -->
