@@ -16,11 +16,8 @@ categories: blog
 image:
   teaser: the-happiness-advantage-book-review.jpg
   feature: the-happiness-advantage-book-review.jpg
-  alt: "Book Review: The Happiness Advantage by Shawn Achor"
 
 tags: The Happiness Advantage, Happiness Advantage Review
-
-comments: true
 ---
 
 ## The Seven Principles of Positive Psychology That Fuel Success and Performance at Work 

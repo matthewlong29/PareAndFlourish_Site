@@ -7,8 +7,6 @@ permalink: /blog/five-things-to-consider-before-asking-to-work-remotely/
 
 date: 2017-03-19
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "For some, working from home is the dream. For others, working from home is a necessity. Employees who decide to move cities, or states, or countries (a.k.a the real dream) must choose to do one of two things: quit their current job or convince their boss to let them work remotely."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: work-remotely.jpg
   feature: work-remotely.jpg
-  alt: "5 Things to Consider Before Asking to Work Remotely"
 
 tags: Work from Home, How to Ask to Work From Home, How to Work from Home, Work Remotely
-
-comments: true
 ---
 
 For some, working from home is the dream. For others, working from home is a necessity. Employees who decide to move cities, or states, or countries (a.k.a the real dream) must choose to do one of two things: quit their current job or convince their boss to let them work remotely. If you fall into the latter category, have you thought about that conversation with your boss? 

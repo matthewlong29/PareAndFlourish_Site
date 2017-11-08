@@ -7,8 +7,6 @@ permalink: /blog/how-to-fill-your-time-with-happiness-not-social-media/
 
 date: 2017-10-01
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "More important than anything in your life: happiness. It’s a feeling we’re all chasing and something that is not always easy to find."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: fill-time-with-happiness.jpg
   feature: fill-time-with-happiness.jpg
-  alt: "How to Fill Your Time with Happiness (Not Social Media)"
 
 tags: how to be happy, how to spend time, why you need hobbies
-
-comments: true
 ---
 
 <span class="italicizeText">Before you say “you’re sharing this on social media!”: yes, the irony isn’t lost on us.</span>

@@ -7,8 +7,6 @@ permalink: /blog/how-volunteer-work-works-for-you/
 
 date: 2017-07-30
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Here at Pare and Flourish, we are strong advocates for donating your time and skills to charity because of the endless benefits, for others and for yourself."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: howVolunteerWorkWorks.jpg
   feature: howVolunteerWorkWorks.jpg
-  alt: "How Volunteer Work Works for You"
 
 tags: Volunteer Benefits, Why Volunteer, How to Build Your Resume
-
-comments: true
 ---
 
 Here at Pare and Flourish, we are strong advocates for donating your time and skills to charity because of the endless benefits, for others and for yourself. People choose not to volunteer for different reasons. Maybe one of these has crossed your mind:

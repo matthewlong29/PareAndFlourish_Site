@@ -7,8 +7,6 @@ permalink: /blog/how-to-embrace-change-in-the-workplace/
 
 date: 2017-07-09
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "HR departments have changed the way they reach new applicants, and teach new hires, all because of our generation. Pretty crazy, right?"
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: embraceChangeWorkplace.jpg
   feature: embraceChangeWorkplace.jpg
-  alt: "How to Embrace Change in the Workplace"
 
 tags: change in the workplace, how to embrace change, adapting to change
-
-comments: true
 ---
 
 Note: This post was largely inspired by our recent reading of “Who Moved My Cheese” by Spencer Johnson, M.D. This book is several years old, but has many great lessons that can be learned if you have only an hour to spare. 

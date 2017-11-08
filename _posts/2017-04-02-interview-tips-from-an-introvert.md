@@ -16,11 +16,8 @@ categories: blog
 image:
   teaser: introvert-interview-tips.jpg
   feature: introvert-interview-tips.jpg
-  alt: "Interview Tips from an Introvert"
 
 tags: Interview Tips for Introverts, Interview Tips, Interview Advice
-
-comments: true
 ---
 
 <div class="row">

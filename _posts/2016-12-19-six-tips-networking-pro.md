@@ -7,8 +7,6 @@ permalink: /blog/six-tips-to-networking-like-a-pro/
 
 date: 2016-12-19
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Even for those of us who don’t struggle with communication, networking conversations can be a shock to the senses. Suddenly all of your personality disappears and you have no idea what to fill the silence with. You’re bombarded with thoughts of all the things you should be saying, and nothing is coming naturally."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: networking-tips.jpg
   feature: networking-tips.jpg
-  alt: "Six Tips to Networking Like a Pro"
 
 tags: career, millennial, stepping stone, job, job search, opportunity
-
-comments: true
 ---
 
 Even for those of us who don’t struggle with communication, networking conversations can be a shock to the senses. Suddenly all of your personality disappears and you have no idea what to fill the silence with. You’re bombarded with thoughts of all the things you should be saying, and nothing is coming naturally. In the midst of this metaphorical drowning, you are trying to put words together that make you sound interesting or intelligent or hardworking. 

@@ -7,8 +7,6 @@ permalink: /blog/its-time-to-say-yes/
 
 date: 2017-10-08
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Start with a 'Yes,' and see where that takes you. - Tina Fey, Bossypants"
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: time-to-say-yes.jpg
   feature: time-to-say-yes.jpg
-  alt: "It's Time to Say YES!"
 
 tags: saying yes, new opportunities, yes to life, tina fey, tina fey bossypants
-
-comments: true
 ---
 
 <span class="italicizeText">Start with a 'Yes,' and see where that takes you.</span> - Tina Fey, Bossypants

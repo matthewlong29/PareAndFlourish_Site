@@ -16,11 +16,8 @@ categories: blog
 image:
   teaser: learn-by-doing.jpg
   feature: learn-by-doing.jpg
-  alt: "Stop Consuming: Learn by Doing!"
 
 tags: Ash Norton Engineer, Learn by Doing, Young Engineer, Subject Matter Expert
-
-comments: true
 ---
 
 <div class="row">

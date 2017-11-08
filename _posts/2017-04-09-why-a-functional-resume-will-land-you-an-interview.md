@@ -7,8 +7,6 @@ permalink: /blog/why-a-functional-resume-will-land-you-an-interview/
 
 date: 2017-04-09
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Your traditional resume focuses on your work history in reverse chronological order. It works well for seasoned professionals, but what if you don’t have that “3 to 5 years of experience” that every job ad asks for? Ladies and gentlemen, the functional resume is your answer."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: functional-resume.jpg
   feature: functional-resume.jpg
-  alt: "Why a “Functional Resume” Will Land you an Interview"
 
 tags: Functional Resume, Functional Resume Template, How to Write a Functional Resume
-
-comments: true
 ---
 
 ## Millennial Professional Pt. 1: Why a “Functional Resume” Will Land you an Interview

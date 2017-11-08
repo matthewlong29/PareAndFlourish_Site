@@ -7,8 +7,6 @@ permalink: /blog/how-to-write-the-perfect-cover-letter/
 
 date: 2017-01-29
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Each cover letter you write is a unique conversation between you and the recruiter. No one likes to be in a boring conversation; for the same reasons, no one wants to read a boring cover letter—much less hire the person to have future conversations."
 
 categories: blog
@@ -17,11 +15,8 @@ image:
   teaser: how-to-write-the-perfect-cover-letter.jpg
   vteaser: cover-letter-infographic.jpg
   feature: how-to-write-the-perfect-cover-letter.jpg
-  alt: "How to Write the Perfect Cover Letter"
 
 tags: Cover Letter Tips, How to Write a Cover Letter, Job Search Tips
-
-comments: true
 ---
 
 Does the thought of writing a cover letter exhaust you? 

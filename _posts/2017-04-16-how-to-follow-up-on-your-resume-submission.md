@@ -7,8 +7,6 @@ permalink: /blog/how-to-follow-up-on-your-resume-submission/
 
 date: 2017-04-16
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "You’ve filled out your resume and submitted the application. Congrats! You’re ahead of your competition already by using a clean, easy-to-read resume. Now, it’s time to stay ahead of your competition—the follow up."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: resume-follow-up.jpg
   feature: resume-follow-up.jpg
-  alt: "How to Follow up on Your Resume Submission"
 
 tags: resume follow up, how to follow up on a resume, follow up email template, when to follow up
-
-comments: true
 ---
 
 You’ve filled out your resume and submitted the application. Congrats! You’re ahead of your competition already by using a clean, easy-to-read resume. Now, it’s time to stay ahead of your competition—the follow up. 

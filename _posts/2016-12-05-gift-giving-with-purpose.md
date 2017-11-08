@@ -7,8 +7,6 @@ permalink: /blog/a-guide-to-gift-giving-with-purpose/
 
 date: 2016-12-05
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "If a last minute trip to the mall—arms full of socks—feels familiar, you might want to reevaluate your gift strategy. Finding a meaningful gift can be enjoyable."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: gift-giving-purpose.jpg
   feature: gift-giving-purpose.jpg
-  alt: "A Guide to Gift Giving with Purpose"
 
 tags: thoughtfullness, gift, giving, christmas, ideas, presents, gifts, merry christmas, happy holidays
-
-comments: true
 ---
 
 Disclaimer: We’ve linked some of our suggested gifts to make it easy for you to click and buy. These are affiliate links; therefore, we receive a portion of the profits. Thanks for your support!

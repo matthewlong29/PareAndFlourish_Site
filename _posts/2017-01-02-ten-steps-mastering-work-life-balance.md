@@ -7,8 +7,6 @@ permalink: /blog/ten-steps-to-mastering-work-life-balance/
 
 date: 2017-01-02
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Technology allows you to work anywhere any time. Laptops, smartphones, and hotspots blur the line between work and home. We never have to be in one place at one time thanks to the internet."
 
 categories: blog
@@ -17,11 +15,8 @@ image:
   teaser: work-life-balance.jpg
   vteaser: work-life-balance-v.jpg
   feature: work-life-balance.jpg
-  alt: "Ten Steps to Mastering Work-Life Balance"
 
 tags: Work life balance, self care methods, increase productivity, lower stress
-
-comments: true
 ---
 
 Technology allows you to work anywhere any time. Laptops, smartphones, and hotspots blur the line between work and home. We never have to be in one place at one time thanks to the internet. 

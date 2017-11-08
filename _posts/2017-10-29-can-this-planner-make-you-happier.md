@@ -7,8 +7,6 @@ permalink: /blog/can-this-planner-make-you-happier/
 
 date: 2017-10-29
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Can the Happiness Planner make you happier? We think so."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: happiness-planner-make-you-happy.jpg
   feature: happiness-planner-make-you-happy.jpg
-  alt: "Can this Planner Make You Happier?"
 
 tags: The Happiness Planner, mindfulness planner, daily planner, 100 day planner
-
-comments: true
 ---
 
 Think back to your school-shopping days: the excitement of choosing new notebooks, binders, and pens. It seems bizarre now to think of how excited we were to shop for new school supplies. But, can you honestly say that you don’t get that same rush from buying new pens and a planner? 

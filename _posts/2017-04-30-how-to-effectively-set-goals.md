@@ -7,8 +7,6 @@ permalink: /blog/how-to-effectively-set-goals/
 
 date: 2017-04-30
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "When you’re finishing up your third episode on Netflix and it asks if you want to continue watching—that’s the moment when you realize there is no turning back. If only you had known what you wanted to achieve for the day, maybe you wouldn’t have gotten sucked into your newest binge show."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: effectively-set-goals.jpg
   feature: effectively-set-goals.jpg
-  alt: "How to Effectively Set Goals"
 
 tags: how to set goals, goal setting, setting goals
-
-comments: true
 ---
 
 When you’re finishing up your third episode on Netflix and it asks if you want to continue watching—that’s the moment when you realize there is no turning back. If only you had known what you wanted to achieve for the day, maybe you wouldn’t have gotten sucked into your newest binge show. 

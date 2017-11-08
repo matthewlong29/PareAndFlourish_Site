@@ -7,8 +7,6 @@ permalink: /blog/writing-your-professional-bio-a-how-to/
 
 date: 2017-07-16
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "If you hope to be asked for a bio, or you’ve already been asked, how do you even start? We know the answer to that question."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: writingProfessionalBio.jpg
   feature: writingProfessionalBio.jpg
-  alt: "Writing your Professional Bio: A How To"
 
 tags: how to write a bio, writing a professional bio, professional bio, what to put in a professional bio
-
-comments: true
 ---
 
 It’s safe to say that if you’re following this blog, or reading this article, that you’d like to one day be asked for a bio. Something to introduce yourself on a pamphlet, perhaps, for a conference where you’re the speaker. Maybe something to place on the back of that book you’ve been writing and will one day publish. Or, a bio for a list of your company’s key employees on the website. 

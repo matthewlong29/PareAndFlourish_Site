@@ -7,8 +7,6 @@ permalink: /blog/the-networking-worlds-best-kept-secret/
 
 date: 2016-10-31
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "An informational interview sounds like the most boring networking tactic out there. It should really be more aptly named. Let’s go with “professional coffee date.”"
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: networking-best-kept-secret.jpg
   feature: networking-best-kept-secret.jpg
-  alt: "The Networking World's Best-Kept Secret"
 
 tags: networking, informational interview
-
-comments: true
 ---
 
 Networking should not be a superficial way to meet as many people as possible. You’re looking for a genuine connection. When an opportunity arises, you want the person you network with to think “Oh, he/she would be perfect for this.” Without that genuine connection, they might look back and wonder whatever happened to that “girl with brown hair that was in...marketing…?” The informational interview is a great way to achieve the former. 

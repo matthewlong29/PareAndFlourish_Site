@@ -7,8 +7,6 @@ permalink: /blog/five-steps-to-use-linkedin-effectively/
 
 date: 2017-01-16
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Unlike face-to-face networking events, LinkedIn lets you make connections with the click of a button. Not only can you quickly make connections, but you can craft your profile to make the perfect first impression."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: use-linkedin.jpg
   feature: use-linkedin.jpg
-  alt: "5 Steps to Use LinkedIn Effectively"
 
 tags: LinkedIn Tips, LinkedIn Summary Examples, LinkedIn Photo Tips, How to Use LinkedIn
-
-comments: true
 ---
 
 Unlike face-to-face networking events, LinkedIn lets you make connections with the click of a button. Not only can you quickly make connections, but you can craft your profile to make the perfect first impression. For those reasons, LinkedIn is the most useful tool for young professionals who want to build a network. 

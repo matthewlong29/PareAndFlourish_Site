@@ -7,8 +7,6 @@ permalink: /blog/levo-what-is-it-and-what-can-it-do-for-you/
 
 date: 2017-02-06
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Levo is like LinkedIn’s fun sibling. Its platform is professional at heart, while emphasizing your personal flare. Relatable. Helpful. Attractive. It’s everything you didn’t know you wanted in a professional networking site."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: levo.jpg
   feature: levo.jpg
-  alt: "Levo: What Is It and What Can It Do for You?"
 
 tags: Levo, How to Use Levo, What is Levo, Networking Site
-
-comments: true
 ---
 
 Levo is like LinkedIn’s fun sibling. Its platform is professional at heart, while emphasizing your personal flare. Relatable. Helpful. Attractive. It’s everything you didn’t know you wanted in a professional networking site. 

@@ -7,8 +7,6 @@ permalink: /blog/mens-reactions-to-work-like-a-girl-inequality-in-the-workforce/
 
 date: 2017-01-23
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Women are faced with these issues subtly, and otherwise, frequently throughout their careers. Workplace sexism is terribly common for women, which begs the question: How familiar is the opposite sex with the issue?"
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: mens-reactions-to-work-like-a-girl-inequality-in the-workforce.jpg
   feature: mens-reactions-to-work-like-a-girl-inequality-in the-workforce.jpg
-  alt: "Men's Reactions to Work Like a Girl: Inequality in the Workforce"
 
 tags: Workplace Inequality, Wage Gap, Corporate Feminism, Corporate Sexism
-
-comments: true
 ---
 
 In <a href="/blog/work-like-a-girl-inequality-in-the-workforce/">Work Like a Girl: Inequality in the Workforce</a> we asked three women to recount their experiences with workplace sexism. The stories did not go unnoticed. We received numerous responses from women who were relieved to see they were not alone. Women are faced with these issues subtly, and otherwise, frequently throughout their careers. Workplace sexism is terribly common for women, which begs the question: How familiar is the opposite sex with the issue?

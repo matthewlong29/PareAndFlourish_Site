@@ -7,8 +7,6 @@ permalink: /blog/how-to-create-professional-boundaries/
 
 date: 2017-05-07
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Professional boundaries are subjective. They aren’t set in stone. They aren’t black and white. It is all according to your needs, which are always changing."
 
 categories: blog
@@ -16,10 +14,8 @@ categories: blog
 image:
   teaser: howToCreateProfessionalBoundaries.jpg
   feature: howToCreateProfessionalBoundaries.jpg
-  alt: "How to Create Professional Boundaries"
 
 tags: creating boundaries, professional boundaries, how to create boundaries
-comments: true
 ---
 
 Professional boundaries are subjective. They aren’t set in stone. They aren’t black and white. It is all according to your needs, which are always changing. While we usually support the fake-it-til-you-make-it technique, millennials are notorious for taking on whatever they’re asked to because they don’t want to be branded as the stereotypical millennial. We’re all working hard; we don’t have to prove ourselves by over committing.  

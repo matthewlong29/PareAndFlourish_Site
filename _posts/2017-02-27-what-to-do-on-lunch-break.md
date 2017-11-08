@@ -7,8 +7,6 @@ permalink: /blog/what-you-should-actually-do-on-your-lunch-break/
 
 date: 2017-02-27
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "We’re all guilty of working through our lunch breaks. The intention is to get a few more things done. You tell yourself you’re getting ahead. You may be right, but in terms of your mental and physical health, you aren’t doing anyone any favors."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: what-you-should-actually-do-on-your-lunch-break.jpg
   feature: what-you-should-actually-do-on-your-lunch-break.jpg
-  alt: "What You Should Actually Do on Your Lunch Break"
 
 tags: lunch break activities, what to do on your lunch, self-care on lunch break
-
-comments: true
 ---
 
 We’re all guilty of working through our lunch breaks. The intention is to get a few more things done. You tell yourself you’re getting ahead. You may be right, but in terms of your mental and physical health, you aren’t doing anyone any favors. Not only are you ignoring what your body and mind need to stay healthy, you’re setting an unrealistic  standard for what your employer expects from you. 

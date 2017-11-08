@@ -7,8 +7,6 @@ permalink: /blog/how-to-be-productive-when-youd-rather-just-go-home/
 
 date: 2017-03-05
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "At 10AM, we’re alert and ready for anything the day throws at us. If only that feeling lasted until the last item on the to-do list was crossed off. Once 2PM rolls around, we’ve had a filling lunch, our necks are stiff from staring at the computer, and all we can think about it what to make for dinner."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: how-to-be-productive.jpg
   feature: how-to-be-productive.jpg
-  alt: "How to be Productive (When You’d Rather Just Go Home)"
 
 tags: Productivity Tips, How to be Productive, How to be Motivated
-
-comments: true
 ---
 
 At 10AM, we’re alert and ready for anything the day throws at us. If only that feeling lasted until the last item on the to-do list was crossed off. Once 2PM rolls around, we’ve had a filling lunch, our necks are stiff from staring at the computer, and all we can think about it what to make for dinner. 

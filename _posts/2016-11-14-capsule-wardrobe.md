@@ -7,8 +7,6 @@ permalink: /blog/capsule-wardrobe-for-the-young-professional-a-beginners-guide/
 
 date: 2016-11-14
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "What’s a capsule wardrobe and why do you care? A capsule wardrobe is a set of staple pieces that you can add seasonal pieces to, as necessary. You care because when you open your closet, you realize that you have “nothing to wear.”"
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: capsule-wardrobe.jpg
   feature: capsule-wardrobe.jpg
-  alt: "Capsule Wardrobe for the Young Professional: A Beginner’s Guide"
 
 tags: capsule wardrobe, wardrobe, business casual
-
-comments: true
 ---
 
 What’s a capsule wardrobe and why do you care? A capsule wardrobe is a set of staple pieces that you can add seasonal pieces to, as necessary. You care because when you open your closet, you realize that you have “nothing to wear.” 

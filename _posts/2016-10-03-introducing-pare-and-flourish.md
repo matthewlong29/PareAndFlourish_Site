@@ -7,8 +7,6 @@ permalink: /blog/introducing-pare-and-flourish/
 
 date: 2016-10-03
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "If you write the blog that you always wanted to write, but no one reads it, does it matter? We want you, the reader, to know it matters. You have done something you have never done before, and each step in a direction that matters to you, matters."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: introducing.jpg
   feature: introducing.jpg
-  alt: "Introducing Pare and Flourish"
 
 tags: pare, flourish
-
-comments: true
 ---
 
 This is the first of hopefully many blog entries to come - co-written by yours truly: Katie Butler and Skylar Wooden.

@@ -7,8 +7,6 @@ permalink: /blog/three-ways-to-invest-in-yourself/
 
 date: 2017-07-02
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "The best time to invest in yourself was yesterday; the next best time is right now. By investing in yourself, we mean taking in responsibility your personal and professional development."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: threeWaysToInvestInYourself.jpg
   feature: threeWaysToInvestInYourself.jpg
-  alt: "3 Ways to Invest in Yourself"
 
 tags: self-care, how to invest in yourself, investing in yourself, training, learn new skills
-
-comments: true
 ---
 
 <blockquote>“Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.” <cite>Henry Ford</cite></blockquote>

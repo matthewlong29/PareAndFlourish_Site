@@ -7,8 +7,6 @@ permalink: /blog/the-power-of-empowerment-inaugural-roundtable-edition/
 
 date: 2017-09-06
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "If you’ve ever wanted to be a part of something bigger than yourself, something that makes you feel connected to someone based on more than your common interests, but on your common beliefs and feelings, this is the place for you."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: power-of-empowerment-inaugural-roundtable-edition.jpg
   feature: power-of-empowerment-inaugural-roundtable-edition.jpg
-  alt: "The Power of Empowerment: Inaugural Roundtable Edition"
 
 tags: Bowling Green, KY, Roundtable, Networking
-
-comments: true
 ---
 
 “What does your perfect day look like?” We asked that question to seven women. Sitting around a table, most holding a glass of wine with a half smile. As they thought of their “perfect day” (which was void of restriction), you could see smiles forming. The kind that starts at the eyes and works its way down. On a Saturday afternoon, free from worry, with a glass of wine in their hands, these women imagined what they wanted their future life to be like. 

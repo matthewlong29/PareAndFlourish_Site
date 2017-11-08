@@ -7,8 +7,6 @@ permalink: /blog/three-ways-to-implement-self-care-now/
 
 date: 2016-11-07
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "When was the last time that you did nothing? Really think about that. It can be a hard concept to grasp in your vibrant professional years."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: self-care.jpg
   feature: self-care.jpg
-  alt: "Three Ways to Implement Self-Care. Now."
 
 tags: self-care, well-being, wellbeing, selfcare
-
-comments: true
 ---
 
 You’ve networked, you’ve volunteered, you’ve conquered. So far, we’ve talked a lot about professional development. We’re taking a break from that to recognize the importance of self-care—just as you should take a break from the stress that comes from being a young professional, navigating life.

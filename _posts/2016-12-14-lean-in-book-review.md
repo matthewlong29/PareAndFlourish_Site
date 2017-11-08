@@ -7,8 +7,6 @@ permalink: /blog/review-of-lean-in/
 
 date: 2016-12-14
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "It’s no secret that the playing field is uneven. Women are seen through a different set of eyes—as if estrogen will wilt the growth of business. The author discusses the obstacles women face in a positive light, rather than presenting them as a never-ending struggle."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: lean-in-book-review.jpg
   feature: lean-in-book-review.jpg
-  alt: "Review of Lean In"
 
 tags: equality, wage gap, Lean In, Sheryl Sandberg, afraid, networking
-
-comments: true
 ---
 
 <h2 class="alt">What Would You Do If You Weren't Afraid?</h2>

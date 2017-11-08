@@ -7,8 +7,6 @@ permalink: /blog/how-to-decide-on-your-freelance-rate-five-questions-to-ask-your
 
 date: 2017-10-21
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "A freelancer’s rate may seem arbitrary based on what they want to make; it’s anything but."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: how-to-decide-on-your-freelance-rate.jpg
   feature: how-to-decide-on-your-freelance-rate.jpg
-  alt: "How to Decide on Your Freelance Rate: Five Questions to Ask Yourself"
 
 tags: how to decide on your freelance rate, what to charge for freelance, how much to charge per hour for freelance work
-
-comments: true
 ---
 
 As Pare and Flourish has grown, we’ve been faced with this question several times. As a freelance writer, Skylar is wrestling with this question on a regular basis. To help you, and ourselves, we compiled five very important questions to ask before you decide on a rate. A freelancer’s rate may seem arbitrary based on what they want to make; it’s anything but.

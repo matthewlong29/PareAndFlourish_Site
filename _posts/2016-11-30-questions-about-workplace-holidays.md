@@ -16,11 +16,8 @@ categories: blog
 image:
   teaser: workplace-holidays.jpg
   feature: workplace-holidays.jpg
-  alt: "Your Questions About Workplace Holidays, Answered"
 
 tags: happy holidays, professionalism, new job, tips for work, professional, holiday etiquette, workplace, coworkers, team building
-
-comments: true
 ---
 
 We've teamed up with Sarah of [Space, Place & Southern Grace](http://www.spaceplaceandsoutherngrace.com) to bring you a post about professionalism during the holidays!

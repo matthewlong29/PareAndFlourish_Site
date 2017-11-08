@@ -7,8 +7,6 @@ permalink: /blog/five-ways-to-purposefully-network/
 
 date: 2016-10-24
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "It’s never about how many people you meet, it’s about who you meet and how. This is a prime quality over quantity scenario."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: five-ways-to-network.jpg
   feature: five-ways-to-network.jpg
-  alt: "Five Ways to Purposefully Network"
 
 tags: networking, volunteering, conference, informational interview, Pprofessors
-
-comments: true
 ---
 
 <blockquote>I feel really grateful to the people who encouraged me and helped me develop. Nobody can succeed on their own.<cite><a href="/reading-list/">Lean In, Sheryl Sandberg</a></cite></blockquote>

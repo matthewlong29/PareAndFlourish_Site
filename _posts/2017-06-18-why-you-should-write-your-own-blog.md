@@ -7,8 +7,6 @@ permalink: /blog/why-you-should-write-your-own-blog/
 
 date: 2017-06-18
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "No matter how much you love your work, if you do, having an outlet to do something for yourself is priceless. You are able to do anything you want with your blog, giving you the ability to fulfil yourself however your job doesn’t."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: whyYouShouldWriteYourOwnBlog.jpg
   feature: whyYouShouldWriteYourOwnBlog.jpg
-  alt: "Why You Should Write Your Own Blog"
 
 tags: blog, passion, connections, networking, creative outlet
-
-comments: true
 ---
 
 Disclaimer: We were terrified of writing this blog. We wanted to, but had a lot of hesitations. Namely, who are we to inform people about their careers? What if people don’t like it? What if we aren’t good at it? 

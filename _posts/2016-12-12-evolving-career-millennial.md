@@ -7,8 +7,6 @@ permalink: /blog/the-evolving-career-of-the-millennial/
 
 date: 2016-12-12
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "As millennials, we often hear ourselves described as entitled by older generations. Do we put off an air of entitlement? Possibly so. But, it’s not entitlement they’re seeing."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: evolving-millennial.jpg
   feature: evolving-millennial.jpg
-  alt: "The Evolving Career of the Millennial"
 
 tags: career, millennial, stepping stone, job, job search, opportunity
-
-comments: true
 ---
 
 As millennials, we often hear ourselves described as entitled by older generations. Do we put off an air of entitlement? Possibly so. But, it’s not entitlement they’re seeing. Karl Moor, Forbes Contributor, writes, “Young people, as we are already aware, have voices. Their thoughts may not be as fine-tuned as their managers’, but their ideas are more innovative.” 

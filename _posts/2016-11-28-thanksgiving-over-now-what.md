@@ -7,8 +7,6 @@ permalink: /blog/thanksgiving-is-over-now-what/
 
 date: 2016-11-28
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "It’s Monday. You spent all of your “vacation” time driving out of town to listen to your grandparents talk about politics you don’t agree with. Your pants don’t quite fit the way they did before. And now, you’re back at work, wondering where the time went."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: thanksgiving-over.jpg
   feature: thanksgiving-over.jpg
-  alt: "Thanksgiving is Over. Now What?"
 
 tags: giving thanks, mindfulness, holidays, being thankful, thanksgiving
-
-comments: true
 ---
 
 It’s Monday. You spent all of your “vacation” time driving out of town to listen to your grandparents talk about politics you don’t agree with. Your pants don’t quite fit the way they did before. And now, you’re back at work, wondering where the time went. While you’re battling feelings of exhaustion, it’s easy to be resentful and tough to be thankful.   

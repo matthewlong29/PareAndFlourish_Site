@@ -7,8 +7,6 @@ permalink: /blog/how-changing-your-perspective-changes-the-game/
 
 date: 2017-10-15
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "When you find yourself taking more detours than main roads, you begin to feel like your metaphorical life map is falling apart."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: changing-perspective-changes-game.jpg
   feature: changing-perspective-changes-game.jpg
-  alt: "How Changing Your Perspective Changes the Game"
 
 tags: which path to take, life path, changing perspective, how to change your perspective
-
-comments: true
 ---
 
 When you find yourself taking more detours than main roads, you begin to feel like your metaphorical life map is falling apart. Here you were with this really awesome life plan and now you’re watching it burn to the ground. 

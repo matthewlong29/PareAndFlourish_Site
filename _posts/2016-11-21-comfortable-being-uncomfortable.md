@@ -7,8 +7,6 @@ permalink: /blog/being-comfortable-with-being-uncomfortable/
 
 date: 2016-11-21
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Humans love comfort. While it’s not always a conscious decision, we’re always looking to make an uncomfortable feeling go away. The feeling comes out of nowhere—suddenly something feels “off.”"
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: comfortable-uncomfortable.jpg
   feature: comfortable-uncomfortable.jpg
-  alt: "Being Comfortable with Being Uncomfortable"
 
 tags: intuition, mindfulness
-
-comments: true
 ---
 
 <blockquote>“The number-one thing that you will have to sacrifice to be great, to achieve what you are capable of, and to execute your plans, is your comfort.<cite><a href="/reading-list/">The 12 Week Year by Brian P. Moran</a></cite></blockquote>

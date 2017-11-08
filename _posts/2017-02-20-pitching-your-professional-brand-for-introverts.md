@@ -7,8 +7,6 @@ permalink: /blog/pitching-your-professional-brand-a-guide-for-introverts/
 
 date: 2017-02-20
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "If you identify as an introvert, it can be challenging to get your name out there and pitch your brand. You have the potential to be a serious asset to an organization. Unfortunately, they won’t discover you if they can’t find you."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: branding-for-introverts.jpg
   feature: branding-for-introverts.jpg
-  alt: "Stop Consuming: Learn by Doing!"
 
 tags: Introvert, Networking, Professional Branding
-
-comments: true
 ---
 
 If you identify as an introvert, it can be challenging to get your name out there and pitch your brand. You have the potential to be a serious asset to an organization. Unfortunately, they won’t discover you if they can’t find you (because you’re on the couch in a blanket fort watching a series you’ve already seen 20 times). We’ve all been there...and are still there often, if we’re being honest. Everything in moderation, right? 

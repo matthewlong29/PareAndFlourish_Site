@@ -7,8 +7,6 @@ permalink: /blog/letter-to-employers-how-to-retain-millennials/
 
 date: 2017-08-06
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Dear employers, you’ve likely noticed that the millennial generation is an entirely different animal."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: howToRetainMillennials.jpg
   feature: howToRetainMillennials.jpg
-  alt: "Letter to Employers: How to Retain Millennials"
 
 tags: How to retain millennials, millennials in the workplace, what managers should know about millennials, working with millennials
-
-comments: true
 ---
 
 Dear employers, 

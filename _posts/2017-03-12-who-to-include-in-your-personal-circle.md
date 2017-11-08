@@ -7,8 +7,6 @@ permalink: /blog/who-to-include-in-your-professional-circle/
 
 date: 2017-03-12
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "In a time of need, you want people you can run to with your questions. It’s time to add those people to your professional circle."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: professional-circle.jpg
   feature: professional-circle.jpg
-  alt: "Who to Include in Your Professional Circle"
 
 tags: Networking Tips, Referral Group, What is a referral group, Professional Development
-
-comments: true
 ---
 
 In a time of need, you want people you can run to with your questions. It’s time to add those people to your professional circle. 

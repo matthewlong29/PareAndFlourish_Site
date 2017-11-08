@@ -7,8 +7,6 @@ permalink: /blog/authenticity-what-it-meanst-to-you/
 
 date: 2016-10-10
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "What does it mean to live authentically? Authenticity, as it relates to everyday living, means something different to everyone. Our idea of living authentically brought you this blog."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: authenticity-what-it-means.jpg
   feature: authenticity-what-it-means.jpg
-  alt: "Authenticity: What it Means to You"
 
 tags: authenticity
-
-comments: true
 ---
 
 What does it mean to live authentically? Authenticity, as it relates to everyday living, means something different to everyone. Our idea of living authentically brought you this blog. We know your time is limited by work, working out, significant others, your pets, and your social life. It’s easy to come home, throw on sweatpants, and curl up on the couch to binge watch Gilmore Girls. We love it, too. 

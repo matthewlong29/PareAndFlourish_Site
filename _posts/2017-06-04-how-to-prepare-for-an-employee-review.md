@@ -7,8 +7,6 @@ permalink: /blog/how-to-prepare-for-an-employee-review/
 
 date: 2017-06-04
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "You don’t always have your employer’s undivided attention, so now is the time. This is your moment to ask about salary, job growth, and the direction of the company."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: howToPrepareForAnEmployeeReview.jpg
   feature: howToPrepareForAnEmployeeReview.jpg
-  alt: "How to Prepare for an Employee Review"
 
 tags: employee review, what to ask in a review, questions to expect in a review, employee review advice, employee review tips
-
-comments: true
 ---
 
 If you’ve found yourself either:

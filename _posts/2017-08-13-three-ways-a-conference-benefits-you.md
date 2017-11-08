@@ -7,8 +7,6 @@ permalink: /blog/three-ways-a-conference-benefits-you/
 
 date: 2017-08-13
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "This month, challenge yourself to register for a conference in your field, or maybe even a field you’re interested in."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: three-ways-a-conference-benefits-you.jpg
   feature: three-ways-a-conference-benefits-you.jpg
-  alt: "Three Ways a Conference Benefits You"
 
 tags: Networking, Conferences, Advantages of a Conference, Why Attend a Conference
-
-comments: true
 ---
 
 Only one thing can ruin the outcome of a conference: your mindset. You could attend the best-planned event of the year with a sour attitude and come out empty handed. On the flip side, you could reap the benefits of such an experience. 

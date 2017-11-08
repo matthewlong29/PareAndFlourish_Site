@@ -7,8 +7,6 @@ permalink: /blog/how-to-transition-your-resume-for-your-new-career/
 
 date: 2017-09-24
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Like college majors, careers aren’t a concrete decision. You may wake up one day, walk out the door to go to work, and realize that you want a new path."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: your-resume-new-career.jpg
   feature: your-resume-new-career.jpg
-  alt: "How to Transition Your Resume For Your New Career"
 
 tags: Functional Resume, Resume without experience, transition resume to new career, resume writing, resume skills, how to write a resume
-
-comments: true
 ---
 
 Like college majors, careers aren’t a concrete decision. You may wake up one day, walk out the door to go to work, and realize that you want a new path. Great! Congrats on your exciting new career potential. 

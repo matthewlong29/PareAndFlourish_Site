@@ -7,8 +7,6 @@ permalink: /blog/new-year-new-network-networking-challenge/
 
 date: 2017-01-09
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Networking can be challenge-ing (see what we did there?). Bad jokes aside, it’s difficult to actively network. Not because the activity is difficult, but because it feels like something that should always happen organically."
 
 categories: blog
@@ -17,11 +15,8 @@ image:
   teaser: networking-challenge-new-year.jpg
   vteaser: networking-challenge-infographic.jpg
   feature: networking-challenge-new-year.jpg
-  alt: "New Year New Netork: Networking Challenge"
 
 tags: networking tips, conference tips, linkedin tips, levo tips
-
-comments: true
 ---
 
 Networking can be challenge-ing (see what we did there?). Bad jokes aside, it’s difficult to actively network. Not because the activity is difficult, but because it feels like something that should always happen organically. Organic interactions are ideal of course, but situations aren’t always going to present themselves. 

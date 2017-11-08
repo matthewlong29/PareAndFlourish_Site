@@ -7,8 +7,6 @@ permalink: /blog/how-to-have-an-effortless-conversation/
 
 date: 2017-05-28
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "As a young professional, it can be difficult to find your own voice. Every new conversation determines the impression you’re going to make and how that will define you as a professional."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: effortlessConversation.jpg
   feature: effortlessConversation.jpg
-  alt: "How to Have an Effortless Conversation"
 
 tags: networking, networking conversation, how to network, listening skills
-
-comments: true
 ---
 
 As a young professional, it can be difficult to find your own voice. Every new conversation determines the impression you’re going to make and how that will define you as a professional. You’ll notice that you are attempting to listen while also trying not to forget what you want to say next. \*Cue Charlie Brown’s teacher\*

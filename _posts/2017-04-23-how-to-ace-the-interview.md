@@ -7,8 +7,6 @@ permalink: /blog/how-to-ace-the-interview/
 
 date: 2017-04-23
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "If you’re at this part of the process, you have submitted a fantastic resume and follow-up email. Congrats! You landed the interview. A popular reaction to this is excitement that slips into panic; now is not the time for panic."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: ace-interview.jpg
   feature: ace-interview.jpg
-  alt: "How to Ace the Interview"
 
 tags: interview tips, interview advice, interview follow up, interview etiquette, interview thank you notes, interview thank you email
-
-comments: true
 ---
 
 If you’re at this part of the process, you have submitted a fantastic resume and follow-up email. Congrats! You landed the interview. A popular reaction to this is excitement that slips into panic; now is not the time for panic. 

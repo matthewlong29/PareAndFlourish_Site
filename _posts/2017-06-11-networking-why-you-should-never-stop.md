@@ -7,8 +7,6 @@ permalink: /blog/networking-why-you-should-never-stop/
 
 date: 2017-06-11
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Staying ahead of the game will come in handy when you’re ready to change jobs, start a volunteer opportunity, or ask advice about your next venture. When this seems like an overwhelming tasks, think of your goals and remember that you may need help climbing your ladder."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: networkingNeverStop.jpg
   feature: networkingNeverStop.jpg
-  alt: "Networking: Why You Should Never Stop"
 
 tags: networking, career, inspiration, diverse perspective, connections
-
-comments: true
 ---
 
 Networking is a resource people often realize the need only when they need it; however, building your network requires you to continually make an effort. Staying ahead of the game will come in handy when you’re ready to change jobs, start a volunteer opportunity, or ask advice about your next venture. When this seems like an overwhelming tasks, think of your goals and remember that you may need help climbing your ladder.  

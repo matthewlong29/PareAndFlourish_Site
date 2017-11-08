@@ -16,11 +16,8 @@ categories: blog
 image:
   teaser: dropped-everything-to-teach-abroad.jpg
   feature: dropped-everything-to-teach-abroad.jpg
-  alt: "Why I Dropped Everything to Teach Abroad"
 
 tags: teaching abroad, quit my job, teaching in a foreign country, unhappy with job
-
-comments: true
 ---
 
 On September 25th I will board a one-way flight to France. There, I will teach English conversation to middle and high school students for the next <span class="boldText">seven months</span>. If that sounds like a drastic change from working as a tech writer in Kentucky...yes. Uh huh. Absolutely. You may be wondering how I got here.

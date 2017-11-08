@@ -7,8 +7,6 @@ permalink: /blog/psa-ladies-done-is-better-than-perfect/
 
 date: 2017-07-23
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Women, more often than men, become invested in doing everything they do in the most perfect way possible. This trait is found astonishingly more often in women than men, and doesn’t discriminate between work and home life."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: doneNotPerfect.jpg
   feature: doneNotPerfect.jpg
-  alt: "PSA: Ladies, Done is Better than Perfect"
 
 tags: the confidence code, katty kay, perfection in the workplace, why done is better than perfect
-
-comments: true
 ---
 
 This article was inspired by our recent reading of <a href="http://amzn.to/2sYK04A" target="_blank">“The Confidence Code” by Katty Kay</a>. Kay’s book is a must read for anyone interested in learning more about the confidence gap between men and women, what causes it, and what we can do to close it. 

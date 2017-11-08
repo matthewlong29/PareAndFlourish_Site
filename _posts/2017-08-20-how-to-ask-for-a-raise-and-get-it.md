@@ -7,8 +7,6 @@ permalink: /blog/how-to-ask-for-a-raise-and-get-it/
 
 date: 2017-08-20
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "What if your current workplace will pay you more to stay right where you are?"
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: ask-for-raise-and-get-it.jpg
   feature: ask-for-raise-and-get-it.jpg
-  alt: "How to Ask for a Raise, and Get It"
 
 tags: How to ask for a raise, asking for a raise, how to get a raise, what to say to get a raise
-
-comments: true
 ---
 
 You’re at a crossroads. 

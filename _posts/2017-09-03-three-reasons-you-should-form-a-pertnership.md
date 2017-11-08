@@ -7,8 +7,6 @@ permalink: /blog/three-reasons-you-should-form-a-partnership/
 
 date: 2017-09-03
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Pare and Flourish is a partnership. We have a delicate balance of duties. And by delicate, we mean, chaotic."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: 3-reasons-you-should-form-partnership.jpg
   feature: 3-reasons-you-should-form-partnership.jpg
-  alt: "Three Reasons You Should Form a Partnership"
 
 tags: Benefits of a partnership, why you should form a partnership
-
-comments: true
 ---
 
 Sometimes, life is hard, ya know? There are days when you find yourself just a little...off. Those are the days when you walk into work, your side gig, your passion project, or home, happy to see someone else to help you out. 

@@ -7,8 +7,6 @@ permalink: /blog/why-email-ruins-our-conversations/
 
 date: 2017-03-26
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Imagine your work day without email. It’s nearly impossible. How would the business run? How would people communicate? We would be on the phone or walking around the office for nearly our entire day. Email is the center of our business communication, and rightfully so. But is it sometimes too much of a good thing?"
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: email-ruins-conversations.jpg
   feature: email-ruins-conversations.jpg
-  alt: "Why Email Ruins our Conversations"
 
 tags: Why Email Ruins Conversation, Business Email, Networking Tips, Communication Advice
-
-comments: true
 ---
 
 Imagine your work day without email. It’s nearly impossible. How would the business run? How would people communicate? We would be on the phone or walking around the office for nearly our entire day. Email is the center of our business communication, and rightfully so. But is it sometimes too much of a good thing? Absolutely. 

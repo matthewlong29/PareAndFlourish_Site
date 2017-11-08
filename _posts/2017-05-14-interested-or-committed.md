@@ -7,8 +7,6 @@ permalink: /blog/interested-or-committed/
 
 date: 2017-05-14
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "Are you interested or committed? No, this isn’t a question about your relationship."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: interestedOrCommitted.jpg
   feature: interestedOrCommitted.jpg
-  alt: "Interested or Committed"
 
 tags: sales tactics, sales techniques, selling products, how to sell
-
-comments: true
 ---
 
 Are you interested or committed? No, this isn’t a question about your relationship.

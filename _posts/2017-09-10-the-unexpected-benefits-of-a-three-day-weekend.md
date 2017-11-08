@@ -7,8 +7,6 @@ permalink: /blog/the-unexpected-benefits-of-a-three-day-weekend/
 
 date: 2017-09-10
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "After the three-day weekend, we’re feeling great. An extra day without work is what dreams are made of."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: three-day-weekend-benefits.jpg
   feature: three-day-weekend-benefits.jpg
-  alt: "The Unexpected Benefits of a Three-Day Weekend"
 
 tags: Three Day Weekend, Labor Day Weekend, Memorial Day Weekend
-
-comments: true
 ---
 
 After the three-day weekend, we’re feeling great. An extra day without work is what dreams are made of. We had the usual benefits of staying home on a Monday, like extra sleep...always extra sleep. There were also a few unexpected benefits. 

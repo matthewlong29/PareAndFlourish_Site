@@ -7,8 +7,6 @@ permalink: /blog/do-it-delegate-it-or-discard-it/
 
 date: 2017-11-05
 
-author: "Skylar Wooden and Katie Butler"
-
 excerpt: "We’ve caught ourselves saying that we “need to…” and there comes a moment when you decide that the only thing you “need” to do is stop."
 
 categories: blog
@@ -16,11 +14,8 @@ categories: blog
 image:
   teaser: do-it-delegate-it-or-discard-it.jpg
   feature: do-it-delegate-it-or-discard-it.jpg
-  alt: "Do it, Delegate it, or Discard It"
 
 tags: to-do list, how to delegate, how to be productive
-
-comments: true
 ---
 
 “Lesson learned? When people say, ‘You really, really must’ do something, it means you don't really have to. No one ever says, ‘You really, really must deliver the baby during labor.’ When it's true, it doesn't need to be said.” – Tina Fey (Bossypants)
