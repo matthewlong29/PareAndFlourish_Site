@@ -8,7 +8,12 @@ permalink: /reading-list/
 
 <section id="amReadingPage">
     <div class="bookRow">
-    <div class="bookTile">
+      <div class="bookTile">
+        <a href="http://amzn.to/2zZoAZg" target="_blank">
+          <img src="/images/other/amReading/fearlessAndFree.jpg" alt="Fearless and Free">
+        </a>
+      </div>
+      <div class="bookTile">
         <a href="http://amzn.to/2y3UHGa" target="_blank">
           <img src="/images/other/amReading/whoMovedMyCheese.jpg" alt="Who Moved My Cheese">
         </a>
