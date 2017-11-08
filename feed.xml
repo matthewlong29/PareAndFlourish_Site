@@ -28,7 +28,7 @@ layout: null
     {% for post in site.posts %}
       <item>
         <title>{{post.title | xml_escape}}</title>
-        <author>{{post.author}}</author>
+        <author>{% if page.author %}{{post.author}}{% else %}Skylar Wooden and Katie Butler{% endif %}</author>
         <description>
           <![CDATA[
             <img src="{{site.url}}/images/teasers-1080x600/{{post.image.teaser}}">
