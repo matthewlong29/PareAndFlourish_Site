@@ -1,47 +1,47 @@
-// Mixins and Variables
-@import "variablesMixins/variables";
-@import "variablesMixins/mixins";
-@import "variablesMixins/animate";
+// mixins and variables
+@import "variablesMixins/variables",
+        "variablesMixins/mixins",
+        "variablesMixins/animate";
 
-// Base
-@import "base/normalize";
-@import "base/base";
+// base
+@import "base/normalize",
+        "base/base";
 
-// Atoms
-@import "atoms/button";
-@import "atoms/horizontalRules";
-@import "atoms/text";
-@import "atoms/blockquote";
+// atoms
+@import "atoms/button",
+        "atoms/horizontalRules",
+        "atoms/text",
+        "atoms/blockquote";
 
-// Molecules
-@import "molecules/footer";
-@import "molecules/featureImages";
-@import "molecules/navbar";
-@import "molecules/blogTiles"; // Horizontal style blog tiles
-@import "molecules/postCarousel"; // Slider at top of blog posts
-@import "molecules/postContent"; // General styling
-@import "molecules/postPaginate"; // Buttons at bottom of blog posts
-@import "molecules/sidePanel"; // Side panel styling
-@import "molecules/subscribe"; // Mailchimp Subscription Styling
-@import "molecules/subscriptionModal"; // Modal For Subscription
+// molecules
+@import "molecules/footer",
+        "molecules/featureImages",
+        "molecules/navbar",
+        "molecules/blogTiles", // horizontal style blog tiles
+        "molecules/postCarousel", // slider at top of blog posts
+        "molecules/postContent", // general styling
+        "molecules/postPaginate", // buttons at bottom of blog posts
+        "molecules/sidePanel", // side panel styling
+        "molecules/subscribe", // mailchimp subscription styling
+        "molecules/subscriptionModal"; // modal for subscription
 
-// Landing Page Sections
-@import "landingPage/global";
-@import "landingPage/banner";
-@import "landingPage/about";
-@import "landingPage/blogs";
-@import "landingPage/collaborate";
-@import "landingPage/services";
-@import "landingPage/events";
-@import "landingPage/readingList";
+// landing page sections
+@import "landingPage/global",
+        "landingPage/banner",
+        "landingPage/about",
+        "landingPage/blogs",
+        "landingPage/collaborate",
+        "landingPage/services",
+        "landingPage/events",
+        "landingPage/readingList";
 
-// Other Pages
-@import "subPages/about";
-@import "subPages/collaborate";
-@import "subPages/joinPareAndFlourish";
-@import "subPages/sitemap";
-@import "subPages/readingList";
-@import "subPages/searchResults";
+// other pages
+@import "subPages/about",
+        "subPages/collaborate",
+        "subPages/joinPareAndFlourish",
+        "subPages/sitemap",
+        "subPages/readingList",
+        "subPages/searchResults";
 
-// Hard Overrides
+// hard overrides
 @import "hardOverrides/universalSelector";
