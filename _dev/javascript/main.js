@@ -69,5 +69,4 @@ jQuery(document).ready(function() {
     $('.coverLetter .fact').hide();
     $('.resume .fact').hide();
   });
-  
 });
