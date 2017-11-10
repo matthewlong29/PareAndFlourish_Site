@@ -6,9 +6,7 @@ const concat = require('gulp-concat');
 const gutil = require('gulp-util');
 const sass = require('gulp-sass');
 const cleanCSS = require('gulp-clean-css');
-const uglify = require('gulp-uglify');
-const pump = require('pump');
-const babel = require('gulp-babel');
+const minify = require('gulp-babel-minify');
 
 const siteRoot = '_site';
 const cssDevFiles = '_dev/stylesheets/**/*.?(s)css';
@@ -27,14 +25,7 @@ gulp.task('concatJS', () => {
 
 gulp.task('minifyJS', ['concatJS'], () => {
   return gulp.src('assets/javascript/all.js')
-    // .pipe(babel({
-    //   presets: ['env', {
-    //     'targets': {
-    //       'uglify': true
-    //     }
-    //   }]
-    // }))
-    .pipe(uglify())
+    .pipe(minify())
     .on('error', (err) => { gutil.log(gutil.colors.red('[Error]'), err.toString()); })
     .pipe(gulp.dest('assets/javascript'));
 });
