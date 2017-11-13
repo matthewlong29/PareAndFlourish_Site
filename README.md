@@ -7,4 +7,4 @@ Pare and Flourish, 2017. Unauthorized use and/or duplication of this material wi
 Please note that this source code has not been "themed" and credit must be given for any use of it. 
 
 ## Social Media
-You can get in contact with Pare and Flourish through social media at [Twitter](https://twitter.com/pareandflourish/), [Facebook](https://www.facebook.com/pareandflourish/), or [Instagram](https://www.instagram.com/pareandflourish/).
+You can get in contact with Pare and Flourish through [Twitter](https://twitter.com/pareandflourish/), [Facebook](https://www.facebook.com/pareandflourish/), or [Instagram](https://www.instagram.com/pareandflourish/).
