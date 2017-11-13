@@ -28,13 +28,13 @@ Can the Happiness Planner make you happier? We think so.
 
 <div class="row">
   <div class="col-sm-4 col-xs-6">
-    <img class="img-fluid" src="/images/posts/can-happiness-planner-make-you-happy/happiness-planner-1.jpg" alt="Image number one of a Happiness Planner">
+    <img class="img-fluid" src="/assets/images/posts/can-happiness-planner-make-you-happy/happiness-planner-1.jpg" alt="Image number one of a Happiness Planner">
   </div>
   <div class="col-sm-4 col-xs-6">
-    <img class="img-fluid" src="/images/posts/can-happiness-planner-make-you-happy/happiness-planner-2.jpg" alt="Image number two of a Happiness Planner">
+    <img class="img-fluid" src="/assets/images/posts/can-happiness-planner-make-you-happy/happiness-planner-2.jpg" alt="Image number two of a Happiness Planner">
   </div>
   <div class="col-sm-4 hidden-xs">
-    <img class="img-fluid" src="/images/posts/can-happiness-planner-make-you-happy/happiness-planner-3.jpg" alt="Image number three of a Happiness Planner">
+    <img class="img-fluid" src="/assets/images/posts/can-happiness-planner-make-you-happy/happiness-planner-3.jpg" alt="Image number three of a Happiness Planner">
   </div>
 </div>
 
@@ -48,7 +48,7 @@ Each section of the Happiness Roadmap helps you discover something about yoursel
 
 <div class="row">
   <div class="col-xs-12">
-    <img class="img-fluid" src="/images/posts/can-happiness-planner-make-you-happy/happiness-planner-4.jpg" alt="Image number four of a Happiness Planner">
+    <img class="img-fluid" src="/assets/images/posts/can-happiness-planner-make-you-happy/happiness-planner-4.jpg" alt="Image number four of a Happiness Planner">
   </div>
 </div>
 
@@ -58,7 +58,7 @@ Now that you’ve learned more about what you want to achieve in the next 100 da
 
 <div class="row">
   <div class="col-xs-12">
-    <img class="img-fluid" src="/images/posts/can-happiness-planner-make-you-happy/happiness-planner-5.jpg" alt="Image number five of a Happiness Planner">
+    <img class="img-fluid" src="/assets/images/posts/can-happiness-planner-make-you-happy/happiness-planner-5.jpg" alt="Image number five of a Happiness Planner">
   </div>
 </div>
 
@@ -70,7 +70,7 @@ Your daily entries are a perfect way to add mindfulness to your morning. Start y
 
 <div class="row">
   <div class="col-xs-12">
-    <img class="img-fluid" src="/images/posts/can-happiness-planner-make-you-happy/happiness-planner-6.jpg" alt="Image number six of a Happiness Planner">
+    <img class="img-fluid" src="/assets/images/posts/can-happiness-planner-make-you-happy/happiness-planner-6.jpg" alt="Image number six of a Happiness Planner">
   </div>
 </div>
 
@@ -82,7 +82,7 @@ Your weekly reflection gives you the chance to evaluate your week and set your c
 
 <div class="row">
   <div class="col-xs-12">
-    <img class="img-fluid" src="/images/posts/can-happiness-planner-make-you-happy/happiness-planner-7.jpg" alt="Image number seven of a Happiness Planner">
+    <img class="img-fluid" src="/assets/images/posts/can-happiness-planner-make-you-happy/happiness-planner-7.jpg" alt="Image number seven of a Happiness Planner">
   </div>
 </div>
 
@@ -91,7 +91,7 @@ This planner has made all the difference for our mindfulness practices. Does the
 <div class="row">
   <div class="col-xs-12">
     <a href="http://thehappinessplanner.com/?aff=377" target="_blank">
-      <img class="img-fluid" src="/images/other/happiness-planner-graphic.jpg" alt="Advertisement link for purchasing a Happiness Planner.">
+      <img class="img-fluid" src="/assets/images/other/happiness-planner-graphic.jpg" alt="Advertisement link for purchasing a Happiness Planner.">
     </a>
   </div>
 </div>

@@ -22,10 +22,10 @@ tags: Bowling Green, KY, Roundtable, Networking
 
 <div class="row">
   <div class="col-sm-6">
-    <img class="img-fluid" src="/images/posts/power-of-empowerment/roundtable-event1.jpg" alt="Image from August Roundtable Event">
+    <img class="img-fluid" src="/assets/images/posts/power-of-empowerment/roundtable-event1.jpg" alt="Image from August Roundtable Event">
   </div>
   <div class="col-sm-6">
-    <img class="img-fluid" src="/images/posts/power-of-empowerment/roundtable-event2.jpg" alt="Image from August Roundtable Event">
+    <img class="img-fluid" src="/assets/images/posts/power-of-empowerment/roundtable-event2.jpg" alt="Image from August Roundtable Event">
   </div>
 </div>
 
@@ -35,10 +35,10 @@ We spent the rest of the discussion talking about what they loved and didn’t l
 
 <div class="row">
   <div class="col-sm-6">
-    <img class="img-fluid" src="/images/posts/power-of-empowerment/roundtable-event3.jpg" alt="Image from August Roundtable Event">
+    <img class="img-fluid" src="/assets/images/posts/power-of-empowerment/roundtable-event3.jpg" alt="Image from August Roundtable Event">
   </div>
   <div class="col-sm-6">
-    <img class="img-fluid" src="/images/posts/power-of-empowerment/roundtable-event4.jpg" alt="Image from August Roundtable Event">
+    <img class="img-fluid" src="/assets/images/posts/power-of-empowerment/roundtable-event4.jpg" alt="Image from August Roundtable Event">
   </div>
 </div>
 

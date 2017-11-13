@@ -28,7 +28,7 @@ Just in time for the holidays, we’ve put together a list of our favorites (sta
 
 <div class="row">
     <div class="col-md-3 col-sm-6">
-        <img class="img-responsive" src="../../images/posts/top-10-wines/pruple-toad.png">
+        <img class="img-responsive" src="/assets/images/posts/top-10-wines/pruple-toad.png">
     </div>
     
     <div class="col-md-9 col-sm-6">
@@ -41,7 +41,7 @@ Just in time for the holidays, we’ve put together a list of our favorites (sta
 
 <div class="row">
     <div class="col-md-3 col-sm-6">
-        <img class="img-responsive" src="../../images/posts/top-10-wines/wildside-winery.png">
+        <img class="img-responsive" src="/assets/images/posts/top-10-wines/wildside-winery.png">
     </div>
     
     <div class="col-md-9 col-sm-6">
@@ -54,7 +54,7 @@ Just in time for the holidays, we’ve put together a list of our favorites (sta
 
 <div class="row">
     <div class="col-md-3 col-sm-6">
-        <img class="img-responsive" src="../../images/posts/top-10-wines/cupcake.png">
+        <img class="img-responsive" src="/assets/images/posts/top-10-wines/cupcake.png">
     </div>
     
     <div class="col-md-9 col-sm-6">
@@ -67,7 +67,7 @@ Just in time for the holidays, we’ve put together a list of our favorites (sta
 
 <div class="row">
     <div class="col-md-3 col-sm-6">
-        <img class="img-responsive" src="../../images/posts/top-10-wines/moscato.png">
+        <img class="img-responsive" src="/assets/images/posts/top-10-wines/moscato.png">
     </div>
     
     <div class="col-md-9 col-sm-6">
@@ -80,7 +80,7 @@ Just in time for the holidays, we’ve put together a list of our favorites (sta
 
 <div class="row">
     <div class="col-md-3 col-sm-6">
-        <img class="img-responsive" src="../../images/posts/top-10-wines/dolciando.png">
+        <img class="img-responsive" src="/assets/images/posts/top-10-wines/dolciando.png">
     </div>
     
     <div class="col-md-9 col-sm-6">
@@ -93,7 +93,7 @@ Just in time for the holidays, we’ve put together a list of our favorites (sta
 
 <div class="row">
     <div class="col-md-3 col-sm-6">
-        <img class="img-responsive" src="../../images/posts/top-10-wines/barefoot.png">
+        <img class="img-responsive" src="/assets/images/posts/top-10-wines/barefoot.png">
     </div>
     
     <div class="col-md-9 col-sm-6">
@@ -106,7 +106,7 @@ Just in time for the holidays, we’ve put together a list of our favorites (sta
 
 <div class="row">
     <div class="col-md-3 col-sm-6">
-        <img class="img-responsive" src="../../images/posts/top-10-wines/apothic-red.png">
+        <img class="img-responsive" src="/assets/images/posts/top-10-wines/apothic-red.png">
     </div>
     
     <div class="col-md-9 col-sm-6">
@@ -119,7 +119,7 @@ Just in time for the holidays, we’ve put together a list of our favorites (sta
 
 <div class="row">
     <div class="col-md-3 col-sm-6">
-        <img class="img-responsive" src="../../images/posts/top-10-wines/handcraft.png">
+        <img class="img-responsive" src="/assets/images/posts/top-10-wines/handcraft.png">
     </div>
     
     <div class="col-md-9 col-sm-6">
@@ -132,7 +132,7 @@ Just in time for the holidays, we’ve put together a list of our favorites (sta
 
 <div class="row">
     <div class="col-md-3 col-sm-6">
-        <img class="img-responsive" src="../../images/posts/top-10-wines/darkhorse.png">
+        <img class="img-responsive" src="/assets/images/posts/top-10-wines/darkhorse.png">
     </div>
     
     <div class="col-md-9 col-sm-6">
@@ -147,7 +147,7 @@ Just in time for the holidays, we’ve put together a list of our favorites (sta
 
 <div class="row">
     <div class="col-md-3 col-sm-6">
-        <img class="img-responsive" src="../../images/posts/top-10-wines/carnivor.png">
+        <img class="img-responsive" src="/assets/images/posts/top-10-wines/carnivor.png">
     </div>
     
     <div class="col-md-9 col-sm-6">

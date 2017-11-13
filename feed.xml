@@ -9,12 +9,12 @@ layout: null
     <description>{{site.description}}</description>
     
     <image>
-      <url>{{site.url}}/images/header/home-banner.jpg</url>
+      <url>{{site.url}}/assets/images/header/home-banner.jpg</url>
       <title>Pare and Flourish</title>
       <link>{{site.url}}</link>
     </image>
     
-    <webfeeds:cover image="{{site.url}}/images/header/home-banner.jpg" />
+    <webfeeds:cover image="{{site.url}}/assets/images/header/home-banner.jpg" />
     <webfeeds:icon>{{site.url}}/pandf-logo.svg</webfeeds:icon>
     <webfeeds:logo>{{site.url}}/pandf-logo.svg</webfeeds:logo>
     <webfeeds:accentColor>072879</webfeeds:accentColor>
@@ -31,13 +31,13 @@ layout: null
         <author>{% if page.author %}{{post.author}}{% else %}Skylar Wooden and Katie Butler{% endif %}</author>
         <description>
           <![CDATA[
-            <img src="{{site.url}}/images/teasers-1080x600/{{post.image.teaser}}">
+            <img src="{{site.url}}/assets/images/teaser/{{post.image.teaser}}">
 						<br>
             {{post.excerpt | xml_escape}}
           ]]>
         </description>
-        <media:thumbnail url="{{site.url}}/images/teasers-1080x600/{{post.image.teaser}}"/>
-        <media:content url="{{site.url}}/images/teasers-1080x600/{{post.image.teaser}}" type="image/jpeg" />
+        <media:thumbnail url="{{site.url}}/assets/images/teaser/{{post.image.teaser}}"/>
+        <media:content url="{{site.url}}/assets/images/teaser/{{post.image.teaser}}" type="image/jpeg" />
         <pubDate>{{post.date}}</pubDate>
         <link>{{post.url | prepend: site.url}}</link>
         <guid isPermaLink="true">{{post.url | prepend: site.url}}</guid>

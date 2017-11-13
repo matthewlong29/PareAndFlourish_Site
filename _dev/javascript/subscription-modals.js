@@ -16,7 +16,7 @@ $(document).ready(function() {
   // function for closing modal and return background back to original
   const closeModal = modal => {
     $("body").css({
-      background: "url('/images/other/background-pattern.png')",
+      background: "url('/assets/images/other/background-pattern.png')",
       overflow: "auto"
     });
     $("html").css('overflow','auto');

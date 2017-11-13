@@ -22,7 +22,7 @@ tags: Interview Tips for Introverts, Interview Tips, Interview Advice
 
 <div class="row">
   <div class="col-md-6 col-sm-7">
-    <img src="/images/posts/introvert-interview-tips/saxon.jpeg" class="img-responsive img-fluid" alt="Saxon McCullough Reynolds" title="Saxon McCullough Reynolds">
+    <img src="/assets/images/posts/introvert-interview-tips/saxon.jpeg" class="img-responsive img-fluid" alt="Saxon McCullough Reynolds" title="Saxon McCullough Reynolds">
   </div>
   <div class="col-md-6 col-sm-5">
     Saxon is a professional writer who graduated with a BA in English. She is a mother of two, a full-time writer, and loves all things baking. After taking time out of the workforce to spend with her youngest child, she recently got back to the job hunt and landed a writing position thanks to her spectacular interviewing skills.

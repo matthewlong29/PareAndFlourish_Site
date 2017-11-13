@@ -50,7 +50,7 @@ You could also consider outsourcing the list item. Your time is valuable, and yo
 
 <div class="row">
   <div class="col-xs-12">
-    <img class="img-fluid" src="/images/posts/do-it-delegate-it-or-discard-it/do-anything-but-not-everything.jpg" alt="Imgage of quote: do anything but not everything">
+    <img class="img-fluid" src="/assets/images/posts/do-it-delegate-it-or-discard-it/do-anything-but-not-everything.jpg" alt="Imgage of quote: do anything but not everything">
   </div>
 </div>
 

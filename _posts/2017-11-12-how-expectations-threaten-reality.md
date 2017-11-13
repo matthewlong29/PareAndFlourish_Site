@@ -5,7 +5,7 @@ title: "How Expectations Threaten Reality"
 
 permalink: /blog/how-expectations-threaten-reality/
 
-date: 2017-11-09
+date: 2017-11-12
 
 author: "Skylar Wooden"
 

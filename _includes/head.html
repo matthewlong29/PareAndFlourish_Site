@@ -22,7 +22,7 @@
   <meta property="og:url" content="{% if page.permalink %}{{site.url}}{{page.permalink}}{% else %}{{site.url}}{% endif %}" />
   <meta property="og:site_name" content="{{site.title}}" />
   <meta property="og:description" content="{% if page.path contains '_posts' %}{{page.excerpt}}{% else %}{{site.description}}{% endif %}" />
-  <meta property="og:image" content="{% if page.path contains '_posts' %}{{site.url}}/images/teasers-1080x600/{{page.image.teaser}}{% else %}{{site.url}}/images/teasers-1080x600/pandf-card.jpg{% endif %}" />
+  <meta property="og:image" content="{% if page.path contains '_posts' %}{{site.url}}/assets/images/teaser/{{page.image.teaser}}{% else %}{{site.url}}/assets/images/teaser/pandf-card.jpg{% endif %}" />
   <!-- rss -->
 	<link rel="alternate" type="application/rss+xml" title="Pare and Flourish - All Posts" href="{{site.url}}/feed.xml" />
 	<!-- mailchimp -->
@@ -30,11 +30,11 @@
 	<!-- primary css -->
 	<link rel="stylesheet" type="text/css" href="/assets/stylesheets/all.css" />
 	<!-- favicons  -->
-	<link rel="apple-touch-icon" sizes="180x180" href="/images/icons/apple-touch-icon.png" />
-	<link rel="icon" type="image/png" href="/images/icons/favicon-32x32.png" sizes="32x32" />
-	<link rel="icon" type="image/png" href="/images/icons/favicon-16x16.png" sizes="16x16" />
-	<link rel="manifest" href="/images/icons/manifest.json" />
-	<link rel="mask-icon" href="/images/icons/safari-pinned-tab.svg" color="#fdfdfd" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/other/favicons/apple-touch-icon.png" />
+	<link rel="icon" type="image/png" href="/assets/images/other/favicons/favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="/assets/images/other/favicons/favicon-16x16.png" sizes="16x16" />
+	<link rel="manifest" href="/assets/images/other/favicons/manifest.json" />
+	<link rel="mask-icon" href="/assets/images/other/favicons/safari-pinned-tab.svg" color="#fdfdfd" />
 	<!-- title -->
 	<title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
 </head>

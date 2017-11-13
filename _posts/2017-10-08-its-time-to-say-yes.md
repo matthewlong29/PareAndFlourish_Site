@@ -62,16 +62,16 @@ It’s always a good time for a new companion. We aren’t suggesting you go out
 
 <div class="row">
   <div class="col-sm-3 col-xs-6">
-    <img class="img-fluid" src="/images/posts/time-to-say-yes/pet1.jpg" alt="Image of Katies furry companion, Maggie.">
+    <img class="img-fluid" src="/assets/images/posts/time-to-say-yes/pet1.jpg" alt="Image of Katies furry companion, Maggie.">
   </div>
   <div class="col-sm-3 col-xs-6">
-    <img class="img-fluid" src="/images/posts/time-to-say-yes/pet2.jpg" alt="Image of Matts furry companion, Harley.">
+    <img class="img-fluid" src="/assets/images/posts/time-to-say-yes/pet2.jpg" alt="Image of Matts furry companion, Harley.">
   </div>
   <div class="col-sm-3 col-xs-6">
-    <img class="img-fluid" src="/images/posts/time-to-say-yes/pet3.jpg" alt="Image of Skylars furry companion.">
+    <img class="img-fluid" src="/assets/images/posts/time-to-say-yes/pet3.jpg" alt="Image of Skylars furry companion.">
   </div>
   <div class="col-sm-3 col-xs-6">
-    <img class="img-fluid" src="/images/posts/time-to-say-yes/pet4.jpg" alt="Image of Skylars furry companion.">
+    <img class="img-fluid" src="/assets/images/posts/time-to-say-yes/pet4.jpg" alt="Image of Skylars furry companion.">
   </div>
 </div>
 
@@ -97,7 +97,7 @@ A new city gives you the chance to make new friends, a new professional network,
     <p>Those are good things to consider but, ultimately, we encourage you to say yes and work out the logistics later. It just may take you exactly where you want to go, or it will give you something you didn’t even know you wanted.</p>
   </div>
   <div class="col-sm-4 col-xs-12">
-    <img class="img-fluid" src="/images/posts/time-to-say-yes/skylar-adventure.jpg" alt="Image of Skylar on her adventure in France.">
+    <img class="img-fluid" src="/assets/images/posts/time-to-say-yes/skylar-adventure.jpg" alt="Image of Skylar on her adventure in France.">
     <p class="imageCaption">Skylar in Beauvais, France, getting ready to eat what was both the prettiest and the worst tasting crêpe she’s ever had.</p>
   </div>
 </div>

@@ -17,17 +17,17 @@ Are you interested in collaborating with Pare and Flourish? Let us <a href="mail
 <ul class="collaborateList">
 	<li>
 		<a href="/blog/interview-tips-from-an-introvert/">
-			<img class="img-responsive img-fluid" src="/images/collaborate/saxon.jpg" alt="Saxon" title="Saxon">
+			<img class="img-responsive img-fluid" src="/assets/images/other/collaborate/saxon.jpg" alt="Saxon" title="Saxon">
 		</a>
 	</li>
 	<li>
 		<a href="/blog/your-questions-about-workplace-holidays-answered/">
-			<img class="img-responsive img-fluid" src="/images/collaborate/spacePlaceAndSouthernGrace.jpg" alt="Space, Place, & Southern Grace" title="Space, Place, & Southern Grace">
+			<img class="img-responsive img-fluid" src="/assets/images/other/collaborate/spacePlaceAndSouthernGrace.jpg" alt="Space, Place, & Southern Grace" title="Space, Place, & Southern Grace">
 		</a>
 	</li>
 	<li>
 		<a href="/blog/stop-consuming-learn-by-doing/">
-			<img class="img-responsive img-fluid" src="/images/collaborate/ashNorton.jpg" alt="Ash Norton" title="Ash Norton">
+			<img class="img-responsive img-fluid" src="/assets/images/other/collaborate/ashNorton.jpg" alt="Ash Norton" title="Ash Norton">
 		</a>
 	</li>
 </ul>
@@ -39,7 +39,7 @@ Are you interested in collaborating with Pare and Flourish? Let us <a href="mail
 <ul class="collaborateList">
 	<li>
 		<a href="/blog/why-you-should-be-using-the-shapr-networking-app/">
-			<img class="img-responsive img-fluid" src="/images/collaborate/shapr.jpg" alt="shapr" title="shapr">
+			<img class="img-responsive img-fluid" src="/assets/images/other/collaborate/shapr.jpg" alt="shapr" title="shapr">
 		</a>
 	</li>
 </ul>
