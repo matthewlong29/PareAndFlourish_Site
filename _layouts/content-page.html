@@ -40,8 +40,16 @@ layout: default
         <div class="shareaholic-canvas" data-app="share_buttons" data-app-id="27414158"></div>
         {% endif %}
         
+        {% if page.url == "/search/" %}
+        <div class="search">
+        {% endif %}
+
         {{content}}
-        
+
+        {% if page.url == "/search/" %}
+        </div>
+        {% endif %}
+
         {% if page.path contains '_posts' %}
         <p>We want to hear from you! Leave us a comment below. Stay up to date with all things Pare and Flourish by following us on <a href="https://www.facebook.com/pareandflourish/">Facebook</a>, <a href="https://twitter.com/intent/follow?screen_name=pareandflourish">Twitter</a>, and <a href="https://www.instagram.com/pareandflourish/">Instagram</a> now. You can also <a href="/join-pare-and-flourish/">subscribe to our newsletter</a> where we’ll keep you updated on upcoming events, books we’re reading, and products we love. Thanks for reading!</p>
         <hr class="secondary">

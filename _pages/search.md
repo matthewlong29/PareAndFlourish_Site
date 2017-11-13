@@ -1,5 +1,5 @@
 ---
-layout: search
+layout: content-page
 
 title: Search
 
