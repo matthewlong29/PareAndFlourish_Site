@@ -1,7 +1,7 @@
 ---
 layout: content-page
 
-title: "How Expectations Threaten Reality"
+title: "How Expectations Threaten Your Reality"
 
 permalink: /blog/how-expectations-threaten-reality/
 
@@ -20,7 +20,7 @@ image:
 tags: expectations vs reality, how to keep real expectations, keeping real expectations, fantasy vs reality
 ---
 
-## Mini Series Part 1
+## Mini Series Part 1 of 7
 
 In the days leading up to my flight, I dreamt of what my life would be like in France. Not just what my life would be like, but what I would be like. Somehow, I had conjured up this person who had only my best qualities and none of my worst. 
 
