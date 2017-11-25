@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: resume-follow-up.jpg
-  feature: resume-follow-up.jpg
+  header: resume-follow-up.jpg
 
 tags: resume follow up, how to follow up on a resume, follow up email template, when to follow up
 ---

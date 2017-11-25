@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: networking-best-kept-secret.jpg
-  feature: networking-best-kept-secret.jpg
+  header: networking-best-kept-secret.jpg
 
 tags: networking, informational interview
 ---

@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: your-resume-new-career.jpg
-  feature: your-resume-new-career.jpg
+  header: your-resume-new-career.jpg
 
 tags: Functional Resume, Resume without experience, transition resume to new career, resume writing, resume skills, how to write a resume
 ---

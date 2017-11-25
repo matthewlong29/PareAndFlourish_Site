@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: networking-tips.jpg
-  feature: networking-tips.jpg
+  header: networking-tips.jpg
 
 tags: career, millennial, stepping stone, job, job search, opportunity
 ---

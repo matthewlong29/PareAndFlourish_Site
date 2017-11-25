@@ -14,7 +14,7 @@ categories: blog
 image:
   teaser: networking-challenge-new-year.jpg
   vteaser: networking-challenge-infographic.jpg
-  feature: networking-challenge-new-year.jpg
+  header: networking-challenge-new-year.jpg
 
 tags: networking tips, conference tips, linkedin tips, levo tips
 ---

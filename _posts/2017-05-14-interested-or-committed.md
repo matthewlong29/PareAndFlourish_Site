@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: interestedOrCommitted.jpg
-  feature: interestedOrCommitted.jpg
+  header: interestedOrCommitted.jpg
 
 tags: sales tactics, sales techniques, selling products, how to sell
 ---

@@ -14,7 +14,7 @@ categories: blog
 image:
   teaser: work-life-balance.jpg
   vteaser: work-life-balance-v.jpg
-  feature: work-life-balance.jpg
+  header: work-life-balance.jpg
 
 tags: Work life balance, self care methods, increase productivity, lower stress
 ---

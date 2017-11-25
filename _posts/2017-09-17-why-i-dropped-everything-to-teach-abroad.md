@@ -15,7 +15,7 @@ categories: blog
 
 image:
   teaser: dropped-everything-to-teach-abroad.jpg
-  feature: dropped-everything-to-teach-abroad.jpg
+  header: dropped-everything-to-teach-abroad.jpg
 
 tags: teaching abroad, quit my job, teaching in a foreign country, unhappy with job
 ---

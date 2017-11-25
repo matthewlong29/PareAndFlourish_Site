@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: use-linkedin.jpg
-  feature: use-linkedin.jpg
+  header: use-linkedin.jpg
 
 tags: LinkedIn Tips, LinkedIn Summary Examples, LinkedIn Photo Tips, How to Use LinkedIn
 ---

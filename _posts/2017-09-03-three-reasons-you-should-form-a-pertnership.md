@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: 3-reasons-you-should-form-partnership.jpg
-  feature: 3-reasons-you-should-form-partnership.jpg
+  header: 3-reasons-you-should-form-partnership.jpg
 
 tags: Benefits of a partnership, why you should form a partnership
 ---

@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: fill-time-with-happiness.jpg
-  feature: fill-time-with-happiness.jpg
+  header: fill-time-with-happiness.jpg
 
 tags: how to be happy, how to spend time, why you need hobbies
 ---

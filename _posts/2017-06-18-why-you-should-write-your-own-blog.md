@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: whyYouShouldWriteYourOwnBlog.jpg
-  feature: whyYouShouldWriteYourOwnBlog.jpg
+  header: whyYouShouldWriteYourOwnBlog.jpg
 
 tags: blog, passion, connections, networking, creative outlet
 ---

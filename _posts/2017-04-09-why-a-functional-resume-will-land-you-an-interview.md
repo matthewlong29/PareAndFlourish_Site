@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: functional-resume.jpg
-  feature: functional-resume.jpg
+  header: functional-resume.jpg
 
 tags: Functional Resume, Functional Resume Template, How to Write a Functional Resume
 ---

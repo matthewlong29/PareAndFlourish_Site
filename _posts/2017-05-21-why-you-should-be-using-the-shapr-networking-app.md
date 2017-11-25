@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: shapr.jpg
-  feature: shapr.jpg
+  header: shapr.jpg
 
 tags: shapr, shapr app, networking app, mobile networking
 ---

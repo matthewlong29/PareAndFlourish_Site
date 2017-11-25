@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: changing-perspective-changes-game.jpg
-  feature: changing-perspective-changes-game.jpg
+  header: changing-perspective-changes-game.jpg
 
 tags: which path to take, life path, changing perspective, how to change your perspective
 ---

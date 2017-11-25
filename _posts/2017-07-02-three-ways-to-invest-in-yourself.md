@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: threeWaysToInvestInYourself.jpg
-  feature: threeWaysToInvestInYourself.jpg
+  header: threeWaysToInvestInYourself.jpg
 
 tags: self-care, how to invest in yourself, investing in yourself, training, learn new skills
 ---

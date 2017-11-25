@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: doneNotPerfect.jpg
-  feature: doneNotPerfect.jpg
+  header: doneNotPerfect.jpg
 
 tags: the confidence code, katty kay, perfection in the workplace, why done is better than perfect
 ---

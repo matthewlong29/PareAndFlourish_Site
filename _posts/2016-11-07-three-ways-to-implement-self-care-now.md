@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: self-care.jpg
-  feature: self-care.jpg
+  header: self-care.jpg
 
 tags: self-care, well-being, wellbeing, selfcare
 ---

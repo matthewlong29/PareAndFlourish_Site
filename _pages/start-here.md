@@ -4,6 +4,9 @@ layout: content-page
 title: Start Here
 
 permalink: /start-here/
+
+image:
+  header: start-here.jpg
 ---
 
 ## Flourish with us!

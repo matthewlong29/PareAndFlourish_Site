@@ -4,6 +4,9 @@ layout: content-page
 title: Search
 
 permalink: /search/
+
+image:
+  header: search.jpg
 ---
 
 <ul id="search-results"></ul>

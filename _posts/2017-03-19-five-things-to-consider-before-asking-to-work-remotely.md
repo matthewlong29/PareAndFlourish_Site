@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: work-remotely.jpg
-  feature: work-remotely.jpg
+  header: work-remotely.jpg
 
 tags: Work from Home, How to Ask to Work From Home, How to Work from Home, Work Remotely
 ---

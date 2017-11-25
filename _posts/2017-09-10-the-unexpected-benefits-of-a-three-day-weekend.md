@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: three-day-weekend-benefits.jpg
-  feature: three-day-weekend-benefits.jpg
+  header: three-day-weekend-benefits.jpg
 
 tags: Three Day Weekend, Labor Day Weekend, Memorial Day Weekend
 ---

@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: authenticity-what-it-means.jpg
-  feature: authenticity-what-it-means.jpg
+  header: authenticity-what-it-means.jpg
 
 tags: authenticity
 ---

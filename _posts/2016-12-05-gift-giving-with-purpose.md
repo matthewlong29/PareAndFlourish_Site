@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: gift-giving-purpose.jpg
-  feature: gift-giving-purpose.jpg
+  header: gift-giving-purpose.jpg
 
 tags: thoughtfullness, gift, giving, christmas, ideas, presents, gifts, merry christmas, happy holidays
 ---

@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: howVolunteerWorkWorks.jpg
-  feature: howVolunteerWorkWorks.jpg
+  header: howVolunteerWorkWorks.jpg
 
 tags: Volunteer Benefits, Why Volunteer, How to Build Your Resume
 ---

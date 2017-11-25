@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: capsule-wardrobe.jpg
-  feature: capsule-wardrobe.jpg
+  header: capsule-wardrobe.jpg
 
 tags: capsule wardrobe, wardrobe, business casual
 ---

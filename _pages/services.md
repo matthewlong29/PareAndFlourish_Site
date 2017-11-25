@@ -4,6 +4,9 @@ layout: content-page
 title: Services
 
 permalink: /services/
+
+image:
+  header: services.jpg
 ---
 
 ## Description of Services
@@ -21,7 +24,7 @@ permalink: /services/
  
 A review for one document/profile of your choice is $50. Additional time following the one-hour review and final review process is $25 per hour. 
 
-Not sure what you need? Email us at contact@pareandflourish.com or call us at (502) 536-8489 and we’ll walk you through it! 
+Not sure what you need? Email us at <a href="mailto:contact@pareandflourish.com">contact@pareandflourish.com</a> or call us at <a href="tel:+15025368489">(502) 536-8489</a> and we’ll walk you through it! 
 
 <hr class="secondary">
 

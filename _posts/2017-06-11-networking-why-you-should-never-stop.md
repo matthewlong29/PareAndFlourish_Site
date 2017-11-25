@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: networkingNeverStop.jpg
-  feature: networkingNeverStop.jpg
+  header: networkingNeverStop.jpg
 
 tags: networking, career, inspiration, diverse perspective, connections
 ---

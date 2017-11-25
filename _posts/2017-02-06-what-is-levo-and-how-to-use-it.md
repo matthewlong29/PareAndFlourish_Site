@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: levo.jpg
-  feature: levo.jpg
+  header: levo.jpg
 
 tags: Levo, How to Use Levo, What is Levo, Networking Site
 ---

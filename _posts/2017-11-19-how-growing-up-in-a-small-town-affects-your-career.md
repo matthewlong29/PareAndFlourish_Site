@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: how-growing-up-in-a-small-town-affects-your-career.jpg
-  feature: how-growing-up-in-a-small-town-affects-your-career.jpg
+  header: how-growing-up-in-a-small-town-affects-your-career.jpg
 
 tags: growing up in a small town, small town career, how coming from a small town affects you, the best things about being from a small town
 ---

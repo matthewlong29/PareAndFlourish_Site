@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: what-you-should-actually-do-on-your-lunch-break.jpg
-  feature: what-you-should-actually-do-on-your-lunch-break.jpg
+  header: what-you-should-actually-do-on-your-lunch-break.jpg
 
 tags: lunch break activities, what to do on your lunch, self-care on lunch break
 ---

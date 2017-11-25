@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: embraceChangeWorkplace.jpg
-  feature: embraceChangeWorkplace.jpg
+  header: embraceChangeWorkplace.jpg
 
 tags: change in the workplace, how to embrace change, adapting to change
 ---

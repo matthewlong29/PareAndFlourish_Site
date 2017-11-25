@@ -15,7 +15,7 @@ categories: blog
 
 image:
   teaser: workplace-holidays.jpg
-  feature: workplace-holidays.jpg
+  header: workplace-holidays.jpg
 
 tags: happy holidays, professionalism, new job, tips for work, professional, holiday etiquette, workplace, coworkers, team building
 ---

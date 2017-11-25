@@ -4,6 +4,9 @@ layout: content-page
 title: Terms and Conditions
 
 permalink: /terms-and-conditions/
+
+image:
+  header: terms-and-conditions.jpg
 ---
 
 ## Event Disclaimer

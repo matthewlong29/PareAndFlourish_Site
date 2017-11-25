@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: professional-circle.jpg
-  feature: professional-circle.jpg
+  header: professional-circle.jpg
 
 tags: Networking Tips, Referral Group, What is a referral group, Professional Development
 ---

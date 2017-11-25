@@ -4,6 +4,9 @@ layout: content-page
 title: Join Pare and Flourish
 
 permalink: /join-pare-and-flourish/
+
+image:
+  header: join-pare-and-flourish.jpg
 ---
 
 ## The 5-Part Job Search Package

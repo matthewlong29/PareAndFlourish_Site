@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: three-ways-involved.jpg
-  feature: three-ways-involved.jpg
+  header: three-ways-involved.jpg
 
 tags: involved, time
 ---

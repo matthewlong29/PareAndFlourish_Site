@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: five-ways-to-network.jpg
-  feature: five-ways-to-network.jpg
+  header: five-ways-to-network.jpg
 
 tags: networking, volunteering, conference, informational interview, Pprofessors
 ---

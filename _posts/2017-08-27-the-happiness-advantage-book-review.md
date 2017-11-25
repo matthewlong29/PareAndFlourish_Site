@@ -15,7 +15,7 @@ categories: blog
 
 image:
   teaser: the-happiness-advantage-book-review.jpg
-  feature: the-happiness-advantage-book-review.jpg
+  header: the-happiness-advantage-book-review.jpg
 
 tags: The Happiness Advantage, Happiness Advantage Review
 ---

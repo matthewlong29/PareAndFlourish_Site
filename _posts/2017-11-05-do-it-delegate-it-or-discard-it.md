@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: do-it-delegate-it-or-discard-it.jpg
-  feature: do-it-delegate-it-or-discard-it.jpg
+  header: do-it-delegate-it-or-discard-it.jpg
 
 tags: to-do list, how to delegate, how to be productive
 ---

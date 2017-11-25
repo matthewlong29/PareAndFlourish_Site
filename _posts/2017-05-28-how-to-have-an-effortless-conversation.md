@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: effortlessConversation.jpg
-  feature: effortlessConversation.jpg
+  header: effortlessConversation.jpg
 
 tags: networking, networking conversation, how to network, listening skills
 ---

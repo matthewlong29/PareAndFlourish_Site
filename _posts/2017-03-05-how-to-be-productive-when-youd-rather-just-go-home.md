@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: how-to-be-productive.jpg
-  feature: how-to-be-productive.jpg
+  header: how-to-be-productive.jpg
 
 tags: Productivity Tips, How to be Productive, How to be Motivated
 ---

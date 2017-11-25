@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: inequality-workforce.jpg
-  feature: inequality-workforce.jpg
+  header: inequality-workforce.jpg
 
 tags: sexism at work, feminist business, inequality in the workforce, business women, workplace sexism, workplace inequality
 ---

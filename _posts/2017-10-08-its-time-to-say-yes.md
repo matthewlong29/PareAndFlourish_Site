@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: time-to-say-yes.jpg
-  feature: time-to-say-yes.jpg
+  header: time-to-say-yes.jpg
 
 tags: saying yes, new opportunities, yes to life, tina fey, tina fey bossypants
 ---

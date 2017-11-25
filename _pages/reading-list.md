@@ -4,6 +4,9 @@ layout: content-page
 title: Reading List
 
 permalink: /reading-list/
+
+image:
+  header: reading-list.jpg
 ---
 
 <section id="amReadingPage">

@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: branding-for-introverts.jpg
-  feature: branding-for-introverts.jpg
+  header: branding-for-introverts.jpg
 
 tags: Introvert, Networking, Professional Branding
 ---

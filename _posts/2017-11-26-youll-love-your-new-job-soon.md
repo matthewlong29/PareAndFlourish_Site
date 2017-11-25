@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: youll-love-your-new-job-soon.jpg
-  feature: youll-love-your-new-job-soon.jpg
+  header: youll-love-your-new-job-soon.jpg
 
 tags: new job, getting a new job, changing positions at work
 ---

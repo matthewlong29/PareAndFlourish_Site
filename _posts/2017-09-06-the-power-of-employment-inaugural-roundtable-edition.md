@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: power-of-empowerment-inaugural-roundtable-edition.jpg
-  feature: power-of-empowerment-inaugural-roundtable-edition.jpg
+  header: power-of-empowerment-inaugural-roundtable-edition.jpg
 
 tags: Bowling Green, KY, Roundtable, Networking
 ---

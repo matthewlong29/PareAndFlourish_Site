@@ -4,6 +4,9 @@ layout: content-page
 title: Events
 
 permalink: /events/
+
+image:
+  header: events.jpg
 ---
 
 ## What is a Flourish Roundtable?

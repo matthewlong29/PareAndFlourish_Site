@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: ace-interview.jpg
-  feature: ace-interview.jpg
+  header: ace-interview.jpg
 
 tags: interview tips, interview advice, interview follow up, interview etiquette, interview thank you notes, interview thank you email
 ---

@@ -14,7 +14,7 @@ categories: blog
 image:
   teaser: how-to-write-the-perfect-cover-letter.jpg
   vteaser: cover-letter-infographic.jpg
-  feature: how-to-write-the-perfect-cover-letter.jpg
+  header: how-to-write-the-perfect-cover-letter.jpg
 
 tags: Cover Letter Tips, How to Write a Cover Letter, Job Search Tips
 ---

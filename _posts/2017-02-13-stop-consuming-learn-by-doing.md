@@ -15,7 +15,7 @@ categories: blog
 
 image:
   teaser: learn-by-doing.jpg
-  feature: learn-by-doing.jpg
+  header: learn-by-doing.jpg
 
 tags: Ash Norton Engineer, Learn by Doing, Young Engineer, Subject Matter Expert
 ---

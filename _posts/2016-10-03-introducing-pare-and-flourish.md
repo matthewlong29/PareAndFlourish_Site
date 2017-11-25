@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: introducing.jpg
-  feature: introducing.jpg
+  header: introducing.jpg
 
 tags: pare, flourish
 ---

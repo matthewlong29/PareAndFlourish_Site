@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: comfortable-uncomfortable.jpg
-  feature: comfortable-uncomfortable.jpg
+  header: comfortable-uncomfortable.jpg
 
 tags: intuition, mindfulness
 ---

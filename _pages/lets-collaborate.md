@@ -4,6 +4,9 @@ layout: content-page
 title: Let's Collaborate
 
 permalink: /lets-collaborate/
+
+image:
+  header: collaborate.jpg
 ---
 
 <p>Some of the most valuable lessons are learned through teamwork. We’ve had the opportunity to work with great people to bring you content from different perspectives. </p>

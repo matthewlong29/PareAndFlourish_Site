@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: thanksgiving-over.jpg
-  feature: thanksgiving-over.jpg
+  header: thanksgiving-over.jpg
 
 tags: giving thanks, mindfulness, holidays, being thankful, thanksgiving
 ---

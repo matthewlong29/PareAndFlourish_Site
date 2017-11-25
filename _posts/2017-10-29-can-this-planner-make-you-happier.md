@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: happiness-planner-make-you-happy.jpg
-  feature: happiness-planner-make-you-happy.jpg
+  header: happiness-planner-make-you-happy.jpg
 
 tags: The Happiness Planner, mindfulness planner, daily planner, 100 day planner
 ---

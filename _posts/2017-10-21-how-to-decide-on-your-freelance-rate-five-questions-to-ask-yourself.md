@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: how-to-decide-on-your-freelance-rate.jpg
-  feature: how-to-decide-on-your-freelance-rate.jpg
+  header: how-to-decide-on-your-freelance-rate.jpg
 
 tags: how to decide on your freelance rate, what to charge for freelance, how much to charge per hour for freelance work
 ---

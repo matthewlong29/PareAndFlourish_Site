@@ -13,7 +13,7 @@ categories: blog
 
 image:
   teaser: howToRetainMillennials.jpg
-  feature: howToRetainMillennials.jpg
+  header: howToRetainMillennials.jpg
 
 tags: How to retain millennials, millennials in the workplace, what managers should know about millennials, working with millennials
 ---

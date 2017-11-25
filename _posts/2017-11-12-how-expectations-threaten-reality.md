@@ -15,7 +15,7 @@ categories: blog
 
 image:
   teaser: how-expectations-threaten-reality.jpg
-  feature: how-expectations-threaten-reality.jpg
+  header: how-expectations-threaten-reality.jpg
 
 tags: expectations vs reality, how to keep real expectations, keeping real expectations, fantasy vs reality
 ---
