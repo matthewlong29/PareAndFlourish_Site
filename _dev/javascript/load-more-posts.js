@@ -1,24 +1,23 @@
-$(document).ready(function() {
+/********************************************************
+load more posts function
+********************************************************/
 
-  /********************************************************
-  load more posts function
-  ********************************************************/
+$(document).ready(() => {
 
   // call Load more posts on click
   $(".loadMore").click(loadMorePosts);
   
   // load more posts function
   function loadMorePosts() {
-    var _this = this;
-    var $blogContainer = $("#blogContainer");
-    var nextPage = parseInt($blogContainer.attr("data-page")) + 1;
-    var totalPages = parseInt($blogContainer.attr("data-totalPages"));
+    let $blogContainer = $("#blogContainer");
+    let nextPage = parseInt($blogContainer.attr("data-page")) + 1;
+    let totalPages = parseInt($blogContainer.attr("data-totalPages"));
 
     $(this).addClass("loading");
 
-    $.get("/blog/page" + nextPage, function (data) {
-      var htmlData = $.parseHTML(data);
-      var $articles = $(htmlData).find("article");
+    $.get("/blog/page" + nextPage, (data) => {
+      let htmlData = $.parseHTML(data);
+      let $articles = $(htmlData).find("article");
 
       $blogContainer.attr("data-page", nextPage).append($articles);
 
@@ -26,7 +25,7 @@ $(document).ready(function() {
         $(".loading").remove();
       }
 
-      $(_this).removeClass("loading");
+      $(this).removeClass("loading");
     });
   } // end load more posts function
 
