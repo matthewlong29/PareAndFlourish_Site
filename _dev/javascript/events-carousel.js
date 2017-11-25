@@ -1,7 +1,8 @@
-$(document).ready(function () {
-  /********************************************************
-  events carousel on homepage
-  ********************************************************/
+/********************************************************
+events carousel on homepage
+********************************************************/
+
+$(document).ready(() => {
 
   const eventImage = {
     1: '/assets/images/events/event1-pic1.jpg',

@@ -1,4 +1,8 @@
-$(document).ready(function() {
+/********************************************************
+ subscription modal
+********************************************************/
+
+$(document).ready(() => {
     
   // sign up modal constants
   const $signUpModal = $("#signUpModal");
