@@ -10,6 +10,12 @@ layout: compress
 
   <body id="page-top" data-target=".navbar-fixed-top">
     <div class="container-fluid"> 
+      <header>
+        {% include navbar-top.html %}
+        {% include headerImage.html %}
+        {% include navbar-bottom.html %}
+        {% include subscriptionModal.html %}
+      </header>
       {{content}}
       {% include footer.html %}
     </div>
