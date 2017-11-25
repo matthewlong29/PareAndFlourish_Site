@@ -1,0 +1,43 @@
+%header-image {
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
+
+%header-image-content {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 3rem;
+  font-family: $primaryFont;
+  width: 100%;
+  height: 100%;
+  background-color: rgba($black, 0.5);
+  color: $white;
+}
+
+#header-image {
+  @include userSelect(none);
+  margin: $autoMargin;
+  img {
+    border: none;
+    border-radius: 0;
+  }
+  .post-image {
+    @extend %header-image;
+    &-content {
+      @extend %header-image-content;
+      font-size: 1.15rem;
+      letter-spacing: 4px;
+    }
+  }
+  .page-image {
+    @extend %header-image;
+    &-content {
+      @extend %header-image-content;
+      font-size: 2.15rem;
+      letter-spacing: 5px;
+    }
+  }
+}
