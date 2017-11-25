@@ -19,12 +19,12 @@ jQuery(document).ready(function() {
     // get height of navigation container, banner (landing page), and feature images (sub pages)
     var $navHeight = $(".nav-container").height();
     var $bannerHeight = $("#banner").height();
-    var $featureImageHeight = $("#feature-image").height();
+    var $headerImageHeight = $("#header-image").height();
     // set height of banner (landing page)
     $("#banner").css("min-height", "calc(100vh - " + $navHeight + "px)");
     // Set height of header tags (landing page and sub pages)
     $("#landingPageHeader").css("min-height", "calc(100vh)");
-    $("#subPageHeader").css("min-height", "calc(" + $navHeight + "px + " + $featureImageHeight + "px)");
+    $("#subPageHeader").css("min-height", "calc(" + $navHeight + "px + " + $headerImageHeight + "px)");
   } // end headerHeight()
 
   // call headerHeight function

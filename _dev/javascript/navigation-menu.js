@@ -118,7 +118,7 @@ $(document).ready(function() {
     // banner height (homepage)
     var $bannerHeight = $("#banner").height();
     // feature image height (subpages)
-    var $featureHeight = $("#feature-image").height();
+    var $featureHeight = $("#header-image").height();
     // vertical location of navbar
     var $offset = $(".nav-container").offset().top;
     if ($(this).scrollTop() > $bannerHeight) {
