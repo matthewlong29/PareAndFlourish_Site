@@ -44,6 +44,10 @@
     height: 100%;
     width: 100%;
   }
+  svg {
+    fill: lighten($gray, 25%);
+    max-width: 16px;
+  }
 }
 
 .loading {
