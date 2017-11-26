@@ -20,6 +20,7 @@ links:
   pinterest: https://www.pinterest.com/pareandflourish/
   paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5JHZTSRZ52BZ6
   rss: http://www.pareandflourish.com/feed.xml
+  linkedin: https://www.linkedin.com/company/pare-and-flourish
 
 paginate: 6
 paginate_path: "/blog/page:num/"
