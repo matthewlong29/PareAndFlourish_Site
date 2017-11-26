@@ -41,4 +41,7 @@
       letter-spacing: 5px;
     }
   }
+  .landing-page-image {
+    @extend %header-image;
+  }
 }

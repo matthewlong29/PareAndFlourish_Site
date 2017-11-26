@@ -4,9 +4,7 @@
     <div class="post-image-content">{{page.title}}</div>
   </div>
   {% elsif page.url == '/' %}
-  <div class="page-image" style="background-image:url('/assets/images/header/{{page.image.header}}');">
-    <div class="page-image-content">Learn how to pitch your professional brand!</div>
-  </div>
+  <div class="landing-page-image" style="background-image:url('/assets/images/header/{{page.image.header}}');"></div>
   {% else %}
   <div class="page-image" style="background-image:url('/assets/images/header/{{page.image.header}}');">
     <div class="page-image-content">{{page.title}} - Pare and Flourish</div>
