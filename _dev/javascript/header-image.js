@@ -1,8 +1,8 @@
 /********************************************************
-  calculate height of header/banner images
+  calculate height of header images
 ********************************************************/
 
-// calculate height of banner image minus navigation on homepage
+// calculate height of header
 const headerHeight = () => {
 
   // get height of navigation container, banner (landing page), and feature images (sub pages)
@@ -17,7 +17,7 @@ const headerHeight = () => {
 // call headerHeight function
 headerHeight();
 
-// call functions when window is resized
+// call headerHeight() when window is resized
 $(window).resize(() => {
   headerHeight();
 });
