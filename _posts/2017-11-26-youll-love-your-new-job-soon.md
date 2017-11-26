@@ -12,8 +12,8 @@ excerpt: "Your new job holds so much promise. As soon as you saw the advertiseme
 categories: blog
 
 image:
-  teaser: youll-love-your-new-job-soon.jpg
-  header: youll-love-your-new-job-soon.jpg
+  teaser: love-your-new-job.jpg
+  header: love-your-new-job.jpg
 
 tags: new job, getting a new job, changing positions at work
 ---
