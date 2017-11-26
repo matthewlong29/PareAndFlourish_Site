@@ -70,6 +70,10 @@ footer {
           padding: .5rem;
           a {
             border-bottom: none;
+            svg {
+              fill: lighten($gray, 25%);
+              max-width: 16px;
+            }
             &:hover {
               background: transparent;
             }
