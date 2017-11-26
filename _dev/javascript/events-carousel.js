@@ -1,5 +1,5 @@
 /********************************************************
-events carousel on homepage
+events carousel on landing page
 ********************************************************/
 
 $(document).ready(() => {
@@ -21,7 +21,7 @@ $(document).ready(() => {
     
   let eventImages = '';
   
-  for (let i = 1; i < 12; i++) {
+  for (let i = 1; i <= 12; i++) {
     eventImages += '<div class="eventImage" style="background: url(' + eventImage[i] + ')"></div>';
   }
   
