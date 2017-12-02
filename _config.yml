@@ -50,5 +50,3 @@ plugins:
   - jekyll-assets
   - jekyll-sitemap
   - jekyll-paginate
-
-future: false
