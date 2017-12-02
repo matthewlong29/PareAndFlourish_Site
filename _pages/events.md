@@ -62,3 +62,7 @@ When asked “What was your favorite part of this Flourish Roundtable?” this i
 </script>
 
 <hr class="secondary">
+
+<section id="events">
+  <div class="eventGallery"></div>
+</section>
