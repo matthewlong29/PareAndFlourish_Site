@@ -15,7 +15,7 @@ image:
   teaser: surviving-the-holidays.jpg
   header: surviving-the-holidays.jpg
 
-tags: tag
+tags: holiday stress, holiday life balance, stress free holiday
 ---
 
 The holiday season seems to always teeter between magic and chaos. The Pare and Flourish team is really feeling that right now. We have schedules to keep and unexpected adventures to conquer, which have left us emotional and exhausted. It was a long week, both physically and mentally. That whole what-doesn’t-kill-you-makes-
