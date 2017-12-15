@@ -1,0 +1,19 @@
+@mixin flex($values) {
+  -webkit-box-flex: $values;
+  -moz-box-flex: $values;
+  -webkit-flex: $values;
+  -ms-flex: $values;
+  flex: $values;
+}
+
+#eventsGallery {
+  display: flex;
+  flex-wrap: wrap;
+  img {
+    @include userSelect(none);
+    @include flex(1 200px);
+    align-self: center;
+    margin: .5rem;
+    width: 18%;
+  }
+}
