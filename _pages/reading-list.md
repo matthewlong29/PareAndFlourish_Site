@@ -12,6 +12,11 @@ image:
 <section id="amReadingPage">
     <div class="bookRow">
       <div class="bookTile">
+        <a href="http://amzn.to/2CSFhGr" target="_blank">
+          <img src="/assets/images/other/amReading/theCoachingHabit.jpg" alt="The Coaching Habit">
+        </a>
+      </div>
+      <div class="bookTile">
         <a href="http://amzn.to/2zZoAZg" target="_blank">
           <img src="/assets/images/other/amReading/fearlessAndFree.jpg" alt="Fearless and Free">
         </a>
