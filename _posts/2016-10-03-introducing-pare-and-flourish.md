@@ -19,7 +19,7 @@ tags: pare, flourish
 ---
 
 This is the first of hopefully many blog entries to come - co-written by yours truly: Katie Butler and Skylar Wooden.
-We’ve discussed writing a blog for some time now. This came about after listening to some of our favorite podcasts: <a href="http://www.millennialpodcast.org/">Millennial</a>, <a href="http://jesslively.com/livelyshow/">The Lively Show</a>, and <a href="http://www.cbc.ca/radio/loveme">Love Me</a>. Inspired by their insight, we realized something: we, too, have valuable experiences to share.
+We’ve discussed writing a blog for some time now. This came about after listening to some of our favorite podcasts: [Millennial](http://www.millennialpodcast.org/), [The Lively Show](http://jesslively.com/livelyshow/), and [Love Me](http://www.cbc.ca/radio/loveme). Inspired by their insight, we realized something: we, too, have valuable experiences to share.
 
 Thanks to the internet, it’s fairly easy to find people you can relate to. We want to be those people for you. It is a personal mission of ours not to romanticize our lives, as is so often done in the age of social media.
 

@@ -30,7 +30,7 @@ Right?
 
 Well, yes and no. Mostly no. 
 
-See also: <a href="/blog/why-i-dropped-everything-to-teach-abroad/">Why I Dropped Everything to Teach Abroad</a>
+See also: [Why I Dropped Everything to Teach Abroad](/blog/why-i-dropped-everything-to-teach-abroad/)
 
 ## Expectation
 
@@ -97,7 +97,7 @@ I’ve committed to starting my days with intention. I cannot expect myself to c
 
 ## How I’m Taking Action
 
-The tool I’ve found most effective is <a href="http://thehappinessplanner.com?aff=377" target="_blank">The Happiness Planner</a>. Incorporating the planner into my mindfulness practice has helped me to understand myself better and see, specifically, how I want my life to change. More than opportunities for change, the planner helps me understand and appreciate what I love about my life. 
+The tool I’ve found most effective is [The Happiness Planner](http://thehappinessplanner.com?aff=377). Incorporating the planner into my mindfulness practice has helped me to understand myself better and see, specifically, how I want my life to change. More than opportunities for change, the planner helps me understand and appreciate what I love about my life. 
 
 Another tool I’ve found useful is basic list writing. I write my goals and create action plans to reach them. For example, I originally expected daily exercise. I didn’t account for my days off when I’m not traveling, and especially when it’s dreary outside. My list now includes “daily exercise” and my action plan is to require myself to walk at least one hour per day, regardless of my work schedule or the weather.
 

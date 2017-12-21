@@ -22,19 +22,17 @@ For some, working from home is the dream. For others, working from home is a nec
 
 Here are a few things to consider when asking to work from home:
 
-### Don’t Make it All About You
+## Don’t Make it All About You
 
 Working remotely is obviously beneficial to you, but your boss is focused on the bottom line—production. He or she likely fears that if you work from home you’ll be distracted and produce less work. The trick is to make it seem mutually beneficial. 
 
 How can it be beneficial to your boss and your company? Possibly: 
 
-<ul>
-  <li>You will save time by not commuting to work. </li>
-  <li>You will free up much-needed space at the office.</li>
-  <li>You will be able to create a better <a href="/blog/ten-steps-to-mastering-work-life-balance/">work-life balance</a>, which will increase your overall productivity. </li>
-</ul>
+- You will save time by not commuting to work. 
+- You will free up much-needed space at the office.
+- You will be able to create a better [work-life balance](/blog/ten-steps-to-mastering-work-life-balance/), which will increase your overall productivity. 
 
-### Prove Yourself
+## Prove Yourself
 
 If you're new to the job, maybe asking to work remotely shouldn’t be the first question you ask. It takes time to build up your reputation. Your boss first needs to know that he or she can rely on you to always get the job done.
 
@@ -42,17 +40,17 @@ No one wants to be micromanaged, but let's be real here: if they don't know how 
 
 Likewise, if you have proven yourself, show your boss solid examples of how you have helped the company. Let it be known that you will continue to bring those results. 
 
-### Be Realistic
+## Be Realistic
 
 Does your career require a lot of face-to-face interaction? If yes, working remotely just isn't feasible. Does your company have the technology available for you to video chat with clients? The same applies to your coworkers. If your job requires group participation, does your company have collaboration tools for you to meet that need?
 
-### Work Out the Logistics
+## Work Out the Logistics
 
 Before requesting your alternative work arrangement, work out the logistics. Have a few options in mind as far as location, time, and days. Determine how many days working from home would be best for both you and your company. 
 
 If you are working remotely full-time, will you ever need to come back to the office? If so, when? Iron out all of the details before you approach your boss. The more prepared you seem, the more he or she will trust you with the opportunity to work from home.
 
-### Negotiate 
+## Negotiate 
 
 Once you’ve made your proposal to your boss, you will be ready to negotiate your terms. Anticipate your boss’ concerns and have a solution ready if they come up. Go in with an understanding of your non-negotiables. For example, if your pay will change, you should have in mind the highest pay cut you are willing to accept. You will keep yourself from entering into an agreement that you aren't happy with. 
 

@@ -15,7 +15,7 @@ Are you interested in collaborating with Pare and Flourish? Let us <a href="mail
 
 <hr class="secondary">
 
-### Who have we collaborated with so far?
+## Who have we collaborated with so far?
 
 <ul class="collaborateList">
 	<li>
@@ -37,7 +37,7 @@ Are you interested in collaborating with Pare and Flourish? Let us <a href="mail
 
 <hr class="secondary">
 
-### What products have we reviewed?
+## What products have we reviewed?
 
 <ul class="collaborateList">
 	<li>
@@ -49,7 +49,7 @@ Are you interested in collaborating with Pare and Flourish? Let us <a href="mail
 
 <hr class="secondary">
 
-### How Can We Work Together?
+## How Can We Work Together?
 
 <ul>
 	<li>Co-writing blog posts</li>
@@ -62,7 +62,7 @@ Are you interested in collaborating with Pare and Flourish? Let us <a href="mail
 
 <hr class="secondary">
 
-### Help us Help You!
+## Help us Help You!
 
 We promote collaborations (sponsored blog posts, guest blogs, etc.) on all of our social media platforms: Twitter, Facebook, Pinterest, and our personal LinkedIn accounts. The collaboration material will also be promoted in our weekly newsletter. 
 

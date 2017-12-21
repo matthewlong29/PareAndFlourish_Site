@@ -32,10 +32,9 @@ You…
 
 The internet tells us everything, including the median salary of your position. You can even research the median salary for your specific area. Your understanding of what others in your field are paid will go a long way in knowing what number is appropriate to expect. Websites that can help you are:
 
-<ul>
-  <li><a href="https://www.glassdoor.com/index.htm" target="_blank">Glassdoor</a>; and</li>
-  <li><a href="https://www.bls.gov/ooh/" target="_blank">bls.gov</a>(The Occupational Outlook Handbook).</li>
-</ul>
+
+- [Glassdoor](https://www.glassdoor.com/index.htm); and
+- [bls.gov](https://www.bls.gov/ooh/)(The Occupational Outlook Handbook).
 
 Whether you’re using this research to know what you should be paid now or what you could be paid at your next job, knowledge is power. 
 
@@ -51,7 +50,7 @@ When negotiating, you have to remember that they will start at the their low poi
 
 Odds are, your leadership team is not aware of everything you do for your company to help it grow. They, like you, have a lot on their plates. Make this conversation easier for both parties by explaining exactly why you deserve this raise. It is beneficial to write these down, so you aren’t relying on memory during what can be a stressful conversation. 
 
-<blockquote><span class="boldText">Pro Tip</span>: Give tangible numbers that your boss can easily digest. For example, “I increased our web traffic last year by 30%.”</blockquote>
+>**Pro Tip**: Give tangible numbers that your boss can easily digest. For example, “I increased our web traffic last year by 30%.”
 
 ## Be Confident
 
@@ -59,7 +58,7 @@ The act of confidence, is just that, an act. At least to start with. The phrase 
 
 Ask any interviewer what makes a candidate stand out and the answer will revolve around confidence. It is often less about the technical skills and more about the ability to sell yourself. You can have all the smarts and abilities, but if you can’t pitch your own personal brand, how will anyone know?
 
-You may also enjoy <a href="/blog/pitching-your-professional-brand-a-guide-for-introverts/">Pitching Your Professional Brand: A Guide for Introverts</a>.
+You may also enjoy [Pitching Your Professional Brand: A Guide for Introverts](/blog/pitching-your-professional-brand-a-guide-for-introverts/).
 
 <hr class="secondary">
 

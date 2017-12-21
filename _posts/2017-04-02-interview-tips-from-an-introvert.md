@@ -39,13 +39,13 @@ Yep, walk around the house talking to yourself for a couple of days. I promise t
 
 Please, oh, please, do not memorize a script for each question, rather, just practice hitting the key points you feel are necessary. Remember: this is a conversation, not a foreign language exam.
 
-Also see: <a href="/blog/pitching-your-professional-brand-a-guide-for-introverts/">Pitching Your Professional Brand: A Guide for Introverts</a>
+Also see: [Pitching Your Professional Brand: A Guide for Introverts](/blog/pitching-your-professional-brand-a-guide-for-introverts/)
 
-<h4>2. Cling to the Familiar (on interview day)</h4>
+## 2. Cling to the Familiar (on interview day)
 
 Generally, I would say resisting change is a negative thing. Change is uncomfortable but necessary; that is, except for the day of an interview. Daily routines create a sense of control and stability and promote feelings of peace and confidence. Don’t skimp out on your daily bagel because you have butterflies in your stomach. Don’t set an alarm for two hours earlier than usual to get a head start on the day. You are smart and capable on any given day, no need to modify what already works for you.
 
-Jacob Merkley, author of Power Over Life, teaches us about building confidence and believing in yourself.* View his article <a href="https://www.poweroverlife.com/build-confidence-self-esteem-tips-quotes/" target="_blank">here</a>.
+Jacob Merkley, author of Power Over Life, teaches us about building confidence and believing in yourself.* View his article [here](https://www.poweroverlife.com/build-confidence-self-esteem-tips-quotes/).
 
 ## 3. Dress…like you!
 

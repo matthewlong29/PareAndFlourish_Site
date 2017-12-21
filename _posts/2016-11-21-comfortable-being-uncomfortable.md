@@ -18,7 +18,7 @@ image:
 tags: intuition, mindfulness
 ---
 
-<blockquote>“The number-one thing that you will have to sacrifice to be great, to achieve what you are capable of, and to execute your plans, is your comfort.<cite><a href="/reading-list/">The 12 Week Year by Brian P. Moran</a></cite></blockquote>
+>“The number-one thing that you will have to sacrifice to be great, to achieve what you are capable of, and to execute your plans, is your comfort. *[The 12 Week Year by Brian P. Moran](/reading-list/)*
 
 Humans love comfort. While it’s not always a conscious decision, we’re always looking to make an uncomfortable feeling go away. The feeling comes out of nowhere—suddenly something feels “off.” Often, you’re not able to pinpoint the cause. It could be anything: your job or social life or relationship or physical health. Anything.  
 
@@ -38,11 +38,12 @@ Of course, we understand that life isn’t all about what you do and don’t wan
 
 The second, though, will give you time to talk to your inner self and find a solution. If you have the vague internal monologue that says “I just don’t feel right,” but don’t have a question or reason, it’s something to explore. 
 
-Bury yourself into your feeling. Try asking yourself these questions: 
-Am I being challenged at my job? 
-Do my friends help me create a positive atmosphere? 
-Do I feel loved and appreciated in my relationship? 
-If I could do one thing, what would it be? 
+Bury yourself into your feeling. Try asking yourself these questions:
+
+Am I being challenged at my job?  
+Do my friends help me create a positive atmosphere?  
+Do I feel loved and appreciated in my relationship?  
+If I could do one thing, what would it be?  
 
 If exploring this feeling within yourself isn’t enough, ask for help. Talk to your mentors, your friends, your therapist (if you have one), or anyone who might have some insight on this stage of your life. Most of all, don’t stress. You won’t find the answer immediately. Your intuition is more complex than that. Keep a lookout, though. You’ll get there. 
 

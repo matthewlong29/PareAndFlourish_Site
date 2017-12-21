@@ -30,13 +30,13 @@ After giving it some thought, we’ve narrowed down the ways small-town life aff
 
 You spent nearly 18 years in school with the same people. You’ve known countless people in your hometown since kindergarden; not only them, but their families. With this, comes connection. You value the people who remember you when you were small, when you had braces, and when you were going through that horrible haircut stage. 
 
-Whether you’re in contact with those people or not, you understand the value of connecting. <span class="boldText">In your career, you make personal connections quickly, with your clients and with your coworkers.</span> Interpersonal skills are second nature because when you’re growing up in such a small place, people who are simply acquaintances aren’t as easy to come by. 
+Whether you’re in contact with those people or not, you understand the value of connecting. **In your career, you make personal connections quickly, with your clients and with your coworkers.** Interpersonal skills are second nature because when you’re growing up in such a small place, people who are simply acquaintances aren’t as easy to come by. 
 
 ## Rumor Mills: You Know How to Deal
 
 Even if you were a goody-two-shoes type of kid, at some point in your small-town life, a rumor was told about you. Maybe it was rooted in truth, maybe it absolutely was not. Either way, you’ve been there and you know to let it go. 
 
-As much as we would love to think that adults have grown past gossip, it just doesn’t work that way. Rumors will start, gossip will happen, and occasionally, you will accidentally be the source. Growing up in a small town, though, gives you thick skin. Everyone in the town knows [read: thinks they know] everything about everyone else. <span class="boldText">You’ve been there, you know how to handle it, and it will come in handy in your career life. Avoid it at all costs.</span>
+As much as we would love to think that adults have grown past gossip, it just doesn’t work that way. Rumors will start, gossip will happen, and occasionally, you will accidentally be the source. Growing up in a small town, though, gives you thick skin. Everyone in the town knows [read: thinks they know] everything about everyone else. **You’ve been there, you know how to handle it, and it will come in handy in your career life. Avoid it at all costs.**
 
 ## A Sense of Community is Close to Your Heart
 
@@ -44,11 +44,11 @@ Living in one place your entire life comes with certain advantages. You know the
 
 Moving to a bigger city, even slightly bigger, makes you want to recreate your sense of community in your new place. You find the best local coffee, restaurants, bars, and hangout spots. 
 
-<span class="boldText">You will truly be the best person to deepen the connection between your business and the community.</span> Even if you work for yourself, you’ll learn to make connections. In your hometown, you know everyone with very little effort. You went to school with one half, and are likely related to the other. <span class="boldText">Once you reframe your mind to reach out to people and connect with intention, you’re well on your way to creating a network.</span>
+**You will truly be the best person to deepen the connection between your business and the community.** Even if you work for yourself, you’ll learn to make connections. In your hometown, you know everyone with very little effort. You went to school with one half, and are likely related to the other. **Once you reframe your mind to reach out to people and connect with intention, you’re well on your way to creating a network.**
 
 ## If You Now Live in a Larger City, You Know Both Sides
 
-You’ve done the small town thing and now you’re in a bigger city. You know the quaint feeling of your hometown and you’re navigating bigger waters as well as you can. <span class="boldText">We hope you’re thriving and, if you are, we’d be willing to bet your hometown has played a part.</span>
+You’ve done the small town thing and now you’re in a bigger city. You know the quaint feeling of your hometown and you’re navigating bigger waters as well as you can. **We hope you’re thriving and, if you are, we’d be willing to bet your hometown has played a part.**
 
 <hr class="secondary">
 

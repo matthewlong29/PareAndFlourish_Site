@@ -18,7 +18,7 @@ image:
 tags: drop the ball, tiffany dufu, review of drop the ball
 ---
 
-If you enjoyed Lean In by Sheryl Sandberg, you’ll want <a href="http://amzn.to/2wlunqt" target="_blank">Drop the Ball</a> on your summer reading list. Tiffany Dufu pulls you in with a relatable and witty story of her struggle as a working, new mother who realizes the deck is stacked against her. Societal expectations took their toll, but the author recounts her realization that she may also be stacking the deck against herself. 
+If you enjoyed Lean In by Sheryl Sandberg, you’ll want [Drop the Ball](http://amzn.to/2wlunqt) on your summer reading list. Tiffany Dufu pulls you in with a relatable and witty story of her struggle as a working, new mother who realizes the deck is stacked against her. Societal expectations took their toll, but the author recounts her realization that she may also be stacking the deck against herself. 
  
 Drop the Ball takes you through Dufu’s personal struggles and epiphanies that she could not juggle all of the balls—the balls being metaphors for her responsibilities—nor did she have to. This book isn’t solely for millennials, or solely for women; this book is for anyone who is attempting to enter, or re-enter, the workforce and balance a social life, family, and/or volunteer obligations. Or, for anyone who wants to better understand those who are.
  
@@ -48,12 +48,10 @@ The author explains that women shouldn’t just strive to be a part of middle ma
  
 Reaching a work-life balance between a career and a family is a strong motivator for a middle management job, but this is not where women reach equality. Dufu further explains her four “Go-Tos” that helped her to advance above middle management. Her practices are:
 
-<ol>
-	<li>Go to exercise</li>
-	<li>Go to lunch</li>
-	<li>Go to events</li>
-	<li>Go to sleep</li>
-</ol>
+- Go to exercise
+- Go to lunch
+- Go to events
+- Go to sleep
 
 Our biggest takeaway was #3: Go to events. Standing out in the workplace requires women to speak up and be heard. 
  
@@ -63,4 +61,4 @@ Meeting goals make you dependable, not indispensable. Be indispensable. Be heard
 
 <hr class="secondary">
 
-Dufu’s book is full of awe-inspiring motivation, all while making you laugh about her oh-so relatable fail moments. We definitely recommend you give it a try! You can find it on Amazon <a href="https://www.google.com/url?q=https://www.amazon.com/gp/product/1250071739/ref%3Das_li_tl?ie%3DUTF8%26tag%3Dpareandflouri-20%26camp%3D1789%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3D1250071739%26linkId%3D511719fee662ac991a73297c972f4f96&sa=D&ust=1498406772794000&usg=AFQjCNHPjvxfbyqQXFqrt1tbiXR_wTgLbg" target="_blank">here</a>. What did you think about Drop the Ball?
+Dufu’s book is full of awe-inspiring motivation, all while making you laugh about her oh-so relatable fail moments. We definitely recommend you give it a try! You can find it on Amazon [here](https://www.google.com/url?q=https://www.amazon.com/gp/product/1250071739/ref%3Das_li_tl?ie%3DUTF8%26tag%3Dpareandflouri-20%26camp%3D1789%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3D1250071739%26linkId%3D511719fee662ac991a73297c972f4f96&sa=D&ust=1498406772794000&usg=AFQjCNHPjvxfbyqQXFqrt1tbiXR_wTgLbg). What did you think about Drop the Ball?

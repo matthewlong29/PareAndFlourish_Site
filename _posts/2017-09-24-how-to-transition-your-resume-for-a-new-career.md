@@ -40,13 +40,11 @@ What you say matters, how you say it matters more. How you distinguish your qual
 
 To start, ask yourself the following: 
 
-<ul>
-  <li>What makes me stand out from another person with the same qualifications?</li>
-  <li>What is important for the recruiter to know about me?</li>
-  <li>What can I offer this company that will help them reach their goals?</li>
-</ul>
+- What makes me stand out from another person with the same qualifications?
+- What is important for the recruiter to know about me?
+- What can I offer this company that will help them reach their goals?
 
-The Balance website is a good resource when writing profiles and has great examples: <a href="https://www.thebalance.com/resume-profile-examples-2062828" target="_blank">www.thebalance.com</a>
+The Balance website is a good resource when writing profiles and has great examples: [www.thebalance.com](https://www.thebalance.com/resume-profile-examples-2062828)
 
 ### Update references who can speak to skills in your new career choice
 
@@ -55,7 +53,7 @@ References aren’t as straightforward as they may seem. The original thought is
 Think outside of professors and your supervisors. Good references can come from certain programs you did in college, organizations you’re part of, or volunteer programs you’ve participated in. Use the people who can speak to the skills you’ll be using in the job you’re applying for. 
 
 
-<blockquote><span class="boldText">Pro tip</span>: Always remember to ask the person first, before listing them on your resume as a reference.</blockquote>
+>**Pro tip**: Always remember to ask the person first, before listing them on your resume as a reference.
 
 ### Use the functional resume to your advantage 
 
@@ -63,7 +61,7 @@ We constantly preach the functional resume. The reason for that is because you a
 
 It is your job to identify what skills and abilities the position needs and to present yourself in the best way possible. Unless you’ve been in the same industry for 10+ years, your reverse-chronological work history won’t show you at your best. 
 
-See also: <a href="/blog/why-a-functional-resume-will-land-you-an-interview">Why a Functional Resume Will Land You the Interview</a>
+See also: [Why a Functional Resume Will Land You the Interview](/blog/why-a-functional-resume-will-land-you-an-interview)
 
 ### Add relevant courses under education
 

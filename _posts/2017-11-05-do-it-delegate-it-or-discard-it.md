@@ -18,7 +18,7 @@ image:
 tags: to-do list, how to delegate, how to be productive
 ---
 
-“Lesson learned? When people say, ‘You really, really must’ do something, it means you don't really have to. No one ever says, ‘You really, really must deliver the baby during labor.’ When it's true, it doesn't need to be said.” – Tina Fey (Bossypants)
+>Lesson learned? When people say, ‘You really, really must’ do something, it means you don't really have to. No one ever says, ‘You really, really must deliver the baby during labor.’ When it's true, it doesn't need to be said. – *Tina Fey (Bossypants)*
 
 We really are on Tina Fey kick. We know it. But we wrote these quotes down months ago, and here lately they apply to our lives more than ever.
 
@@ -34,13 +34,13 @@ Make a list of everything you say you “need” to do. Everything. No matter ho
 
 After you’ve made this list, you have three options: Do it, Delegate it, or Dump it. 
 
-See also: <a href="/blog/how-to-effectively-set-goals/">How to Effectively Set Goals</a>
+See also: [How to Effectively Set Goals](/blog/how-to-effectively-set-goals/)
 
 ### 1. Do It
 
 If your to-do item is important enough, this is the time to do it. Most of our to-do items are truly things that take virtually no time or energy (e.g. scheduling a dentist appointment, or sending an email). Circle everything on your list that must be done.
 
-See also: <a href="/blog/why-email-ruins-our-conversations/">How Email Ruins Our Conversations</a> and <a href="/blog/how-to-be-productive-when-youd-rather-just-go-home/">How To Be Productive When You’d Rather Just Go Home</a> 
+See also: [How Email Ruins Our Conversations](/blog/why-email-ruins-our-conversations/) and [How To Be Productive When You’d Rather Just Go Home](/blog/how-to-be-productive-when-youd-rather-just-go-home/) 
 
 ### 2. Delegate it
 
@@ -50,7 +50,7 @@ You could also consider outsourcing the list item. Your time is valuable, and yo
 
 <div class="row">
   <div class="col-xs-12">
-    <img class="img-fluid" src="/assets/images/posts/do-it-delegate-it-or-discard-it/do-anything-but-not-everything.jpg" alt="Imgage of quote: do anything but not everything">
+    <img class="img-fluid" src="/assets/images/posts/do-it-delegate-it-or-discard-it/do-anything-but-not-everything.jpg" alt="Image of quote: do anything but not everything">
   </div>
 </div>
 

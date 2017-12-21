@@ -28,7 +28,7 @@ One does not simply set goals… Actually, you do, but as with anything, there�
 
 What is the last thing you complained about? Your current job? Something in your community? Your current living situation? Take those complaints and act on them. Humans are motivated by discomfort. We’re always looking for the next best thing. That goal that will improve your life, big or small. 
 
-Also see Being <a href="/blog/being-comfortable-with-being-uncomfortable/">Comfortable with Being Uncomfortable</a>.
+Also see: [Being Comfortable with Being Uncomfortable](/blog/being-comfortable-with-being-uncomfortable/).
 
 ### What Lights Your Fire?
 

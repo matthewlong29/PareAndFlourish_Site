@@ -22,7 +22,7 @@ Think back to your school-shopping days: the excitement of choosing new notebook
 
 It’s a symbol of something new, something great. The crisp, unmarked pages symbolize a new start. A new semester, a new job, a new outlook. As sappy as it sounds, you buy a planner because you’re ready for a new beginning. You promise yourself that you are starting this new journey—whatever it may be—on the right note. 
 
-In September, <span class="boldText">the Happiness Planner</span> gave us that feeling. It was a new chapter in our lives, so it was only appropriate that we find a tool to make it count.
+In September, **the Happiness Planner** gave us that feeling. It was a new chapter in our lives, so it was only appropriate that we find a tool to make it count.
 
 Can the Happiness Planner make you happier? We think so.
 

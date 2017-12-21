@@ -26,12 +26,10 @@ Send the follow up. Always. After the application and after the interview. First
 
 Many questions come up while writing the email. Let’s take a guess: 
 
-<ul>
-	<li>When should I send the email?</li>
-	<li>What subject line do I use?</li>
-	<li>What salutation do I use?</li>
-	<li>What information do I include?</li> 
-	<li>How do I close?</li>
-</ul>
+- When should I send the email?
+- What subject line do I use?
+- What salutation do I use?
+- What information do I include? 
+- How do I close?
 
 We’ve created a choose-your-own template for your follow-up email. This includes a list of subject lines, salutations, body text, and closings. You are able to review each list, select what applies to you, and piece it together into a professional, effective follow up email. Happy job hunting! If you have questions, please tweet them at @pareandflourish! 

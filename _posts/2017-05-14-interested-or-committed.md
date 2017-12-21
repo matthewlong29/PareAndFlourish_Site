@@ -24,7 +24,7 @@ The answer to this question can tell you all you need to know about where someon
 
 It’s frustrating to walk away from a conversation where the person says “I’ll be sure to call you,” and you aren’t sure if they actually will. Asking “are you interested or committed?” will redefine that moment.
 
-See also <a href="/blog/pitching-your-professional-brand-a-guide-for-introverts/">Pitching Your Professional Brand</a>.
+See also: [Pitching Your Professional Brand](/blog/pitching-your-professional-brand-a-guide-for-introverts/).
 
 ### Scenario
 
@@ -32,7 +32,7 @@ You’ve just spent two hours meeting with a potential client. It seems that you
 
 You exchange information. “I’ll call you!” they say. Will they, though? You think the meeting went well, but you will have to wait and see. Had you asked one simple question, you would know whether or not the meeting went in your favor.
 
-<em>Are you interested, or are you committed?</em>
+*Are you interested, or are you committed?*
 
 We know what you’re thinking. This sounds aggressive. It doesn’t have to be. Your tone goes a long way. At the end of a sale or after you’ve interviewed a candidate, say “Are you interested, or committed?” The person you’re talking to is just as unsure about how the interaction went. They will appreciate you putting the question out there.
 

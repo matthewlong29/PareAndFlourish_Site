@@ -22,15 +22,13 @@ If you’re at this part of the process, you have submitted a fantastic resume a
 
 Beware of thoughts like these: 
 
-<em>I am not qualified for this job.</em>
-
-<em>I have somehow fooled this person into thinking I am capable.</em>
-
-<em>They are going to realize halfway through this interview that I am a fraud.</em>
+*I am not qualified for this job.*  
+*I have somehow fooled this person into thinking I am capable.*  
+*They are going to realize halfway through this interview that I am a fraud.*  
 
 It is not time to adapt toxic, self-deprecating thoughts. It’s time to kick ass. But, where to start?
 
-Also see <a href="/blog/review-of-lean-in/">Review of Lean In</a>
+Also see: [Review of Lean In](/blog/review-of-lean-in/)
 
 ### Before
 

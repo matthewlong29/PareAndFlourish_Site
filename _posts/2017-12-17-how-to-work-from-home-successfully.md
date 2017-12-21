@@ -28,13 +28,13 @@ We've put together our top five tips that keep us as focused and productive as p
 
 ## Make a to-do List
 
-However you start your day, whether drinking your coffee at your kitchen table or sitting at your desk, make a to-do list during that time. This is great way to organize your thoughts and jump start your morning brain. If you already incorporate this practice, amp up your morning mindfulness with <a href="/blog/can-this-planner-make-you-happier/">The Happiness Planner</a>, which you can purchase <a href="https://thehappinessplanner.com/?aff=377" target="_blank">here</a>.
+However you start your day, whether drinking your coffee at your kitchen table or sitting at your desk, make a to-do list during that time. This is great way to organize your thoughts and jump start your morning brain. If you already incorporate this practice, amp up your morning mindfulness with [The Happiness Planner](/blog/can-this-planner-make-you-happier/), which you can purchase [here](https://thehappinessplanner.com/?aff=377).
 
 Because you aren't leaving the house to go to an office, your brain needs a way to clear the fog. 
 
-Pro tip: Your morning ritual is the most important part of your day. Make sure it's something that leaves you happy, balanced, and alert. 
+>**Pro tip**: Your morning ritual is the most important part of your day. Make sure it's something that leaves you happy, balanced, and alert.
 
-See also: <a href="/blog/do-it-delegate-it-or-discard-it/">Do it, Delegate it, or Discard it</a>
+See also: [Do it, Delegate it, or Discard it](/blog/do-it-delegate-it-or-discard-it/)
 
 ## Keep a Consistent Schedule
 
@@ -44,13 +44,13 @@ We aren’t saying wake up at 5am, just that whatever your schedule is, keep it 
 
 Your body loves routine, whether you naturally gravitate toward a schedule or not. 
 
-See also: <a href="/blog/how-to-be-productive-when-youd-rather-just-go-home/">How to be Productive (When You’d Rather Just Go Home)</a>
+See also: [How to be Productive (When You’d Rather Just Go Home)](/blog/how-to-be-productive-when-youd-rather-just-go-home/)
 
 ## Create Deadlines for Yourself
 
 Imaginary deadlines can help to keep you on track and keep you from wasting time. Setting personal deadlines may seem arbitrary since you are in charge of them, but let’s think of them as goals instead. Set small goals for yourself to keep you on schedule, especially if you have a habit of procrastinating. 
 
-See also: <a href="/blog/how-to-effectively-set-goals/">How to Effectively Set Goals</a>
+See also: [How to Effectively Set Goals](/blog/how-to-effectively-set-goals/)
 
 ## Separate Work From Home, AKA Have an Office
 
@@ -58,13 +58,13 @@ It’s not always best to just roll out of bed and over to your laptop. Having a
 
 Not only do you not want your home life interfering with your work, you don’t want your work life spilling over into your home time either. If it all feels like work, or it all feels like home, your life has no balance. 
 
-See also: <a href="/blog/ten-steps-to-mastering-work-life-balance/">Ten Steps to Mastering Work-Life Balance</a>
+See also: [Ten Steps to Mastering Work-Life Balance](/blog/ten-steps-to-mastering-work-life-balance/)
 
 ## Remove Distractions
 
 It may be tempting to watch television or sit on your phone, but resisting these temptations will be best in the long run. Nothing ruins a plan to be productive like realizing you spent the whole day re-watching Scrubs for the 10th time. 
 
-See also: <a href="/blog/five-things-to-consider-before-asking-to-work-remotely/">Five Things to Consider Before Asking to Work Remotely</a>
+See also: [Five Things to Consider Before Asking to Work Remotely](/blog/five-things-to-consider-before-asking-to-work-remotely/)
 
 <hr class="secondary">
 

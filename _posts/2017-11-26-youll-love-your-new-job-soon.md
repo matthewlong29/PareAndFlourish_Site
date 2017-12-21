@@ -30,7 +30,7 @@ Once upon a time, leaving your previous job piqued your interest; there was a re
 
 We cope by differentiating between ‘familiar’ and ‘good.’ You were comfortable. While comfort has its place, it’s not meant to keep you in a place forever. Don’t second guess yourself. You made the right move. Lean into it. 
 
-See also: <a href="/blog/how-changing-your-perspective-changes-the-game/">How Changing Your Perspective Changes The Game</a>
+See also: [How Changing Your Perspective Changes The Game](/blog/how-changing-your-perspective-changes-the-game/)
 
 ## You Will Find A Work Friend
 
@@ -42,7 +42,7 @@ You will find people in your new workplace. You’ll find people who share some 
 
 We know it feels like you’ll be the “new guy/girl” forever. Give it a month. You’ll feel more included and more knowledgeable. The best part? They’ll hire someone new, and soon. You’re only the new person for a short time, enjoy the freedom that gives you. Ask questions, take notes, and make valuable connections.
 
-See also: <a href="/blog/being-comfortable-with-being-uncomfortable/">Being Comfortable with Being Uncomfortable</a>
+See also: [Being Comfortable with Being Uncomfortable](/blog/being-comfortable-with-being-uncomfortable/)
 
 ## Change Teaches Us More Than Standstill Ever Could
 
@@ -50,7 +50,7 @@ Change is good. No, change is great. One of the best benefits of your job, at an
 
 Not only are you learning about your position, but so much more. Maybe you’re in a new part of town (or a different town altogether). Maybe your coworker has an interesting hobby you’d like to learn more about. Maybe this job has traveling opportunities. Regardless, there is an unending pool of information in your new position, just waiting for you to come looking for it. 
 
-See also: <a href="/blog/how-to-embrace-change-in-the-workplace/">How to Embrace Change in the Workplace</a>
+See also: [How to Embrace Change in the Workplace](/blog/how-to-embrace-change-in-the-workplace/)
 
 ## You’ll Soon Be The One Answering Questions
 

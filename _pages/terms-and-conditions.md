@@ -11,7 +11,7 @@ image:
 
 ## Event Disclaimer
 
-Please find our event disclaimer <a href="/assets/docs/Event_Disclaimer_2017.pdf" target="_blank">here</a>.
+Please find our event disclaimer [here](/assets/docs/Event_Disclaimer_2017.pdf).
 
 ## Copyright
 

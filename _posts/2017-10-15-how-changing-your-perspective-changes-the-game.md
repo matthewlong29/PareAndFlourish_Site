@@ -46,7 +46,7 @@ A phrase the P&F team learned, and frequently uses, is “This is good because _
 
 The more positively you see your actions, the better you can feel about their effect on you. Maybe they stalled or changed your course of direction, but they also gave you something. You just have to find out what that something is by choosing to look for it.
 
-See also <a href="/blog/the-happiness-advantage-by-shawn-achor-book-review/">A Book Review: The Happiness Advantage</a>.
+See also: [A Book Review: The Happiness Advantage](/blog/the-happiness-advantage-by-shawn-achor-book-review/).
 
 <hr class="secondary">
 

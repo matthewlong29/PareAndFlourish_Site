@@ -18,7 +18,7 @@ image:
 tags: how to write a personal statement, personal statement, personal branding, personal branding tips
 ---
 
-Our December <a href="/events">Flourish Roundtable</a> focused on personal branding. Highlighting this event, <span class="boldText">we asked participants to write their personal statements</span>. Something about putting pen to paper makes ideas concrete. Don’t you think? It’s motivating to see your statement on paper <span class="boldText">to help you learn more about yourself and your mission</span>. Think of the personal statement as a business’ mission statement; telling the world what you do, and why. 
+Our December [Flourish Roundtable](/events) focused on personal branding. Highlighting this event, **we asked participants to write their personal statements**. Something about putting pen to paper makes ideas concrete. Don’t you think? It’s motivating to see your statement on paper **to help you learn more about yourself and your mission**. Think of the personal statement as a business’ mission statement; telling the world what you do, and why. 
 
 As for the roundtable, a table of women developing their personal brands is as motivating as it gets. 
 
@@ -37,7 +37,7 @@ As for the roundtable, a table of women developing their personal brands is as m
     </div>
 </div>
 
-<span class="boldText">Why</span> should you write your own statement? <span class="boldText">How</span> do you write your own statement? 
+**Why** should you write your own statement? **How** do you write your own statement? 
 
 ## Why Write a Personal Statement
 
@@ -47,15 +47,11 @@ For businesses, mission statements tell the world what they do and why. Business
 
 ## How to Write a Personal Statement
 
-<ol>
-    <li>Choose 5 to 10 words you would like to include in your statement. These can be: your profession, your passion, adjectives that describe you, etc.</li>
-    <li>Describe yourself in 2 to 4 sentences. When you boil it down, what do you love? What drives you? What do you value? What kind of a person are you trying to attract to your business or to yourself?</li>
-    <li>Read the statement and decide if that fits. If not, tweak and edit until you are satisfied with the way you’ve represented yourself.</li>
-</ol>
+1. Choose 5 to 10 words you would like to include in your statement. These can be: your profession, your passion, adjectives that describe you, etc.
+2. Describe yourself in 2 to 4 sentences. When you boil it down, what do you love? What drives you? What do you value? What kind of a person are you trying to attract to your business or to yourself?
+3. Read the statement and decide if that fits. If not, tweak and edit until you are satisfied with the way you’ve represented yourself.
 
-<blockquote>
-	<span class="boldText">Pro tip</span>: This is just your first draft. Know that your personal branding statement will change over time. The key is to just write something, and then go from there.
-</blockquote>
+>**Pro tip**: This is just your first draft. Know that your personal branding statement will change over time. The key is to just write something, and then go from there.
 
 ## Example Personal Statement
 
@@ -67,11 +63,11 @@ Statement: My title is CPA, but my passion is professional development and coach
 
 Special thanks to our sponsors who made our December 2017 Flourish Roundtable possible:
 
-<p><span class="boldText">T-shirts</span> | <a href="https://www.instagram.com/7inkstudio/" target="_blank">7 Ink Studio</a></p>
-<p><span class="boldText">Photography</span>  | <a href="https://www.instagram.com/2137media/" target="_blank">2137 Media</a></p>
-<p><span class="boldText">Food</span>  | <a href="https://www.instagram.com/wholefoodslex/" target="_blank">Whole Foods Market Lexington</a></p>
-<p><span class="boldText">Print</span>  | <a href="http://www.prettystrange.design/" target="_blank">Pretty Strange Design</a></p>
-<p><span class="boldText">Venue</span>  | <a href="https://www.hamburgfarmslex.com/" target="_blank">Hamburg Farms</a></p>
+**T-shirts**: [7 Ink Studio](https://www.instagram.com/7inkstudio/)  
+**Photography**: [2137 Media](https://www.instagram.com/2137media/)  
+**Food**: [Whole Foods Market Lexington](https://www.instagram.com/wholefoodslex/)  
+**Print**: [Pretty Strange Design](http://www.prettystrange.design/)  
+**Venue**: [Hamburg Farms](https://www.hamburgfarmslex.com/)  
 
 <hr class="secondary">
 

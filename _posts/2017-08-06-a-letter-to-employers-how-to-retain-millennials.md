@@ -32,21 +32,21 @@ This brings us to our topic: why do millennials quit? When they’ve made the mo
 
 ## They Want To Be Working Toward a Common Goal (And Know What That Goal Is)
 
-How often, or how well, are you communicating your company’s mission to your employees? If your answer is often, great. <span class="boldText">Millennials crave a sense of purpose</span>. Maybe it was excessive nurturing that made us this way, maybe not. Either way, it doesn’t change the fact that millennials want to know why they are doing something. 
+How often, or how well, are you communicating your company’s mission to your employees? If your answer is often, great. **Millennials crave a sense of purpose**. Maybe it was excessive nurturing that made us this way, maybe not. Either way, it doesn’t change the fact that millennials want to know why they are doing something. 
 
 Is it just to make money? It doesn’t have to be big or philanthropic, it could simply be to educate others. Whatever it is, we want to know. We want to feel involved and understand what part we’re playing in the company’s success. 
 
-Remind employees day in and day out why they are sitting at a desk all day. Being confined to one area for 40 hours a week needs to come with a purpose. Gone are the days when employees accept “because that’s just how it is” as an answer. <span class="boldText">They have 40 hours a week to wonder why they’re there and what other, bigger goals they could be achieving at different companies.</span>
+Remind employees day in and day out why they are sitting at a desk all day. Being confined to one area for 40 hours a week needs to come with a purpose. Gone are the days when employees accept “because that’s just how it is” as an answer. **They have 40 hours a week to wonder why they’re there and what other, bigger goals they could be achieving at different companies.**
 
 ## They Want To Be Heard & Feel Necessary
 
-During a conversation with a peer about employee retention, she said something that really stuck with us: <span class="boldText">“Feeling impactful and trusted is what we are loyal to, not companies.”</span> YES
+During a conversation with a peer about employee retention, she said something that really stuck with us: **“Feeling impactful and trusted is what we are loyal to, not companies.”** YES
 
-She couldn’t be more right. We want to feel trusted and like we’re making a difference. Not just “like” we’re making a difference, but we want to know that we are. Asking for, and listening to, millennial employees’ ideas is a great place to start. Help us help you. That’s the hard part: we want to help, but feel like our hands are tied due to lack of experience. <span class="boldText">While experience is important, so is fresh perspective, which we definitely have.</span> 
+She couldn’t be more right. We want to feel trusted and like we’re making a difference. Not just “like” we’re making a difference, but we want to know that we are. Asking for, and listening to, millennial employees’ ideas is a great place to start. Help us help you. That’s the hard part: we want to help, but feel like our hands are tied due to lack of experience. **While experience is important, so is fresh perspective, which we definitely have.** 
 
 ## They Want to Dream Big
 
-We’ve been told the cliche “you can be anything you want” our entire lives. This may have created some unrealistic expectations for some, but for others, it just made us dream big. This part of our personalities is why so many millennial startups are popping up. <span class="boldText">We believe we can do it, we figure out a way, and we make it happen.</span> Let us do that for your company. What do you have to lose?
+We’ve been told the cliche “you can be anything you want” our entire lives. This may have created some unrealistic expectations for some, but for others, it just made us dream big. This part of our personalities is why so many millennial startups are popping up. **We believe we can do it, we figure out a way, and we make it happen.** Let us do that for your company. What do you have to lose?
 
 ## They Want Their Performance to Be Evaluated on a Value-Added basis
 
@@ -58,7 +58,7 @@ Producing work quickly, regardless of the quality, also makes employees feel lik
 
 While you may be very aware of where you see your employees ending up, the picture may not be as obvious to them. Explain what a typical career path looks like at your company. This includes job titles, compensation, and responsibilities. If you expect to train this employee to move into a different role in the future, let them know, even if you’re just considering it.
 
-<blockquote><span class="boldText">Pro tip</span>: Transparency is key because remaining on the same page will keep both parties happy and accountable. </blockquote>
+>**Pro tip**: Transparency is key because remaining on the same page will keep both parties happy and accountable.
 
 Perhaps, you have this outlined for your employees. Great! The ‘clear path’ doesn't end at job duties, though. Creating that path also includes paving the way by encouraging goals, continued education, and licensing—not just encouraging, but allowing time to reach these goals. Give them time during the work day to reach the goals that will help both the employee and the company succeed.
 
@@ -71,14 +71,13 @@ Humans, not just millennials, were built to socialize, be active, and be challen
 Incorporate creative activities into the work day. Whether this is a potluck, group discussion, or quick outing, a little effort goes a long way for morale. 
 
 Here are some small ways to show your employees you care:
-<ul>
-  <li>Honor requests for standing desks or new chairs</li>
-  <li>Let them bring their dogs to the office</li>
-  <li>Encourage them to take advantage of personal days</li>
-  <li>Send small gifts on their birthdays</li>
-  <li>Order catering for lunch</li>
-  <li>Talk about ways to stay healthy in desk jobs</li>
-</ul>
+
+- Honor requests for standing desks or new chairs
+- Let them bring their dogs to the office
+- Encourage them to take advantage of personal days
+- Send small gifts on their birthdays
+- Order catering for lunch
+- Talk about ways to stay healthy in desk jobs
 
 <hr class="secondary">
 

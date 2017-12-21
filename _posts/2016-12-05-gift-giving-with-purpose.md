@@ -29,35 +29,33 @@ If a last minute trip to the mall—arms full of socks—feels familiar, you mig
 
 <hr class="secondary">
 
-### 1. Experiences
+## 1. Experiences
 
 Things can break or get old or lost. The same can’t be said for experiences. Tickets to plays, concerts, and museums can be such meaningful gifts for a close friend or family member. The memory of that experience is something that will never tarnish. 
 
 <hr class="secondary">
 
-### 2. Handmade Crafts
+## 2. Handmade Crafts
 
-When budget is a factor, homemade gifts are not only low cost, but personal. Pinterest is full of ideas for DIY presents. No matter your skill level, you can find a craft idea that you and your loved one will love. Check out our favorites <a href="https://www.pinterest.com/pareandflourish/diy-gifts/" target="_blank">here</a>!
+When budget is a factor, homemade gifts are not only low cost, but personal. Pinterest is full of ideas for DIY presents. No matter your skill level, you can find a craft idea that you and your loved one will love. Check out our favorites [here](https://www.pinterest.com/pareandflourish/diy-gifts/)!
 
 <hr class="secondary">
 
-### 3. Holiday Charity Events
+## 3. Holiday Charity Events
 
 Someone who is difficult to buy for can really throw a wrench into your thoughtful gift-giving plan. If you find yourself in this situation, consider donating in their name. To make it a bit more personal, choose a charity that supports an issue they’re particularly passionate about.
 
 <hr class="secondary">
 
-### 4. Books
+## 4. Books
 
 A book is the gift of knowledge, entertainment, and so much more. We love fiction, but our latest obsession is creative non-fiction. Here are a few of our favorites:
 
-<ul>
-	<li><a href="/reading-list/">Bossypants by Tina Fey</a>: In this witty account of her life and career, Fey teaches us important lessons she learned along the way. She’s as funny as she is wise.</li>
-	<li><a href="/reading-list/">Lean In: Women, Work, and the Will to Lead by Sheryl Sandberg</a>: An uplifting eye-opener, this book is just what you need to fuel your motivation. Her message isn’t only for women—Sandberg gives men pointers on how to further gender equality for the working women in their lives.</li>
-	<li><a href="/reading-list/">Yes, Please by Amy Poehler</a>: The Amy Poehler you know and love really brings her personality here. She opens up to readers about her triumphs over personal and professional boundaries. We couldn’t get enough.</li>
-	<li><a href="/reading-list/">The 12 Week Year by Brian P. Moran and Michael Lennington</a>: These authors are on a mission to help you rewire your brain and think about goals differently. We highly recommend its guidance and the worksheets included to help you plan your own 12-week year.</li>
-	<li><a href="/reading-list/">The Energy Bus 10 Rules to Fuel Your Life, Work, and Team with Positive Energy by John Sutherland</a>: This self-improvement book takes a positive approach to mundane everyday life. Sutherland teaches you 10 rules to create a positive vision and culture of energy. </li>
-</ul>
+- [Bossypants by Tina Fey](/reading-list/): In this witty account of her life and career, Fey teaches us important lessons she learned along the way. She’s as funny as she is wise.
+- [Lean In: Women, Work, and the Will to Lead by Sheryl Sandberg](/reading-list/): An uplifting eye-opener, this book is just what you need to fuel your motivation. Her message isn’t only for women—Sandberg gives men pointers on how to further gender equality for the working women in their lives.
+- [Yes, Please by Amy Poehler](/reading-list/): The Amy Poehler you know and love really brings her personality here. She opens up to readers about her triumphs over personal and professional boundaries. We couldn’t get enough.
+- [The 12 Week Year by Brian P. Moran and Michael Lennington](/reading-list/): These authors are on a mission to help you rewire your brain and think about goals differently. We highly recommend its guidance and the worksheets included to help you plan your own 12-week year.
+- [The Energy Bus 10 Rules to Fuel Your Life, Work, and Team with Positive Energy by John Sutherland](/reading-list/): This self-improvement book takes a positive approach to mundane everyday life. Sutherland teaches you 10 rules to create a positive vision and culture of energy.
 
 <hr class="secondary">
 

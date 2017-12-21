@@ -18,9 +18,9 @@ image:
 tags: equality, wage gap, Lean In, Sheryl Sandberg, afraid, networking
 ---
 
-<h2 class="alt">What Would You Do If You Weren't Afraid?</h2>
+## What Would You Do If You Weren't Afraid?
 
-Sheryl Sandberg’s book, <a href="http://amzn.to/2wm89of" target="_blank">Lean In: Women, Work, and the Will to Lead</a>, is a favorite of ours. Sandberg’s mission is to empower women in the workplace to identify and overcome gender inequality. 
+Sheryl Sandberg’s book, [Lean In: Women, Work, and the Will to Lead](http://amzn.to/2wm89of), is a favorite of ours. Sandberg’s mission is to empower women in the workplace to identify and overcome gender inequality. 
 
 It’s no secret that the playing field is uneven. Women are seen through a different set of eyes—as if estrogen will wilt the growth of business. The author discusses the obstacles women face in a positive light, rather than presenting them as a never-ending struggle. Sandberg believes that women and men who recognize workplace inequality can do the most to stop it. We agree. So, go ahead, lean in. It’s  a good feeling. 
 
@@ -76,6 +76,6 @@ Not being honest will get you nowhere. If an employer asks you in a performance 
 
 <hr class="secondary">
 
-These are the lessons that stuck with us the most. We guarantee that you’ll have your own favorite lessons. Tell us about them! Leave a comment below. We hope you buy the book! Find it on our <a href="/reading-list/">resource page</a>. This is a list of our favorites. Any purchase from that page supports Pare and Flourish so that we can bring you more content, just like this. Look out for our next article on how to navigate networking conversations! 
+These are the lessons that stuck with us the most. We guarantee that you’ll have your own favorite lessons. Tell us about them! Leave a comment below. We hope you buy the book! Find it on our [resource page](/reading-list/). This is a list of our favorites. Any purchase from that page supports Pare and Flourish so that we can bring you more content, just like this. Look out for our next article on how to navigate networking conversations! 
 
-*We have <strong>not</strong> been paid to write this review. We feel strongly about its message and want to share it with you.
+*We have **not** been paid to write this review. We feel strongly about its message and want to share it with you.

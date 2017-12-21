@@ -18,7 +18,7 @@ image:
 tags: networking, volunteering, conference, informational interview, Pprofessors
 ---
 
-<blockquote>I feel really grateful to the people who encouraged me and helped me develop. Nobody can succeed on their own.<cite><a href="/reading-list/">Lean In, Sheryl Sandberg</a></cite></blockquote>
+>I feel really grateful to the people who encouraged me and helped me develop. Nobody can succeed on their own. *[Lean In, Sheryl Sandberg](/reading-list/)*
 
 In early years of college, the word “networking” is thrown around as if you should know how to do it. The basic idea is meeting people, so you should be able to do that easily. Because, ya know, there are people everywhere, right? Yes and no. It’s never about how many people you meet, it’s about who you meet and how. This is a prime quality over quantity scenario. 
 
@@ -32,7 +32,7 @@ Here are five ways to purposefully network:
 
 <hr class="secondary">
 
-### 1. Informational Interview
+## 1. Informational Interview
 
 Otherwise known as the networking world’s best-kept secret, the informational interview could be your golden ticket. An informational interview is when you set up an interview with someone without the intention of landing a job. Isn’t that the whole point, though? 
 
@@ -42,13 +42,13 @@ You’re getting a chance to talk to someone you respect about how they got to w
 
 <hr class="secondary">
 
-### 2. LinkedIn and Levo
+## 2. LinkedIn and Levo
 
 A good LinkedIn or Levo (or both) profile can be a low maintenance way to put your best foot forward. Think of this as your online resume, but more functional and interactive. Take full advantage of the platform. Add as much information as possible, attach work samples, and keep your profile up to date. The right person just might see it and consider you for an opportunity.
 
 <hr class="secondary">
 
-### 3. Conferences
+## 3. Conferences
 
 There are few better ways to meet large groups of people who have similar interests than at a conference. No matter what your profession, your passion, or your potential career path, there is a conference out there for it.
 
@@ -58,7 +58,7 @@ If you’re feeling motivated, take it up a notch and submit material to present
 
 <hr class="secondary">
 
-### 4. Professors
+## 4. Professors
 
 Professors are some of the most underrated resources. We owe everything to the teachers who gave us their time and knowledge. Each professor has something important to teach you. Create meaningful, professional relationship with them. 
 
@@ -66,8 +66,8 @@ Having a good relationship with your professors will only benefit you.
 
 <hr class="secondary">
 
-### 5. Volunteer Work
+## 5. Volunteer Work
 
-As we’ve mentioned in our post <a href="/blog/three-ways-to-get-involved-without-killing-your-time/">Three Ways to Get Involved Without Killing Your Time</a>, volunteer work is a great resource. Pick something that you’re passionate about, show that you’re really there to make change happen, and form relationships with everyone around you. These people may become your most valuable resources. You might be working next to someone who is, or who knows, someone who can help you reach your goals. 
+As we’ve mentioned in our post [Three Ways to Get Involved Without Killing Your Time](/blog/three-ways-to-get-involved-without-killing-your-time/), volunteer work is a great resource. Pick something that you’re passionate about, show that you’re really there to make change happen, and form relationships with everyone around you. These people may become your most valuable resources. You might be working next to someone who is, or who knows, someone who can help you reach your goals. 
 
 What are some ways that you’ve found to purposefully network? For next week, look for our next blog on the art of the informational interview.

@@ -9,7 +9,7 @@ image:
   header: events.jpg
 ---
 
-<h2>What is a <span class="boldText">Flourish Roundtable</span>?</h2>
+## What is a **Flourish Roundtable**?
 
 <div class="row">
   <div class="col-md-8 col-sm-12">
@@ -31,18 +31,16 @@ image:
   </div>
 </div>
 
-<span class="boldText">A Flourish Roundtable is a small casual networking event for female professionals.</span> The roundtable is composed of 10 women and up to 2 moderators. The size of these small events allows participants to feel heard and connected. 
+**A Flourish Roundtable is a small casual networking event for female professionals.** The roundtable is composed of 10 women and up to 2 moderators. The size of these small events allows participants to feel heard and connected. 
 
 ### These events are ideal for women who:
 
-<ul>
-  <li>Do not like forced small talk</li>
-  <li>Want to expand their network</li>
-  <li>Want to create lasting relationships with like-minded women</li>
-  <li>Want to leave a networking event feeling connected and inspired</li>
-</ul>
+- Do not like forced small talk
+- Want to expand their network
+- Want to create lasting relationships with like-minded women
+- Want to leave a networking event feeling connected and inspired
 
-<span class="boldText">What should you do to prepare? Nothing.</span> Your moderator will be prepared with a broad topic, that is disclosed beforehand, ready to guide the conversation with follow-up questions and inspiration. <span class="boldText">All attendees are encouraged to participate and are given a safe environment to do so.</span>
+**What should you do to prepare? Nothing.** Your moderator will be prepared with a broad topic, that is disclosed beforehand, ready to guide the conversation with follow-up questions and inspiration. **All attendees are encouraged to participate and are given a safe environment to do so.**
 
 <hr class="secondary">
 
@@ -52,19 +50,13 @@ image:
 
 <hr class="secondary">
 
-When asked <span class="boldText">“What was your favorite part of this Flourish Roundtable?”</span> this is what past participants had to say:
+When asked **“What was your favorite part of this Flourish Roundtable?”** this is what past participants had to say:
 
-<blockquote>
-	“<span class="boldText">Getting connected with other women in the area.</span>”
-</blockquote>
+>“**Getting connected with other women in the area.**”
 
-<blockquote>
-	“<span class="boldText">I love a structured networking event.</span> The ones where you show up and are forced to rely on your mingling skills are awful and intimidating.”
-</blockquote>
+>“**I love a structured networking event.** The ones where you show up and are forced to rely on your mingling skills are awful and intimidating.”
 
-<blockquote>
-	“<span class="boldText">Talking to other women about goals and empowerment</span>, also knowing that we all are working toward something bigger.”
-</blockquote>
+>“**Talking to other women about goals and empowerment**, also knowing that we all are working toward something bigger.”
 
 <section id="eventsGallery">
   <img src="/assets/images/events/event1-pic1.jpg" alt="Image from a Flourish Roundtable event!">

@@ -18,11 +18,11 @@ image:
 tags: saying yes, new opportunities, yes to life, tina fey, tina fey bossypants
 ---
 
-<span class="italicizeText">Start with a 'Yes,' and see where that takes you.</span> - Tina Fey, Bossypants
+*Start with a 'Yes,' and see where that takes you.* - Tina Fey, Bossypants
 
-Tina Fey knows what she’s talking about. We love reading creative nonfiction books like <a href="http://amzn.to/2xoZGnV" target="_blank">Bossypants</a> because we get the opportunity to peer into the lives of those we admire. They are writing a letter, of sorts, straight to the reader that says this is how I got here. You get to pick and choose the advice that applies to your own situation and set your compass accordingly.
+Tina Fey knows what she’s talking about. We love reading creative nonfiction books like [Bossypants](http://amzn.to/2xoZGnV) because we get the opportunity to peer into the lives of those we admire. They are writing a letter, of sorts, straight to the reader that says this is how I got here. You get to pick and choose the advice that applies to your own situation and set your compass accordingly.
 
-One of our many takeaways from this book was to say <span class="boldText">yes</span> and see where it takes you. You never know what’s waiting on the other side of that response. Aren’t you dying to find out? 
+One of our many takeaways from this book was to say **yes** and see where it takes you. You never know what’s waiting on the other side of that response. Aren’t you dying to find out? 
 
 We compiled a list of things you should say yes to. Let’s see what you think.
 
@@ -30,31 +30,31 @@ We compiled a list of things you should say yes to. Let’s see what you think.
 
 We wouldn’t be living by our Pare and Flourish compass, if we didn't tell you attend a networking event. Networking events have unforeseen advantages. They give you the opportunity to meet new people, learn about new careers, and step outside of your comfort zone. 
 
-See also <a href="/blog/five-ways-to-purposefully-network/">5 Ways to Purposefully Network</a>
+See also: [5 Ways to Purposefully Network](/blog/five-ways-to-purposefully-network/)
 
 ## 2. A New Project
 
 Are you feeling a void in your life? Are you not feeling creative enough or happy enough in your day to day? Start a project that excites you. Create your own purpose and do what you love most, whatever that may be. You’ll be surprised how much more stable you’ll feel. 
 
-See also <a href="/blog/why-you-should-write-your-own-blog/">Why You Should Write Your Own Blog</a>
+See also: [Why You Should Write Your Own Blog](/blog/why-you-should-write-your-own-blog/)
 
 ## 3. A New Hobby
 
 Hobbies are fantastic for unwinding at night and on the weekends. The more time you spend doing something that you love, the more content and balanced you’ll feel. When your friends ask you to rock climb, or cook, or go wine tasting, say yes! This may be your new outlet. 
 
-See also <a href="/blog/how-to-fill-your-time-with-happiness-not-social-media/">How to Fill Your Time with Happiness (Not Social Media)</a>
+See also: [How to Fill Your Time with Happiness (Not Social Media)](/blog/how-to-fill-your-time-with-happiness-not-social-media/)
 
 ## 4. An Informational Interview
 
 We’re relentless with this networking, huh? Because it works to your advantage. Informational interviews are the perfect way to meet people and learn at the same time. If you are considering changing careers, meet with someone who is successful in the field you want to enter. If you are hoping to start a nonprofit or join a board, meet with someone who has done just that. You’ll find that people love sharing information, most times. It never hurts to ask. 
 
-See also <a href="/blog/the-networking-worlds-best-kept-secret/">The Networking World’s Best Kept Secret</a>
+See also: [The Networking World’s Best Kept Secret](/blog/the-networking-worlds-best-kept-secret/)
 
 ## 5. A Day Off Work
 
 We often talk to people who say that they don’t use all of their vacation days. This is more of a management issue than anything. Employees should be required to take time off work for their mental health. You need days to recenter, no matter how much you like your work. Take your vacation days. You essentially get paid to take care of yourself or visit a friend or relative. Work can wait. 
 
-See also <a href="/blog/three-ways-to-implement-self-care-now/">Three Ways to Implement Self-Care. Now.</a>
+See also: [Three Ways to Implement Self-Care. Now.](/blog/three-ways-to-implement-self-care-now/)
 
 ## 6. A Companion
 
@@ -81,7 +81,7 @@ If you’re lucky, you may already love your job. In which case, skip right over
 
 However, if you find yourself consistently dreading Mondays, maybe you should look into a career change. A change of scenery may be just what you need. If you find your LinkedIn Mail full of recruiting emails, this could be very easy. Say ‘yes’ to hearing one of them out. You never know where this could lead you. It could lead you right into your dream job, with a better work environment and better pay. 
 
-See also: <a href="/blog/how-to-transition-your-resume-for-your-new-career/">How to Transition Your Resume for Your New Career</a>
+See also: [How to Transition Your Resume for Your New Career](/blog/how-to-transition-your-resume-for-your-new-career/)
 
 ## 8. A New Place To Live
 
@@ -102,7 +102,7 @@ A new city gives you the chance to make new friends, a new professional network,
   </div>
 </div>
 
-See also <a href="/blog/why-i-dropped-everything-to-teach-abroad/">Why I Dropped Everything to Teach Abroad</a>
+See also: [Why I Dropped Everything to Teach Abroad](/blog/why-i-dropped-everything-to-teach-abroad/)
 
 <hr class="secondary">
 

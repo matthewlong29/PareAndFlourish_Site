@@ -50,10 +50,8 @@ This month, challenge yourself to register for a conference in your field, or ma
 
 You may also like: 
 
-<ul>
-  <li><a href="/blog/networking-why-you-should-never-stop/">Networking: Why You Should Never Stop</a></li>
-  <li><a href="/blog/why-you-should-be-using-the-shapr-networking-app/">Why You Should be Using the Shapr Networking App</a></li>
-  <li><a href="/blog/six-tips-to-networking-like-a-pro/">Six Tips to Networking Like a Pro</a></li>
-</ul>
+- [Networking: Why You Should Never Stop](/blog/networking-why-you-should-never-stop/)
+- [Why You Should be Using the Shapr Networking App](/blog/why-you-should-be-using-the-shapr-networking-app/)
+- [Six Tips to Networking Like a Pro](/blog/six-tips-to-networking-like-a-pro/)
 
 Do you have a conference coming up? Have tips you’d like to share about searching for or attending a conference?

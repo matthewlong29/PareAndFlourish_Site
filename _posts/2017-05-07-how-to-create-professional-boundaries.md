@@ -30,17 +30,15 @@ If you over-promise and under-deliver you will find that are worse off than if h
 
 Here are some alternatives to “no”  you could try instead of accepting additional work: 
 
-<ol>
-	<li>“I would love to help you, but I’ve already promised to finish X project by X day. Can I reach out to you when those are finished?”</li>
-	<li>“I’ve talked with X person and they offered to help out. Do you mind if they work on this project instead?”</li>
-	<li>“Thank you for thinking of me when you needed someone, but I am a tad overbooked. If you need help finding someone to do it, I can ask around!”</li>
-</ol>
+- “I would love to help you, but I’ve already promised to finish X project by X day. Can I reach out to you when those are finished?”
+- “I’ve talked with X person and they offered to help out. Do you mind if they work on this project instead?”
+- “Thank you for thinking of me when you needed someone, but I am a tad overbooked. If you need help finding someone to do it, I can ask around!”
 
 ### Know when to say “Yes”
 
 At times, putting in extra effort to help the team is important, and necessary. If you want to be your boss’ go-to person, stay organized. Schedule out your work for the week first thing on Monday. If you know what you anticipate to work on for the week then you have set an expectation for yourself and others.
 
-See also <a href="/blog/2017-04-30-how-to-effectively-set-goals.md">How to Effectively Set Goals</a>
+See also: [How to Effectively Set Goals](/blog/how-to-effectively-set-goals)
 
 When you’ve scheduled your week, you may find that you are free for half a day on Thursday. Here is your time to shine. Ask your manager if there is anything you can help them with for that block of time. You can still go above and beyond without over scheduling.
 

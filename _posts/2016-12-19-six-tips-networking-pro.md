@@ -26,13 +26,13 @@ We’ve put together a list of what got us through countless networking conversa
 
 <hr class="secondary">
 
-### 1. Calm yourself
+## 1. Calm yourself
 
 It’s always a good idea to have something to hold. Not only will this tool keep you from talking with your hands, but also prevents a nervous hand situation. Imagine yourself posing for a photo. Does “what do I do with my hands?!” ring a bell? Don’t get caught feeling this way mid-conversation. A good standby is a drink, but you could also hold a notebook, binder, or anything that would feel natural. The notebook is especially helpful to keep up with business cards and any interesting detail you may want for later.
 
 <hr class="secondary">
 
-### 2. Play it cool
+## 2. Play it cool
 
 If you aren’t as confident as you want to be, fine. Pretend. Fake it til you make it applies heavily in networking. This is your moment to shine. Know what makes you stand out and be prepared to hit the highlights, but don’t force anything. If the person is talking about their time on a family dog and you find a way to relate that to your thesis, you may have made a wrong turn. They want to relate to you as much as you want to relate to them.
 
@@ -40,33 +40,31 @@ Note: When someone says “tell me about yourself” they want to know your prof
 
 <hr class="secondary">
 
-### 3. Listen Up
+## 3. Listen Up
 
 Get them interested, but don’t get lost in yourself. People love talking about themselves. Listen carefully and reference specific things they’ve said so they know you’re listening. This is a time to show them that you have personality and aren't the same as everyone else they’ve talked to that day. It benefits no one to pretend to be an agreeable, soft spoken person if that isn’t who you really are. 
 
 <hr class="secondary">
 
-### 4. Don't put your foot in your mouth
+## 4. Don't put your foot in your mouth
 
 There are a few things you should shy away from. The obvious two being politics and religion. You have a very good chance of offending someone. As much as you think you can look at a person and tell if they’re a democrat, republican, atheist, or christian, you can’t. This is not the time to find out who they voted for president or what god they pray to. It sounds like awkward conversation when you read it to yourself, right?
 
 <hr class="secondary">
 
-### 5. Keep it moving
+## 5. Keep it moving
 
 If you feel the conversation falling, stick to open ended questions. No matter what, you can count on the fact that people like to talk about themselves. What a vain bunch we are at times, but it's true. Open ended questions like: 
 
-<ul>
-	<li>"You mentioned you were in a company kickball league, tell me about that."</li>
-	<li>"What is your favorite part of your job?"</li>
-	<li>"What was your major in college?"</li>
-</ul>
+- "You mentioned you were in a company kickball league, tell me about that."
+- "What is your favorite part of your job?"
+- "What was your major in college?"
 
 The joy of the open ended question is that if you truly listen to their answer, you won’t have to think about the next question. Your own curiosities will help guide you to your follow up questions. 
 
 <hr class="secondary">
 
-### 6. Make a clean break
+## 6. Make a clean break
 
 Unfortunately some conversations are ended by one person trying to discretely walk away. Don’t let that happen to you! When you feel the conversation dying, and trust us you will, this is your time to appropriately end the conversation in a way they’ll remember. Thank them for their time and hand them your business card (if it feels appropriate to the situation). Leave with a comment that shows you were paying attention to the conversation (e.g. “I hope your daughter’s softball game goes well!”)
 

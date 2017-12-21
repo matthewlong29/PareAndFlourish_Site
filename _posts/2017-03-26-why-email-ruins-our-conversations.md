@@ -26,15 +26,15 @@ Unfortunately, when we speak to someone face-to-face, we don’t have these luxu
 
 Here’s an example...
 
-<strong>You receive this email:</strong> “Hey, could you tell me a little about what you do?”
+**You receive this email:** “Hey, could you tell me a little about what you do?”
 
-<strong>Your written, thought out response:</strong> “Good morning, David. I am a Business Development Writer. That usually entails writing employee documentation for a small, growing business. I help my clients develop the documents they need to hire employees, which includes policies & procedures, employee handbooks, offer letters, etc. If you or someone you know needs this type of help, don’t hesitate to reach out for consultation call. Here is my contact information.”
+**Your written, thought out response:** “Good morning, David. I am a Business Development Writer. That usually entails writing employee documentation for a small, growing business. I help my clients develop the documents they need to hire employees, which includes policies & procedures, employee handbooks, offer letters, etc. If you or someone you know needs this type of help, don’t hesitate to reach out for consultation call. Here is my contact information.”
 
-<strong>*Now, pretend like that didn’t happen. Instead, David catches you off guard when you run into him at the coffee shop.*</strong>
+***Now, pretend like that didn’t happen. Instead, David catches you off guard when you run into him at the coffee shop.***
 
-<strong>David:</strong> “Hey, could you tell me a little about what you do?”
+**David:** “Hey, could you tell me a little about what you do?”
 
-<strong>You:</strong> “Uh, well, I write documents for small businesses… So, freelance work as it comes up. Do you know anyone who needs that type of work?” *not handing him a business card...awkwardly walking away when he says he can’t think of anyone*
+**You:** “Uh, well, I write documents for small businesses… So, freelance work as it comes up. Do you know anyone who needs that type of work?” *not handing him a business card...awkwardly walking away when he says he can’t think of anyone*
 
 Thanks to our emailing habits, we’re out of practice when it comes to talking to people, especially about our professions. Here are a few ways to practice talking about who you are, what you do, and why you do it (to a real, human person):
 

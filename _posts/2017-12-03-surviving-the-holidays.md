@@ -31,7 +31,7 @@ Our schedules barely qualify as schedules right now. They can be better describe
 
 Even in the hectic days, keep to your staples. For example, for us that’s tea/coffee in the morning (ahem, and afternoon, and other sleepy times of the day). 
 
-See also: <a href="/blog/your-questions-about-workplace-holidays-answered/">Your Questions About Workplace Holidays, Answered</a>
+See also: [Your Questions About Workplace Holidays, Answered](/blog/your-questions-about-workplace-holidays-answered/)
 
 ## Go on a Slight Auto-Pilot
 
@@ -39,24 +39,22 @@ Holiday meals involve a lot of running from one house to another. Running around
 
 This is a rare occasion where our advice is to not go above and beyond. Choose one of those meals to put effort into. Don’t overextend yourself!
 
-See also: <a href="/blog/thanksgiving-is-over-now-what/">Thanksgiving is Over. Now What?</a>
+See also: [Thanksgiving is Over. Now What?](/blog/thanksgiving-is-over-now-what/)
 
 ## Make Time for Yourself 
 
 It’s a natural progression. You are busy seeing family and preparing meals, so you aren’t too concerned about whether or not you made time for “me time” this week. This is what leads to a breakdown.
 
-See also: <a href="/blog/three-ways-to-implement-self-care-now/">Three Ways to Implement Self-Care. Now.</a>
+See also: [Three Ways to Implement Self-Care. Now.](/blog/three-ways-to-implement-self-care-now/)
 
 In the hopes to maintain a sense of normalcy here are a few things we try to incorporate during the holidays: 
 
-<ol>
-  <li>Before bed, take 30 minutes to yourself</li>
-  <li>Show up a little late; 20 minutes late to a 4 hour gathering will not hurt anyone</li>
-  <li>Meditate</li>
-  <li>Make time to relax and watch your favorite holiday movie</li>
-  <li>Create a schedule</li>
-  <li>Ask for help</li>
-</ol>
+- Before bed, take 30 minutes to yourself
+- Show up a little late; 20 minutes late to a 4 hour gathering will not hurt anyone
+- Meditate
+- Make time to relax and watch your favorite holiday movie
+- Create a schedule
+- Ask for help
 
 <hr class="secondary">
 

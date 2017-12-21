@@ -40,12 +40,10 @@ Working at a networking event is a great way to pitch yourself. You have the opp
 
 When someone asks questions about you or what you do, have a few ideas in mind of what you want them to know. Four topics to keep in mind: 
 
-<ul>
-  <li>Your profession</li>
-  <li>What you specialize in</li>
-  <li>What you’re interested in doing</li>
-  <li>What motivates you.</li>
-</ul>
+- Your profession
+- What you specialize in
+- What you’re interested in doing
+- What motivates you.
 
 Don’t forget to give them your business card! 
 

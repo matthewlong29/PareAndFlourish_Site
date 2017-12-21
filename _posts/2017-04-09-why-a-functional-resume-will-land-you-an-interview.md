@@ -32,19 +32,17 @@ A functional resume highlights your experience and skills, rather than simply li
 
 The best part of this format? Anything applicable to the job is fair game. Your experience is so much more than your work history. The functional resume gives you the opportunity to organize what you love most about your experience. You get to create your own first impression. Not unlike your LinkedIn profile.
 
-Also, see: <a href="/blog/five-steps-to-use-linkedin-effectively/">5 Steps to Use LinkedIn Effectively</a>
+Also see: [5 Steps to Use LinkedIn Effectively](/blog/five-steps-to-use-linkedin-effectively/)
 
 ### What information do I need?
 
 The functional resume has five main sections:
 
-<ol>
-	<li>Profile</li>
-	<li>Experience</li>
-	<li>Education</li>
-	<li>General information</li>
-	<li>References</li>
-</ol>
+- Profile
+- Experience
+- Education
+- General information
+- References
 
 ### Why is a profile better than an objective statement?
 
@@ -56,19 +54,17 @@ Vs.
 
 Profile: Motivated Technical Writer with over two years of experience. Organized professional writing club at local university to mentor students navigating their job search. Created mail campaign for City International Festival to help raise sponsorship goal by ten thousand dollars. 
 
-Read more about the professional profile <a href="http://careerrocketeer.com/2010/10/how-to-create-strong-profile-statement.html" target="_blank">here</a>.
+Read more about the professional profile [here](http://careerrocketeer.com/2010/10/how-to-create-strong-profile-statement.html).
 
 ### What experience should I use?
 
 Think of every professional accomplishment you’re proud of. Here are a few examples:
 
-<ul>
-	<li>Volunteer work</li>
-	<li>Conference submissions</li>
-	<li>Training courses</li>
-	<li>College thesis</li>
-	<li>Blog work</li>
-</ul>
+- Volunteer work
+- Conference submissions
+- Training courses
+- College thesis
+- Blog work
 
 These are just a few; anything goes. Again, your experience is much more than your work history. You can take anything off that list and showcase what you learned from it.
 
@@ -76,15 +72,13 @@ These are just a few; anything goes. Again, your experience is much more than yo
 
 The education section is so much more than listing your university. Your education section should include the following: 
 
-<ul>
-	<li>University name</li>
-	<li>Graduation date (or expected graduation date)</li>
-	<li>GPA (if it is a 3.0 or above)</li>
-	<li>Areas of study</li>
-	<li>Courses related to the job</li>
-	<li>Accomplishments</li>
-	<li>Extracurriculars</li>
-</ul>
+- University name
+- Graduation date (or expected graduation date)
+- GPA (if it is a 3.0 or above)
+- Areas of study
+- Courses related to the job
+- Accomplishments
+- Extracurriculars
 
 ### What should I keep in mind for general information?
 
@@ -98,7 +92,7 @@ Others believe that having your references on your resume only helps you. Your p
 
 ### How do I format a functional resume? 
 
-We have created a basic resume template with a guide to get you started. Subscribe to our community to receive the functional resume template, writing guide, and (as an added bonus) a cover letter template. You can click <a href="/join-pare-and-flourish/">here</a> to fill out the subscribe form, or you can locate it on this page (to the right or to the bottom, depending on desktop or mobile browsers).
+We have created a basic resume template with a guide to get you started. Subscribe to our community to receive the functional resume template, writing guide, and (as an added bonus) a cover letter template. You can click [here](/join-pare-and-flourish/) to fill out the subscribe form, or you can locate it on this page (to the right or to the bottom, depending on desktop or mobile browsers).
 
 <hr class="secondary">
 

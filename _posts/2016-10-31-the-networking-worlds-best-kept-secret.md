@@ -25,18 +25,16 @@ Networking should not be a superficial way to meet as many people as possible. Y
 
 An informational interview sounds like the most boring networking tactic out there. It should really be more aptly named. Let’s go with “professional coffee date.”  
 
-In our previous post, <a href="/blog/five-ways-to-purposefully-network/">5 Ways to Purposefully Network</a>, this type of interview is referred to as the “networking world’s best-kept secret.” How many people have told you about their experience with an informational interview? Probably very few. For most, this is a newer concept. We’re going to talk a little about the ins and outs of the informational interview so you can boost your networking skills!
+In our previous post, [5 Ways to Purposefully Network](/blog/five-ways-to-purposefully-network/), this type of interview is referred to as the “networking world’s best-kept secret.” How many people have told you about their experience with an informational interview? Probably very few. For most, this is a newer concept. We’re going to talk a little about the ins and outs of the informational interview so you can boost your networking skills!
 
 ### How to Set it Up 
 
 Ask. You will be surprised by how many successful people in your field are willing to sit and chat with you about what you aspire to do, how they got to where they are, and the advice that helped them along the way. To set up an interview, write a professional email to him or her, explaining the following: 
 
-<ul>
-  <li>Who you are</li>
-  <li>What you do</li>
-  <li>How you got their name</li>
-  <li>What you would want to accomplish in an interview</li>
-</ul>
+- Who you are
+- What you do
+- How you got their name
+- What you would want to accomplish in an interview
 
 With luck, he or she will respond to accept your invitation. If not, don’t be discouraged. 
 
@@ -52,11 +50,9 @@ This is your short window to gain as much meaningful information as possible. Ma
 
 Here are a few example questions that will prompt a thorough answer: 
 
-<ul>
-  <li>What was your biggest hurdle throughout your career?</li>
-  <li>What made you want to be in the career you have now?</li>
-  <li>What is most fulfilling about your job?</li>
-</ul>
+- What was your biggest hurdle throughout your career?
+- What made you want to be in the career you have now?
+- What is most fulfilling about your job?
 
 ### Follow Up
 

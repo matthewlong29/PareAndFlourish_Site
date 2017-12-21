@@ -38,8 +38,7 @@ When it seems tough to learn a new process, to meet and train new people, or giv
 
 Find someone who is going through this change too. You are likely not going into this alone. Find someone to vent to, if you need it, but most importantly, find someone to lift you up. You will need someone that can see the positive in this new change and can bring you up out of the slump. 
 
-<blockquote>
-<span class="boldText">Pro Tip</span>: Beware of complaining to coworkers. You don’t want to be the person in the office spreading negativity. You likely have friends in your field who you can vent to without the negative comments spreading around your office.</blockquote>
+>**Pro Tip**: Beware of complaining to coworkers. You don’t want to be the person in the office spreading negativity. You likely have friends in your field who you can vent to without the negative comments spreading around your office.
 
 ## Enjoy yourself
 

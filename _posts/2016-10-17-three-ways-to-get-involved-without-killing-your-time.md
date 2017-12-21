@@ -30,21 +30,24 @@ Here are three ways you can give back without killing all of your free time, and
 
 <hr class="secondary">
 
-### 1. Take advantage of existing opportunities.
+## 1. Take advantage of existing opportunities.
+
 Most companies are already involved in some type of charity work; odds are, they need more employees involved. Ask your employer if there is an opportunity for you.
 
 Less commonly, many companies allow their employees to volunteer a certain number of hours per month, without counting against work time. Understanding all of your options is a great start. 
 
 <hr class="secondary">
 
-### 2. Work in the nonprofit industry.
+## 2. Work in the nonprofit industry.
+
 Whatever it is that you do—Technical Writer, Accountant, Realtor, Engineer, etc.—a nonprofit is out there that needs your skills.
 
 Nonprofit organizations need employees like you.  
 
 <hr class="secondary">
 
-### 3. Sponsored charity events.
+## 3. Sponsored charity events.
+
 Finally, sponsored charity events are a great way to contribute your time and/or money for a specific, short amount of time. These events are all over your town. Sponsored festivals, 5ks, meals, etc. allow you to contribute without overextending yourself.  
 
 If you have only one hour to spare, there is no small amount of time when it comes to benefiting others. 
