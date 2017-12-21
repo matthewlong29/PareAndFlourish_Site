@@ -19,4 +19,10 @@ jQuery(document).ready(() => {
   const emailY = 'pareandflourish';
   $('.footerContact .email').html('Email: <a href="mailto:' + emailX + '@' + emailY + '.com">' + emailX + '@' + emailY + '.com</a>');
 
+  /********************************************************
+  add target="_blank" to outgoing links
+  ********************************************************/
+
+  $('a[href^="http://"], a[href^="https://"]').attr('target','_blank');
+
 });
