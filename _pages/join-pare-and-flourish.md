@@ -11,7 +11,7 @@ image:
 
 ## The 5-Part Job Search Package
 
-<p>Are you prepared for your job search? Let us help you! You’ve found the perfect opportunity for you, but aren’t sure where to start. There are many moving parts in the job application process. <strong>To pitch your professional brand and make a good first impression, you need the right tools.</strong> We can help you gain the confidence you need by helping you prepare. We’ll give you the tools you need to wow them.</p>
+Are you prepared for your job search? Let us help you! You’ve found the perfect opportunity for you, but aren’t sure where to start. There are many moving parts in the job application process. **To pitch your professional brand and make a good first impression, you need the right tools.** We can help you gain the confidence you need by helping you prepare. We’ll give you the tools you need to wow them.
 
 <div class="subscribeIncintive">
   <hr class="primary">
@@ -35,7 +35,7 @@ image:
 </div>
 
 <div id="mc_page">
-	<form action="//pareandflourish.us14.list-manage.com/subscribe/post?u=21b3326a4d3b41c8b98c42507&amp;id=32335e5912" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	<form action="//pareandflourish.us14.list-manage.com/subscribe/post?u=21b3326a4d3b41c8b98c42507&amp;id=32335e5912" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" novalidate>
 		<div id="mc_embed_signup_scroll">
 			<input type="email" value="" placeholder="Email Address (required)" name="EMAIL" class="required email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
 			<input type="text" value="" placeholder="First Name" name="FNAME" class="" id="mce-FNAME" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">

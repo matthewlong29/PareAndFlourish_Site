@@ -11,19 +11,19 @@ image:
 
 ## Flourish with us!
 
-<p>This unique blog is written by two very different people, living very different lives. <span class="startHereNames">Skylar</span>, the creative one, the Writer. <span class="startHereNames">Katie</span>, the logical thinker, the Accountant.</p>
+This unique blog is written by two very different people, living very different lives. <span class="startHereNames">Skylar</span>, the creative one, the Writer. <span class="startHereNames">Katie</span>, the logical thinker, the Accountant.
 
-<p>For the sake of our partnership, we meld our ideas—every post is a product of our combined points of view...and a lot of editing.</p>
+For the sake of our partnership, we meld our ideas—every post is a product of our combined points of view...and a lot of editing.
 
-<p>This blog has constantly evolved as we learned more about our readers...and ourselves. This is a professional development blog focused on learning how to pitch your professional brand. </p>
+This blog has constantly evolved as we learned more about our readers...and ourselves. This is a professional development blog focused on learning how to pitch your professional brand.
 
-<p>If you enjoy books like <a href="/reading-list/">Lean In</a>, Yes Please, and Bossypants, or podcasts like Millennial and The Lively Show, we think that you’ll feel right at home here. After all, they inspired this blog and gave us the courage to finally put it together.</p>
+If you enjoy books like [Lean In](/reading-list/), [Yes Please](/reading-list/), and [Bossypants](/reading-list/), or podcasts like Millennial and The Lively Show, we think that you’ll feel right at home here. After all, they inspired this blog and gave us the courage to finally put it together.
 
-<p>We dedicate our time to this blog to inspire and encourage our readers to grow personally and professionally. It is our hope that we add authenticity to your week. Topics will range from networking, to mastering LinkedIn, to our favorite professional help books, and everything in between.</p>
+We dedicate our time to this blog to inspire and encourage our readers to grow personally and professionally. It is our hope that we add authenticity to your week. Topics will range from networking, to mastering LinkedIn, to our favorite professional help books, and everything in between.
 
-<p>Check us out on <a href="{{site.links.pinterest}}" target="_blank">Pinterest</a>, <a href="{{site.links.twitter}}" target="_blank">Twitter</a>, or subscribe to our mailing list. Also, we love our readers! You can email us at: <a href="mailto:{{site.email}}" target="_blank">contact@pareandflourish.com</a> with any comments or blog post ideas. Would you like to write a guest blog post on Pare and Flourish? Send us your pitch!</p>
+Check us out on [Pinterest]({{site.links.pinterest}}), [Twitter]({{site.links.twitter}}), or subscribe to our mailing list. Also, we love our readers! You can email us at: [contact@pareandflourish.com](mailto:{{site.email}}) with any comments or blog post ideas. Would you like to write a guest blog post on Pare and Flourish? Send us your pitch!
 
-<p>Finally, we can’t forget our Executive Web Developer, Matthew Long. Without him, none of this is possible. Check out the additional services that he offers in the <a href="/lets-collaborate/">Work With Us</a> page.</p>
+Finally, we can’t forget our Executive Web Developer, Matthew Long. Without him, none of this is possible. Check out the additional services that he offers in the [Work With Us](/lets-collaborate/) page.
 
 <hr class="secondary">
 

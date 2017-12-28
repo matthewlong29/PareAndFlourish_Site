@@ -13,18 +13,16 @@ image:
 
 ### Resume Review | Cover Letter Review | LinkedIn Review
 
-<ul>
-  <li>You choose which review you would like (resume, cover letter, or LinkedIn).</li>
-  <li>A member of the P&F team will spend one hour with you, reviewing your resume, cover letter, or LinkedIn profile.</li>
-  <li>You and your reviewer will talk through each section of your materials to ensure that you are representing yourself in the best possible way.</li>
-  <li>Along the way, we will keep a list of specific changes to be made to your document, which will be emailed to you.</li>
-  <li>After you make those changes, you will send your document back for a final review.</li>
-  <li>You are free to book multiple hours to discuss your materials more in depth.</li>
-</ul>
+- You choose which review you would like (resume, cover letter, or LinkedIn).
+- A member of the P&F team will spend one hour with you, reviewing your resume, cover letter, or LinkedIn profile.
+- You and your reviewer will talk through each section of your materials to ensure that you are representing yourself in the best possible way.
+- Along the way, we will keep a list of specific changes to be made to your document, which will be emailed to you.
+- After you make those changes, you will send your document back for a final review.
+- You are free to book multiple hours to discuss your materials more in depth.
  
 A review for one document/profile of your choice is $50. Additional time following the one-hour review and final review process is $25 per hour. 
 
-Not sure what you need? Email us at <a href="mailto:contact@pareandflourish.com">contact@pareandflourish.com</a> or call us at <a href="tel:+15025368489">(502) 536-8489</a> and we’ll walk you through it! 
+Not sure what you need? Email us at [contact@pareandflourish.com](mailto:contact@pareandflourish.com) or call us at [(502) 536-8489](tel:+15025368489) and we’ll walk you through it! 
 
 <hr class="secondary">
 

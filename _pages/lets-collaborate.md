@@ -9,9 +9,9 @@ image:
   header: collaborate.jpg
 ---
 
-<p>Some of the most valuable lessons are learned through teamwork. We’ve had the opportunity to work with great people to bring you content from different perspectives. </p>
+Some of the most valuable lessons are learned through teamwork. We’ve had the opportunity to work with great people to bring you content from different perspectives.
 
-Are you interested in collaborating with Pare and Flourish? Let us <a href="mailto:{{site.email}}">know</a>!
+Are you interested in collaborating with Pare and Flourish? Let us [know](mailto:{{site.email}})!
 
 <hr class="secondary">
 
@@ -51,14 +51,12 @@ Are you interested in collaborating with Pare and Flourish? Let us <a href="mail
 
 ## How Can We Work Together?
 
-<ul>
-	<li>Co-writing blog posts</li>
-	<li>Guest blogging with cross promotion</li>
-	<li>YouTube collaborations</li>
-	<li>Podcast collaborations</li>
-	<li>Product reviews </li>
-	<li>Sponsored blog posts</li>
-</ul>
+- Co-writing blog posts
+- Guest blogging with cross promotion
+- YouTube collaborations
+- Podcast collaborations
+- Product reviews 
+- Sponsored blog posts
 
 <hr class="secondary">
 
@@ -66,4 +64,4 @@ Are you interested in collaborating with Pare and Flourish? Let us <a href="mail
 
 We promote collaborations (sponsored blog posts, guest blogs, etc.) on all of our social media platforms: Twitter, Facebook, Pinterest, and our personal LinkedIn accounts. The collaboration material will also be promoted in our weekly newsletter. 
 
-Do you have a collaboration idea in mind or just want to make a connection? <a href="mailto:{{site.email}}">Contact us</a>! We’d love to hear from you. 
+Do you have a collaboration idea in mind or just want to make a connection? [Contact us](mailto:{{site.email}})! We’d love to hear from you. 
