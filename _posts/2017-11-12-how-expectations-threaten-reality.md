@@ -125,7 +125,7 @@ Here is an example of my most recent list:
     <li>Start with a cup of tea and mindfulness</li>
     <li>Make a grocery list before going</li>
     <li>Choose one book before next week</li>
-    <li>Write in <a href="http://thehappinessplanner.com?aff=377" target="_blank">The Happiness Planner</a> every day</li>
+    <li>Write in <a href="http://thehappinessplanner.com?aff=377">The Happiness Planner</a> every day</li>
     <li>Take at least five photos per trip</li>
   </ul>
 </div>
