@@ -44,7 +44,7 @@ image:
 
 <hr class="secondary">
 
-<a href="https://www.eventbrite.com/e/flourish-roundtable-self-care-registration-41177175039" target="_blank">
+<a href="https://www.eventbrite.com/e/flourish-roundtable-self-care-registration-41177175039">
   <img src="/assets/images/events/book-a-seat.jpg" alt="Image asking to click here to book a seat at the next Flourish Roundtable">
 </a>
 
