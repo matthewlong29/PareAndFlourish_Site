@@ -90,7 +90,7 @@ This planner has made all the difference for our mindfulness practices. Does the
 
 <div class="row">
   <div class="col-xs-12">
-    <a href="http://thehappinessplanner.com/?aff=377" target="_blank">
+    <a href="http://thehappinessplanner.com/?aff=377">
       <img class="img-fluid" src="/assets/images/other/happiness-planner-graphic.jpg" alt="Advertisement link for purchasing a Happiness Planner.">
     </a>
   </div>
