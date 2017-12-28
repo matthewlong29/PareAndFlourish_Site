@@ -1,18 +1,23 @@
 #amReadingPage {
   padding-bottom: 10%;
+  h2 {
+    padding-top: 0;
+    margin-top: 0;
+  }
   .bookRow {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     .bookTile {
-      margin: 1rem;
-      padding-top: 4rem;
-      flex: 1 150px;
-      display: flex;
-      justify-content: center;
+      padding: 4rem 1rem 0;
+      flex: 1 236px;
+      max-width: 300px;
       a {
         border-bottom: none;
         background: transparent;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
         img {
           @include rotate(-10deg);
           @include userSelect(none);
@@ -20,9 +25,45 @@
           border: none;
           max-height: 200px;
           filter: grayscale(100%);
-          &:hover {
+        }
+        h3 {
+          margin-top: 1rem;
+          font-size: 1.95rem;
+          color: lighten($gray, 5%);
+          span {
+            color: $black;
+          }
+        }
+        .bookRating {
+          display: flex;
+          h4 {
+            font-size: 1.7rem;
+            margin: 0;
+            padding: 0 0.75rem 0 0;
+          }
+          svg {
+            @include transition(0.25s, ease-in-out, all);
+            display: flex;
+            flex-direction: row;
+            width: 1em;
+            height: 1em;
+            stroke-width: 0;
+            stroke: lighten($gray, 15%);
+            fill: lighten($gray, 15%);
+          }
+        }
+        p {
+          font-size: 1.5rem;
+          color: lighten($gray, 15%);
+          line-height: 1.15;
+        }
+        &:hover {
+          img {
             @include rotate(0deg);
             filter: grayscale(0%);
+          }
+          svg {
+            fill: $accent;
           }
         }
       }
