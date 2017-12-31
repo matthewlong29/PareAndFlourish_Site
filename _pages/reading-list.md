@@ -10,7 +10,7 @@ image:
 ---
 
 <section id="amReadingPage">
-  <h2>This book is perfect for someone who...</h2>
+  <h2>This book is perfect for someone...</h2>
   <div class="bookRow">
     <div class="bookTile">
       <a href="http://amzn.to/2CSFhGr">
@@ -24,7 +24,7 @@ image:
           {% include svgs/half-star.html %}
           {% include svgs/empty-star.html %}
         </div>
-        <p>...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+        <p>...in a leadership position who wants to increase the value of their conversations.</p>
       </a>
     </div>
     <div class="bookTile">
@@ -39,7 +39,7 @@ image:
           {% include svgs/full-star.html %}
           {% include svgs/empty-star.html %}
         </div>
-        <p>...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+        <p>...who wants to gain confidence in their decision to move to a new career.</p>
       </a>
     </div>
     <div class="bookTile">
@@ -54,7 +54,7 @@ image:
           {% include svgs/empty-star.html %}
           {% include svgs/empty-star.html %}
         </div>
-        <p>...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+        <p>...who resists change in the workplace, or otherwise, and wants to see the value in changing old habits.</p>
       </a>
     </div>
     <div class="bookTile">
@@ -69,7 +69,7 @@ image:
           {% include svgs/full-star.html %}
           {% include svgs/empty-star.html %}
         </div>
-        <p>...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+        <p>...who is "daring greatly" at work or home, and wants to accept vulnerability as a factor of strength.</p>
       </a>
     </div>
     <div class="bookTile">
@@ -84,8 +84,12 @@ image:
           {% include svgs/full-star.html %}
           {% include svgs/full-star.html %}
         </div>
-        <p>...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+        <p>...who wants to see the happiness in the day-to-day by changing their mindset.</p>
       </a>
+      <div class="readReview">
+        {% include svgs/arrow-right.html %}
+        <p><a href="/blog/the-happiness-advantage-by-shawn-achor-book-review/">read the full review!</a></p>
+      </div>
     </div>
     <div class="bookTile">
       <a href="http://amzn.to/2t2eDpL">
@@ -99,7 +103,7 @@ image:
           {% include svgs/half-star.html %}
           {% include svgs/empty-star.html %}
         </div>
-        <p>...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, labore et.</p>
+        <p>...who is trying to live an awesome life and wants a few tips on how to make it even better.</p>
       </a>
     </div>
     <div class="bookTile">
@@ -114,7 +118,7 @@ image:
           {% include svgs/full-star.html %}
           {% include svgs/empty-star.html %}
         </div>
-        <p>...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+        <p>...who is navigating the modern career and wants advice on how to align their career with their true values.</p>
       </a>
     </div>
     <div class="bookTile">
@@ -129,7 +133,7 @@ image:
           {% include svgs/full-star.html %}
           {% include svgs/empty-star.html %}
         </div>
-        <p>...Lorem ipsum dolor Lorem ipsum dolor sit amet, sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+        <p>...who is rocking a side hustle and wants to embrace the mess that comes along with it.</p>
       </a>
     </div>
     <div class="bookTile">
@@ -144,7 +148,7 @@ image:
           {% include svgs/half-star.html %}
           {% include svgs/empty-star.html %}
         </div>
-        <p>...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+        <p>...who is introverted and wants to understand how to better work with extroverted people.</p>
       </a>
     </div>
     <div class="bookTile">
@@ -159,7 +163,7 @@ image:
           {% include svgs/full-star.html %}
           {% include svgs/empty-star.html %}
         </div>
-        <p>...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+        <p>...with creative ideas who wants to embrace the potential of those ideas.</p>
       </a>
     </div>
     <div class="bookTile">
@@ -174,8 +178,12 @@ image:
           {% include svgs/full-star.html %}
           {% include svgs/full-star.html %}
         </div>
-        <p>...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+        <p>...who is looking for practical advice for women in the workforce and wants to shine a light on gender equality.</p>
       </a>
+      <div class="readReview">
+        {% include svgs/arrow-right.html %}
+        <p><a href="/blog/review-of-lean-in/">read the full review!</a></p>
+      </div>
     </div>
     <div class="bookTile">
       <a href="http://amzn.to/2hQUPob">
@@ -189,8 +197,12 @@ image:
           {% include svgs/full-star.html %}
           {% include svgs/full-star.html %}
         </div>
-        <p>...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+        <p>...who is juggling it all and wants practical advice on how to have it all but not do it all.</p>
       </a>
+      <div class="readReview">
+        {% include svgs/arrow-right.html %}
+        <p><a href="/blog/drop-the-ball-by-tiffany-dufu-book-review/">read the full review!</a></p>
+      </div>
     </div>
     <div class="bookTile">
       <a href="http://amzn.to/2fy3kDP">
@@ -204,7 +216,7 @@ image:
           {% include svgs/full-star.html %}
           {% include svgs/full-star.html %}
         </div>
-        <p>...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+        <p>...who enjoys Tina Fey's humor and wants to relax to her relateable stories.</p>
       </a>
     </div>
     <div class="bookTile">
@@ -219,7 +231,7 @@ image:
           {% include svgs/full-star.html %}
           {% include svgs/half-star.html %}
         </div>
-        <p>...Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+        <p>...who is trying to reach goals and wants to overcome the end-of-year slump.</p>
       </a>
     </div>
     <div class="bookTile">
@@ -234,7 +246,7 @@ image:
           {% include svgs/full-star.html %}
           {% include svgs/half-star.html %}
         </div>
-        <p>...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+        <p>...who enjoys Amy Poehler's humor and wants an inside look at how she became who she is today.</p>
       </a>
     </div>
     <div class="bookTile">
@@ -249,7 +261,7 @@ image:
           {% include svgs/full-star.html %}
           {% include svgs/empty-star.html %}
         </div>
-        <p>...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+        <p>...who is trying to change the culture of their workplace and wants a quick read on the importance of positive energy.</p>
       </a>
     </div>
   </div>
