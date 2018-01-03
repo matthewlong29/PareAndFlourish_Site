@@ -17,35 +17,30 @@ Are you interested in collaborating with Pare and Flourish? Let us [know](mailto
 
 ## Who have we collaborated with so far?
 
-<ul class="collaborateList">
-	<li>
-		<a href="/blog/interview-tips-from-an-introvert/">
-			<img class="img-responsive img-fluid" src="/assets/images/other/collaborate/saxon.jpg" alt="Saxon" title="Saxon">
-		</a>
-	</li>
-	<li>
-		<a href="/blog/your-questions-about-workplace-holidays-answered/">
-			<img class="img-responsive img-fluid" src="/assets/images/other/collaborate/spacePlaceAndSouthernGrace.jpg" alt="Space, Place, & Southern Grace" title="Space, Place, & Southern Grace">
-		</a>
-	</li>
-	<li>
-		<a href="/blog/stop-consuming-learn-by-doing/">
-			<img class="img-responsive img-fluid" src="/assets/images/other/collaborate/ashNorton.jpg" alt="Ash Norton" title="Ash Norton">
-		</a>
-	</li>
-</ul>
+<div class="collaborateList">
+	<a href="/blog/interview-tips-from-an-introvert/">
+		<img src="/assets/images/other/collaborate/saxon.jpg" alt="Saxon">
+	</a>
+	<a href="/blog/your-questions-about-workplace-holidays-answered/">
+		<img src="/assets/images/other/collaborate/space-place-and-southern-grace.png" alt="Space, Place, & Southern Grace">
+	</a>
+	<a href="/blog/stop-consuming-learn-by-doing/">
+		<img src="/assets/images/other/collaborate/ash-norton.png" alt="Ash Norton">
+	</a>
+	<a href="/blog/three-benefits-of-reiki-as-self-care/">
+		<img src="/assets/images/other/collaborate/nancy-hutcherson.png" alt="Nancy Hutcherson">
+	</a>
+</div>
 
 <hr class="secondary">
 
 ## What products have we reviewed?
 
-<ul class="collaborateList">
-	<li>
-		<a href="/blog/why-you-should-be-using-the-shapr-networking-app/">
-			<img class="img-responsive img-fluid" src="/assets/images/other/collaborate/shapr.jpg" alt="shapr" title="shapr">
-		</a>
-	</li>
-</ul>
+<div class="collaborateList">
+	<a href="/blog/why-you-should-be-using-the-shapr-networking-app/">
+		<img src="/assets/images/other/collaborate/shapr.png" alt="shapr">
+	</a>
+</div>
 
 <hr class="secondary">
 
