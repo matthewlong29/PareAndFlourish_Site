@@ -1,13 +1,17 @@
 blockquote {
   border-left: 0.3em solid $accent;
-	border-radius: $commonRadius;
-  background-color: transparentize($gray, .95);
+  padding: .5rem 1rem;
+  margin: 1rem 0;
   position: relative;
+  font-style: italic;
   cite {
     font-size: 0.8em;
     &:before {
       content: "\2014";
       padding-right: 5px;
     }
+  }
+  p {
+    margin: 0;
   }
 }

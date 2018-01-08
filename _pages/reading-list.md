@@ -26,6 +26,10 @@ image:
         </div>
         <p>...in a leadership position who wants to increase the value of their conversations.</p>
       </a>
+      <div class="readReview">
+        {% include svgs/arrow-right.html %}
+        <p><a href="/blog/the-coaching-habit-book-review/">read the full review!</a></p>
+      </div>
     </div>
     <div class="bookTile">
       <a href="http://amzn.to/2zZoAZg">
