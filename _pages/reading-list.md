@@ -13,6 +13,21 @@ image:
   <h2>This book is perfect for someone...</h2>
   <div class="bookRow">
     <div class="bookTile">
+      <a href="http://amzn.to/2CXEvvo">
+        <img src="/assets/images/other/amReading/halfTheSky.jpg" alt="Half The Sky">
+        <h3>Half The Sky</h3>
+        <div class="bookRating">
+          <h4>Rating:</h4>
+          {% include svgs/full-star.html %}
+          {% include svgs/full-star.html %}
+          {% include svgs/full-star.html %}
+          {% include svgs/full-star.html %}
+          {% include svgs/full-star.html %}
+        </div>
+        <p>...who wants to be more informed of women's issues around the world and who wants to be inspired to take action.</p>
+      </a>
+    </div>
+    <div class="bookTile">
       <a href="http://amzn.to/2CSFhGr">
         <img src="/assets/images/other/amReading/theCoachingHabit.jpg" alt="The Coaching Habit">
         <h3>The Coaching Habit</h3>
