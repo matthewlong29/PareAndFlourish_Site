@@ -17,3 +17,61 @@
     width: 18%;
   }
 }
+
+#calendar {
+  display: flex;
+  flex-wrap: wrap;
+  .month {
+    border: 2px solid $accent;
+    padding: 1rem;
+    width: calc(33% - 2*.25rem);
+    margin: .25rem;
+    min-height: 150px;
+    text-align: center;
+    &-content {
+      display: flex;
+      justify-content: space-between;
+      flex-direction: column;
+      min-height: 150px;
+      .month-details {
+        p {
+          line-height: 1;
+          font-size: 1.5rem;
+          padding: .15rem 0;
+        }
+      }
+      a {
+        border-bottom: none;
+        .sign-up {
+          display: block;
+          padding: .5rem;
+          width: 100%;
+          background: transparentize($accent, .15);
+        }
+      }
+    }
+    h3 {
+      border-bottom: 2px solid $accent;
+    }
+    @media (max-width: $medium) {
+      width: calc(50% - 2*.25rem);
+    }
+    @media (max-width: $small) {
+      width: calc(100% - 2*.25rem);
+    }
+  }
+  .january {
+    // background-image: url('/assets/images/events/event1-pic1.jpg');
+  }
+  .february {}
+  .march {}
+  .april {}
+  .may {}
+  .june {}
+  .july {}
+  .august {}
+  .september {}
+  .october {}
+  .november {}
+  .december {}
+}

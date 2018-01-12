@@ -40,15 +40,135 @@ image:
 - Want to create lasting relationships with like-minded women
 - Want to leave a networking event feeling connected and inspired
 
+<hr class="secondary">
+
+## Upcoming 2018 Events
+
+<div id="calendar">
+  <div class="month january">
+    <h3>January</h3>
+    <div class="month-content">
+      <div class="month-details">
+        <p><strong>Location</strong>: Elizabethtown, KY</p>
+        <p><strong>Topic</strong>: Self-Care</p>
+      </div>
+    </div>
+  </div>
+  <div class="month february">
+    <h3>February</h3>
+    <div class="month-content">
+      <div class="month-details">
+        <p><strong>Location</strong>: Bowling Green, KY</p>
+        <p><strong>Topic</strong>: Applying Creativity Personally & Professionally</p>
+      </div>
+      <a href="#">
+        <div class="sign-up">
+          <span>Sign up now!</span>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="month march">
+    <h3>March</h3>
+    <div class="month-content">
+      <div class="month-details">
+        <p>Stay Tuned!</p>
+      </div>
+    </div>
+  </div>
+  <div class="month april">
+    <h3>April</h3>
+    <div class="month-content">
+      <div class="month-details">
+        <p>NONE</p>
+      </div>
+    </div>
+  </div>
+  <div class="month may">
+    <h3>May</h3>
+    <div class="month-content">
+      <div class="month-details">
+        <p><strong>Location</strong>: Bowling Green, KY</p>
+        <p><strong>Topic</strong>: Emerging Business Professionals</p>
+      </div>
+      <a href="#">
+        <div class="sign-up">
+          <span>Sign up now!</span>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="month june">
+    <h3>June</h3>
+    <div class="month-content">
+      <div class="month-details">
+        <p><strong>Location</strong>: Elizabethtown, KY</p>
+        <p><strong>Topic</strong>: Female Small Business Owners</p>
+      </div>
+      <a href="#">
+        <div class="sign-up">
+          <span>Sign up now!</span>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="month july">
+    <h3>July</h3>
+    <div class="month-content">
+      <div class="month-details">
+        <p>Stay Tuned!</p>
+      </div>
+    </div>
+  </div>
+  <div class="month august">
+    <h3>August</h3>
+    <div class="month-content">
+      <div class="month-details">
+        <p>Stay Tuned!</p>
+      </div>
+    </div>
+  </div>
+  <div class="month september">
+    <h3>September</h3>
+    <div class="month-content">
+      <div class="month-details">
+        <p>Stay Tuned!</p>
+      </div>
+    </div>
+  </div>
+  <div class="month october">
+    <h3>October</h3>
+    <div class="month-content">
+      <div class="month-details">
+        <p>Stay Tuned!</p>
+      </div>
+    </div>
+  </div>
+  <div class="month november">
+    <h3>November</h3>
+    <div class="month-content">
+      <div class="month-details">
+        <p>Stay Tuned!</p>
+      </div>
+    </div>
+  </div>
+  <div class="month december">
+    <h3>December</h3>
+    <div class="month-content">
+      <div class="month-details">
+        <p>Stay Tuned!</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+*Dates and locations are subject to change.* Minimum of 1 month notification will be required before details are changed.
+
+<hr class="secondary">
+
 **What should you do to prepare? Nothing.** Your moderator will be prepared with a broad topic, that is disclosed beforehand, ready to guide the conversation with follow-up questions and inspiration. **All attendees are encouraged to participate and are given a safe environment to do so.**
 
-<hr class="secondary">
-
-<a href="https://www.eventbrite.com/e/flourish-roundtable-self-care-registration-41177175039">
-  <img src="/assets/images/events/book-a-seat.jpg" alt="Image asking to click here to book a seat at the next Flourish Roundtable">
-</a>
-
-<hr class="secondary">
+## Testimonials
 
 When asked **“What was your favorite part of this Flourish Roundtable?”** this is what past participants had to say:
 
