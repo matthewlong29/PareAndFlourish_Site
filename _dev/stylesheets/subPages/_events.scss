@@ -28,11 +28,14 @@
     margin: .25rem;
     min-height: 150px;
     text-align: center;
+    background-position: center;
+    background-size: cover;
     &-content {
       display: flex;
       justify-content: space-between;
       flex-direction: column;
       min-height: 150px;
+      background: rgba($white, 0.5);
       .month-details {
         p {
           line-height: 1;
@@ -52,6 +55,7 @@
     }
     h3 {
       border-bottom: 2px solid $accent;
+      background: rgba($white, 0.5);
     }
     @media (max-width: $medium) {
       width: calc(50% - 2*.25rem);
@@ -61,13 +65,19 @@
     }
   }
   .january {
-    // background-image: url('/assets/images/events/event1-pic1.jpg');
+    background-image: url('/assets/images/other/calendar/january.jpg');
   }
-  .february {}
+  .february {
+    background-image: url('/assets/images/other/calendar/february.jpg');
+  }
   .march {}
   .april {}
-  .may {}
-  .june {}
+  .may {
+    background-image: url('/assets/images/other/calendar/may.jpg');
+  }
+  .june {
+    background-image: url('/assets/images/other/calendar/june.jpg');
+  }
   .july {}
   .august {}
   .september {}

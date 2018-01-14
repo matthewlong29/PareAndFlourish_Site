@@ -42,7 +42,7 @@ image:
 
 <hr class="secondary">
 
-## Upcoming 2018 Events
+## 2018 Events
 
 <div id="calendar">
   <div class="month january">
@@ -52,6 +52,11 @@ image:
         <p><strong>Location</strong>: Elizabethtown, KY</p>
         <p><strong>Topic</strong>: Self-Care</p>
       </div>
+      <a href="https://www.eventbrite.com/e/flourish-roundtable-self-care-registration-41177175039">
+        <div class="sign-up">
+          <span>Learn more!</span>
+        </div>
+      </a>
     </div>
   </div>
   <div class="month february">
@@ -61,11 +66,6 @@ image:
         <p><strong>Location</strong>: Bowling Green, KY</p>
         <p><strong>Topic</strong>: Applying Creativity Personally & Professionally</p>
       </div>
-      <a href="#">
-        <div class="sign-up">
-          <span>Sign up now!</span>
-        </div>
-      </a>
     </div>
   </div>
   <div class="month march">
@@ -91,11 +91,6 @@ image:
         <p><strong>Location</strong>: Bowling Green, KY</p>
         <p><strong>Topic</strong>: Emerging Business Professionals</p>
       </div>
-      <a href="#">
-        <div class="sign-up">
-          <span>Sign up now!</span>
-        </div>
-      </a>
     </div>
   </div>
   <div class="month june">
@@ -105,11 +100,6 @@ image:
         <p><strong>Location</strong>: Elizabethtown, KY</p>
         <p><strong>Topic</strong>: Female Small Business Owners</p>
       </div>
-      <a href="#">
-        <div class="sign-up">
-          <span>Sign up now!</span>
-        </div>
-      </a>
     </div>
   </div>
   <div class="month july">
