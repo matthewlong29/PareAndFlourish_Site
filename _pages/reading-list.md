@@ -7,6 +7,7 @@ permalink: /reading-list/
 
 image:
   header: reading-list.jpg
+  teaser: am-reading.jpg
 ---
 
 <section id="amReadingPage">
