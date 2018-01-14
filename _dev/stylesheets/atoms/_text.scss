@@ -46,6 +46,11 @@ a {
     color: darken($gray, 25%);
     background-color: lighten($accent, 5%);
   }
+  &:visited,
+  &:link {
+    text-decoration: none;
+    color: $gray;
+  }
 }
 
 li {
