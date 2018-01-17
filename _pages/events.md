@@ -7,6 +7,7 @@ permalink: /events/
 
 image:
   header: events.jpg
+  teaser: pandf-events.jpg
 ---
 
 ## What is a **Flourish Roundtable**?
