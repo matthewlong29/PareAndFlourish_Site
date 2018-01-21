@@ -30,6 +30,24 @@ Are you interested in collaborating with Pare and Flourish? Let us [know](mailto
 	<a href="/blog/three-benefits-of-reiki-as-self-care/">
 		<img src="/assets/images/other/collaborate/nancy-hutcherson.png" alt="Nancy Hutcherson">
 	</a>
+	<a href="http://www.prettystrange.design/">
+		<img src="/assets/images/other/collaborate/pretty-strange-design.jpg" alt="Pretty Strange Design">
+	</a>
+	<a href="https://www.instagram.com/7inkstudio/">
+		<img src="/assets/images/other/collaborate/7-ink-studio.png" alt="7 Ink Studio">
+	</a>
+	<a href="https://www.instagram.com/2137media/">
+		<img src="/assets/images/other/collaborate/2137-media.jpg" alt="2137 Media">
+	</a>
+	<a href="https://www.wholefoodsmarket.com/stores/lexington">
+		<img src="/assets/images/other/collaborate/whole-foods-market-lexington.jpg" alt="Whole Foods Market Lexington">
+	</a>
+	<a href="https://www.facebook.com/JarredButlerStateFarm/">
+		<img src="/assets/images/other/collaborate/jarred-butler-state-farm.jpg" alt="Jarred Butler State Farm">
+	</a>
+	<a href="https://www.hamburgfarmslex.com/">
+		<img src="/assets/images/other/collaborate/hamburg-farms.jpg" alt="Hamburg Farms">
+	</a>
 </div>
 
 <hr class="secondary">
