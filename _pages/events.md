@@ -52,8 +52,9 @@ image:
       <div class="month-details">
         <p><strong>Location</strong>: Elizabethtown, KY</p>
         <p><strong>Topic</strong>: Self-Care</p>
+        <p><strong>Note</strong>: This event is rescheduled to Feb 4th due to extreme weather.</p>
       </div>
-      <a href="https://www.eventbrite.com/e/flourish-roundtable-self-care-registration-41177175039">
+      <a href="https://www.eventbrite.com/e/flourish-roundtable-self-care-tickets-42190978352">
         <div class="sign-up">
           <span>Learn more!</span>
         </div>
