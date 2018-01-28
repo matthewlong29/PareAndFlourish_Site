@@ -14,6 +14,21 @@ image:
   <h2>This book is perfect for someone...</h2>
   <div class="bookRow">
     <div class="bookTile">
+      <a href="http://amzn.to/2DPU3l9">
+        <img src="/assets/images/other/amReading/whyNotMe.jpg" alt="Why Not Me?">
+        <h3>Why Not Me?</h3>
+        <div class="bookRating">
+          <h4>Rating:</h4>
+          {% include svgs/full-star.html %}
+          {% include svgs/full-star.html %}
+          {% include svgs/full-star.html %}
+          {% include svgs/full-star.html %}
+          {% include svgs/full-star.html %}
+        </div>
+        <p>...who wants to laugh, relate, and be motivated to push through, even when they're discouraged.</p>
+      </a>
+    </div>
+    <div class="bookTile">
       <a href="http://amzn.to/2CXEvvo">
         <img src="/assets/images/other/amReading/halfTheSky.jpg" alt="Half The Sky">
         <h3>Half The Sky</h3>
