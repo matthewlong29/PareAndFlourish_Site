@@ -23,7 +23,7 @@ image:
           {% include svgs/full-star.html %}
           {% include svgs/full-star.html %}
           {% include svgs/full-star.html %}
-          {% include svgs/full-star.html %}
+          {% include svgs/empty-star.html %}
         </div>
         <p>...who wants to laugh, relate, and be motivated to push through, even when they're discouraged.</p>
       </a>
