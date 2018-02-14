@@ -48,6 +48,9 @@ Are you interested in collaborating with Pare and Flourish? Let us [know](mailto
 	<a href="https://www.hamburgfarmslex.com/">
 		<img src="/assets/images/other/collaborate/hamburg-farms.jpg" alt="Hamburg Farms">
 	</a>
+	<a href="https://www.brentnewell.com/">
+		<img src="/assets/images/other/collaborate/brent-newell.png" alt="Brent Newell Photographer">
+	</a>
 </div>
 
 <hr class="secondary">
