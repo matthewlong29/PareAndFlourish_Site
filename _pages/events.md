@@ -195,4 +195,8 @@ When asked **“What was your favorite part of this Flourish Roundtable?”** th
   <img src="/assets/images/events/event5-pic5.jpg" alt="Image from a Flourish Roundtable event!">
   <img src="/assets/images/events/event5-pic6.jpg" alt="Image from a Flourish Roundtable event!">
   <img src="/assets/images/events/event5-pic7.jpg" alt="Image from a Flourish Roundtable event!">
+  <img src="/assets/images/events/event8-pic1.jpg" alt="Image from a Flourish Roundtable event!">
+  <img src="/assets/images/events/event8-pic2.jpg" alt="Image from a Flourish Roundtable event!">
+  <img src="/assets/images/events/event8-pic3.jpg" alt="Image from a Flourish Roundtable event!">
+  <img src="/assets/images/events/event8-pic4.jpg" alt="Image from a Flourish Roundtable event!">
 </section>
