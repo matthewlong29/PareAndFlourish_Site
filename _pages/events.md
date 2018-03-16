@@ -79,7 +79,7 @@ image:
     <h3>March</h3>
     <div class="month-content">
       <div class="month-details">
-        <p>Stay Tuned!</p>
+        <p>NONE</p>
       </div>
     </div>
   </div>
