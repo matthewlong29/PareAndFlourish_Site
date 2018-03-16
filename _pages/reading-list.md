@@ -13,6 +13,23 @@ image:
 <section id="amReadingPage">
   <h2>This book is perfect for someone...</h2>
   <div class="bookRow">
+    <!-- book -->
+    <div class="bookTile">
+      <a href="http://amzn.to/2GEazCw">
+        <img src="/assets/images/other/amReading/big-magic.jpg" alt="Big Magic: Creative Living Beyond Fear">
+        <h3>Big Magic: Creative Living Beyond Fear</h3>
+        <div class="bookRating">
+          <h4>Rating:</h4>
+          {% include svgs/full-star.html %}
+          {% include svgs/full-star.html %}
+          {% include svgs/full-star.html %}
+          {% include svgs/full-star.html %}
+          {% include svgs/full-star.html %}
+        </div>
+        <p>...who wants to explore creativity in a new light and take advantage of their creative spirit.</p>
+      </a>
+    </div>
+    <!-- book -->
     <div class="bookTile">
       <a href="http://amzn.to/2DPU3l9">
         <img src="/assets/images/other/amReading/whyNotMe.jpg" alt="Why Not Me?">
@@ -28,6 +45,7 @@ image:
         <p>...who wants to laugh, relate, and be motivated to push through, even when they're discouraged.</p>
       </a>
     </div>
+    <!-- book -->
     <div class="bookTile">
       <a href="http://amzn.to/2CXEvvo">
         <img src="/assets/images/other/amReading/halfTheSky.jpg" alt="Half The Sky">
@@ -43,6 +61,7 @@ image:
         <p>...who wants to be more informed of women's issues around the world and who wants to be inspired to take action.</p>
       </a>
     </div>
+    <!-- book -->
     <div class="bookTile">
       <a href="http://amzn.to/2CSFhGr">
         <img src="/assets/images/other/amReading/theCoachingHabit.jpg" alt="The Coaching Habit">
@@ -62,6 +81,7 @@ image:
         <p><a href="/blog/the-coaching-habit-book-review/">read the full review!</a></p>
       </div>
     </div>
+    <!-- book -->
     <div class="bookTile">
       <a href="http://amzn.to/2zZoAZg">
         <img src="/assets/images/other/amReading/fearlessAndFree.jpg" alt="Fearless and Free">
@@ -77,6 +97,7 @@ image:
         <p>...who wants to gain confidence in their decision to move to a new career.</p>
       </a>
     </div>
+    <!-- book -->
     <div class="bookTile">
       <a href="http://amzn.to/2y3UHGa">
         <img src="/assets/images/other/amReading/whoMovedMyCheese.jpg" alt="Who Moved My Cheese">
@@ -92,6 +113,7 @@ image:
         <p>...who resists change in the workplace, or otherwise, and wants to see the value in changing old habits.</p>
       </a>
     </div>
+    <!-- book -->
     <div class="bookTile">
       <a href="http://amzn.to/2y3JN2X">
         <img src="/assets/images/other/amReading/daringGreatly.jpg" alt="Daring Greatly">
@@ -107,6 +129,7 @@ image:
         <p>...who is "daring greatly" at work or home, and wants to accept vulnerability as a factor of strength.</p>
       </a>
     </div>
+    <!-- book -->
     <div class="bookTile">
       <a href="http://amzn.to/2gmphGk">
         <img src="/assets/images/other/amReading/theHappinessAdvantage.jpg" alt="The Happiness Advantage">
@@ -126,6 +149,7 @@ image:
         <p><a href="/blog/the-happiness-advantage-by-shawn-achor-book-review/">read the full review!</a></p>
       </div>
     </div>
+    <!-- book -->
     <div class="bookTile">
       <a href="http://amzn.to/2t2eDpL">
         <img src="/assets/images/other/amReading/youAreABadass.jpg" alt="You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life">
@@ -141,6 +165,7 @@ image:
         <p>...who is trying to live an awesome life and wants a few tips on how to make it even better.</p>
       </a>
     </div>
+    <!-- book -->
     <div class="bookTile">
       <a href="http://amzn.to/2tVbjjk">
         <img src="/assets/images/other/amReading/theNewRulesOfWork.jpg" alt="The New Rules of Work: The Modern Playbook for Navigating Your Career">
@@ -156,6 +181,7 @@ image:
         <p>...who is navigating the modern career and wants advice on how to align their career with their true values.</p>
       </a>
     </div>
+    <!-- book -->
     <div class="bookTile">
       <a href="http://amzn.to/2ulbjdu">
         <img src="/assets/images/other/amReading/theBigLife.jpg" alt="The Big Life: Embrace the Mess, Work Your Side Hustle, Find a Monumental Relationship, and Become the Badass Babe You Were Meant to Be">
@@ -171,6 +197,7 @@ image:
         <p>...who is rocking a side hustle and wants to embrace the mess that comes along with it.</p>
       </a>
     </div>
+    <!-- book -->
     <div class="bookTile">
       <a href="http://amzn.to/2tr1hTm">
         <img src="/assets/images/other/amReading/quiet.jpg" alt="Quiet: The Power of Introverts in a World That Can't Stop Talking">
@@ -186,6 +213,7 @@ image:
         <p>...who is introverted and wants to understand how to better work with extroverted people.</p>
       </a>
     </div>
+    <!-- book -->
     <div class="bookTile">
       <a href="http://amzn.to/2ulx6BJ">
         <img src="/assets/images/other/amReading/nonconformistsMoveTheWorld.jpg" alt="Originals: How Non-Conformists Move the World">
@@ -201,6 +229,7 @@ image:
         <p>...with creative ideas who wants to embrace the potential of those ideas.</p>
       </a>
     </div>
+    <!-- book -->
     <div class="bookTile">
       <a href="http://amzn.to/2hRFUKJ">
         <img src="/assets/images/other/amReading/leanIn.jpg" alt="Lean In">
@@ -220,6 +249,7 @@ image:
         <p><a href="/blog/review-of-lean-in/">read the full review!</a></p>
       </div>
     </div>
+    <!-- book -->
     <div class="bookTile">
       <a href="http://amzn.to/2hQUPob">
         <img src="/assets/images/other/amReading/dropTheBall.jpg" alt="Drop The Ball">
@@ -239,6 +269,7 @@ image:
         <p><a href="/blog/drop-the-ball-by-tiffany-dufu-book-review/">read the full review!</a></p>
       </div>
     </div>
+    <!-- book -->
     <div class="bookTile">
       <a href="http://amzn.to/2fy3kDP">
         <img src="/assets/images/other/amReading/bossypants.jpg" alt="Bossypants">
@@ -254,6 +285,7 @@ image:
         <p>...who enjoys Tina Fey's humor and wants to relax to her relateable stories.</p>
       </a>
     </div>
+    <!-- book -->
     <div class="bookTile">
       <a href="http://amzn.to/2fy8QXe">
         <img src="/assets/images/other/amReading/the12WeekYear.jpg" alt="The 12 Week Year">
@@ -269,6 +301,7 @@ image:
         <p>...who is trying to reach goals and wants to overcome the end-of-year slump.</p>
       </a>
     </div>
+    <!-- book -->
     <div class="bookTile">
       <a href="http://amzn.to/2vM5sOY">
         <img src="/assets/images/other/amReading/yesPlease.jpg" alt="Yes Please">
@@ -284,6 +317,7 @@ image:
         <p>...who enjoys Amy Poehler's humor and wants an inside look at how she became who she is today.</p>
       </a>
     </div>
+    <!-- book -->
     <div class="bookTile">
       <a href="http://amzn.to/2uvqi5a">
         <img src="/assets/images/other/amReading/theEnergyBus.jpg" alt="The Energy Bus">
