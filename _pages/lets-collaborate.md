@@ -17,6 +17,8 @@ Are you interested in collaborating with Pare and Flourish? Let us [know](mailto
 
 ## Who have we collaborated with so far?
 
+### Blog Collaborators
+
 <div class="collaborateList">
 	<a href="/blog/interview-tips-from-an-introvert/">
 		<img src="/assets/images/other/collaborate/saxon.jpg" alt="Saxon">
@@ -30,6 +32,14 @@ Are you interested in collaborating with Pare and Flourish? Let us [know](mailto
 	<a href="/blog/three-benefits-of-reiki-as-self-care/">
 		<img src="/assets/images/other/collaborate/nancy-hutcherson.png" alt="Nancy Hutcherson">
 	</a>
+	<a href="/blog/rock-your-life-with-essential-oils/">
+		<img src="/assets/images/other/collaborate/tracy-pendleton.jpg" alt="Tracy Pendleton">
+	</a>
+</div>
+
+### Flourish Roundtable Sponsors
+
+<div class="collaborateList">
 	<a href="http://www.prettystrange.design/">
 		<img src="/assets/images/other/collaborate/pretty-strange-design.jpg" alt="Pretty Strange Design">
 	</a>
