@@ -9,40 +9,13 @@ image:
   header: start-here.jpg
 ---
 
-## Flourish with us!
+We’re a three-person team committed to connecting and inspiring young professionals, especially women. It’s the base of everything we do: [bi-weekly advice articles](/#latest-blogs), [Flourish Roundtable events](/events), and [collaborating](/lets-collaborate) with small businesses and bloggers. We do what we do because we wanted a network. A network of strong, supportive women who encourage each other. 
 
-This unique blog is written by two very different people, living very different lives. <span class="startHereNames">Skylar</span>, the creative one, the Writer. <span class="startHereNames">Katie</span>, the logical thinker, the Accountant.
+We decided to create our own. A place to meet like-minded women, discuss specific ideas, and create a sense of community. Online and in person, Pare and Flourish wants to be that space for you. 
 
-For the sake of our partnership, we meld our ideas—every post is a product of our combined points of view...and a lot of editing.
+We’re always looking for the next opportunity, the next collaboration, the next step to inspire people around us. If you want to be part of this story, we want you here. Join P&F on our mission to lift up the women around us, personally and professionally. 
 
-This blog has constantly evolved as we learned more about our readers...and ourselves. This is a professional development blog focused on learning how to pitch your professional brand.
+Come flourish with us.
 
-If you enjoy books like [Lean In](/reading-list/), [Yes Please](/reading-list/), and [Bossypants](/reading-list/), or podcasts like Millennial and The Lively Show, we think that you’ll feel right at home here. After all, they inspired this blog and gave us the courage to finally put it together.
-
-We dedicate our time to this blog to inspire and encourage our readers to grow personally and professionally. It is our hope that we add authenticity to your week. Topics will range from networking, to mastering LinkedIn, to our favorite professional help books, and everything in between.
-
-Check us out on [Pinterest]({{site.links.pinterest}}), [Twitter]({{site.links.twitter}}), or subscribe to our mailing list. Also, we love our readers! You can email us at: [contact@pareandflourish.com](mailto:{{site.email}}) with any comments or blog post ideas. Would you like to write a guest blog post on Pare and Flourish? Send us your pitch!
-
-Finally, we can’t forget our Executive Web Developer, Matthew Long. Without him, none of this is possible. Check out the additional services that he offers in the [Work With Us](/lets-collaborate/) page.
-
-<hr class="secondary">
-
-<div class="row about-us">
-    <div class="col-lg-4 col-sm-4">
-        <img src="/assets/images/other/skylar.png" class="img-responsive">
-        <h2 class="alt">Skylar Wooden</h2>
-        <p>Skylar is a Technical Writer in Bowling Green, Kentucky. She graduated from Western Kentucky University in 2014 with a bachelor’s degree in English and French. In her free time, she volunteers for the Bowling Green International Festival, talks to her cats like they’re people, and writes for this blog. Connect with Skylar on <a href="https://www.linkedin.com/in/skylarwooden">LinkedIn</a> or <a href="https://www.levo.com/skylar-wooden">Levo.</a></p>
-    </div>
-    <div class="col-lg-4 col-sm-4">
-        <img src="/assets/images/other/katie.png" class="img-responsive">
-        <h2 class="alt">Katie Butler</h2>
-        <p>Katie is a CPA in Louisville, Kentucky. She graduated from UK in 2015 with a master’s degree in accounting. She lives at home with her husband, Jarred, and her dog, Maggie. In her spare time, you can catch her working on this blog, reading, or watching whichever Netflix show she’s obsessed with this week. Connect with Katie on <a href="https://www.linkedin.com/in/katie-butler-cpa">LinkedIn</a> or <a href="https://www.levo.com/945640">Levo.</a> </p>
-    </div>
-    <div class="col-lg-4 col-sm-4">
-        <img src="/assets/images/other/matthew.png" class="img-responsive">
-        <h2 class="alt">Matthew Long</h2>
-        <p>Matt graduated from UK in 2015 with a bachelor's degree in civil engineering. He is a freelance front-end website developer who also does user experience design. He lives at home in Lexington, Kentucky with his dog, Harley. In his free time, you can find him watching Twitch, playing computer games, or developing websites. Connect with Matthew on <a href="https://www.linkedin.com/in/mtlong29">LinkedIn.</a></p>
-    </div>
-</div>
-
-<hr class="secondary">
+Love,  
+Pare and Flourish
