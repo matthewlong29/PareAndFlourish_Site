@@ -96,7 +96,7 @@ image:
     <div class="month-content">
       <div class="month-details">
         <p><strong>Location</strong>: Bowling Green, KY</p>
-        <p><strong>Topic</strong>: Emerging Business Professionals</p>
+        <p><strong>Topic</strong>: Mindfulness and Meditation</p>
       </div>
     </div>
   </div>
