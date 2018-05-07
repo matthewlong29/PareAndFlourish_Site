@@ -98,6 +98,11 @@ image:
         <p><strong>Location</strong>: Bowling Green, KY</p>
         <p><strong>Topic</strong>: Mindfulness and Meditation</p>
       </div>
+        <a href="https://www.eventbrite.com/e/flourish-roundtable-mindfulness-meditation-w-4yoga-tickets-44975573150">
+        <div class="sign-up">
+          <span>Learn more!</span>
+        </div>
+      </a>
     </div>
   </div>
   <div class="month june">
