@@ -1,5 +1,5 @@
 /********************************************************
-  calculate height of header images
+calculate height of header images
 ********************************************************/
 
 // calculate height of header
