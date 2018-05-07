@@ -1,0 +1,170 @@
+/***************************************************************************************************
+post content
+***************************************************************************************************/
+
+%author-divider {
+  content: "";
+  line-height: 1em;
+  display: block;
+  margin: 0 auto;
+  border-bottom: 2px solid $gray;
+  width: 15%;
+}
+
+.post-content {
+  font-size: 1.35em;
+  p {
+    line-height: 1.75em;
+  }
+  li {
+    line-height: 1.75em;
+  }
+  h1 {
+    &.title {
+      text-align: center;
+    }
+  }
+  h2 {
+    font-family: $primaryFont;
+    line-height: 1em;
+  }
+  h2.alt {
+    font-family: $primaryFont;
+    font-size: 1.25em;
+  }
+  h3 {
+    line-height: 1em;
+    margin: $zeroMargin;
+    &.author {
+      margin-top: -10px;
+      margin-bottom: 10px;
+      text-align: center;
+      color: $gray;
+      font-size: 1em;
+      line-height: 2em;
+      &:before {
+        @extend %author-divider;
+      }
+      &:after {
+        @extend %author-divider;
+      }
+    }
+    &.date {
+      text-align: center;
+      font-size: 1em;
+      margin-top: -10px;
+      margin-bottom: 10px;
+    }
+  }
+  hr.secondary {
+    margin: 1em 0;
+  }
+  img {
+    @include userSelect(none);
+    max-width: 100%;
+  }
+  .get-ad {
+    img {
+      &:first-of-type {
+        margin-bottom: 1rem;
+      }
+    }
+  }
+}
+
+/***************************************************************************************************
+post pagination
+***************************************************************************************************/
+
+.paginate {
+  a {
+    text-decoration: none;
+  }
+  .img {
+    border: $commonBorder;
+    margin: 1em 0 0 0;
+    padding: $zeroPadding;
+  }
+  button {
+    @include transition(.2s, ease, all);
+    width: 100%;
+    margin: 1em 0 0 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px 10px;
+    border-radius: $commonRadius;
+    span {
+      font-size: 1.25rem;
+      color: $gray;
+    }
+    svg {
+      padding-top: 2px;
+    }
+  }
+  h3 {
+    font-family: $primaryFont;
+    color: darken($gray, 25%);
+    margin: 0 0 1em 0;
+    text-align: center;
+    font-size: 2rem;
+  }
+  @media screen and (max-width: $medium) {
+    h3 {
+      font-size: 1.75rem;
+    }
+  }
+  @media screen and (max-width: $small) {
+    h3 {
+      font-size: 1.5rem;
+    }
+  }
+}
+
+/***************************************************************************************************
+post side panel
+***************************************************************************************************/
+
+.side-panel {
+	margin: 1em 0 1em 0;
+	padding: $zeroPadding;
+	background: transparent;
+	h3 {
+		@include transition(.2s, ease, all);
+		color: $white;
+		text-align: center;
+		background-color: $accent;
+		margin: 0 0 1em 0;
+		border-radius: $commonRadius;
+		box-shadow: $commonShadow;
+		&:hover,
+		&:focus {
+			background-color: $accentLighten;
+			box-shadow: $commonShadowHover;
+		}
+	}
+	p {
+		text-align: left;
+		margin: 1em;
+	}
+	a {
+		text-decoration: none;
+		text-align: left;
+	}
+	img {
+		@include userSelect(none);
+		border: $commonBorder;
+		margin: 1em auto;
+	}
+	.twitter-section {
+		margin: 1em 0 0 0;
+		@media only screen and (max-width: 992px) {
+			display: none;
+		}
+		.tweets {
+			border: $commonBorder;
+			border-radius: $commonRadius;
+			box-shadow: $commonShadow;
+		}
+	}
+}
