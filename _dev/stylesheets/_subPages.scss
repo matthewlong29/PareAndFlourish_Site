@@ -1,0 +1,266 @@
+/***************************************************************************************************
+about us page
+***************************************************************************************************/
+
+.about-us {
+	@include transition(.2s, ease, all);
+  margin: $zeroMargin;
+  padding: $zeroPadding;
+  p {
+    margin: 0 0 1em 0;
+    padding: $zeroPadding;
+    color: $gray;
+  }
+  h3 {
+    margin: 1em 0 0 0;
+    padding: $zeroPadding;
+  }
+  img {
+    @include userSelect(none);
+  }
+}
+
+/***************************************************************************************************
+collaborate page
+***************************************************************************************************/
+
+.collaborateList {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	a {
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+		border-bottom: none;
+		background: transparent;
+		img {
+			@include userSelect(none);
+			max-height: 100px;
+			border: 0;
+			box-shadow: none;
+			margin: 1rem;
+		}
+		&:hover {
+			background: transparent;
+		}
+	}
+}
+
+/***************************************************************************************************
+events page
+***************************************************************************************************/
+
+@mixin flex($values) {
+  -webkit-box-flex: $values;
+  -moz-box-flex: $values;
+  -webkit-flex: $values;
+  -ms-flex: $values;
+  flex: $values;
+}
+
+#eventsGallery {
+  display: flex;
+  flex-wrap: wrap;
+  img {
+    @include userSelect(none);
+    @include flex(1 200px);
+    align-self: center;
+    margin: .5rem;
+    width: 18%;
+  }
+}
+
+#calendar {
+  display: flex;
+  flex-wrap: wrap;
+  .month {
+    border: 2px solid $accent;
+    padding: 1rem;
+    width: calc(33% - 2*.25rem);
+    margin: .25rem;
+    min-height: 150px;
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+    &-content {
+      display: flex;
+      justify-content: space-between;
+      flex-direction: column;
+      min-height: 150px;
+      background: rgba($white, 0.5);
+      .month-details {
+        p {
+          line-height: 1;
+          font-size: 1.5rem;
+          padding: .15rem 0;
+        }
+      }
+      a {
+        border-bottom: none;
+        .sign-up {
+          display: block;
+          padding: .5rem;
+          width: 100%;
+          background: transparentize($accent, .15);
+        }
+      }
+    }
+    h3 {
+      border-bottom: 2px solid $accent;
+      background: rgba($white, 0.5);
+    }
+    @media (max-width: $medium) {
+      width: calc(50% - 2*.25rem);
+    }
+    @media (max-width: $small) {
+      width: calc(100% - 2*.25rem);
+    }
+  }
+  .january {
+    background-image: url('/assets/images/other/calendar/january.jpg');
+  }
+  .february {
+    background-image: url('/assets/images/other/calendar/february.jpg');
+  }
+  .march {}
+  .april {}
+  .may {
+    background-image: url('/assets/images/other/calendar/may.jpg');
+  }
+  .june {
+    background-image: url('/assets/images/other/calendar/june.jpg');
+  }
+  .july {}
+  .august {}
+  .september {}
+  .october {}
+  .november {}
+  .december {}
+}
+
+/***************************************************************************************************
+join pare and flourish page
+***************************************************************************************************/
+
+.subscribeIncintive {
+  img {
+    @include userSelect(none);
+    margin-bottom: 1em;
+  }
+}
+
+/***************************************************************************************************
+reading list page
+***************************************************************************************************/
+
+%bookSVGStyles {
+  @include transition(0.25s, ease-in-out, all);
+  display: flex;
+  flex-direction: row;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: lighten($gray, 15%);
+  fill: lighten($gray, 15%);
+}
+
+#amReadingPage {
+  padding-bottom: 10%;
+  h2 {
+    padding-top: 0;
+    margin-top: 0;
+  }
+  .bookRow {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    .bookTile {
+      padding: 4rem 1rem 0;
+      flex: 1 236px;
+      max-width: 300px;
+      a {
+        border-bottom: none;
+        background: transparent;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        img {
+          @include rotate(-10deg);
+          @include userSelect(none);
+          @include transition(0.25s, ease-in-out, all);
+          border: none;
+          max-height: 200px;
+          align-self: center;
+          filter: grayscale(100%);
+        }
+        h3 {
+          margin-top: 1rem;
+          font-size: 1.95rem;
+          color: lighten($gray, 5%);
+          span {
+            color: $black;
+          }
+        }
+        .bookRating {
+          display: flex;
+          h4 {
+            font-size: 1.7rem;
+            margin: 0;
+            padding: 0 0.75rem 0 0;
+          }
+          svg {
+            @extend %bookSVGStyles;
+          }
+        }
+        p {
+          font-size: 1.5rem;
+          color: lighten($gray, 15%);
+          line-height: 1.15;
+        }
+        &:hover {
+          img {
+            @include rotate(0deg);
+            filter: grayscale(0%);
+          }
+          svg {
+            fill: $accent;
+          }
+        }
+      }
+      .readReview {
+        display: flex;
+        svg {
+          @extend %bookSVGStyles;
+          align-self: center;
+        }
+        p {
+          font-size: 1.5rem;
+          margin: 0 0 0 0.25rem;
+          padding: 0;
+        }
+        &:hover {
+          svg {
+            fill: $accent;
+          }
+        }
+      }
+    }
+  }
+}
+
+/***************************************************************************************************
+search results page
+***************************************************************************************************/
+
+.search {
+  ul {
+    &#search-results {
+      padding: 0;
+      li {
+        list-style: none;
+        margin: 3rem 0;
+      }
+    }
+  }
+}
