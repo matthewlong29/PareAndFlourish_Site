@@ -29,6 +29,12 @@ img {
   text-align: center;
 }
 
+.center-image {
+  box-shadow: none;
+  border: none;
+  display: flex;
+}
+
 ::selection {
   background: $accentLighten;
 }
