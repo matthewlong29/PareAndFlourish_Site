@@ -1,0 +1,290 @@
+/***************************************************************************************************
+general base styles
+***************************************************************************************************/
+
+.container-fluid {
+  padding: $zeroPadding;
+}
+
+body {
+  @include transition(.2s, ease, all);
+  background: url('/assets/images/other/background-pattern.png');
+  background-repeat: repeat;
+}
+
+img {
+  margin: $autoMargin;
+  border: $commonBorder;
+  border-radius: $commonRadius;
+  box-shadow: $commonShadow;
+  &.noImageStyling {
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+}
+
+.no-gutter>[class*='col-'] {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.temp-pag {
+  text-align: center;
+}
+
+.center-image {
+  box-shadow: none;
+  border: none;
+  display: flex;
+}
+
+::selection {
+  background: $accentLighten;
+}
+
+::-moz-selection {
+  background: $accentLighten;
+}
+
+.glyphicon {
+  display: none !important;
+}
+
+/***************************************************************************************************
+buttons
+***************************************************************************************************/
+
+%topBorders{
+  @include transition(0.25s, ease-in-out, all);
+  border-color: transparent;
+  border-style: solid;
+  border-width: 0;
+  content: "";
+  height: 24px;
+  position: absolute;
+  width: 24px;
+}
+
+.commonButton {
+  background: $accent;
+  border: none;
+  color: $white;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1em;
+  font-family: $primaryFont;
+  line-height: 1em;
+  margin: 0 auto;
+  width: 100%;
+  padding: 12px 40px 10px;
+  position: relative;
+  border-radius: $commonRadius;
+  text-transform: uppercase;
+  &:before {
+    @extend %topBorders;
+    border-color: $accent;
+    border-top-width: 2px;
+    left: 0px;
+    top: -5px;
+  }
+  &:after {
+    @extend %topBorders;
+    border-bottom-width: 2px;
+    border-color: $accent;
+    bottom: -5px;
+    right: 0px;
+  }
+  &:hover:before,
+  &.hover:before,
+  &:hover:after,
+  &.hover:after {
+    height: 100%;
+    width: 100%;
+  }
+  svg {
+    fill: lighten($gray, 25%);
+    max-width: 16px;
+  }
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  hr {
+    flex: 1;
+    border: none;
+    height: 2px;
+    background: $black;
+  }
+}
+
+/***************************************************************************************************
+horizontal rules
+***************************************************************************************************/
+
+hr {
+  &.secondary {
+    display: block;
+    border: none;
+    color: $white;
+    margin: $zeroMargin;
+    padding: $zeroPadding;
+    height: 1px;
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 425, from($gray), to($white));
+  }
+  &.primary {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 2.5px solid $gray;
+    margin: $zeroMargin;
+    padding: $zeroPadding;
+  }
+}
+
+/***************************************************************************************************
+text and font styling
+***************************************************************************************************/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @include transition(.2s, ease, all);
+  font-family: $primaryFont;
+  color: darken($gray, 25%);
+  padding: .25em 0;
+  margin: .25em 0;
+}
+
+.startHereNames {
+  font-family: $primaryFont;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+p {
+  @include transition(.2s, ease, all);
+  font-family: $secondaryFont;
+  color: $black;
+  padding: .25em 0;
+  margin: .25em 0;
+  &.indent {
+    margin-left: 2.5em;
+  }
+  &.indentMore {
+    margin-left: 3.5em;
+  }
+  &.imageCaption {
+    font-size: 1.5rem;
+    color: lighten($gray, 10%);
+    line-height: 1.25;
+  }
+}
+
+a {
+  @include transition(.15s, ease-in-out, background-color);
+  text-decoration: none;
+  color: $gray;
+  border-bottom: 2px solid darken($accent, 5%);
+  &:hover {
+    text-decoration: none;
+    color: darken($gray, 25%);
+    background-color: lighten($accent, 5%);
+  }
+  &:visited,
+  &:link {
+    text-decoration: none;
+    color: $gray;
+  }
+}
+
+li {
+  color: $gray;
+  font-family: $secondaryFont;
+  &.extra-indent {
+    margin-left: 2.5em;
+  }
+}
+
+ul {
+  &.indent {
+    margin-left: 2.5em;
+  }
+}
+
+span {
+  &.boldText {
+    font-weight: bold;
+  }
+  &.underlineText {
+    text-decoration: underline;
+  }
+  &.italicizeText {
+    font-style: italic;
+  }
+}
+
+/***************************************************************************************************
+blockquote styling
+***************************************************************************************************/
+
+blockquote {
+  border-left: 0.3em solid $accent;
+  padding: .5rem 1rem;
+  margin: 1rem 0;
+  position: relative;
+  font-style: italic;
+  cite {
+    font-size: 0.8em;
+    &:before {
+      content: "\2014";
+      padding-right: 5px;
+    }
+  }
+  p {
+    margin: 0;
+  }
+}
+
+/***************************************************************************************************
+toggle panels styling
+***************************************************************************************************/
+
+.panel {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  margin-bottom: 16px;
+  .panelOuter {
+    @include userSelect(none);
+    display: flex;
+    justify-content: flex-start;
+    font-family: $primaryFont;
+    font-size: 1.75rem;
+    padding: .35rem;
+    margin: .35rem;
+    background: $accent no-repeat;
+    background-size: contain;
+    border: 2px solid $accent;
+    border-radius: 2px;
+    cursor: pointer;
+    box-shadow: inset 0 0 2px rgba($black, 0.15);
+    &:hover {
+      box-shadow: inset 0 0 4px rgba($black, 0.25);
+      color: $white;
+    }
+  }
+  .panelInner {
+    font-family: $secondaryFont;
+    font-size: 1.75rem;
+    padding: .5rem;
+    margin: .5rem;
+    border: none;
+  }
+}
