@@ -1,3 +1,96 @@
+/***************************************************************************************************
+variables
+***************************************************************************************************/
+
+// Media Query Breakpoints (Same as Bootstrap)
+$small: 576px;
+$medium: 768px;
+$large: 992px;
+$xlarge: 1200px;
+
+// Website Colors
+$accent: #DACEE8;
+$white: #fdfdfd;
+$gray: #333;
+$black: #080808;
+$accentGradient: linear-gradient(45deg, $accent, darken($white, 10%));
+
+// Transition Colors
+$accentLighten: lighten($accent, 5%);
+
+// Social Media Colors
+$colorTwitter: #00aced;
+$colorGithub: #171516;
+$colorPinterest: #bd081c;
+$colorInstagram: #c13584;
+$colorPaypal: #009cde;
+$colorFacebook: #3b5998;
+$colorRSS: #f26522;
+
+// Borders
+$commonBorder: 1px solid rgba($gray, .5);
+$commonRadius: 2px;
+
+// Box Shadows
+$commonShadow: 0 0 8px rgba($gray, .33);
+$commonShadowHover: 0 0 12px rgba($gray, 0.5);
+
+// Font for Headings
+$primaryFont: "Playfair Display SC", serif;
+
+// Font for Everything Else
+$secondaryFont: "Open Sans", sans-serif;
+
+// Margins
+$zeroMargin: 0;
+$autoMargin: 0 auto;
+
+// Paddings
+$zeroPadding: 0;
+
+/***************************************************************************************************
+custom mixins
+***************************************************************************************************/
+
+@mixin transition($time, $type, $selector) {
+  -webkit-transition: $time $type $selector;
+  -moz-transition: $time $type $selector;
+  -o-transition: $time $type $selector;
+  transition: $time $type $selector;
+}
+
+@mixin transitionDelay($time) {
+  -webkit-transition-delay: $time;
+  transition-delay: $time;
+}
+
+@mixin userSelect ($arg) {
+  -webkit-user-select: $arg;
+  -moz-user-select: $arg;
+  -ms-user-select: $arg;
+  user-select: $arg;
+}
+
+@mixin rotate($degrees) {
+  -webkit-transform: rotate($degrees);
+  -moz-transform: rotate($degrees);
+  -ms-transform: rotate($degrees);
+  -o-transform: rotate($degrees);
+  transform: rotate($degrees);
+}
+
+@mixin translate3D ($x, $y, $z) {
+  -webkit-transform: translate3d($x, $y, $z);
+  -moz-transform: translate3d($x, $y, $z);
+  -ms-transform: translate3d($x, $y, $z);
+  -o-transform: translate3d($x, $y, $z);
+  transform: translate3d($x, $y, $z);
+}
+
+/***************************************************************************************************
+animate mixins
+***************************************************************************************************/
+
 @mixin transition($time, $type, $selector) {
 	-webkit-transition: $time $type $selector;
 	-moz-transition: $time $type $selector;
@@ -11,6 +104,7 @@ $delayDefault: 0s !default;
 $functionDefault: ease !default;
 $fillDefault: both;
 $visibilityDefault: hidden !default;
+
 @mixin count($count: 1) {
 	-webkit-animation-iteration-count: $count;
 	-moz-animation-iteration-count: $count;
