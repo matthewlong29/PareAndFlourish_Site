@@ -1,43 +1,10 @@
-// mixins and variables
-@import "variablesMixins/variables",
-        "variablesMixins/mixins",
-        "variablesMixins/animate";
-
-// base
-@import "base/normalize",
-        "base/base";
-
-// atoms
-@import "atoms/button",
-        "atoms/horizontalRules",
-        "atoms/text",
-        "atoms/blockquote";
-
-// molecules
-@import "molecules/footer",
-        "molecules/headerImage",
-        "molecules/navbar",
-        "molecules/blogTiles", // horizontal style blog tiles
-        "molecules/postContent", // general styling
-        "molecules/postPaginate", // buttons at bottom of blog posts
-        "molecules/sidePanel", // side panel styling
-        "molecules/subscribe", // mailchimp subscription styling
-        "molecules/subscriptionModal", // modal for subscription
-        "molecules/togglePanels";
-
-// landing page sections
-@import "landingPage/global",
-        "landingPage/services",
-        "landingPage/events",
-        "landingPage/readingList";
-
-// other pages
-@import "subPages/about",
-        "subPages/collaborate",
-        "subPages/events",
-        "subPages/joinPareAndFlourish",
-        "subPages/readingList",
-        "subPages/searchResults";
-
-// hard overrides
-@import "hardOverrides/universalSelector";
+@import "variablesAndMixins";
+@import "normalize";
+@import "base";
+@import "header";
+@import "footer";
+@import "articlePage";
+@import "subscribe";
+@import "landingPage";
+@import "subPages";
+@import "hardOverrides";
