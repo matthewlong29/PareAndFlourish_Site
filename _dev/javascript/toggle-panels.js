@@ -7,6 +7,7 @@ $(document).ready(() => {
   const innerPanels = document.querySelectorAll('.panel .panelInner');
   const outerPanels = document.querySelectorAll('.panel .panelOuter');
 
+  // function to hide all panels (inner)
   const hideAllPanels = (j) => {
     for (j = 0; j < panels.length; j++) {
       innerPanels[j].hidden = true;
@@ -17,17 +18,17 @@ $(document).ready(() => {
     innerPanels[i].hidden = true;
     innerPanels[0].hidden = false;
 
-    outerPanels[i].onclick = (event) => {
-      if (event.target.nextElementSibling.hidden) {
+    outerPanels[i].onclick = (e) => {
+      if (e.target.nextElementSibling.hidden) {
         if (panels.length == 3) {
           hideAllPanels(i);
         }
-        event.target.nextElementSibling.hidden = false;
-      } else if (!event.target.nextElementSibling.hidden) {
+        e.target.nextElementSibling.hidden = false;
+      } else if (!e.target.nextElementSibling.hidden) {
         if (panels.length == 3) {
           hideAllPanels(i);
         }
-        event.target.nextElementSibling.hidden = true;
+        e.target.nextElementSibling.hidden = true;
       }
     }
   }
