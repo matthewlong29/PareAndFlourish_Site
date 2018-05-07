@@ -1,0 +1,32 @@
+.panel {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  margin-bottom: 16px;
+  .panelOuter {
+    @include userSelect(none);
+    display: flex;
+    justify-content: flex-start;
+    font-family: $primaryFont;
+    font-size: 1.75rem;
+    padding: .35rem;
+    margin: .35rem;
+    background: $accent no-repeat;
+    background-size: contain;
+    border: 2px solid $accent;
+    border-radius: 2px;
+    cursor: pointer;
+    box-shadow: inset 0 0 2px rgba($black, 0.15);
+    &:hover {
+      box-shadow: inset 0 0 4px rgba($black, 0.25);
+      color: $white;
+    }
+  }
+  .panelInner {
+    font-family: $secondaryFont;
+    font-size: 1.75rem;
+    padding: .5rem;
+    margin: .5rem;
+    border: none;
+  }
+}

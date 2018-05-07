@@ -1,46 +1,27 @@
 #services {
-  .resume,
-  .coverLetter,
-  .linkedIn {
-    .panel {
-      @include userSelect(none);
-      display: flex;
-      justify-content: flex-end;
-      font-family: $primaryFont;
-      font-size: 1.75rem;
-      padding: .5rem;
-      margin: .5rem;
-      background: $accent no-repeat;
-      background-size: contain;
-      border: 2px solid $accent;
-      border-radius: 2px;
-      cursor: pointer;
-      box-shadow: inset 0 0 2px rgba($black, 0.15);
-      &:hover {
-        box-shadow: inset 0 0 4px rgba($black, 0.25);
-        color: $white;
+  .panel {
+    &.resume,
+    &.coverLetter,
+    &.linkedIn {
+      margin-bottom: 8px;
+      .panelOuter {
+        justify-content: flex-end;
       }
     }
-    .fact {
-      font-family: $secondaryFont;
-      font-size: 1.75rem;
-      padding: .5rem;
-      margin: .5rem;
+    &.resume {
+      .panelOuter {
+        background-image: url('/assets/images/other/services/file.svg');
+      }
     }
-  }
-  .resume {
-    .panel {
-      background-image: url('/assets/images/other/services/file.svg');
+    &.coverLetter {
+      .panelOuter {
+        background-image: url('/assets/images/other/services/files.svg');
+      }
     }
-  }
-  .coverLetter {
-    .panel {
-      background-image: url('/assets/images/other/services/files.svg');
-    }
-  }
-  .linkedIn {
-    .panel {
-      background-image: url('/assets/images/other/services/laptop.svg');
+    &.linkedIn {
+      .panelOuter {
+        background-image: url('/assets/images/other/services/laptop.svg');
+      }
     }
   }
   ol {

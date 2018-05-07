@@ -1,29 +1,34 @@
 /********************************************************
-  toggle resume, cover letter, and linkedin facts
+toggle panels
 ********************************************************/
 
 $(document).ready(() => {
+  const panels = document.querySelectorAll('.panel');
+  const innerPanels = document.querySelectorAll('.panel .panelInner');
+  const outerPanels = document.querySelectorAll('.panel .panelOuter');
 
-  $('.resume .fact').show();
-  $('.linkedIn .fact').hide();
-  $('.coverLetter .fact').hide();
+  const hideAllPanels = (j) => {
+    for (j = 0; j < panels.length; j++) {
+      innerPanels[j].hidden = true;
+    }
+  }
 
-  $('.resume').on('click', () => {
-    $('.linkedIn .fact').hide();
-    $('.coverLetter .fact').hide();
-    $('.resume .fact').fadeToggle();
-  });
+  for (let i = 0; i < panels.length; i++) {
+    innerPanels[i].hidden = true;
+    innerPanels[0].hidden = false;
 
-  $('.coverLetter').on('click', () => {
-    $('.linkedIn .fact').hide();
-    $('.coverLetter .fact').fadeToggle();
-    $('.resume .fact').hide();
-  });
-
-  $('.linkedIn').on('click', () => {
-    $('.linkedIn .fact').fadeToggle();
-    $('.coverLetter .fact').hide();
-    $('.resume .fact').hide();
-  });
-
+    outerPanels[i].onclick = (event) => {
+      if (event.target.nextElementSibling.hidden) {
+        if (panels.length == 3) {
+          hideAllPanels(i);
+        }
+        event.target.nextElementSibling.hidden = false;
+      } else if (!event.target.nextElementSibling.hidden) {
+        if (panels.length == 3) {
+          hideAllPanels(i);
+        }
+        event.target.nextElementSibling.hidden = true;
+      }
+    }
+  }
 });
