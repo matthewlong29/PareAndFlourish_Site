@@ -264,3 +264,25 @@ search results page
     }
   }
 }
+
+/***************************************************************************************************
+frequently asked questions
+***************************************************************************************************/
+
+.panelOuter {
+  &.faq {
+    display: flex;
+    flex-direction: row;
+    span {
+      padding-right: 5rem;
+      pointer-events: none;
+      width: 96%;
+    }
+    &:after {
+      content: url(/assets/images/other/svgs/plus-square.svg);
+      height: 24px;
+      width: 12px;
+      margin: auto 12px auto auto;
+    }
+  }
+}
