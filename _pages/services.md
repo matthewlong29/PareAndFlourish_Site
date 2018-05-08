@@ -6,7 +6,7 @@ title: Services
 permalink: /services/
 
 image:
-  header: services.jpg
+  header: sky-cafe.jpg
 ---
 
 ## Description of Services
