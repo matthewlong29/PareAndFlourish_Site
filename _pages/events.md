@@ -110,7 +110,8 @@ image:
     <div class="month-content">
       <div class="month-details">
         <p><strong>Location</strong>: Elizabethtown, KY</p>
-        <p><strong>Topic</strong>: Female Small Business Owners</p>
+        <p><strong>Topic</strong>: Creative Roundtable w/ Sarah Gust</p>
+        <p><strong>Note</strong>: This event has been moved to July 7th!</p>
       </div>
     </div>
   </div>
@@ -118,7 +119,9 @@ image:
     <h3>July</h3>
     <div class="month-content">
       <div class="month-details">
-        <p>Stay Tuned!</p>
+        <p><strong>Location</strong>: Bowling Green, KY</p>
+        <p><strong>Topic</strong>: Stress and Your Body w/ 4yoga</p>
+        <p><strong>Date</strong>: July 21st</p>
       </div>
     </div>
   </div>
