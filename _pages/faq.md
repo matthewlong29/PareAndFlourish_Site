@@ -60,7 +60,7 @@ image:
     </div>
     <div class="panel">
       <div class="panelOuter faq"><span>Do I need to bring anything to the next Flourish Roundtable?</span></div>
-      <div class="panelInner">A friend! Bring along a friend to make the event as successful as possible. Any items that are needed will be provided to you, unless specified during registration.</div>
+      <div class="panelInner">Any items that are needed will be provided to you, unless specified during registration. Though, we do encourage you to register with a friend! We want to make the event as successful as possible.</div>
     </div>
     <div class="panel">
       <div class="panelOuter faq"><span>Will you come to my city?</span></div>
