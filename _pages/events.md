@@ -109,7 +109,7 @@ image:
     <h3>June</h3>
     <div class="month-content">
       <div class="month-details">
-        <p><strong>Location</strong>: Elizabethtown, KY</p>
+        <p><strong>Location</strong>: Bowling Green, KY</p>
         <p><strong>Topic</strong>: Creative Roundtable w/ Sarah Gust</p>
         <p><strong>Note</strong>: This event has been moved to July 7th!</p>
       </div>
