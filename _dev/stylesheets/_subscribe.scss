@@ -3,7 +3,7 @@ subscribe
 ***************************************************************************************************/
 
 #mc_side {
-	background: transparentize($gray, .95);
+	background: transparentize($gray, .97);
 	color: $accent;
 	padding: 1em;
 	margin: 1em 0;
@@ -16,14 +16,7 @@ subscribe
 		font-family: $secondaryFont;
 		color: $gray;
 		margin: $zeroMargin;
-		padding: $zeroPadding;
-	}
-	p.text {
-		font-size: 1em;
-		font-family: $secondaryFont;
-		color: $gray;
-		margin: 0 0 1em 0;
-		padding: $zeroPadding;
+		padding: 0 0 1rem 0;
 	}
 }
 
