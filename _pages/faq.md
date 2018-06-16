@@ -7,6 +7,7 @@ permalink: /faq/
 
 image:
   header: sky-and-katie-talking.jpg
+  teaser: faq.jpg
 ---
 
 <div class="row">
