@@ -11,28 +11,7 @@ image:
 
 ## The 5-Part Job Search Package
 
-Are you prepared for your job search? Let us help you! You’ve found the perfect opportunity for you, but aren’t sure where to start. There are many moving parts in the job application process. **To pitch your professional brand and make a good first impression, you need the right tools.** We can help you gain the confidence you need by helping you prepare. We’ll give you the tools you need to wow them.
-
-<div class="subscribeIncintive">
-  <hr class="primary">
-  <div class="row">
-    <div class="col-sm-12">
-      Are you prepared for your job search? Let us help you. Download our free job search package, including:
-    </div>
-    <div class="col-md-6 col-sm-12">
-      <img src="/assets/images/other/subscriptionGraphic.jpg" class="img-responsive" alt="subscribe here" title="Subscribe here!">
-    </div>
-    <div class="col-md-6 col-sm-12">
-      <ol>
-        <li>Resume Template</li>
-        <li>Resume Writing Guide</li>
-        <li>Cover Letter Template</li>
-        <li>Resume Follow-Up Template</li>
-        <li>Interview Follow-Up Template</li>
-      </ol>
-    </div>
-  </div>
-</div>
+Subscribe to receive bi-weekly advice articles, updates to our reading list, and information on our next #FlourishRoundtable! Are you local? As a welcome to our little community, you'll receive 10% off your next roundtable; currently held in Bowling Green and Elizabethtown, Kentucky.
 
 <div id="mc_page">
 	<form action="//pareandflourish.us14.list-manage.com/subscribe/post?u=21b3326a4d3b41c8b98c42507&amp;id=32335e5912" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" novalidate>
