@@ -98,10 +98,10 @@ image:
         <p><strong>Location</strong>: Bowling Green, KY</p>
         <p><strong>Topic</strong>: Mindfulness and Meditation</p>
       </div>
-        <a href="https://www.eventbrite.com/e/flourish-roundtable-mindfulness-meditation-w-4yoga-tickets-44975573150">
-        <div class="sign-up">
-          <span>Learn more!</span>
-        </div>
+      <a href="https://www.eventbrite.com/e/flourish-roundtable-mindfulness-meditation-w-4yoga-tickets-44975573150">
+      <div class="sign-up">
+        <span>Learn more!</span>
+      </div>
       </a>
     </div>
   </div>
@@ -113,6 +113,11 @@ image:
         <p><strong>Topic</strong>: Creative Roundtable w/ Sarah Gust</p>
         <p><strong>Note</strong>: This event has been moved to July 7th!</p>
       </div>
+      <a href="https://www.eventbrite.com/e/creative-flow-ft-custom-henna-by-sarah-gust-tickets-46906338120?aff=erelexpmlt">
+        <div class="sign-up">
+          <span>Learn more!</span>
+        </div>
+      </a>
     </div>
   </div>
   <div class="month july">
