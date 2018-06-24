@@ -154,17 +154,16 @@ post side panel
 	img {
 		@include userSelect(none);
 		border: $commonBorder;
-		margin: 1em auto;
+    margin: 1em auto;
+    &.noImageStyling {
+      border: 0;
+      border-radius: 0;
+      box-shadow: none;
+    }
 	}
-	.twitter-section {
-		margin: 1em 0 0 0;
+	#instagram-images {
 		@media only screen and (max-width: 992px) {
 			display: none;
-		}
-		.tweets {
-			border: $commonBorder;
-			border-radius: $commonRadius;
-			box-shadow: $commonShadow;
 		}
 	}
 }
