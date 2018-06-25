@@ -9,7 +9,7 @@ image:
   header: join-pare-and-flourish.jpg
 ---
 
-## The 5-Part Job Search Package
+## Come Join Our Next Women's Networking Experience
 
 Subscribe to receive bi-weekly advice articles, updates to our reading list, and information on our next #FlourishRoundtable! Are you local? As a welcome to our little community, you'll receive 10% off your next roundtable; currently held in Bowling Green and Elizabethtown, Kentucky.
 
