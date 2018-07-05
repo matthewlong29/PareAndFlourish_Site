@@ -128,6 +128,11 @@ image:
         <p><strong>Topic</strong>: Stress and Your Body w/ 4yoga</p>
         <p><strong>Date</strong>: July 21st</p>
       </div>
+      <a href="https://www.eventbrite.com/e/stress-busting-ft-chair-yoga-tickets-47536858022">
+        <div class="sign-up">
+          <span>Learn more!</span>
+        </div>
+      </a>
     </div>
   </div>
   <div class="month august">
