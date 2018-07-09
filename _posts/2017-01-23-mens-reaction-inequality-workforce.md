@@ -12,8 +12,8 @@ excerpt: "Women are faced with these issues subtly, and otherwise, frequently th
 categories: blog
 
 image:
-  teaser: mens-reactions-to-work-like-a-girl-inequality-in the-workforce.jpg
-  header: mens-reactions-to-work-like-a-girl-inequality-in the-workforce.jpg
+  teaser: mens-reactions.jpg
+  header: mens-reactions.jpg
 
 tags: Workplace Inequality, Wage Gap, Corporate Feminism, Corporate Sexism
 ---

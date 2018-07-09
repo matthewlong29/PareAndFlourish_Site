@@ -28,7 +28,7 @@ layout: null
     {% for post in site.posts %}
       <item>
         <title>{{post.title | xml_escape}}</title>
-        <author>{% if page.author %}{{post.author}}{% else %}Skylar Wooden and Katie Butler{% endif %}</author>
+        <author>{{site.email}} ({% if page.author %}{{page.author}}{% else %}Skylar Wooden and Katie Butler{% endif %})</author>
         <description>
           <![CDATA[
             <img src="{{site.url}}/assets/images/teaser/{{post.image.teaser}}">
@@ -38,7 +38,7 @@ layout: null
         </description>
         <media:thumbnail url="{{site.url}}/assets/images/teaser/{{post.image.teaser}}"/>
         <media:content url="{{site.url}}/assets/images/teaser/{{post.image.teaser}}" type="image/jpeg" />
-        <pubDate>{{post.date}}</pubDate>
+        <pubDate>{{post.date | date_to_rfc822}}</pubDate>
         <link>{{post.url | prepend: site.url}}</link>
         <guid isPermaLink="true">{{post.url | prepend: site.url}}</guid>
       </item>
