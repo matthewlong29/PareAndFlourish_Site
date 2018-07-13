@@ -90,7 +90,7 @@ Just in time for the holidays, we’ve put together a list of our favorites (sta
   </div>
   <div class="col-md-9 col-sm-6">
     <h3>6. Barefoot, Pinot Grigio</h3>
-    <p>If you’ve been around a college girl, you’ve seen Barefoot. You probably also know that it’s the college girl’s drink-of-choice because it’s cheap. Don’t let that fool you. It’s a pretty solid dry white. You can also use it in holiday sangria recipes like <a href="https://www.pinterest.com/pin/595530750695343522/">this one</a>.</p>
+    <p>If you’ve been around a college girl, you’ve seen Barefoot. You probably also know that it’s the college girl’s drink-of-choice because it’s cheap. Don’t let that fool you. It’s a pretty <a href="https://www.barefootwine.com/our-wine/detail/pinot-grigio-wine">solid dry white</a>. You can also use it in holiday sangria recipes like <a href="https://www.pinterest.com/pin/595530750695343522/">this one</a>.</p>
   </div>
 </div>
 
