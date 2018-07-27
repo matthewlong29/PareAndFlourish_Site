@@ -139,9 +139,16 @@ image:
     <h3>August</h3>
     <div class="month-content">
       <div class="month-details">
-        <p>Stay Tuned!</p>
+        <p><strong>Location</strong>: Elizabethtown, KY</p>
+        <p><strong>Topic</strong>: Fulfillment Flourish Roundtable</p>
+        <p><strong>Date</strong>: August 18th</p>
       </div>
-    </div>
+      <a href="https://www.eventbrite.com/e/fulfillment-flourish-roundtable-tickets-48103752619?aff=efbeventtix">
+        <div class="sign-up">
+          <span>Learn more!</span>
+        </div>
+      </a>
+    </div> 
   </div>
   <div class="month september">
     <h3>September</h3>
