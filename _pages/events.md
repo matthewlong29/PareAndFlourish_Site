@@ -154,8 +154,15 @@ image:
     <h3>September</h3>
     <div class="month-content">
       <div class="month-details">
-        <p>Stay Tuned!</p>
+        <p><strong>Location</strong>: Bowling Green, Ky</p>
+        <p><strong>Topic</strong>: The Practice of Self Love</p>
+        <p><strong>Date</strong>: September 16th</p>
       </div>
+      <a href="https://www.eventbrite.com/e/the-practice-of-self-love-tickets-49347201809?aff=efbeventtix">
+        <div class="sign-up">
+          <span>Learn more!</span>
+        </div>
+      </a>
     </div>
   </div>
   <div class="month october">
