@@ -5,7 +5,7 @@ title: "The Search For Fulfillment"
 
 permalink: /blog/the-search-for-fulfillment/
 
-date: 2018-08-26
+date: 2018-09-10
 
 excerpt: "We recently sat down with a few of Elizabethtown’s best women, wine, and donuts. Wine and donuts go together, right?"
 
