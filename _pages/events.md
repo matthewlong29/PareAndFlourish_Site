@@ -7,228 +7,107 @@ permalink: /events/
 
 image:
   header: events.jpg
-  teaser: pandf-events.jpg
+  teaser: events.jpg
 ---
 
-## What is a **Flourish Roundtable**?
+## Flourishing Females
+### Panel + Workshop
 
 <div class="row">
-  <div class="col-md-8 col-sm-12">
-    <h3>It is:</h3>
-    <ul>
-      <li>A structured networking event without the fear of connecting</li>
-      <li>A set topic to guide the connection</li>
-      <li>A mediator/coach to guide the conversation</li>
-    </ul>
-    <h3>It is not:</h3>
-    <ul>
-      <li>A giant event where networking consists of small talk</li>
-      <li>A comparison of success stories or the longest email signature</li>
-      <li>An event that requires you to sell yourself</li>
-    </ul>
+  <div class="col-sm-12 col-md-4">
+    <p><strong>When:</strong> November 10, 2018<br><span class="sm-left-time">10:00am - 2:00pm</span></p>
+    <p><strong>Where:</strong> Little Fox Bakery<br><span class="sm-left-address">314 E Main Ave</span><br><span class="sm-left-address">Bowling Green, Ky 42101</span></p>
   </div>
-  <div class="col-md-4 col-sm-12">
-    <img src="/assets/images/events/what-is-flourish-roundtable.jpg" alt="Image from a Flourish Roundtable event.">
+  <div class="col-md-8 hidden-sm hidden-xs">
+    <img class="img-responsive sm-top" src="/assets/images/events/panel-and-workshop.jpg" alt="Image of gift bag at an event panel and workshop.">
+  </div>
+  <div class="col-sm-12">
+    <p><strong>What:</strong> A networking event for established and aspiring female entrepreneurs.</p>
   </div>
 </div>
 
-**A Flourish Roundtable is a small casual networking event for female professionals.** The roundtable is composed of 10 women and up to 2 moderators. The size of these small events allows participants to feel heard and connected. 
-
-### These events are ideal for women who:
-
-- Do not like forced small talk
-- Want to expand their network
-- Want to create lasting relationships with like-minded women
-- Want to leave a networking event feeling connected and inspired
-
-<hr class="secondary">
-
-## 2018 Events
-
-<div id="calendar">
-  <div class="month january">
-    <h3>January</h3>
-    <div class="month-content">
-      <div class="month-details">
-        <p><strong>Location</strong>: Elizabethtown, KY</p>
-        <p><strong>Topic</strong>: Self-Care</p>
-        <p><strong>Note</strong>: This event is rescheduled to Feb 4th due to extreme weather.</p>
-      </div>
-      <a href="https://www.eventbrite.com/e/flourish-roundtable-self-care-tickets-42190978352">
-        <div class="sign-up">
-          <span>Learn more!</span>
-        </div>
-      </a>
-    </div>
-  </div>
-  <div class="month february">
-    <h3>February</h3>
-    <div class="month-content">
-      <div class="month-details">
-        <p><strong>Location</strong>: Bowling Green, KY</p>
-        <p><strong>Topic</strong>: Applying Creativity Personally & Professionally</p>
-      </div>
-      <a href="https://www.eventbrite.com/e/flourish-roundtable-paint-and-sip-applying-creativity-tickets-42860546047">
-        <div class="sign-up">
-          <span>Learn more!</span>
-        </div>
-      </a>
-    </div>
-  </div>
-  <div class="month march">
-    <h3>March</h3>
-    <div class="month-content">
-      <div class="month-details">
-        <p>NONE</p>
-      </div>
-    </div>
-  </div>
-  <div class="month april">
-    <h3>April</h3>
-    <div class="month-content">
-      <div class="month-details">
-        <p>NONE</p>
-      </div>
-    </div>
-  </div>
-  <div class="month may">
-    <h3>May</h3>
-    <div class="month-content">
-      <div class="month-details">
-        <p><strong>Location</strong>: Bowling Green, KY</p>
-        <p><strong>Topic</strong>: Mindfulness and Meditation</p>
-      </div>
-      <a href="https://www.eventbrite.com/e/flourish-roundtable-mindfulness-meditation-w-4yoga-tickets-44975573150">
-      <div class="sign-up">
-        <span>Learn more!</span>
-      </div>
-      </a>
-    </div>
-  </div>
-  <div class="month june">
-    <h3>June</h3>
-    <div class="month-content">
-      <div class="month-details">
-        <p><strong>Location</strong>: Bowling Green, KY</p>
-        <p><strong>Topic</strong>: Creative Roundtable w/ Sarah Gust</p>
-        <p><strong>Note</strong>: This event has been moved to July 7th!</p>
-      </div>
-      <a href="https://www.eventbrite.com/e/creative-flow-ft-custom-henna-by-sarah-gust-tickets-46906338120?aff=erelexpmlt">
-        <div class="sign-up">
-          <span>Learn more!</span>
-        </div>
-      </a>
-    </div>
-  </div>
-  <div class="month july">
-    <h3>July</h3>
-    <div class="month-content">
-      <div class="month-details">
-        <p><strong>Location</strong>: Bowling Green, KY</p>
-        <p><strong>Topic</strong>: Stress and Your Body w/ 4yoga</p>
-        <p><strong>Date</strong>: July 21st</p>
-      </div>
-      <a href="https://www.eventbrite.com/e/stress-busting-ft-chair-yoga-tickets-47536858022">
-        <div class="sign-up">
-          <span>Learn more!</span>
-        </div>
-      </a>
-    </div>
-  </div>
-  <div class="month august">
-    <h3>August</h3>
-    <div class="month-content">
-      <div class="month-details">
-        <p><strong>Location</strong>: Elizabethtown, KY</p>
-        <p><strong>Topic</strong>: Fulfillment Flourish Roundtable</p>
-        <p><strong>Date</strong>: August 18th</p>
-      </div>
-      <a href="https://www.eventbrite.com/e/fulfillment-flourish-roundtable-tickets-48103752619?aff=efbeventtix">
-        <div class="sign-up">
-          <span>Learn more!</span>
-        </div>
-      </a>
-    </div> 
-  </div>
-  <div class="month september">
-    <h3>September</h3>
-    <div class="month-content">
-      <div class="month-details">
-        <p><strong>Location</strong>: Bowling Green, Ky</p>
-        <p><strong>Topic</strong>: The Practice of Self Love</p>
-        <p><strong>Date</strong>: September 16th</p>
-      </div>
-      <a href="https://www.eventbrite.com/e/the-practice-of-self-love-tickets-49347201809?aff=efbeventtix">
-        <div class="sign-up">
-          <span>Learn more!</span>
-        </div>
-      </a>
-    </div>
-  </div>
-  <div class="month october">
-    <h3>October</h3>
-    <div class="month-content">
-      <div class="month-details">
-        <p>Stay Tuned!</p>
-      </div>
-    </div>
-  </div>
-  <div class="month november">
-    <h3>November</h3>
-    <div class="month-content">
-      <div class="month-details">
-        <p>Stay Tuned!</p>
-      </div>
-    </div>
-  </div>
-  <div class="month december">
-    <h3>December</h3>
-    <div class="month-content">
-      <div class="month-details">
-        <p>Stay Tuned!</p>
-      </div>
-    </div>
+<div class="row">
+  <div class="col-sm-12 hidden-md hidden-lg hidden-xl">
+    <img class="img-responsive sm-top" src="/assets/images/events/panel-and-workshop.jpg" alt="Image of gift bag at an event panel and workshop.">
   </div>
 </div>
 
-*Dates and locations are subject to change.* Minimum of 1 month notification will be required before details are changed.
+<div class="row">
+  <div class="col-sm-12">
+    <a href="https://www.eventbrite.com/e/flourishing-females-entrepreneurship-tickets-51124064453">
+      <div class="register-now">
+        <span>Register now!</span>
+      </div>
+    </a>
+  </div>
+</div>
 
 <hr class="secondary">
 
-**What should you do to prepare? Nothing.** Your moderator will be prepared with a broad topic, that is disclosed beforehand, ready to guide the conversation with follow-up questions and inspiration. **All attendees are encouraged to participate and are given a safe environment to do so.**
+## Schedule of Events
 
-## Testimonials
+<div class="schedule">
+  <a>
+    <div><span>10:00</span></div>
+    <div><span>Mimosas, Coffee, and Donuts</span></div>
+  </a>
+  <a>
+    <div><span>10:30</span></div>
+    <div><span>Networking</span></div>
+  </a>
+  <a>
+    <div><span>11:00</span></div>
+    <div><span>Panel: Sustaining a Business Long Term</span></div>
+  </a>
+  <a>
+    <div><span>12:45</span></div>
+    <div><span>Break/Snacks</span></div>
+  </a>
+  <a>
+    <div><span>1:00</span></div>
+    <div><span>Workshop: Taking Action</span></div>
+  </a>
+  <a>
+    <div><span>2:00</span></div>
+    <div><span>Wrap up</span></div>
+  </a>
+</div>
 
-When asked **“What was your favorite part of this Flourish Roundtable?”** this is what past participants had to say:
+<hr class="secondary">
 
->“**Getting connected with other women in the area.**”
+## Frequently Asked Questions
 
->“**I love a structured networking event.** The ones where you show up and are forced to rely on your mingling skills are awful and intimidating.”
+<div class="row">
+  <div class="col-sm-12">
+    <div class="panel">
+      <div class="panelOuter faq"><span>How much does it cost?</span></div>
+      <div class="panelInner">The panel event, which includes times 10am to 1pm, is $15. The workshop, which includes times 12:30 to 2pm, is $15. You can attend the entire event for only $25! Click Register Now for more info!</div>
+    </div>
+    <div class="panel">
+      <div class="panelOuter faq"><span>Who can come?</span></div>
+      <div class="panelInner">This event is for women. It is primarily for female entrepreneurs, and aspiring female entrepreneurs, in Bowling Green, KY and surrounding areas. We encourage you to invite co-workers and friends. However, a ticket must be purchased for your guest.</div>
+    </div>
+    <div class="panel">
+      <div class="panelOuter faq"><span>Do I need to bring anything?</span></div>
+      <div class="panelInner">Please bring some business cards to hand out to your new friends and something to take notes on.</div>
+    </div>
+    <div class="panel">
+      <div class="panelOuter faq"><span>How can I sponsor this event?</span></div>
+      <div class="panelInner">We still have sponsorship opportunities available. You can sponsor this event in the form of monetary donations, or in-kind donations such as food, decor, etc.</div>
+    </div>
+    <div class="panel">
+      <div class="panelOuter faq"><span>Who is going to be on the panel?</span></div>
+      <div class="panelInner">Mary Duke LLCE of My Sunshine Birth Services<br>Allison Millet of Bowling Green Backyard Bootcamp<br>Michelle Darnall of Beet Box Produce<br>Teresa Christmas of Art Matters</div>
+    </div>    
+  </div>
+</div>
 
->“**Talking to other women about goals and empowerment**, also knowing that we all are working toward something bigger.”
+<hr class="secondary">
 
-<section id="eventsGallery">
-  <img src="/assets/images/events/event1-pic1.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event1-pic2.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event1-pic3.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event1-pic4.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event1-pic5.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event1-pic6.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event1-pic7.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event2-pic1.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event2-pic2.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event2-pic3.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event2-pic4.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event2-pic5.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event5-pic1.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event5-pic2.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event5-pic3.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event5-pic4.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event5-pic5.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event5-pic6.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event5-pic7.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event8-pic1.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event8-pic2.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event8-pic3.jpg" alt="Image from a Flourish Roundtable event!">
-  <img src="/assets/images/events/event8-pic4.jpg" alt="Image from a Flourish Roundtable event!">
+<section id="roundtableGallery">
+  <img src="/assets/images/events/event2.jpg" alt="Image from a Flourish event!">
+  <img src="/assets/images/events/event5.jpg" alt="Image from a Flourish event!">
+  <img src="/assets/images/events/event3.jpg" alt="Image from a Flourish event!">
+  <img src="/assets/images/events/event4.jpg" alt="Image from a Flourish event!">
+  <img src="/assets/images/events/event1.jpg" alt="Image from a Flourish event!">
 </section>

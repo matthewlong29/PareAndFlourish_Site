@@ -1,10 +1,10 @@
 /********************************************************
-events carousel on landing page
+roundtable carousel on landing page
 ********************************************************/
 
 $(document).ready(() => {
 
-  const eventImage = {
+  const roundtableImage = {
     1: '/assets/images/events/event1-pic1.jpg',
     2: '/assets/images/events/event1-pic2.jpg',
     3: '/assets/images/events/event1-pic3.jpg',
@@ -19,15 +19,15 @@ $(document).ready(() => {
     12: '/assets/images/events/event2-pic5.jpg'
   }
     
-  let eventImages = '';
+  let roundtableImages = '';
   
   for (let i = 1; i <= 12; i++) {
-    eventImages += '<div class="eventImage" style="background: url(' + eventImage[i] + ')"></div>';
+    roundtableImages += '<div class="roundtableImage" style="background: url(' + roundtableImage[i] + ')"></div>';
   }
   
-  $('.eventGallery').append(eventImages);
+  $('.roundtableGallery').append(roundtableImages);
   
-  $('.eventGallery').slick({
+  $('.roundtableGallery').slick({
     centerMode: true,
     centerPadding: '3rem',
     slidesToShow: 3,

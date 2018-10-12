@@ -36,7 +36,7 @@ Don’t let feelings of doubt keep you from creating your dream business.
 
 ## Where You will Get the Money?
 
-In our case, we didn’t have the money to build a brick and mortar business. Fine. We created a blog first and started building our online presence. From there, we started reaching out for our [Flourish Roundtable events](/events) and [reviewing job materials](/services) for young professionals. 
+In our case, we didn’t have the money to build a brick and mortar business. Fine. We created a blog first and started building our online presence. From there, we started reaching out for our [Flourish Roundtable events](/events) for young professionals. 
 
 Our point: We didn’t have the money. Period. We did what we could with what we had. **You can make it work.**
 

@@ -6,8 +6,7 @@ section {
   &#startHere,
   &#latest-blogs,
   &#letsCollaborate,
-  &#services,
-  &#events,
+  &#roundtable,
   &#amReading,
   &#joinPareAndFlourish {
     padding: 7.5% 0;
@@ -39,70 +38,6 @@ section {
         max-width: 768px;
         padding: 10px;
         margin: -5px auto 25px;
-      }
-    }
-  }
-}
-
-/***************************************************************************************************
-services section on landing page
-***************************************************************************************************/
-
-#services {
-  .panel {
-    &.resume,
-    &.coverLetter,
-    &.linkedIn {
-      margin-bottom: 8px;
-      .panelOuter {
-        justify-content: flex-end;
-      }
-    }
-    &.resume {
-      .panelOuter {
-        background-image: url('/assets/images/other/services/file.svg');
-      }
-    }
-    &.coverLetter {
-      .panelOuter {
-        background-image: url('/assets/images/other/services/files.svg');
-      }
-    }
-    &.linkedIn {
-      .panelOuter {
-        background-image: url('/assets/images/other/services/laptop.svg');
-      }
-    }
-  }
-  ol {
-    font-family: $secondaryFont;
-    font-size: 1.75rem;
-    li {
-      margin: 0 0 .5rem;
-      &:before {
-        content: "";
-        color: $accent;
-        border: 1px solid $accent;
-        margin-right: 10px;
-        padding: 1px 0;
-      }
-    }
-  }
-}
-
-@media screen and (min-width: 540px) {
-  .services {
-    display: flex;
-    .servicePanels {
-      flex: 1;
-    }
-    .howItWorks {
-      flex: 2;
-      ol {
-        margin: .25rem;
-        li {
-          padding: .2rem;
-        }
       }
     }
   }
@@ -280,9 +215,9 @@ events section on landing page
   }
 }
 
-#events {
-  .eventGallery {    
-    .eventImage {
+#roundtable {
+  .roundtableGallery {    
+    .roundtableImage {
       padding: 11rem;
       border: 2px solid $white;
       margin: .5rem;

@@ -132,12 +132,12 @@ hr {
     color: $white;
     margin: $zeroMargin;
     padding: $zeroPadding;
-    height: 1px;
-    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 425, from($gray), to($white));
+    height: 2px;
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 425, from($accent), to($white));
   }
   &.primary {
     display: block;
-    height: 1px;
+    height: 2px;
     border: 0;
     border-top: 2.5px solid $gray;
     margin: $zeroMargin;
@@ -287,4 +287,25 @@ toggle panels styling
     margin: .5rem;
     border: none;
   }
+}
+
+/***************************************************************************************************
+margins and paddings
+***************************************************************************************************/
+
+.sm-top {
+  margin-top: 12px;
+}
+
+.sm-left {
+  &-time {
+    margin-left: 62px;
+  }
+  &-address {
+    margin-left: 72px;
+  }
+}
+
+.sm-right {
+  margin-left: 72px;
 }

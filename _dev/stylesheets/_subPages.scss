@@ -48,7 +48,7 @@ collaborate page
 }
 
 /***************************************************************************************************
-events page
+events and roundtable page
 ***************************************************************************************************/
 
 @mixin flex($values) {
@@ -59,7 +59,7 @@ events page
   flex: $values;
 }
 
-#eventsGallery {
+#roundtableGallery {
   display: flex;
   flex-wrap: wrap;
   img {
@@ -68,6 +68,83 @@ events page
     align-self: center;
     margin: .5rem;
     width: 18%;
+  }
+}
+
+.register-now {
+  display: block;
+  width: 100%;
+  max-width: 400px;
+  background: $accent;
+  text-align: center;
+  padding: 1rem;
+  border-radius: $commonRadius;
+  font-family: $primaryFont;
+  color: $white;
+  margin: 2rem auto;
+}
+
+.schedule {
+  width: 100%;
+  display: table; 
+  margin: auto;
+  padding-bottom: 2.2rem;
+  overflow: hidden;
+  font-size: 14px;
+  line-height: 12px;
+  a {
+    display: table-row;
+    position: relative;
+    pointer-events: none;
+    height: 22px; // this affects space between lines
+    color: $gray;
+    text-decoration: none; 
+    &:hover {
+      text-decoration: none;
+      background-color: none;
+    }
+    &:visited,
+    &:link {
+      text-decoration: none;
+      color: $gray;
+    }
+  }
+  a div { 
+    display: table-cell; 
+    display: table-cell; // for alignment when narrow width causes line break    
+    vertical-align: bottom; // for alignment when narrow width causes line break
+    position: relative;
+    &:nth-of-type(odd) { // chapter name
+      position: relative; 
+      overflow: hidden; 
+      span {
+        padding-right: 6px;
+        background: url('/assets/images/other/background-pattern.png');
+        background-repeat: repeat;
+      }
+    }
+    &:nth-of-type(even) { // chapter number
+      max-width: 100%;
+      text-align: end;
+      padding-left: 8px;
+      span {
+        background: url('/assets/images/other/background-pattern.png');
+        background-repeat: repeat;
+      }
+      margin-left: -8px;
+    }
+    &::after {
+      content: "········································································································································································································································";
+      color: rgba(#393b3d,.65);  
+      display: block;
+      font-size: 10px;
+      letter-spacing: 10px;
+      line-height: 10px;
+      bottom: 1px;
+      position: absolute;
+      left: 3px; // prevent dots leak 
+      z-index: -1; // prevent dots leak 
+    }
   }
 }
 
@@ -88,7 +165,7 @@ events page
       justify-content: space-between;
       flex-direction: column;
       min-height: 150px;
-      background: rgba($white, 0.5);
+      background: rgba($white, 0.6);
       .month-details {
         p {
           line-height: 1;
@@ -140,8 +217,12 @@ events page
   .september {
     background-image: url('/assets/images/other/calendar/september.jpg');
   }
-  .october {}
-  .november {}
+  .october {
+    background-image: url('/assets/images/other/calendar/october.jpg');
+  }
+  .november {
+    background-image: url('/assets/images/other/calendar/november.jpg');
+  }
   .december {}
 }
 
