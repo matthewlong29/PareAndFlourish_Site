@@ -50,7 +50,9 @@ gulp.task('minifyCSS', ['concatCSS'], () => {
 });
 
 gulp.task('jekyll', () => {
-  const jekyll = child.spawn('jekyll', [
+  const jekyll = child.spawn('bundle', [
+    'exec',
+    'jekyll',
     'build',
     '--watch',
     '--incremental',
