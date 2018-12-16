@@ -84,4 +84,4 @@ Did you attend this event? Would you like to see another? What topics are you in
 
 <hr class="secondary">
 
-What’s your advice on how to handle an unpaid invoice? What has worked for you in the past?
+Did you attend this event? Would you like to see another? What topics are you interested in? 
