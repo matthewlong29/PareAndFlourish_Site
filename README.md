@@ -8,3 +8,27 @@ Please note that this source code has not been "themed" and credit must be given
 
 ## Social Media
 You can get in contact with Pare and Flourish through [Twitter](https://twitter.com/pareandflourish/), [Facebook](https://www.facebook.com/pareandflourish/), or [Instagram](https://www.instagram.com/pareandflourish/).
+
+## Installation
+
+Ensure that the following are installed:
+
+- `$ ruby -v`
+- `$ gem -v`
+- `$ gcc -v`
+- `$ g++ -v`
+- `$ make -v`
+
+Follow the Jekyll installation guide for your respective Operating System: [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/).
+
+Ensure that the correct bundle gem is installed. For example, "bundled with 1.17.2" in Gemfile.lock.
+
+- `$ gem install bundler -v 1.17.2`
+
+Install gems using bundler.
+
+- `$ bundler install`
+
+The rest is handled with Gulp:
+
+- `$ gulp`
