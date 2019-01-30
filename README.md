@@ -11,7 +11,7 @@ You can get in contact with Pare and Flourish through [Twitter](https://twitter.
 
 ## Installation
 
-Ensure that the following are installed:
+Ensure that the following are installed.
 
 - `$ ruby -v`
 - `$ gem -v`
@@ -29,6 +29,9 @@ Install gems using bundler.
 
 - `$ bundler install`
 
-The rest is handled with Gulp:
+Install node modules using npm.
 
+- `$ npm install`
+
+The rest is handled with Gulp.
 - `$ gulp`
