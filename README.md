@@ -18,6 +18,7 @@ Ensure that the following are installed.
 - `$ gcc -v`
 - `$ g++ -v`
 - `$ make -v`
+- `$ gulp -v`
 
 Follow the Jekyll installation guide for your respective Operating System: [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/).
 
