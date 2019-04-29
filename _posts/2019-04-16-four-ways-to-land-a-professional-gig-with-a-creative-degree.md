@@ -63,9 +63,7 @@ summer marketing intern at a healthcare company, so I decided to apply.
 
 In the interview for the position, the employer asked me about my major and if I had taken any
 classes that related to marketing. I explained that these types of classes weren’t offered at my
-school, but my mix of English, economics, psychology, and sociology classes collectively taught
-
-me a lot about consumers, audiences, how people think, and how to appeal to them (after all,
+school, but my mix of English, economics, psychology, and sociology classes collectively taught me a lot about consumers, audiences, how people think, and how to appeal to them (after all,
 that’s really what marketing is all about). I also explained that I had picked up skills from a
 variety of jobs throughout high school and college that would translate well in a professional
 office environment, like money management, sales, and communication strategies.
